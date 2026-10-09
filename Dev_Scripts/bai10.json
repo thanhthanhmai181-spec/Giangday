@@ -1,0 +1,703 @@
+{
+  "name": "Bài 10",
+  "x": 330,
+  "y": 220,
+  "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Các Dạng Phủ Định & Nhượng Bộ (Bài 10)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;'>Mức độ & Bản chất</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜はずがない<br>〜わけがない</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Phủ định tuyệt đối (100%)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Tin chắc 100% không thể xảy ra dựa trên logic hoặc chứng cứ.<br><em>VD: 彼が犯人のはずがない。(Anh ấy chắc chắn không thể là thủ phạm)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜とは限らない</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Phủ định tính tất yếu (Có ngoại lệ)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Đa số là đúng nhưng vẫn có ngoại lệ (thường đi với <strong>必ずしも</strong>).<br><em>VD: 高いものが良いとは限らない。(Đồ đắt chưa chắc đã tốt)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜わけではない</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Phủ định một phần (Giải thích)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Tránh hiểu lầm, không phủ định hoàn toàn sự việc.<br><em>VD: 嫌いなわけではない。(Không hẳn là tôi ghét)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ないことはない<br>〜ないこともない</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Phủ định kép (Khẳng định nhẹ)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Không phải là không thể, nếu cố gắng thì vẫn làm được.<br><em>VD: 食べられないことはない。(Không phải là không ăn được)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ことは〜が</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Thừa nhận nhượng bộ</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Thừa nhận vế trước đúng sự thật, nhưng vế sau nêu hạn chế.<br><em>VD: 高いことは高いが、品質がいい。(Đắt thì đắt thật nhưng chất lượng tốt)</em></td></tr></tbody></table>",
+  "items": [
+    {
+      "structure": "〜はずがない / 〜わけがない",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:380px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT / Aい</td><td rowspan='3' style='background:rgba(255,77,79,0.08);padding:1.2rem 2.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.7rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>はずがない</span><span style='color:#ff7875;font-size:1.1rem;font-weight:700;margin-top:0.4rem;display:block;'>（わけがない）</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> ＋ な</td></tr><tr><td style='background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>N ＋ の (はず) / な・である (わけ)</td></tr></table></div>",
+      "meaning": "Chắc chắn không... / Làm sao mà... được",
+      "usage": "1. Dùng để phủ định mạnh mẽ một sự việc vì tin chắc rằng điều đó không thể xảy ra dựa trên lý do khách quan (はずがない) hoặc phán đoán chủ quan (わけがない)。<br>2. Nhấn mạnh sự vô lý của sự việc, thể hiện sự bất ngờ hoặc phản bác lời của người khác。<br>3. Trong văn nói thân mật có thể dùng dạng 〜はずない / 〜わけない。",
+      "explanation": "Cả hai cấu trúc đều mang ý nghĩa phủ định tuyệt đối. はずがない dựa trên logic, chứng cứ và sự suy luận khách quan; trong khi わけがない mang tính phán đoán chủ quan, cảm xúc mạnh mẽ của người nói.",
+      "examples": [
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>がそんなことをするはずがない。",
+          "vi": "Anh ấy chắc chắn không làm chuyện như vậy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_36.1.png"
+        },
+        {
+          "jp": "この<ruby>問題<rt>もんだい</rt></ruby>が<ruby>易<rt>やさ</rt></ruby>しいはずがない。",
+          "vi": "Bài toán này chắc chắn không thể dễ dàng thế được.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_36.2.png"
+        },
+        {
+          "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>がそんなに<ruby>静<rt>しず</rt></ruby>かなはずがない。",
+          "vi": "Cô ấy chắc chắn không thể yên lặng đến thế được.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_36.3.png"
+        },
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>先生<rt>せんせい</rt></ruby>のはずがない。",
+          "vi": "Anh ấy chắc chắn không phải là giáo viên.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_36.4.png"
+        },
+        {
+          "jp": "そんなに<ruby>高<rt>たか</rt></ruby>いおもちゃ、<ruby>子供<rt>こども</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>で<ruby>買<rt>か</rt></ruby>えるわけがない。",
+          "vi": "Món đồ chơi đắt tiền như thế, đứa trẻ chắc chắn không thể tự mua nổi.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_36.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>彼<rt>かれ</rt></ruby>が<ruby>嘘<rt>うそ</rt></ruby>をつく（　　）がない。",
+            "options": ["はず", "ため", "とおり", "まま"],
+            "answer": 0
+          },
+          {
+            "question": "こんなに<ruby>難<rt>むずか</rt></ruby>しい<ruby>試験<rt>しけん</rt></ruby>、1<ruby>日<rt>にち</rt></ruby>で<ruby>合格<rt>ごうかく</rt></ruby>できる（　　）がない。",
+            "options": ["わけ", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "あの<ruby>優<rt>やさ</rt></ruby>しい<ruby>先生<rt>せんせい</rt></ruby>が<ruby>怒<rt>おこ</rt></ruby>る（　　）がありません。",
+            "options": ["はず", "について", "にとって", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>昨日<rt>きのう</rt></ruby><ruby>買<rt>か</rt></ruby>ったばかりのスマホがもう<ruby>壊<rt>こわ</rt></ruby>れる（　　）がない。",
+            "options": ["わけ", "とおり", "まま", "ほど"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>はまだ<ruby>子供<rt>こども</rt></ruby>だから、<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>ができる（　　）がない。",
+            "options": ["はず", "反面", "一方", "ところ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "こんな（　　）な<ruby>料理<rt>りょうり</rt></ruby>、まずいわけがない。",
+            "options": ["高級", "消しゴム", "黒板", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎日<rt>まいにち</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby>も（　　）したのだから、<ruby>不合格<rt>ふごうかく</rt></ruby>のはずがない。",
+            "options": ["勉強", "昼寝", "散歩", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）の<ruby>彼<rt>かれ</rt></ruby>が、そんな<ruby>約束<rt>やくそく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れるはずがない。",
+            "options": ["親友", "机", "時計", "鉛筆"],
+            "answer": 0
+          },
+          {
+            "question": "プロの（　　）が、こんな<ruby>簡単<rt>かんたん</rt></ruby>なミスをするわけがない。",
+            "options": ["選手", "消しゴム", "教科書", "電車"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>鍵<rt>かぎ</rt></ruby>をかけたのだから、（　　）が<ruby>入<rt>はい</rt></ruby>れるはずがない。",
+            "options": ["泥棒", "冷蔵庫", "電子レンジ", "テレビ"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>独身<rt>どくしん</rt></ruby>＿＿＿はずがない。<ruby>指輪<rt>ゆびわ</rt></ruby>をしているよ。",
+            "options": ["の", "な", "だ", "に"],
+            "answer": 0
+          },
+          {
+            "question": "あの<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>学生<rt>がくせい</rt></ruby>が<ruby>授業<rt>じゅぎょう</rt></ruby>を＿＿＿はずがない。",
+            "options": ["サボる", "サボって", "サボったなら", "サボり"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>部屋<rt>へや</rt></ruby>が＿＿＿はずがない。エアコンがついている。",
+            "options": ["暑い", "暑く", "暑くて", "暑さ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼女<rt>かのじょ</rt></ruby>がその<ruby>事実<rt>じじつ</rt></ruby>を＿＿＿わけがない。<ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えたはずだ。",
+            "options": ["知らない", "知らなくて", "知らなければ", "知らず"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>仕事<rt>しごと</rt></ruby>が＿＿＿はずがない。とても<ruby>複雑<rt>ふくざつ</rt></ruby>だ。",
+            "options": ["簡単な", "簡単だ", "簡単に", "簡単で"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Một người tốt như anh ấy chắc chắn không làm những chuyện phạm pháp như vậy.",
+            "jp": "あんなにいい<ruby>人<rt>ひと</rt></ruby>が、そんな<ruby>違法<rt>いほう</rt></ruby>なことをするはずがありません。"
+          },
+          {
+            "vi": "Nhà hàng nổi tiếng thế này đồ ăn chắc chắn không thể dở được.",
+            "jp": "こんなに<ruby>有名<rt>ゆうめい</rt></ruby>なレストランの<ruby>料理<rt>りょうり</rt></ruby>が、まずいわけがない。"
+          },
+          {
+            "vi": "Đã luyện tập chăm chỉ suốt 1 năm qua, trận đấu ngày mai làm sao mà thua được.",
+            "jp": "1<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>したのだから、<ruby>明日<rt>あした</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けるはずがない。"
+          },
+          {
+            "vi": "Chuyện bí mật này ngoài hai chúng ta ra, làm sao người khác biết được chứ.",
+            "jp": "この<ruby>秘密<rt>ひみつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たち2<ruby>人<rt>にん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>知<rt>し</rt></ruby>っているわけがない。"
+          },
+          {
+            "vi": "Anh ấy vừa mới đi du lịch nước ngoài hôm qua, hôm nay chắc chắn không thể ở công ty được.",
+            "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby><ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったばかりだから、<ruby>今日<rt>きょう</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>にいるはずがない。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜とは限らない",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:380px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT / Aい</td><td rowspan='3' style='background:rgba(255,77,79,0.08);padding:1.2rem 2.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.7rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>とは限らない</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> (だ)</td></tr><tr><td style='background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>N (だ)</td></tr></table></div>",
+      "meaning": "Chưa chắc đã... / Không hẳn là...",
+      "usage": "1. Thể hiện rằng trường hợp thông thường đa số là đúng, nhưng vẫn có những trường hợp ngoại lệ。<br>2. Thường đi kèm với các phó từ: 必ずしも (không nhất thiết), いつも (lúc nào cũng), 全て (tất cả), 誰でも (bất kỳ ai)。<br>3. Dùng để nhắc nhở, cảnh báo hoặc bày tỏ quan điểm khách quan, đa chiều。",
+      "explanation": "Dùng để phủ định tính tất yếu của một sự việc. Thường dùng trong văn viết và hội thoại trang trọng để tránh đưa ra kết luận phiến diện, quy chụp.",
+      "examples": [
+        {
+          "jp": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えられるとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+          "vi": "Người giỏi tiếng Nhật chưa chắc đã dạy được tiếng Nhật.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_37.1.png"
+        },
+        {
+          "jp": "<ruby>高<rt>たか</rt></ruby>いものが<ruby>良<rt>よ</rt></ruby>いとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+          "vi": "Đồ đắt tiền chưa chắc đã tốt.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_37.2.png"
+        },
+        {
+          "jp": "お<ruby>金持<rt>かねも</rt></ruby>ちのみんなが<ruby>幸<rt>しあわ</rt></ruby>せとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+          "vi": "Không phải tất cả những người giàu có thì đều hạnh phúc.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_37.3.png"
+        },
+        {
+          "jp": "<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>書<rt>か</rt></ruby>いてあることがいつも<ruby>本当<rt>ほんとう</rt></ruby>のこととは<ruby>限<rt>かぎ</rt></ruby>らない。",
+          "vi": "Những điều viết trên báo chưa chắc lúc nào cũng là sự thật.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_37.4.png"
+        },
+        {
+          "jp": "プロの<ruby>選手<rt>せんしゅ</rt></ruby>であっても、いつも<ruby>勝<rt>か</rt></ruby>つとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+          "vi": "Dù là tuyển thủ chuyên nghiệp đi chăng nữa, chưa chắc lúc nào cũng giành chiến thắng.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_37.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したからといって、<ruby>成功<rt>せいこう</rt></ruby>する（　　）は<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["とは", "には", "では", "へは"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>高<rt>たか</rt></ruby>いレストランの<ruby>料理<rt>りょうり</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ずしも<ruby>美味<rt>おい</rt></ruby>しい（　　）<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["とは", "などを", "ほど", "ばかり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>便利<rt>べんり</rt></ruby>なものが<ruby>誰<rt>だれ</rt></ruby>にとっても<ruby>良<rt>よ</rt></ruby>い（　　）は<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["とは", "について", "にとって", "において"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているからといって、<ruby>試合<rt>しあい</rt></ruby>が<ruby>中止<rt>ちゅうし</rt></ruby>になると（　　）<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["は", "を", "に", "で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>日本人<rt>にほんじん</rt></ruby>だからといって、<ruby>敬語<rt>けいご</rt></ruby>が<ruby>正<rt>ただ</rt></ruby>しく<ruby>使<rt>つか</rt></ruby>える（　　）は<ruby>限<rt>かぎ</rt></ruby>りません。",
+            "options": ["とは", "ほど", "とおり", "まま"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "（　　）しも、<ruby>大企業<rt>だいきぎょう</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>することが<ruby>幸<rt>しあわ</rt></ruby>せとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["必ず", "ちっとも", "めったに", "まるで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>値段<rt>ねだん</rt></ruby>が（　　）ものが、すぐに<ruby>壊<rt>こわ</rt></ruby>れるとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["安い", "消しゴム", "教科書", "電車"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）が<ruby>多<rt>おお</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が、いつも<ruby>正<rt>ただ</rt></ruby>しいとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["友達", "机", "黒板", "時計"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）で<ruby>見<rt>み</rt></ruby>たニュースが、すべて<ruby>真実<rt>しんじつ</rt></ruby>とは<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["ネット", "財布", "靴下", "傘"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>経験<rt>けいけん</rt></ruby>が（　　）からといって、<ruby>失敗<rt>しっぱい</rt></ruby>するとは<ruby>限<rt>かぎ</rt></ruby>らない。",
+            "options": ["浅い", "分厚い", "重い", "遠い"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>有名<rt>ゆうめい</rt></ruby>な＿＿＿とは<ruby>限<rt>かぎ</rt></ruby>らない。<ruby>無名<rt>むめい</rt></ruby>でも<ruby>実力<rt>じつりょく</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>はいる。",
+            "options": ["人だ", "人に", "人で", "人の"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>薬<rt>くすり</rt></ruby>を＿＿＿とは<ruby>限<rt>かぎ</rt></ruby>らない。まずは<ruby>休養<rt>きゅうよう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>だ。",
+            "options": ["飲めば治る", "飲んで治る", "飲んだら治る", "飲むと治る"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>静<rt>しず</rt></ruby>か＿＿＿とは<ruby>限<rt>かぎ</rt></ruby>らない。<ruby>心<rt>こころ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>怒<rt>おこ</rt></ruby>っているかもしれない。",
+            "options": ["だから怒っていない", "なから怒っていない", "でから怒っていない", "にから怒っていない"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>＿＿＿とは<ruby>限<rt>かぎ</rt></ruby>らない。<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>も<ruby>必要<rt>ひつよう</rt></ruby>だ。",
+            "options": ["すれば痩せる", "して痩せる", "するなら痩せる", "した痩せる"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>便利<rt>べんり</rt></ruby>＿＿＿とは<ruby>限<rt>かぎ</rt></ruby>らない。セキュリティの<ruby>問題<rt>もんだい</rt></ruby>もある。",
+            "options": ["だから安全だ", "なから安全だ", "でから安全だ", "にから安全だ"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Người học nhiều chưa chắc đã là người thông minh nhất.",
+            "jp": "たくさん<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が、<ruby>一番<rt>いちばん</rt></ruby><ruby>頭<rt>あたま</rt></ruby>がいいとは<ruby>限<rt>かぎ</rt></ruby>りません。"
+          },
+          {
+            "vi": "Không phải cứ sống ở Nhật Bản lâu năm là nói tiếng Nhật lưu loát.",
+            "jp": "<ruby>日本<rt>にほん</rt></ruby>に<ruby>長<rt>なが</rt></ruby>く<ruby>住<rt>す</rt></ruby>んでいるからといって、<ruby>日本語<rt>にほんご</rt></ruby>がペラペラになるとは<ruby>限<rt>かぎ</rt></ruby>らない。"
+          },
+          {
+            "vi": "Dù kế hoạch có hoàn hảo đến đâu, chưa chắc mọi việc sẽ diễn ra suôn sẻ.",
+            "jp": "どんなに<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>計画<rt>けいかく</rt></ruby>であっても、すべてがうまくいくとは<ruby>限<rt>かぎ</rt></ruby>らない。"
+          },
+          {
+            "vi": "Những điều số đông mọi người nói chưa chắc lúc nào cũng đúng.",
+            "jp": "<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>言<rt>い</rt></ruby>っていることが、いつも<ruby>正<rt>ただ</rt></ruby>しいとは<ruby>限<rt>かぎ</rt></ruby>らない。"
+          },
+          {
+            "vi": "Đồ ăn đắt tiền chưa chắc đã hợp khẩu vị của tất cả mọi người.",
+            "jp": "<ruby>高価<rt>こうか</rt></ruby>な<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が、すべての人<rt>ひと</rt></ruby>の<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うとは<ruby>限<rt>かぎ</rt></ruby>らない。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜（という）わけではない",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:480px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;width:42%;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1rem 1.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.65rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>わけではない</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> ＋ な</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>N ＋ な</td></tr></table><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(0,243,255,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#00f3ff;font-weight:700;width:42%;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1rem 1.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.65rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>というわけではない</span></td></tr><tr><td style='background:rgba(0,243,255,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#00f3ff;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(0,243,255,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#00f3ff;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> ＋ だ</td></tr><tr><td style='background:rgba(0,243,255,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1.5rem;font-size:1.15rem;color:#00f3ff;font-weight:700;'>N ＋ だ</td></tr></table></div>",
+      "meaning": "Không hẳn là... / Không có nghĩa là...",
+      "usage": "1. Dùng để phủ định một phần của sự việc, tránh việc người nghe hiểu lầm rằng mình phủ định hoàn toàn。<br>2. Thường đi kèm với các phó từ: 全く〜ない (hoàn toàn không), 特に〜ない (đặc biệt không), いつも〜ない。<br>3. Thường dùng trong lời giải thích, phân trần hoặc làm giảm nhẹ mức độ khẳng định/phủ định。",
+      "explanation": "Diễn tả ý 'tuy có lý do để người khác nghĩ như vậy, nhưng thực tế không hẳn 100% là như thế'. Thường dùng để đính chính suy nghĩ của đối phương một cách lịch sự, khéo léo.",
+      "examples": [
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>ができないわけではないが、<ruby>時間<rt>じかん</rt></ruby>がかかる。",
+          "vi": "Không hẳn là anh ấy không làm được, nhưng mà tốn thời gian.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_38.1.png"
+        },
+        {
+          "jp": "この<ruby>本<rt>ほん</rt></ruby>が<ruby>面白<rt>おもしろ</rt></ruby>くないわけではないが、<ruby>長<rt>なが</rt></ruby>すぎる。",
+          "vi": "Không hẳn là cuốn sách này không hay, nhưng nó dài quá.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_38.2.png"
+        },
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いなわけではないが、あまり<ruby>話<rt>はな</rt></ruby>さない。",
+          "vi": "Không hẳn là tôi ghét anh ấy, nhưng tôi không nói chuyện với anh ấy nhiều lắm.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_38.3.png"
+        },
+        {
+          "jp": "<ruby>転勤<rt>てんきん</rt></ruby>というわけではない。<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めるんです。",
+          "vi": "Không hẳn là tôi chuyển công tác. Tôi xin nghỉ việc đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_38.4.png"
+        },
+        {
+          "jp": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>話<rt>はな</rt></ruby>せないわけではないが、まだ<ruby>自信<rt>じしん</rt></ruby>がない。",
+          "vi": "Không hẳn là tôi hoàn toàn không nói được tiếng Nhật, chỉ là tôi vẫn chưa tự tin.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_38.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>食<rt>た</rt></ruby>べられない（　　）ではないが、あまり<ruby>好<rt>す</rt></ruby>きじゃない。",
+            "options": ["わけ", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>行<rt>い</rt></ruby>きたくない（　　）わけではないが、<ruby>今日<rt>きょう</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しい。",
+            "options": ["という", "にとって", "について", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>怒<rt>おこ</rt></ruby>っている（　　）ではないから、<ruby>心配<rt>しんぱい</rt></ruby>しないでください。",
+            "options": ["わけ", "とおり", "まま", "うち"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>興味<rt>きょうみ</rt></ruby>がない（　　）わけではない。",
+            "options": ["という", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>金<rt>かね</rt></ruby>がない（　　）ではないが、<ruby>節約<rt>せつやく</rt></ruby>しているんだ。",
+            "options": ["わけ", "反面", "一方", "ところ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "（　　）が<ruby>嫌<rt>きら</rt></ruby>いなわけではないが、<ruby>甘<rt>あま</rt></ruby>いものは<ruby>控<rt>ひか</rt></ruby>えている。",
+            "options": ["ケーキ", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）が<ruby>下手<rt>へた</rt></ruby>なわけではないが、<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>歌<rt>うた</rt></ruby>うのが<ruby>恥<rt>は</rt></ruby>ずかしい。",
+            "options": ["歌", "散歩", "昼寝", "掃除"],
+            "answer": 0
+          },
+          {
+            "question": "この（　　）が<ruby>使<rt>つか</rt></ruby>えないわけではないが、<ruby>新<rt>あたら</rt></ruby>しいのが<ruby>欲<rt>ほ</rt></ruby>しい。",
+            "options": ["パソコン", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）に<ruby>不満<rt>ふまん</rt></ruby>があるわけではないが、キャリアアップのために<ruby>転職<rt>てんしょく</rt></ruby>する。",
+            "options": ["会社", "傘", "財布", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）を<ruby>信<rt>しん</rt></ruby>じていないわけではないが、<ruby>証拠<rt>しょうこ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。",
+            "options": ["彼", "机", "電車", "冷蔵庫"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "この<ruby>料理<rt>りょうり</rt></ruby>が＿＿＿わけではないが、<ruby>量<rt>りょう</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎる。",
+            "options": ["嫌いな", "嫌いだ", "嫌いに", "嫌いで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>車<rt>くるま</rt></ruby>を＿＿＿わけではないが、<ruby>電車<rt>でんしゃ</rt></ruby>のほうが<ruby>便利<rt>べんり</rt></ruby>だ。",
+            "options": ["運転できない", "運転できなく", "運転できなくて", "運転でき"],
+            "answer": 0
+          },
+          {
+            "question": "このアパートが＿＿＿わけではないが、<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い。",
+            "options": ["不便な", "不便だ", "不便に", "不便で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>に＿＿＿わけではないが、<ruby>別<rt>べつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>もある。",
+            "options": ["反対な", "反対だ", "反対に", "反対で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>＿＿＿わけではないが、<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>りたい。",
+            "options": ["暇な", "暇だ", "暇に", "暇で"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Không hẳn là tôi không tin anh, nhưng tôi muốn xem bằng chứng cụ thể.",
+            "jp": "あなたを<ruby>信<rt>しん</rt></ruby>じていないわけではないが、<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>証拠<rt>しょうこ</rt></ruby>を<ruby>見<rt>み</rt></ruby>たいのです。"
+          },
+          {
+            "vi": "Không hẳn là tôi không thể đi, nhưng ngày mai tôi có một cuộc hẹn quan trọng.",
+            "jp": "<ruby>行<rt>い</rt></ruby>けないわけではないが、<ruby>明日<rt>あした</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>約束<rt>やくそく</rt></ruby>があるんだ。"
+          },
+          {
+            "vi": "Không hẳn là chiếc áo này đắt, nhưng tôi không thích kiểu dáng của nó.",
+            "jp": "この<ruby>服<rt>ふく</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いわけではないが、デザインが<ruby>好<rt>す</rt></ruby>きじゃない。"
+          },
+          {
+            "vi": "Không hẳn là công việc này vất vả, chỉ là cần phải tập trung cao độ.",
+            "jp": "この<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>なわけではないが、<ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。"
+          },
+          {
+            "vi": "Không hẳn là tôi không hiểu tiếng Nhật, nhưng người đó nói quá nhanh.",
+            "jp": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からないわけではないが、あの<ruby>人<rt>ひと</rt></ruby>の<ruby>話<rt>はな</rt></ruby>すスピードが<ruby>速<rt>はや</rt></ruby>すぎる。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜ないことはない / 〜ないこともない",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:380px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>V-ない</td><td rowspan='3' style='background:rgba(255,77,79,0.08);padding:1.2rem 2.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.7rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>ことはない</span><span style='color:#ff7875;font-size:1.05rem;font-weight:700;margin-top:0.4rem;display:block;'>（こともない）</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A-くない</td></tr><tr><td style='background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> / N ＋ でない / じゃない</td></tr></table></div>",
+      "meaning": "Không phải là không... / Cũng có thể...",
+      "usage": "1. Cách nói khẳng định nhẹ nhàng, nước đôi bằng việc sử dụng hai lần phủ định (phủ định của phủ định)。<br>2. Thể hiện ý: \"Nếu cố gắng hoặc trong điều kiện nhất định thì vẫn có thể làm được / có thể xảy ra, nhưng có điều kiện hoặc có chút ngần ngại\"。<br>3. Khi dùng 〜ないこともない thì mức độ ngần ngại và sắc thái nước đôi còn cao hơn。",
+      "explanation": "Mang sắc thái rụt rè, thận trọng, không dám khẳng định chắc nịch 100%. Thường dùng khi muốn bày tỏ sự đồng ý nhưng vẫn có điều kiện hoặc dè dặt.",
+      "examples": [
+        {
+          "jp": "この<ruby>問題<rt>もんだい</rt></ruby>が<ruby>解<rt>と</rt></ruby>けないことはない。",
+          "vi": "Bài toán này không phải là không giải được.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_39.1.png"
+        },
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>がしたくないことはない。",
+          "vi": "Không phải là anh ấy không muốn làm.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_39.2.png"
+        },
+        {
+          "jp": "この<ruby>仕事<rt>しごと</rt></ruby>が<ruby>簡単<rt>かんたん</rt></ruby>ではないことはない。",
+          "vi": "Công việc này không phải là không đơn giản.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_39.3.png"
+        },
+        {
+          "jp": "お<ruby>酒<rt>さけ</rt></ruby>は<ruby>飲<rt>の</rt></ruby>まないことはないですが、あまり<ruby>好<rt>す</rt></ruby>きではありません。",
+          "vi": "Không phải là tôi không uống được rượu, nhưng tôi không thích lắm.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_39.4.png"
+        },
+        {
+          "jp": "<ruby>走<rt>はし</rt></ruby>れば<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないこともないが、<ruby>急<rt>いそ</rt></ruby>ごう。",
+          "vi": "Nếu chạy thì không phải là không kịp đâu, nhưng chúng ta hãy khẩn trương lên.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_39.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>食<rt>た</rt></ruby>べられない（　　）はないが、<ruby>辛<rt>から</rt></ruby>いものが<ruby>苦手<rt>にがて</rt></ruby>だ。",
+            "options": ["こと", "わけ", "はず", "とおり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>頑張<rt>がんば</rt></ruby>れば、<ruby>買<rt>か</rt></ruby>えない（　　）もない。",
+            "options": ["こと", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>れない（　　）はないが、<ruby>買<rt>か</rt></ruby>ったほうが<ruby>早<rt>はや</rt></ruby>い。",
+            "options": ["こと", "にとって", "について", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>条件<rt>じょうけん</rt></ruby><ruby>次第<rt>しだい</rt></ruby>では、<ruby>引<rt>ひ</rt></ruby>き<ruby>受<rt>う</rt></ruby>けない（　　）もない。",
+            "options": ["こと", "とおり", "まま", "うち"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しいスマホ、<ruby>高<rt>たか</rt></ruby>くない（　　）はないが、<ruby>性能<rt>せいのう</rt></ruby>がいいから<ruby>買<rt>か</rt></ruby>った。",
+            "options": ["こと", "反面", "一方", "ところ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "（　　）を<ruby>読<rt>よ</rt></ruby>まないことはないが、ネットのほうが<ruby>多<rt>おお</rt></ruby>い。",
+            "options": ["新聞", "消しゴム", "黒板", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）を<ruby>運転<rt>うんてん</rt></ruby>できないことはないが、あまり<ruby>慣<rt>な</rt></ruby>れていない。",
+            "options": ["車", "机", "時計", "鉛筆"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）が<ruby>痛<rt>いた</rt></ruby>くないことはないが、<ruby>我慢<rt>がまん</rt></ruby>できるレベルだ。",
+            "options": ["頭", "教科書", "電車", "冷蔵庫"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）を<ruby>作<rt>つく</rt></ruby>れないことはないが、あまり<ruby>美味<rt>おい</rt></ruby>しくない。",
+            "options": ["料理", "財布", "傘", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）の<ruby>提案<rt>ていあん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れないこともないが、<ruby>検討<rt>けんとう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だ。",
+            "options": ["相手", "テレビ", "電話", "電子レンジ"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>いが、＿＿＿ことはない。",
+            "options": ["買えない", "買わなくて", "買わなければ", "買い"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>練習<rt>れんしゅう</rt></ruby>すれば、＿＿＿ことはないよ。",
+            "options": ["できない", "できなくて", "できなければ", "でき"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>問題<rt>もんだい</rt></ruby>は＿＿＿ことはないが、<ruby>時間<rt>じかん</rt></ruby>がかかる。",
+            "options": ["難しくない", "難しくなくて", "難しくなければ", "難しく"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちが＿＿＿こともないが、<ruby>賛成<rt>さんせい</rt></ruby>はできない。",
+            "options": ["分からない", "分からなくて", "分からなければ", "分かり"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>服<rt>ふく</rt></ruby>、＿＿＿ことはないが、サイズが<ruby>大<rt>おお</rt></ruby>きすぎる。",
+            "options": ["着られない", "着られなくて", "着られなければ", "着られ"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Nếu mỗi ngày đều học thì không phải là không thể thi đỗ N2.",
+            "jp": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>すれば、N2に<ruby>合格<rt>ごうかく</rt></ruby>できないことはありません。"
+          },
+          {
+            "vi": "Món ăn này cay thật đấy nhưng không phải là không ăn được.",
+            "jp": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>辛<rt>から</rt></ruby>いですが、<ruby>食<rt>た</rt></ruby>べられないことはないです。"
+          },
+          {
+            "vi": "Nếu có thời gian thì không phải là tôi không muốn đi du lịch cùng mọi người.",
+            "jp": "<ruby>時間<rt>じかん</rt></ruby>があれば、みんなと<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたくないこともない。"
+          },
+          {
+            "vi": "Công việc này một mình làm thì không phải là không xong, nhưng có người giúp thì tốt hơn.",
+            "jp": "この<ruby>仕事<rt>しごと</rt></ruby>は1<ruby>人<rt>にん</rt></ruby>でできないことはないが、<ruby>手伝<rt>てつだ</rt></ruby>ってもらったほうがいい。"
+          },
+          {
+            "vi": "Ý kiến của anh ấy không phải là không có lý, nhưng thực hiện thì rất khó.",
+            "jp": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>も<ruby>分<rt>わ</rt></ruby>からないことはないが、<ruby>実行<rt>じっこう</rt></ruby>するのは<ruby>難<rt>むずか</rt></ruby>しい。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜ことは〜が",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:380px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>V-る ＋ ことは ＋ V-ます/た ＋ が</td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-top:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>Aい ＋ ことは ＋ Aい ＋ が</td></tr><tr><td style='background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);border-top:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> ＋ なことは ＋ A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> ＋ だが</td></tr></table></div>",
+      "meaning": "A thì A thật đấy nhưng mà...",
+      "usage": "1. Thừa nhận sự thật ở vế trước là đúng (nhượng bộ), nhưng muốn nhấn mạnh vào ý kiến trái ngược hoặc một thực tế khác ở vế sau。<br>2. Động từ hoặc tính từ được lặp lại 2 lần: vế trước là dạng từ điển/nguyên thể, vế sau chia theo thì thích hợp。<br>3. Thường dùng khi đánh giá ưu điểm trước, sau đó nêu ra nhược điểm hoặc hạn chế。",
+      "explanation": "Cấu trúc lặp lại từ (VことはVが / AことはAが) mang tính nhượng bộ để bày tỏ sự khách quan trước khi đưa ra nhận định thực tế hoặc điểm hạn chế ở vế sau.",
+      "examples": [
+        {
+          "jp": "<ruby>行<rt>い</rt></ruby>くことは<ruby>行<rt>い</rt></ruby>くが、<ruby>時間<rt>じかん</rt></ruby>がかかる。",
+          "vi": "Đi thì đi thật đấy, nhưng tốn thời gian.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_40.1.png"
+        },
+        {
+          "jp": "<ruby>高<rt>たか</rt></ruby>いことは<ruby>高<rt>たか</rt></ruby>いが、<ruby>品質<rt>ひんしつ</rt></ruby>がいい。",
+          "vi": "Đắt thì đắt thật đấy, nhưng chất lượng tốt.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_40.2.png"
+        },
+        {
+          "jp": "<ruby>静<rt>しず</rt></ruby>かなことは<ruby>静<rt>しず</rt></ruby>かだが、<ruby>少<rt>すこ</rt></ruby>し<ruby>寂<rt>さび</rt></ruby>しい。",
+          "vi": "Yên tĩnh thì yên tĩnh thật đấy, nhưng hơi cô đơn.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_40.3.png"
+        },
+        {
+          "jp": "このパソコンは、<ruby>使<rt>つか</rt></ruby>えることは<ruby>使<rt>つか</rt></ruby>えるが、ずいぶん<ruby>古<rt>ふる</rt></ruby>い。",
+          "vi": "Chiếc máy tính này dùng thì dùng được thật đấy, nhưng khá là cũ rồi.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_40.4.png"
+        },
+        {
+          "jp": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>新聞<rt>しんぶん</rt></ruby>は、<ruby>読<rt>よ</rt></ruby>めることは<ruby>読<rt>よ</rt></ruby>めるが、<ruby>時間<rt>じかん</rt></ruby>がかかります。",
+          "vi": "Báo tiếng Nhật thì đọc thì đọc được thật đấy, nhưng tốn thời gian.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_40.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>食<rt>た</rt></ruby>べた（　　）は<ruby>食<rt>た</rt></ruby>べたが、あまり<ruby>美味<rt>おい</rt></ruby>しくなかった。",
+            "options": ["こと", "わけ", "はず", "とおり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>便利<rt>べんり</rt></ruby>な（　　）は<ruby>便利<rt>べんり</rt></ruby>だが、<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しい。",
+            "options": ["こと", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>読<rt>よ</rt></ruby>んだことは<ruby>読<rt>よ</rt></ruby>んだ（　　）、あまり<ruby>覚<rt>おぼ</rt></ruby>えていない。",
+            "options": ["が", "を", "に", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>走<rt>はし</rt></ruby>る（　　）は<ruby>走<rt>はし</rt></ruby>ったが、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わなかった。",
+            "options": ["こと", "とおり", "まま", "うち"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>広<rt>ひろ</rt></ruby>い（　　）は<ruby>広<rt>ひろ</rt></ruby>いが、<ruby>駅<rt>えき</rt></ruby>から<ruby>遠<rt>とお</rt></ruby>い。",
+            "options": ["こと", "反面", "一方", "ところ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "この（　　）は、<ruby>着<rt>き</rt></ruby>ることは<ruby>着<rt>き</rt></ruby>るが、あまり<ruby>似合<rt>にあ</rt></ruby>わない。",
+            "options": ["服", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）を<ruby>買<rt>か</rt></ruby>うことは<ruby>買<rt>か</rt></ruby>ったが、まだ<ruby>一度<rt>いちど</rt></ruby>も<ruby>使<rt>つか</rt></ruby>っていない。",
+            "options": ["カメラ", "散歩", "昼寝", "掃除"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）で<ruby>泳<rt>およ</rt></ruby>げることは<ruby>泳<rt>およ</rt></ruby>げるが、25メートルしか<ruby>泳<rt>およ</rt></ruby>げない。",
+            "options": ["プール", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）を<ruby>作<rt>つく</rt></ruby>ることは<ruby>作<rt>つく</rt></ruby>るが、<ruby>時間<rt>じかん</rt></ruby>がかかる。",
+            "options": ["料理", "傘", "財布", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）に<ruby>行<rt>い</rt></ruby>くことは<ruby>行<rt>い</rt></ruby>くが、<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れそうだ。",
+            "options": ["パーティー", "机", "電車", "冷蔵庫"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "あの<ruby>映画<rt>えいが</rt></ruby>は＿＿＿ことは＿＿＿が、あまり<ruby>面白<rt>おもしろ</rt></ruby>くなかった。",
+            "options": ["見た・見た", "見る・見ない", "見て・見た", "見れば・見た"],
+            "answer": 0
+          },
+          {
+            "question": "このアパートは＿＿＿ことは＿＿＿が、<ruby>狭<rt>せま</rt></ruby>い。",
+            "options": ["新しい・新しい", "新しく・新しい", "新しくて・新しい", "新しさ・新しい"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>英語<rt>えいご</rt></ruby>が＿＿＿ことは＿＿＿が、あまり<ruby>上手<rt>じょうず</rt></ruby>ではない。",
+            "options": ["話せる・話せる", "話して・話せる", "話せば・話せる", "話し・話せる"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>部屋<rt>へや</rt></ruby>は＿＿＿ことは＿＿＿だが、<ruby>日当<rt>ひあ</rt></ruby>たりが<ruby>悪<rt>わる</rt></ruby>い。",
+            "options": ["静かな・静か", "静かで・静か", "静かに・静か", "静かだ・静か"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>に＿＿＿ことは＿＿＿が、まだ<ruby>返事<rt>へんじ</rt></ruby>がない。",
+            "options": ["連絡した・連絡した", "連絡して・連絡した", "連絡する・連絡したなら", "連絡・連絡した"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Cuốn sách này tôi đọc thì đọc rồi thật đấy, nhưng nội dung hơi khó hiểu.",
+            "jp": "この<ruby>本<rt>ほん</rt></ruby>は、<ruby>読<rt>よ</rt></ruby>んだことは<ruby>読<rt>よ</rt></ruby>んだが、<ruby>内容<rt>ないよう</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しくてよく<ruby>分<rt>わ</rt></ruby>からなかった。"
+          },
+          {
+            "vi": "Món ăn này ngon thì ngon thật đấy, nhưng giá hơi đắt một chút.",
+            "jp": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>美味<rt>おい</rt></ruby>しいことは<ruby>美味<rt>おい</rt></ruby>しいが、<ruby>値段<rt>ねだん</rt></ruby>がちょっと<ruby>高<rt>たか</rt></ruby>い。"
+          },
+          {
+            "vi": "Chiếc xe ô tô này lái thì lái được thật đấy, nhưng tốn xăng lắm.",
+            "jp": "この<ruby>車<rt>くるま</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby>できることはできるが、とても<ruby>燃費<rt>ねんぴ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い。"
+          },
+          {
+            "vi": "Tiếng Nhật tôi nói thì nói được thật đấy, nhưng phát âm chưa được tự nhiên.",
+            "jp": "<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>話<rt>はな</rt></ruby>せることは<ruby>話<rt>はな</rt></ruby>せるが、<ruby>発音<rt>はつおん</rt></ruby>がまだ<ruby>自然<rt>しぜん</rt></ruby>ではありません。"
+          },
+          {
+            "vi": "Căn nhà này gần nhà ga thì gần thật đấy, nhưng tiếng tàu chạy rất ồn ào.",
+            "jp": "この<ruby>家<rt>いえ</rt></ruby>は<ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いことは<ruby>近<rt>ちか</rt></ruby>いが、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>音<rt>おと</rt></ruby>がとてもうるさい。"
+          }
+        ]
+      }
+    }
+  ]
+}

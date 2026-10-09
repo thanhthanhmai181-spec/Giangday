@@ -1,0 +1,61 @@
+{
+  "id": "dokkai-n3-doanvan-09",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 9,
+  "title": "交流会のメール (Email thông báo buổi giao lưu)",
+  "timeLimit": 180,
+  "passage": "<p>これは<ruby>交流会<rt>こうりゅうかい</rt></ruby>の<ruby>出席<rt>しゅっせき</rt></ruby><ruby>予定者<rt>よていしゃ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>いたメールである。</p><p><ruby>交流会<rt>こうりゅうかい</rt></ruby>にご<ruby>出席<rt>しゅっせき</rt></ruby>のみなさん<br>こんにちは、<ruby>田中<rt>たなか</rt></ruby>です。<br><ruby>今週<rt>こんしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>の<ruby>交流会<rt>こうりゅうかい</rt></ruby>は、「ナポリ」 というイタリア<ruby>料理<rt>りょうり</rt></ruby>のレストランにしました。１２<ruby>時<rt>じ</rt></ruby>からです。「ナポリ」の<ruby>場所<rt>ばしょ</rt></ruby>ですが、<ruby>地下鉄<rt>ちかてつ</rt></ruby><ruby>南北線<rt>なんぼくせん</rt></ruby>の<ruby>朝日<rt>あさひ</rt></ruby><ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて１０<ruby>分<rt>ぷん</rt></ruby>ぐらいのところにあります。わかりにくい<ruby>場所<rt>ばしょ</rt></ruby>にあるので、みんなで<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かおうと<ruby>思<rt>おも</rt></ruby>います。<ruby>朝日<rt>あさひ</rt></ruby><ruby>駅<rt>えき</rt></ruby>の１<ruby>番<rt>ばん</rt></ruby><ruby>出口<rt>でぐち</rt></ruby>に１１<ruby>時<rt>じ</rt></ruby>４５<ruby>分<rt>ふん</rt></ruby>に<ruby>集合<rt>しゅうごう</rt></ruby>してください。<ruby>車<rt>くるま</rt></ruby>で<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までにメールをください。<br>それでは、<ruby>楽<rt>たの</rt></ruby>しみにしています。</p>",
+  "fullTranslation": "Đây là email gửi tới những người dự định tham gia buổi giao lưu:\n\nKính gửi các bạn tham dự buổi giao lưu,\nXin chào mọi người, mình là Tanaka.\nBuổi giao lưu vào Thứ Bảy tuần này sẽ diễn ra tại nhà hàng đồ Ý tên là 'Napoli', bắt đầu từ 12 giờ. Về địa điểm của quán 'Napoli', quán cách ga Asahi tuyến tàu điện ngầm Namboku khoảng 10 phút đi bộ. Vì quán ở vị trí hơi khó tìm nên mình định mọi người sẽ cùng nhau đi tới quán. Xin hãy tập trung tại Cửa ra số 1 của ga Asahi vào lúc 11 giờ 45 phút. Những ai tự đi thẳng đến quán bằng ô tô thì vui lòng gửi email cho mình trước ngày diễn ra nhé.\nRất mong chờ được gặp mọi người.",
+  "vocabulary": [
+    { "word": "交流会", "hiragana": "こうりゅうかい", "meaning": "Buổi giao lưu / Buổi gặp mặt" },
+    { "word": "予定者", "hiragana": "よていしゃ", "meaning": "Người dự định tham gia" },
+    { "word": "南北線", "hiragana": "なんぼくせん", "meaning": "Tuyến tàu điện ngầm Nam Bắc" },
+    { "word": "出口", "hiragana": "でぐち", "meaning": "Cửa ra / Lối ra" },
+    { "word": "向かう", "hiragana": "むかう", "meaning": "Hướng về / Đi về phía..." },
+    { "word": "前日", "hiragana": "ぜんじつ", "meaning": "Ngày hôm trước" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜にする", "meaning": "Quyết định chọn (địa điểm, món ăn...)" },
+    { "pattern": "〜前日までに", "meaning": "Trước ngày diễn ra (chỉ thời hạn)" },
+    { "pattern": "〜楽しみにしています", "meaning": "Rất mong đợi / Háo hức chờ đón" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：このメールを見て、交流会に出席する人はどうしなければならないか。",
+      "options": [
+        "地下鉄で行く場合は、朝日駅の1番出口に12時までに行く。",
+        "地下鉄で行く場合は、「ナポリ」に直接12時までに行く。",
+        "車で行く場合は、今週の金曜日までに田中さんに連絡する。",
+        "車で行く場合は、今週の金曜日までに「ナポリ」 に連絡する。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "地下鉄で行く場合は、朝日駅の1番出口に12時までに行く。",
+          "meaning": "Nếu đi bằng tàu điện ngầm thì đến cửa số 1 ga Asahi trước 12 giờ.",
+          "analysis": "Sai giờ tập trung: Tập trung tại ga Asahi lúc 11h45 ('11時45分に集合'), 12h là giờ bắt đầu ăn ở nhà hàng."
+        },
+        {
+          "option": "地下鉄で行く場合は、「ナポリ」に直接12時までに行く。",
+          "meaning": "Nếu đi bằng tàu điện ngầm thì đi thẳng đến quán Napoli trước 12 giờ.",
+          "analysis": "Sai: Đi tàu điện ngầm phải tập trung tại ga Asahi để cùng đi bộ tới vì quán khó tìm ('わかりにくい場所にあるので、みんなで一緒に店に向かおう')."
+        },
+        {
+          "option": "車で行く場合は、今週の金曜日までに田中さんに連絡する。",
+          "meaning": "Nếu đi bằng ô tô thì liên lạc với anh Tanaka trước thứ Sáu tuần này.",
+          "analysis": "ĐÚNG: Buổi giao lưu diễn ra vào Thứ Bảy ('今週土曜日'), người đi ô tô phải gửi mail trước ngày diễn ra ('前日までにメールをください' -> tức là trước Thứ Sáu) cho Tanaka (người gửi mail)."
+        },
+        {
+          "option": "車で行く場合は、今週の金曜日までに「ナポリ」 に連絡する。",
+          "meaning": "Nếu đi bằng ô tô thì liên lạc cho quán Napoli trước thứ Sáu.",
+          "analysis": "Sai người nhận liên lạc: Phải liên lạc cho Tanaka (trưởng ban tổ chức) chứ không phải liên lạc cho nhà hàng Napoli."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「今週土曜日の交流会は... 12時からです。...車で直接行く人は、前日までにメールをください。」",
+      "explanation": "Đáp án 3 đúng. Buổi họp mặt tổ chức vào thứ Bảy nên 'ngày hôm trước' (前日) là thứ Sáu. Ai tự đi bằng ô tô phải gửi mail thông báo cho Tanaka trước thứ Sáu tuần này."
+    }
+  ]
+}

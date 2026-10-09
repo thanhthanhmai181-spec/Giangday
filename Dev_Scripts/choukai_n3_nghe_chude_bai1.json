@@ -1,0 +1,131 @@
+{
+  "id": "choukai-n3-nghe_chude-01",
+  "level": "N3",
+  "category": "nghe_chude",
+  "categoryName": "Nghe chủ đề (ポイント理解)",
+  "lessonNumber": 1,
+  "title": "Bài 1: Luyện nghe hiểu chủ đề (ポイント理解 第1回)",
+  "description": "Dạng bài nghe hiểu chủ đề / điểm cốt lõi (ポイント理解): Lắng nghe câu hỏi và các lựa chọn trực tiếp từ file âm thanh. Bấm chọn 1, 2, 3 hoặc 4.",
+  "questions": [
+    {
+      "id": 31,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai1/31.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 小鳥の世話で大変なこと",
+          "meaning": "Những điều vất vả khi chăm sóc chú chim nhỏ.",
+          "analysis": "Sai: Người bố nói chỉ có việc cắt móng là khó với trẻ nhỏ nên bố làm hộ, còn lại con trai chăm sóc đều đặn rất tốt chứ không than thở vất vả."
+        },
+        {
+          "option": "2. 小鳥を飼って良かったこと",
+          "meaning": "Những điều tốt đẹp / lợi ích có được sau khi nuôi chú chim nhỏ.",
+          "analysis": "ĐÚNG: Người đàn ông chia sẻ con trai biết yêu thương chăm sóc động vật ('生き物を大切にする気持ちを持ってくれているようで、嬉しい'), gia đình trò chuyện nhiều hơn ('家族の会話も増えた気がします'), vẽ tranh xem chim như thành viên gia đình ('家族の絵を描く時には、必ずシロも入っている')."
+        },
+        {
+          "option": "3. 小鳥につけた名前の意味",
+          "meaning": "Ý nghĩa của cái tên đặt cho chú chim.",
+          "analysis": "Sai: Chỉ nhắc tên là Shiro chứ không giải thích ý nghĩa nguồn gốc tên."
+        },
+        {
+          "option": "4. 小鳥を上手に飼う方法",
+          "meaning": "Phương pháp nuôi chim nhỏ giỏi / thuần thục.",
+          "analysis": "Sai: Bài nói không chia sẻ phương pháp hay kỹ thuật nuôi chim."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「男：きちんと世話を続けています。生き物を大切にする気持ちを持ってくれているようで、嬉しいです。...それから、シロを飼うようになってから、家族の会話も増えた気がします。...幼稚園などで家族の絵を描く時には、必ずシロも入っているんですよ。」",
+      "explanation": "Đáp án đúng là 2 (小鳥を飼って良かったこと).\n- Câu hỏi trong audio: 「男の人は、何について話していますか。」 (Người đàn ông đang nói về điều gì?).\n- Người đàn ông chia sẻ về việc nuôi chim Shiro: con trai biết yêu thương sinh vật sống (rất vui), cả nhà trò chuyện nhiều hơn, con vẽ tranh gia đình luôn có mặt Shiro.\n- Tất cả những điều đó thể hiện những mặt tốt, niềm vui mang lại từ việc nuôi chim (小鳥を飼って良かったこと).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>佐藤<rt>さとう</rt></ruby>さんは、<ruby>小鳥<rt>ことり</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っていらっしゃるそうですね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> ええ、「シロ」という<ruby>名前<rt>なまえ</rt></ruby>なんです。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> いつ<ruby>頃<rt>ころ</rt></ruby>から<ruby>飼<rt>か</rt></ruby>っていらっしゃるんですか？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> 2<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>です。<ruby>長男<rt>ちょうなん</rt></ruby>が4<ruby>歳<rt>さい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>世話<rt>せわ</rt></ruby>をするという<ruby>約束<rt>やくそく</rt></ruby>で。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>かと<ruby>思<rt>おも</rt></ruby>ったんですが、きちんと<ruby>世話<rt>せわ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けています。<strong><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にする<ruby>気持<rt>きも</rt></ruby>ちを<ruby>持<rt>も</rt></ruby>ってくれているようで、<ruby>嬉<rt>うれ</rt></ruby>しいです。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>小<rt>ちい</rt></ruby>さいお<ruby>子<rt>こ</rt></ruby>さんでも、<ruby>世話<rt>せわ</rt></ruby>ができるんですね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> ええ。<ruby>爪<rt>つめ</rt></ruby>を<ruby>切<rt>き</rt></ruby>るとか、そういうことは<ruby>子供<rt>こども</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいんで<ruby>私<rt>わたし</rt></ruby>がしますけどね。<strong>それから、シロを<ruby>飼<rt>か</rt></ruby>うようになってから、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えた<ruby>気<rt>き</rt></ruby>がします。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> そうですか。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong><ruby>幼稚園<rt>ようちえん</rt></ruby>などで<ruby>家族<rt>かぞく</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>く<ruby>時<rt>とき</rt></ruby>には、<ruby>必<rt>かなら</rt></ruby>ずシロも<ruby>入<rt>はい</rt></ruby>っているんですよ。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> シロも<ruby>家族<rt>かぞく</rt></ruby>なんですね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そうですね。<ruby>私<rt>わたし</rt></ruby>たちが「シロ」と<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ぶと、いつも<ruby>可愛<rt>かわい</rt></ruby>い<ruby>声<rt>こえ</rt></ruby>で<ruby>答<rt>こた</rt></ruby>えるんです。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか。<br>1. <ruby>小鳥<rt>ことり</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>なこと<br>2. <ruby>小鳥<rt>ことり</rt></ruby>を<ruby>飼<rt>か</rt></ruby>って<ruby>良<rt>よ</rt></ruby>かったこと<br>3. <ruby>小鳥<rt>ことり</rt></ruby>につけた<ruby>名前<rt>なまえ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby><br>4. <ruby>小鳥<rt>ことり</rt></ruby>を<ruby>上手<rt>じょうず</rt></ruby>に<ruby>飼<rt>か</rt></ruby>う<ruby>方法<rt>ほうほう</rt></ruby></p>",
+      "scriptVi": "Nữ phát thanh viên: Nghe nói anh Sato đang nuôi một chú chim nhỏ phải không ạ?\nNam: Vâng, chú chim tên là Shiro.\nNữ: Anh nuôi từ khi nào vậy ạ?\nNam: Từ 2 năm trước. Khi con trai đầu lòng của tôi được 4 tuổi, cháu hứa là sẽ tự tay chăm sóc. Ban đầu tôi cứ ngỡ sẽ vất vả lắm, nhưng cháu vẫn duy trì chăm sóc rất chu đáo. Cháu biết yêu thương và trân trọng sinh vật sống nên tôi rất vui.\nNữ: Trẻ con nhỏ thế mà cũng chăm sóc được chim cơ ạ.\nNam: Vâng. Những việc như cắt móng thì khó với trẻ nhỏ nên tôi làm hộ cháu. Thêm nữa là từ khi nuôi Shiro, tôi cảm thấy gia đình trò chuyện với nhau nhiều hơn.\nNữ: Thế ạ.\nNam: Khi ở trường mẫu giáo vẽ tranh về gia đình, trong tranh của cháu lúc nào cũng có Shiro đấy.\nNữ: Shiro thực sự là một thành viên trong gia đình rồi nhỉ.\nNam: Vâng đúng vậy. Hễ chúng tôi gọi tên Shiro là chú chim lại cất tiếng hót líu lo đáp lời rất đáng yêu.\nCâu hỏi: Người đàn ông đang nói về điều gì?\n1. Những nỗi vất vả khi chăm sóc chim nhỏ\n2. Những điều tốt đẹp / lợi ích có được từ việc nuôi chim nhỏ\n3. Ý nghĩa của cái tên đặt cho chú chim nhỏ\n4. Cách nuôi chim nhỏ thuần thục"
+    },
+    {
+      "id": 32,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai1/32.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. パーティーに招待してほしい",
+          "meaning": "Muốn được mời tham gia bữa tiệc.",
+          "analysis": "Sai: Người phụ nữ không có ý muốn được mời đi dự tiệc."
+        },
+        {
+          "option": "2. 部屋でパーティーをしないでほしい",
+          "meaning": "Yêu cầu tuyệt đối không được mở tiệc trong phòng.",
+          "analysis": "Sai: Người phụ nữ nói mở tiệc thì cũng được nhưng vấn đề là giờ giấc ban đêm ('パーティーをするのはいいんですけど、ただ、時間がね')."
+        },
+        {
+          "option": "3. 外国にいた時の話を聞いてほしい",
+          "meaning": "Muốn người khác lắng nghe chuyện hồi mình ở nước ngoài.",
+          "analysis": "Sai: Chuyện ở nước ngoài chỉ là câu chuyện xã giao người phụ nữ kể thêm."
+        },
+        {
+          "option": "4. 夜遅くに騒がないでほしい",
+          "meaning": "Mong đừng làm ồn ào, hò hét vào đêm khuya muộn.",
+          "analysis": "ĐÚNG: Người phụ nữ phàn nàn tối qua hàng xóm tiệc tùng to tiếng làm cô khó ngủ ('皆さんちょっと声が大きくて、私、夜なかなか眠れなかったんですよ... パーティーをするのはいいんですけど、ただ、時間がね')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「女：でも、皆さんちょっと声が大きくて、私、夜なかなか眠れなかったんですよ。男：ああ、すみませんでした。...女：パーティーをするのはいいんですけど、ただ、時間がね。男：はい、気をつけます。」",
+      "explanation": "Đáp án đúng là 4 (夜遅くに騒がないでほしい).\n- Câu hỏi trong audio: 「女の人が言いたいことは何ですか。」 (Điều người phụ nữ muốn nói là gì?).\n- Người phụ nữ nhắc nhở hàng xóm phòng bên: Tối qua tụ tập tiệc tùng nói chuyện to làm cô khó ngủ (夜なかなか眠れなかった), tổ chức tiệc thì được nhưng phải chú ý giờ giấc ban đêm (ただ、時間がね).\n- Do đó điều cô muốn nhắn nhủ là mong đừng làm ồn ào vào đêm muộn (夜遅くに騒がないでほしい).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>中村<rt>なかむら</rt></ruby>さん、こんばんは。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あ、こんばんは。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>夕<rt>ゆう</rt></ruby>べはお<ruby>友達<rt>ともだち</rt></ruby>たくさん<ruby>来<rt>き</rt></ruby>てたのね。<ruby>賑<rt>にぎ</rt></ruby>やかでしたね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あ、はい。<ruby>昨日<rt>きのう</rt></ruby>はパーティーで。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <strong>でも、<ruby>皆<rt>みな</rt></ruby>さんちょっと<ruby>声<rt>こえ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくて、<ruby>私<rt>わたし</rt></ruby>、<ruby>夜<rt>よる</rt></ruby>なかなか<ruby>眠<rt>ねむ</rt></ruby>れなかったんですよ。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> ああ、すみませんでした。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> いいえ、パーティーって<ruby>楽<rt>たの</rt></ruby>しいですよね。<ruby>私<rt>わたし</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>とよくパーティーしてたからわかるんです。<ruby>外国<rt>がいこく</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいた<ruby>時<rt>とき</rt></ruby>のことなんですけどね。<strong>パーティーをするのはいいんですけど、ただ、<ruby>時間<rt>じかん</rt></ruby>がね。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> はい、<ruby>気<rt>き</rt></ruby>をつけます。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>外国<rt>がいこく</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいらっしゃったんですか？よかったら<ruby>今度<rt>こんど</rt></ruby>、お<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かせてください。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> ええ、また<ruby>今度<rt>こんど</rt></ruby>ね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>言<rt>い</rt></ruby>いたいことは<ruby>何<rt>なん</rt></ruby>ですか。<br>1. パーティーに<ruby>招待<rt>しょうたい</rt></ruby>してほしい<br>2. <ruby>部屋<rt>へや</rt></ruby>でパーティーをしないでほしい<br>3. <ruby>外国<rt>がいこく</rt></ruby>にいた<ruby>時<rt>とき</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いてほしい<br>4. <ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くに<ruby>騒<rt>さわ</rt></ruby>がないでほしい</p>",
+      "scriptVi": "Nữ: Chào anh Nakamura.\nNam: À, chào chị.\nNữ: Tối qua bạn bè đến chơi đông vui quá anh nhỉ. Nhộn nhịp ghê cơ.\nNam: À vâng, tối qua tụi em tổ chức tiệc ạ.\nNữ: Cơ mà mọi người nói chuyện to tiếng quá làm tối qua tôi trằn trọc mãi không ngủ được đấy.\nNam: Ôi, em thành thật xin lỗi chị ạ.\nNữ: Không có gì, mở tiệc thì vui mà. Hồi trẻ tôi cũng hay tụ tập mở tiệc với bạn bè nên tôi hiểu. Hồi tôi còn sống ở nước ngoài ấy mà. Mở tiệc thì được thôi nhưng mà chỉ có điều là giờ giấc muộn quá anh à.\nNam: Dạ vâng, em sẽ chú ý hơn ạ.\nNam: Chị từng sống ở nước ngoài ạ? Nếu được thì bữa nào chị kể chuyện cho em nghe với nhé.\nNữ: Ừ, để bữa nào nhé.\nCâu hỏi: Điều người phụ nữ muốn nói là gì?\n1. Muốn được mời dự tiệc\n2. Muốn hàng xóm không được mở tiệc trong phòng\n3. Muốn người khác nghe chuyện hồi mình ở nước ngoài\n4. Mong đừng làm ồn ào vào đêm muộn"
+    },
+    {
+      "id": 33,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai1/33.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 冬に病気が流行する理由",
+          "meaning": "Lý do vì sao các bệnh lại lây lan bùng phát vào mùa đông.",
+          "analysis": "Sai: Chỉ nhắc ngắn gọn virus là nguyên nhân chứ bài nói không phân tích sâu về lý do bùng phát."
+        },
+        {
+          "option": "2. インフルエンザの治し方",
+          "meaning": "Cách điều trị bệnh cảm cúm khi đã mắc.",
+          "analysis": "Sai: Bài nói hướng dẫn cách phòng tránh và bảo vệ cơ thể chứ không hướng dẫn cách chữa trị thuốc men."
+        },
+        {
+          "option": "3. 生活習慣が原因の病気",
+          "meaning": "Các căn bệnh xuất phát từ nguyên nhân thói quen sinh hoạt.",
+          "analysis": "Sai: Cảm cúm do virus gây ra chứ không phải bệnh do thói quen sinh hoạt."
+        },
+        {
+          "option": "4. ウイルスから体を守る方法",
+          "meaning": "Các phương pháp bảo vệ cơ thể khỏi virus gây bệnh.",
+          "analysis": "ĐÚNG: Người phụ nữ hướng dẫn rửa tay, súc họng thường xuyên để ngăn virus xâm nhập, duy trì lối sống sinh hoạt điều độ để nâng cao sức đề kháng chống lại virus ('普段から手洗いやうがいをきちんと行い、ウイルスを体の中に取り込まないようにすることが大切です。また、生活習慣を意識し、規則正しい生活を送ると、ウイルスに対する体の力が強くなる')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「女：特に流行する冬は、普段から手洗いやうがいをきちんと行い、ウイルスを体の中に取り込まないようにすることが大切です。また、生活習慣を意識し、規則正しい生活を送ると、ウイルスに対する体の力が強くなることが期待できます。」",
+      "explanation": "Đáp án đúng là 4 (ウイルスから体を守る方法).\n- Câu hỏi trong audio: 「女の人は、何について話していますか。」 (Người phụ nữ đang nói về điều gì?).\n- Bài nói tập trung vào các biện pháp phòng chống cảm cúm mùa đông: Rửa tay và súc họng để ngăn virus vào cơ thể, giữ nếp sống sinh hoạt điều độ để tăng cường sức đề kháng chống lại virus.\n- Tổng thể nội dung là các phương pháp bảo vệ cơ thể khỏi virus (ウイルスから体を守る方法).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>寒<rt>さむ</rt></ruby>くなってきましたね。<ruby>冬<rt>ふゆ</rt></ruby>は、インフルエンザが<ruby>流行<rt>りゅうこう</rt></ruby>する<ruby>季節<rt>きせつ</rt></ruby>です。これは、ウイルスが<ruby>原因<rt>げんいん</rt></ruby>です。インフルエンザは、<ruby>一年<rt>いちねん</rt></ruby><ruby>中<rt>じゅう</rt></ruby>いつでもかかる<ruby>可能性<rt>かのうせい</rt></ruby>がありますが、<strong><ruby>特<rt>とく</rt></ruby>に<ruby>流行<rt>りゅうこう</rt></ruby>する<ruby>冬<rt>ふゆ</rt></ruby>は、<ruby>普段<rt>ふだん</rt></ruby>から<ruby>手洗<rt>てあら</rt></ruby>いやうがいをきちんと<ruby>行<rt>おこな</rt></ruby>い、ウイルスを<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>込<rt>こ</rt></ruby>まないようにすることが<ruby>大切<rt>たいせつ</rt></ruby>です。また、<ruby>生活<rt>せいかつ</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>し、<ruby>規則<rt>きそく</rt></ruby><ruby>正<rt>ただ</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ると、ウイルスに<ruby>対<rt>たい</rt></ruby>する<ruby>体<rt>からだ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなることが<ruby>期待<rt>きたい</rt></ruby>できます。</strong><br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか。<br>1. <ruby>冬<rt>ふゆ</rt></ruby>に<ruby>病気<rt>びょうき</rt></ruby>が<ruby>流行<rt>りゅうこう</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby><br>2. インフルエンザの<ruby>治<rt>なお</rt></ruby>し<ruby>方<rt>かた</rt></ruby><br>3. <ruby>生活<rt>せいかつ</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby><br>4. ウイルスから<ruby>体<rt>からだ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>方法<rt>ほうほう</rt></ruby></p>",
+      "scriptVi": "Người phụ nữ: Trời bắt đầu trở lạnh rồi quý vị nhỉ. Mùa đông là mùa mà bệnh cúm mùa lây lan bùng phát, nguyên nhân là do virus. Cúm mùa có khả năng mắc phải vào bất kỳ thời điểm nào trong năm, nhưng đặc biệt vào mùa đông khi bệnh lây lan mạnh, điều quan trọng là quý vị cần duy trì thói quen rửa tay và súc họng thường xuyên để không để virus xâm nhập vào cơ thể. Ngoài ra, việc chú ý đến thói quen sinh hoạt và duy trì lối sống điều độ quy củ sẽ giúp tăng cường sức đề kháng của cơ thể chống lại virus.\nCâu hỏi: Người phụ nữ đang nói về điều gì?\n1. Lý do bệnh tật bùng phát vào mùa đông\n2. Cách chữa trị bệnh cảm cúm\n3. Các căn bệnh có nguyên nhân từ thói quen sinh hoạt\n4. Các phương pháp bảo vệ cơ thể khỏi virus"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "Bài 10",
+  "x": 330,
+  "y": 220,
+  "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='2' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Cấu Trúc</th></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1.2rem 1.5rem;width:30%;font-family:\"Noto Sans JP\",sans-serif;font-size:1.35rem;font-weight:800;color:#ff4d4f;text-align:center;'>〜において</td><td style='border:1px solid #333;padding:1rem 1.5rem;text-align:left;font-size:1.05rem;'>Tại / Ở / Trong (Địa điểm, bối cảnh, lĩnh vực - Trang trọng)</td></tr></tbody></table>",
+  "items": [
+    {
+      "structure": "〜において / 〜における",
+      "detailedStructure": "<table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:16px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,0.5),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 3rem;font-size:1.3rem;color:#ffd700;font-weight:700;'>N</td><td style='background:rgba(255,77,79,0.08);padding:1.5rem 3.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.8rem;font-weight:800;display:block;'>において</span><span style='color:#ff7875;font-size:1.1rem;font-weight:700;margin-top:0.4rem;display:block;'>（における ＋ N）</span></td></tr></table>",
+      "meaning": "Ở / Tại / Trong...",
+      "usage": "1. Dùng để chỉ địa điểm, thời gian, bối cảnh diễn ra hành động hoặc sự việc。<br>2. Mang sắc thái trang trọng, thường dùng trong tin tức, văn bản, hội nghị。",
+      "explanation": "Tương đương với trợ từ で nhưng trang trọng hơn rất nhiều. Đi với danh từ để bổ nghĩa cho câu hoặc đi kèm における + Danh từ.",
+      "examples": [
+        {
+          "jp": "<ruby>現代<rt>げんだい</rt></ruby>における<ruby>教育<rt>きょういく</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>について<ruby>考<rt>かんが</rt></ruby>える。",
+          "vi": "Suy nghĩ về các vấn đề giáo dục trong thời đại ngày nay.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_10.1.png"
+        },
+        {
+          "jp": "<ruby>大阪<rt>おおさか</rt></ruby>において<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれます。",
+          "vi": "Hội nghị quốc tế sẽ được tổ chức tại Osaka.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_10.2.png"
+        },
+        {
+          "jp": "<ruby>数学<rt>すうがく</rt></ruby>の<ruby>分野<rt>ぶんや</rt></ruby>において、<ruby>彼<rt>かれ</rt></ruby>は<ruby>天才<rt>てんさい</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われている。",
+          "vi": "Trong lĩnh vực toán học, anh ấy được coi là một thiên tài.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_10.3.png"
+        },
+        {
+          "jp": "<ruby>人生<rt>じんせい</rt></ruby>において、もっとも<ruby>大切<rt>たいせつ</rt></ruby>なものは<ruby>健康<rt>けんこう</rt></ruby>です。",
+          "vi": "Trong cuộc đời con người, điều quan trọng nhất là sức khỏe.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_10.4.png"
+        },
+        {
+          "jp": "<ruby>式典<rt>しきてん</rt></ruby>は<ruby>大講堂<rt>だいこうどう</rt></ruby>において<ruby>行<rt>おこな</rt></ruby>われます。",
+          "vi": "Buổi lễ sẽ được tiến hành tại giảng đường lớn.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_10.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>京都<rt>きょうと</rt></ruby>（　　）、<ruby>伝統<rt>でんとう</rt></ruby><ruby>工芸<rt>こうげい</rt></ruby>の<ruby>展示会<rt>てんじかい</rt></ruby>が<ruby>開催<rt>かいさい</rt></ruby>される。",
+            "options": ["において", "によって", "について", "にとって"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>現代<rt>げんだい</rt></ruby>（　　）コミュニケーションの<ruby>変化<rt>へんか</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>する。",
+            "options": ["における", "による", "についての", "にとっても"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>政治<rt>せいじ</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>（　　）リーダーシップが<ruby>求<rt>もと</rt></ruby>められる。",
+            "options": ["において", "によって", "につれて", "とともに"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>学校<rt>がっこう</rt></ruby>（　　）<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>使用<rt>しよう</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>されている。",
+            "options": ["における", "について", "によって", "に応じて"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>ドーム（　　）<ruby>行<rt>おこな</rt></ruby>われる。",
+            "options": ["において", "によって", "につれて", "にしたがって"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>医療<rt>いりょう</rt></ruby>の（　　）において、<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>が<ruby>開発<rt>かいはつ</rt></ruby>された。",
+            "options": ["分野", "机", "黒板", "電車"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>人間関係<rt>にんげんかんけい</rt></ruby>における（　　）を<ruby>解決<rt>かいけつ</rt></ruby>する。",
+            "options": ["トラブル", "消しゴム", "時計", "靴"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）において、<ruby>最優秀賞<rt>さいゆうしゅうしょう</rt></ruby>を<ruby>受賞<rt>じゅしょう</rt></ruby>した。",
+            "options": ["コンクール", "朝ご飯", "睡眠", "散歩"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>家庭<rt>かてい</rt></ruby>内における（　　）を<ruby>見直<rt>みなお</rt></ruby>す。",
+            "options": ["役割", "鉛筆", "ノート", "窓"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）において、<ruby>多大<rt>ただい</rt></ruby>な<ruby>貢献<rt>こうけん</rt></ruby>をした。",
+            "options": ["学術界", "お菓子", "居酒屋", "遊園地"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>海外<rt>かいがい</rt></ruby>における＿＿＿を<ruby>広<rt>ひろ</rt></ruby>げる。",
+            "options": ["ビジネス", "ビジネスする", "ビジネスして", "ビジネスなら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>職場<rt>しょくば</rt></ruby>における＿＿＿を<ruby>改善<rt>かいぜん</rt></ruby>する。",
+            "options": ["環境", "環境な", "環境だ", "環境に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>将来<rt>しょうらい</rt></ruby>における＿＿＿を<ruby>立<rt>た</rt></ruby>てる。",
+            "options": ["計画", "計画する", "計画して", "計画なら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>過去<rt>かこ</rt></ruby>における＿＿＿を<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>る。",
+            "options": ["出来事", "出来事な", "出来事だ", "出来事で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>市場<rt>しじょう</rt></ruby>における＿＿＿を<ruby>分析<rt>ぶんせき</rt></ruby>する。",
+            "options": ["動向", "動向な", "動向だ", "動向で"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Trong cuộc đời, không có gì quý giá hơn sức khỏe.",
+            "jp": "<ruby>人生<rt>じんせい</rt></ruby>において、<ruby>健康<rt>けんこう</rt></ruby>ほど<ruby>貴重<rt>きちょう</rt></ruby>なものはありません。"
+          },
+          {
+            "vi": "Lễ tốt nghiệp sẽ được tổ chức tại hội trường của trường.",
+            "jp": "<ruby>卒業式<rt>そつぎょうしき</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>の講堂において<ruby>行<rt>おこな</rt></ruby>われます。"
+          },
+          {
+            "vi": "Nghiên cứu về những biến đổi trong xã hội hiện đại.",
+            "jp": "<ruby>現代<rt>げんだい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>における<ruby>変化<rt>へんか</rt></ruby>について<ruby>研究<rt>けんきゅう</rt></ruby>する。"
+          },
+          {
+            "vi": "Trong giới kinh doanh, chữ tín là quan trọng nhất.",
+            "jp": "ビジネスの世界において、<ruby>信用<rt>しんよう</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>大切<rt>たいせつ</rt></ruby>です。"
+          },
+          {
+            "vi": "Trong bất kỳ tình huống nào cũng phải bình tĩnh.",
+            "jp": "いかなる<ruby>状況<rt>じょうきょう</rt></ruby>においても<ruby>冷静<rt>れいせい</rt></ruby>でなければならない。"
+          }
+        ]
+      }
+    }
+  ]
+}

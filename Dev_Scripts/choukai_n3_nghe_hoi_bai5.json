@@ -1,0 +1,151 @@
+{
+  "id": "choukai-n3-nghe_hoi-05",
+  "level": "N3",
+  "category": "nghe_hoi",
+  "categoryName": "Nghe hỏi (発話表現)",
+  "lessonNumber": 5,
+  "title": "Bài 5: Luyện nghe hiểu phát ngôn theo tranh (発話表現 第5回)",
+  "description": "Dạng bài nghe hiểu phát ngôn tình huống theo hình ảnh minh họa (発話表現): Nhìn tranh, lắng nghe tình huống và câu hỏi trong file âm thanh. Bấm chọn câu đối đáp phù hợp nhất: 1, 2 hoặc 3.",
+  "questions": [
+    {
+      "id": 62,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai5/62.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai5/20.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 注文を聞いてもらえますか。",
+          "meaning": "Quý khách có thể nghe gọi món giúp tôi được không ạ?",
+          "analysis": "Sai: Dùng nhờ khách nghe gọi món giúp mình."
+        },
+        {
+          "option": "2. ご注文はお決まりになりましたか。",
+          "meaning": "Quý khách đã quyết định chọn món xong chưa ạ?",
+          "analysis": "ĐÚNG: Nhân viên nhà hàng dùng tôn kính ngữ 'お決まりになりましたか' để hỏi khách hàng đã chọn xong món muốn gọi hay chưa."
+        },
+        {
+          "option": "3. 注文してもよろしいですか。",
+          "meaning": "Tôi gọi món có được phép không ạ?",
+          "analysis": "Sai: Đây là câu khách hàng xin phép được gọi món."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「レストランで客に注文を聞きます。客に何と言いますか。→ 2. ご注文はお決まりになりましたか。」",
+      "explanation": "Đáp án đúng là 2 (ご注文はお決まりになりましたか).\n- Tình huống: Nhân viên nhà hàng hỏi khách xem đã chọn xong món để gọi chưa.\n- Câu hỏi gọi món chuẩn mực của nhân viên phục vụ: 「ご注文はお決まりになりましたか。」 (Dạ quý khách đã chọn xong món chưa ạ?).",
+      "scriptJp": "<p>レストランで<ruby>客<rt>きゃく</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。<ruby>客<rt>きゃく</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br>1. <ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いてもらえますか。<br><strong>2. ご<ruby>注文<rt>ちゅうもん</rt></ruby>はお<ruby>決<rt>き</rt></ruby>まりになりましたか。</strong><br>3. <ruby>注文<rt>ちゅうもん</rt></ruby>してもよろしいですか。</p>",
+      "scriptVi": "Tình huống: Nhân viên nhà hàng hỏi khách chọn món. Bạn sẽ nói gì với khách?\n1. Quý khách có thể nghe gọi món giúp tôi được không?\n2. Quý khách đã quyết định chọn món xong chưa ạ?\n3. Tôi gọi món có được không ạ?"
+    },
+    {
+      "id": 63,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai5/63.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai5/21.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 食べ物、やっちゃダメだよ。",
+          "meaning": "Không được cho chim ăn thức ăn đâu đấy!",
+          "analysis": "ĐÚNG: Dùng mẫu cấm đoán thân mật '〜ちゃダメだよ' để nhắc nhở và ngăn bạn không được cho chim ăn vì công viên cấm."
+        },
+        {
+          "option": "2. 食べ物、気をつけてやってね。",
+          "meaning": "Cậu cẩn thận khi cho ăn nhé.",
+          "analysis": "Sai: Câu này lại khuyến khích cho chim ăn."
+        },
+        {
+          "option": "3. 食べ物やるなって書いてないよ。",
+          "meaning": "Người ta đâu có viết biển cấm cho ăn đâu.",
+          "analysis": "Sai: Không mang ý nghĩa nhắc nhở bạn dừng hành động vi phạm quy định."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「公園で鳥に食べ物をやってはいけません。友達が食べ物をやっているので注意します。何と言いますか。→ 1. 食べ物、やっちゃダメだよ。」",
+      "explanation": "Đáp án đúng là 1 (食べ物、やっちゃダメだよ).\n- Tình huống: Công viên cấm cho chim ăn, thấy bạn đang cho chim ăn nên muốn nhắc nhở cảnh báo bạn.\n- Câu nhắc nhở bạn bè không được làm điều cấm: 「食べ物、やっちゃダメだよ。」 (Không được cho ăn đâu đấy!).",
+      "scriptJp": "<p><ruby>公園<rt>こうえん</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby>に<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をやってはいけません。<ruby>友達<rt>ともだち</rt></ruby>が<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をやっているので<ruby>注意<rt>ちゅうい</rt></ruby>します。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br><strong>1. <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>、やっちゃダメだよ。</strong><br>2. <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>、<ruby>気<rt>き</rt></ruby>をつけてやってね。<br>3. <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>やるなって<ruby>書<rt>か</rt></ruby>いてないよ。</p>",
+      "scriptVi": "Tình huống: Trong công viên cấm cho chim ăn. Bạn của bạn đang cho chim ăn nên bạn muốn nhắc nhở. Bạn sẽ nói gì?\n1. Không được cho ăn đâu đấy!\n2. Cậu cẩn thận khi cho ăn nhé.\n3. Người ta đâu có viết là cấm cho ăn đâu."
+    },
+    {
+      "id": 64,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai5/64.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai5/22.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 工場の中を案内していただきます。",
+          "meaning": "Tôi được khách hướng dẫn tham quan nhà máy.",
+          "analysis": "Sai: Dùng mẫu nhận sự hướng dẫn từ khách."
+        },
+        {
+          "option": "2. 工場の中をご案内します。",
+          "meaning": "Sau đây tôi xin phép hướng dẫn quý khách tham quan bên trong nhà máy.",
+          "analysis": "ĐÚNG: Dùng khiêm nhường ngữ 'ご〜します' khi bản thân mình dẫn đường, hướng dẫn khách tham quan."
+        },
+        {
+          "option": "3. 工場の中の案内をお願いします。",
+          "meaning": "Nhờ khách hướng dẫn giúp tôi tham quan nhà máy.",
+          "analysis": "Sai: Dùng nhờ đối phương hướng dẫn."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「客に工場を案内します。何と言いますか。→ 2. 工場の中をご案内します。」",
+      "explanation": "Đáp án đúng là 2 (工場の中をご案内します).\n- Tình huống: Hướng dẫn khách tham quan bên trong nhà máy.\n- Khi mình là người dẫn khách tham quan, dùng khiêm nhường ngữ: 「工場の中をご案内します。」 (Sau đây tôi xin phép hướng dẫn quý khách tham quan nhà máy).",
+      "scriptJp": "<p><ruby>客<rt>きゃく</rt></ruby>に<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>します。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br>1. <ruby>工場<rt>こうじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>していただきます。<br><strong>2. <ruby>工場<rt>こうじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をご<ruby>案内<rt>あんない</rt></ruby>します。</strong><br>3. <ruby>工場<rt>こうじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。</p>",
+      "scriptVi": "Tình huống: Bạn hướng dẫn khách tham quan nhà máy. Bạn sẽ nói gì với khách?\n1. Tôi được khách hướng dẫn tham quan nhà máy.\n2. Sau đây tôi xin phép hướng dẫn quý khách tham quan bên trong nhà máy.\n3. Nhờ khách hướng dẫn giúp tôi tham quan nhà máy."
+    },
+    {
+      "id": 65,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai5/65.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai5/23.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. ねえ、写真撮って。",
+          "meaning": "Này, chụp ảnh cho tớ với.",
+          "analysis": "Sai: Đây là câu nhờ người khác chụp ảnh cho mình."
+        },
+        {
+          "option": "2. 僕、写ってる？",
+          "meaning": "Tớ có lọt vào trong ảnh không?",
+          "analysis": "Sai: Đây là câu hỏi của người được chụp."
+        },
+        {
+          "option": "3. みんな、こっち向いて。",
+          "meaning": "Mọi người ơi, quay mặt về phía này / nhìn vào đây nào!",
+          "analysis": "ĐÚNG: Người chụp ảnh muốn tất cả mọi người cùng hướng mắt và quay mặt về phía ống kính máy ảnh."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「友達みんなの写真を撮ります。みんなにカメラの方を見てほしいです。何と言いますか。→ 3. みんな、こっち向いて。」",
+      "explanation": "Đáp án đúng là 3 (みんな、こっち向いて).\n- Tình huống: Đang cầm máy chụp ảnh cho nhóm bạn, muốn mọi người nhìn về hướng máy ảnh.\n- Câu nói tự nhiên nhất khi chụp ảnh: 「みんな、こっち向いて。」 (Mọi người ơi, quay mặt về phía này nào!).",
+      "scriptJp": "<p><ruby>友達<rt>ともだち</rt></ruby>みんなの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。みんなにカメラの<ruby>方<rt>ほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>てほしいです。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br>1. ねえ、<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮<rt>と</rt></ruby>って。<br>2. <ruby>僕<rt>ぼく</rt></ruby>、<ruby>写<rt>うつ</rt></ruby>ってる？<br><strong>3. みんな、こっち<ruby>向<rt>む</rt></ruby>いて。</strong></p>",
+      "scriptVi": "Tình huống: Bạn chụp ảnh cho tất cả bạn bè. Bạn muốn mọi người nhìn về phía máy ảnh. Bạn sẽ nói gì?\n1. Này, chụp ảnh cho tớ với.\n2. Tớ có lọt vào khung hình không?\n3. Mọi người ơi, quay mặt về hướng này nào!"
+    }
+  ]
+}

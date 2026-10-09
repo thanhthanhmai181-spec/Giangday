@@ -1,0 +1,564 @@
+{
+    "name": "Bài 26",
+    "x": 850,
+    "y": 600,
+    "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Các Phó Từ Giả Định, Nhượng Bộ & Nhấn Mạnh (Bài 26)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:34%;color:#b30000;'>Bản chất & Sắc thái sử dụng</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;'>もし<br>万一 ／ 万が一</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Giả định tương lai:</b><br><code>もし</code> (giả định chung)<br><code>万一 / 万が一</code> (rủi ro hiếm nhưng nguy hiểm)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Nếu, giả sử ／ Lỡ chẳng may...</b><br><em>VD: もしも雨が降ったら中止です。<br>VD: 万一事故が起きたら連絡してください。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#059669;text-align:center;'>どんなに<br>いくら<br>たとえ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Nhượng bộ nghịch bộ:</b> Dù mức độ cao nhất hoặc tình huống giả định xảy ra thì kết quả vẫn không đổi</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Dù... thế nào đi nữa ／ Cho dù...</b><br><em>VD: どんなに頑張っても結果は同じ。<br>VD: たとえ雨でも試合は行う。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;'>せっかく</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Giá trị công sức / Cơ hội:</b><br><code>〜のに / 〜ても</code> (tiếc nuối)<br><code>〜のだから</code> (tận dụng để làm)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Mất công, nỗ lực ／ Đã cất công...</b><br><em>VD: せっかく来たのに留守だった。<br>VD: せっかく覚えたのだから使おう。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;'>ただ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Giới hạn / Miễn phí / Liên từ:</b><br><code>〜だけ</code> (vỏn vẹn)<br><code>ただで</code> (0 đồng)<br><code>ただ、〜</code> (có điều, nhưng mà)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Chỉ, vỏn vẹn ／ Miễn phí ／ Nhưng mà...</b><br><em>VD: ただ見ているだけです。<br>VD: ただであげます。<br>VD: きれいです。ただ、少し高い。</em></td></tr></tbody></table><div style='background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;'><div style='text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;'><h3 style='margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;'>🎌 BẢNG TỔNG HỢP NHÓM PHÓ TỪ GIẢ ĐỊNH & NHƯỢNG BỘ (BÀI 26) 🎌</h3><span style='font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;'>Hệ thống 4 nhóm phó từ quan trọng trong giao tiếp & viết văn N3</span></div><div style='display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:1.2rem;'><div style='border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;'>Nhóm Giả Định Tương Lai</div><div style='padding:0.8rem;background:#eff6ff;text-align:center;'><b style='color:#2563eb;'>もし vs 万一・万が一</b><br><span style='font-size:0.85rem;color:#64748b;'>Nếu thông thường vs Lỡ chẳng may xảy ra rủi ro</span></div></div><div style='border:2px solid #059669;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#d1fae5;color:#065f46;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #059669;'>Nhóm Bất Biến Nhượng Bộ</div><div style='padding:0.8rem;background:#ecfdf5;text-align:center;'><b style='color:#059669;'>どんなに・いくら・たとえ ＋ 〜ても</b><br><span style='font-size:0.85rem;color:#64748b;'>Dù khó khăn/nhiều thế nào thì kết quả vẫn không đổi</span></div></div><div style='border:2px solid #d97706;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#fef3c7;color:#92400e;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #d97706;'>Nhóm Tiếc Nuối & Động Lực</div><div style='padding:0.8rem;background:#fffbeb;text-align:center;'><b style='color:#d97706;'>せっかく ＋ 〜のに ／ 〜のだから</b><br><span style='font-size:0.85rem;color:#64748b;'>Đã mất công thế mà... ／ Đã cất công nên hãy...</span></div></div><div style='border:2px solid #dc2626;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#fee2e2;color:#991b1b;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #dc2626;'>Nhóm Giới Hạn & Đơn Thuần</div><div style='padding:0.8rem;background:#fef2f2;text-align:center;'><b style='color:#dc2626;'>ただ ＋ 〜だけ ／ ただ、〜</b><br><span style='font-size:0.85rem;color:#64748b;'>Chỉ vỏn vẹn ／ Miễn phí ／ Nhưng mà (lưu ý nhỏ)</span></div></div></div></div>",
+    "items": [
+        {
+            "structure": "もし / 万一 / 万が一 ... 〜たら / 〜場合 / 〜ても",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>もし ／ 万一 ／ 万が一 (Nếu, giả sử ／ Lỡ chẳng may...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:42%;'>もし (もしも)</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;' rowspan='3'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜たら / 〜なら</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜場合 (は)</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ても / でも</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;'>万一 (まんいち)</td></tr><tr><td style='background:rgba(255,215,0,0.05);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;'>万が一 (まんがいち)</td></tr></tbody></table></div>",
+            "meaning": "Nếu, giả sử / Lỡ chẳng may...",
+            "usage": "• <b>Ý nghĩa:</b> Giả định về một tình huống có thể xảy ra trong tương lai.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ <code>もし / もしも</code>: Dùng cho điều kiện giả định thông thường (Nếu...).<br>&nbsp;&nbsp;+ <code>万一 / 万が一</code>: Dùng cho những tình huống rủi ro, khả năng xảy ra cực kỳ thấp (1 phần vạn) nhưng hậu quả nghiêm trọng (Lỡ chẳng may, vạn nhất...).<br>• <b>Kết hợp:</b> <code>もし / 万一 / 万が一 ＋ V-たら / V-ば / Nの場合 / V-ても</code>.",
+            "explanation": "Đưa ra giả thuyết điều kiện để phòng ngừa, chuẩn bị hoặc tưởng tượng về một tình huống trong tương lai.",
+            "examples": [
+                {
+                    "jp": "もしも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったら、ピクニックは<ruby>中止<rt>ちゅうし</rt></ruby>です。",
+                    "vi": "Nếu lỡ trời mưa, chuyến dã ngoại sẽ bị hủy bỏ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_115.1.png"
+                },
+                {
+                    "jp": "<ruby>万一<rt>まんいち</rt></ruby><ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたら、すぐに<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+                    "vi": "Chẳng may nếu có tai nạn xảy ra, hãy lập tức liên lạc với cảnh sát.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_115.2.png"
+                },
+                {
+                    "jp": "<ruby>万が一<rt>まんがいち</rt></ruby>のために、<ruby>保険<rt>ほけん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っておいた<ruby>方<rt>ほう</rt></ruby>がいいです。",
+                    "vi": "Để phòng hờ trường hợp không may xảy ra, tốt nhất là nên mua bảo hiểm trước.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_115.3.png"
+                },
+                {
+                    "jp": "もしお<ruby>金<rt>かね</rt></ruby>がたくさんあったら、<ruby>世界旅行<rt>せかいりょこう</rt></ruby>がしたい。",
+                    "vi": "Nếu có thật nhiều tiền, tôi muốn đi du lịch thế giới.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_115.4.png"
+                },
+                {
+                    "jp": "<ruby>万が一<rt>まんがいち</rt></ruby>、<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れる<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>必<rt>かなら</rt></ruby>ず<ruby>連絡<rt>れんらく</rt></ruby>してください。",
+                    "vi": "Trong trường hợp vạn nhất lỡ có đi muộn giờ hẹn, hãy nhất định liên lạc nhé.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_115.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "もし<ruby>時間<rt>じかん</rt></ruby>が（　　）、お茶でも飲みませんか。",
+                        "options": ["あったら", "あって", "あると", "あるので"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万一<ruby>失敗<rt>しっぱい</rt></ruby>した（　　）は、私が責任を取ります。",
+                        "options": ["場合", "場所", "予定", "結果"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万が一の（　　）に、非常食を用意しておこう。",
+                        "options": ["ため", "わけ", "はず", "もの"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もし彼が（　　）なくても、会議は始めます。",
+                        "options": ["来<rt>こ</rt>", "来<rt>き</rt>", "来<rt>く</rt>", "来<rt>こ</rt>う"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万一<ruby>火事<rt>かじ</rt></ruby>が（　　）ときは、非常口から逃げてください。",
+                        "options": ["起<rt>お</rt>きた", "起<rt>お</rt>きる", "起<rt>お</rt>きて", "起<rt>お</rt>きよう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "万が一に備えて（　　）を作成しておく。",
+                        "options": ["バックアップ", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もし（　　）になったら、どんな仕事がしたいですか。",
+                        "options": ["<ruby>大人<rt>おとな</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万一の（　　）を考えて準備をする。",
+                        "options": ["<ruby>事態<rt>じたい</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もし（　　）があったら、何でも言ってください。",
+                        "options": ["<ruby>質問<rt>しつもん</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万が一（　　）を紛失した場合は再発行が必要です。",
+                        "options": ["<ruby>身分証<rt>みぶんしょう</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "もし<ruby>宝<rt>たから</rt></ruby>くじが（　　）、家を買いたい。",
+                        "options": ["<ruby>当<rt>あ</rt></ruby>たったら", "<ruby>当<rt>あ</rt></ruby>たる", "<ruby>当<rt>あ</rt></ruby>たり", "<ruby>当<rt>あ</rt></ruby>てよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万一<ruby>問題<rt>もんだい</rt></ruby>が（　　）場合はすぐ教えてください。",
+                        "options": ["<ruby>生<rt>しょう</rt></ruby>じた", "<ruby>生<rt>しょう</rt></ruby>じる", "<ruby>生<rt>しょう</rt></ruby>じ", "<ruby>生<rt>しょう</rt></ruby>じよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もし<ruby>暇<rt>ひま</rt></ruby>（　　）、手伝ってください。",
+                        "options": ["なら", "だ", "に", "の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "万が一<ruby>体調<rt>たいちょう</rt></ruby>が（　　）なったら、無理をしないで。",
+                        "options": ["<ruby>悪<rt>わる</rt></ruby>く", "<ruby>悪<rt>わる</rt></ruby>い", "<ruby>悪<rt>わる</rt></ruby>さ", "<ruby>悪<rt>わる</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もし<ruby>行<rt>い</rt></ruby>け（　　）ときは事前に連絡します。",
+                        "options": ["ない", "なく", "なかった", "なければ"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Nếu ngày mai trời đẹp, chúng ta cùng đi leo núi nhé.",
+                        "jp": "もし<ruby>明日<rt>あした</rt></ruby><ruby>天気<rt>てんき</rt></ruby>がよければ、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>山登<rt>やまのぼ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きましょう。"
+                    },
+                    {
+                        "vi": "Vạn nhất lỡ có động đất xảy ra, hãy lập tức chui xuống gầm bàn.",
+                        "jp": "<ruby>万一<rt>まんいち</rt></ruby><ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたら、すぐに<ruby>机<rt>つくえ</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れてください。"
+                    },
+                    {
+                        "vi": "Nếu có cơ hội, tôi muốn đến thăm đất nước đó một lần nữa.",
+                        "jp": "もしチャンスがあれば、もう<ruby>一度<rt>いちど</rt></ruby>その<ruby>国<rt>くに</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れたいです。"
+                    },
+                    {
+                        "vi": "Phòng trường hợp không may bị mất điện, tôi đã chuẩn bị sẵn đèn pin.",
+                        "jp": "<ruby>万が一<rt>まんがいち</rt></ruby>の<ruby>停電<rt>ていでん</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、<ruby>懐中電灯<rt>かいちゅうでんとう</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>した。"
+                    },
+                    {
+                        "vi": "Nếu bạn gặp khó khăn gì, bất cứ lúc nào cũng hãy nói với tôi nhé.",
+                        "jp": "もし<ruby>何<rt>なに</rt></ruby>か<ruby>困<rt>こま</rt></ruby>ったことがあったら、いつでも<ruby>私<rt>わたし</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってください。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "どんなに / いくら / たとえ ... 〜ても / 〜でも",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>どんなに ／ いくら ／ たとえ (Dù... thế nào đi nữa ／ Cho dù...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:42%;'>どんなに</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;' rowspan='3'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>V-ても / V-でも</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>A-くても / A-でも</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>N-でも</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;'>いくら</td></tr><tr><td style='background:rgba(255,215,0,0.05);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;'>たとえ</td></tr></tbody></table></div>",
+            "meaning": "Dù... thế nào đi nữa / Cho dù...",
+            "usage": "• <b>Ý nghĩa:</b> Nhấn mạnh mức độ, cường độ hoặc giả định cho dù có ở mức cao nhất/nhiều nhất thì kết quả vế sau cũng không hề thay đổi.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ <code>どんなに / いくら</code>: Nhấn mạnh mức độ/số lượng (dù cố gắng bao nhiêu, dù khó khăn thế nào).<br>&nbsp;&nbsp;+ <code>たとえ</code>: Nhấn mạnh giả định tình huống cực đoan (dù cho việc đó có xảy ra).<br>• <b>Kết hợp:</b> <code>どんなに / いくら / たとえ ＋ V-ても / A-くても / A-でも / N-でも</code>.",
+            "explanation": "Khẳng định tính kiên định hoặc kết quả bất biến trước bất kỳ mức độ hay trở ngại nào.",
+            "examples": [
+                {
+                    "jp": "どんなに<ruby>頑張<rt>がんば</rt></ruby>っても、<ruby>結果<rt>けっか</rt></ruby>が<ruby>変<rt>か</rt></ruby>わらない。",
+                    "vi": "Dù có cố gắng thế nào đi nữa, kết quả cũng không thay đổi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_116.1.png"
+                },
+                {
+                    "jp": "いくら<ruby>好<rt>す</rt></ruby>きでも、もう<ruby>会<rt>あ</rt></ruby>えない。",
+                    "vi": "Dù có thích thế nào đi nữa, chúng ta cũng không thể gặp nhau được nữa.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_116.2.png"
+                },
+                {
+                    "jp": "たとえ<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っても、<ruby>試合<rt>しあい</rt></ruby>は<ruby>行<rt>おこな</rt></ruby>われます。",
+                    "vi": "Dù trời có mưa đi chăng nữa, trận đấu vẫn sẽ được diễn ra.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_116.3.png"
+                },
+                {
+                    "jp": "どんなに<ruby>忙<rt>いそが</rt></ruby>しくても、<ruby>毎日<rt>まいにち</rt></ruby><ruby>復習<rt>ふくしゅう</rt></ruby>しなければならない。",
+                    "vi": "Dù bận rộn thế nào đi nữa, hằng ngày tôi vẫn phải ôn tập.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_116.4.png"
+                },
+                {
+                    "jp": "いくら<ruby>安<rt>やす</rt></ruby>くても、<ruby>必要<rt>ひつよう</rt></ruby>がないものは<ruby>買<rt>か</rt></ruby>わない。",
+                    "vi": "Dù có rẻ thế nào đi nữa, tôi cũng không mua những thứ không cần thiết.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_116.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "どんなに<ruby>遠<rt>とお</rt></ruby>く（　　）、歩いて行きます。",
+                        "options": ["ても", "でも", "なら", "たら"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "いくら<ruby>説明<rt>せつめい</rt></ruby>（　　）、彼には理解できなかった。",
+                        "options": ["しても", "したら", "すると", "すれば"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "たとえ<ruby>親<rt>おや</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>（　　）、自分の夢を諦めない。",
+                        "options": ["されても", "されたら", "されると", "されれば"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どんなに（　　）でも、笑顔を忘れない。",
+                        "options": ["<ruby>大変<rt>たいへん</rt></ruby>", "<ruby>大変<rt>たいへん</rt></ruby>な", "<ruby>大変<rt>たいへん</rt></ruby>に", "<ruby>大変<rt>たいへん</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "いくら<ruby>練習<rt>れんしゅう</rt></ruby>（　　）、なかなか上手にならない。",
+                        "options": ["しても", "して", "した", "しよう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "たとえ（　　）になっても、最後まで戦う。",
+                        "options": ["<ruby>不利<rt>ふり</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どんなに（　　）を払っても、健康はお金で買えない。",
+                        "options": ["<ruby>大金<rt>たいきん</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "いくら（　　）を重ねても、諦めないことが大切だ。",
+                        "options": ["<ruby>失敗<rt>しっぱい</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "たとえ（　　）に遭っても、前を向いて進む。",
+                        "options": ["<ruby>困難<rt>こんなん</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どんなに（　　）が高くても、品質が良ければ売れる。",
+                        "options": ["<ruby>値段<rt>ねだん</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "どんなに（　　）ても、朝6時には起きる。",
+                        "options": ["<ruby>眠<rt>ねむ</rt></ruby>く", "<ruby>眠<rt>ねむ</rt></ruby>い", "<ruby>眠<rt>ねむ</rt></ruby>さ", "<ruby>眠<rt>ねむ</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "いくら（　　）でも、食べ過ぎは体に良くない。",
+                        "options": ["<ruby>好<rt>す</rt></ruby>き", "<ruby>好<rt>す</rt></ruby>きな", "<ruby>好<rt>す</rt></ruby>きに", "<ruby>好<rt>す</rt></ruby>きだ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "たとえ<ruby>嘘<rt>うそ</rt></ruby>を（　　）も、いつかはばれる。",
+                        "options": ["ついて", "つく", "つき", "つこう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どんなに（　　）ても、この山は登りきりたい。",
+                        "options": ["<ruby>険<rt>けわ</rt></ruby>しく", "<ruby>険<rt>けわ</rt></ruby>しい", "<ruby>険<rt>けわ</rt></ruby>しさ", "<ruby>険<rt>けわ</rt></ruby>しければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "いくら（　　）ても、返事が返ってこない。",
+                        "options": ["<ruby>呼<rt>よ</rt></ruby>んで", "<ruby>呼<rt>よ</rt></ruby>ぶ", "<ruby>呼<rt>よ</rt></ruby>び", "<ruby>呼<rt>よ</rt></ruby>ぼう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Dù có khó khăn thế nào đi nữa, tôi cũng tuyệt đối không bỏ cuộc.",
+                        "jp": "どんなに<ruby>難<rt>むずか</rt></ruby>しくても、けっしてあきらめない。"
+                    },
+                    {
+                        "vi": "Cho dù bị mọi người phản đối, tôi vẫn sẽ thực hiện kế hoạch này.",
+                        "jp": "たとえみんなに<ruby>反対<rt>はんたい</rt></ruby>されても、この<ruby>計画<rt>けいかく</rt></ruby>を<ruby>実行<rt>じっこう</rt></ruby>する。"
+                    },
+                    {
+                        "vi": "Dù bạn có xin lỗi bao nhiêu lần đi nữa, tôi cũng không thể tha thứ.",
+                        "jp": "いくら<ruby>謝<rt>あやま</rt></ruby>られても、<ruby>許<rt>ゆる</rt></ruby>すことはできない。"
+                    },
+                    {
+                        "vi": "Dù thời tiết có lạnh đến mấy, anh ấy vẫn chạy bộ mỗi sáng.",
+                        "jp": "どんなに<ruby>寒<rt>さむ</rt></ruby>くても、<ruby>彼<rt>かれ</rt></ruby>は<ruby>毎朝<rt>まいあさ</rt></ruby>ジョギングをする。"
+                    },
+                    {
+                        "vi": "Cho dù có phải tốn nhiều thời gian, tôi cũng muốn làm cho thật cẩn thận.",
+                        "jp": "たとえ<ruby>時間<rt>じかん</rt></ruby>がかかっても、<ruby>丁寧<rt>ていねい</rt></ruby>にやりたい。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "せっかく ... 〜ても/でも / 〜のに / 〜のだから",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>せっかく (Mất công, nỗ lực, cố gắng ／ Đã cất công...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>せっかく<br><span style='font-size:0.85rem;color:#fff;font-weight:normal;'>(Đã cố gắng)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ても / でも</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜のに</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜のだから</span></td></tr></tbody></table></div>",
+            "meaning": "Mất công, nỗ lực, cố gắng / Đã cất công...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả một nỗ lực, cố gắng hoặc cơ hội quý giá đã được thực hiện.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Đi với <code>〜のに / 〜ても</code>: Tiếc nuối vì đã cất công nhưng kết quả trái với mong đợi (Đã mất công... thế mà).<br>&nbsp;&nbsp;+ Đi với <code>〜のだから / 〜なら</code>: Tận dụng cơ hội quý báu để làm điều gì đó (Đã cất công... nên hãy).<br>• <b>Kết hợp:</b> <code>せっかく ＋ V-たのに / V-ても / V-たのだから / Nののに</code>.",
+            "explanation": "Nhấn mạnh giá trị của công sức hoặc cơ hội hiếm có đã bỏ ra để biểu đạt sự tiếc nuối hoặc động viên hành động.",
+            "examples": [
+                {
+                    "jp": "せっかく<ruby>来<rt>き</rt></ruby>たのに、<ruby>彼<rt>かれ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>にいなかった。",
+                    "vi": "Đã mất công đến thế mà anh ấy lại không có ở nhà.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_117.1.png"
+                },
+                {
+                    "jp": "せっかく<ruby>作<rt>つく</rt></ruby>っても、<ruby>誰<rt>だれ</rt></ruby>も<ruby>食<rt>た</rt></ruby>べなかった。",
+                    "vi": "Đã mất công nấu nướng thế mà chẳng có ai ăn cả.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_117.2.png"
+                },
+                {
+                    "jp": "せっかく<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>したのだから、<ruby>将来<rt>しょうらい</rt></ruby><ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい。",
+                    "vi": "Đã cất công học tiếng Nhật rồi nên tôi muốn sau này sẽ làm việc ở Nhật Bản.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_117.3.png"
+                },
+                {
+                    "jp": "せっかくの<ruby>休<rt>やす</rt></ruby>みなのに、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってどこにも<ruby>行<rt>い</rt></ruby>けません。",
+                    "vi": "Đã mất công có ngày nghỉ thế mà trời lại mưa nên không đi đâu được.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_117.4.png"
+                },
+                {
+                    "jp": "せっかく<ruby>招待<rt>しょうたい</rt></ruby>されたのだから、パーティーに<ruby>行<rt>い</rt></ruby>きましょう。",
+                    "vi": "Đã cất công được mời rồi nên chúng ta hãy đi dự tiệc đi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_117.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "せっかく日本に来た（　　）、富士山に登りたい。",
+                        "options": ["のだから", "のに", "ても", "でも"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかくの（　　）なのに、風邪をひいてしまった。",
+                        "options": ["チャンス", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく<ruby>準備<rt>じゅんび</rt></ruby>した（　　）、イベントが中止になった。",
+                        "options": ["のに", "から", "ので", "ため"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかくの<ruby>好意<rt>こうい</rt></ruby>（　　）無駄にしたくない。",
+                        "options": ["を", "に", "で", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく<ruby>覚<rt>おぼ</rt></ruby>えても、使わなければ（　　）しまう。",
+                        "options": ["忘<rt>わす</rt>れて", "忘<rt>わす</rt>れる", "忘<rt>わす</rt>れた", "忘<rt>わす</rt>れよう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "せっかくの（　　）を断るのはもったいない。",
+                        "options": ["お<ruby>誘<rt>さそ</rt></ruby>い", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく（　　）を買ったのに、見に行けなかった。",
+                        "options": ["チケット", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかくの（　　）が無駄になってしまった。",
+                        "options": ["<ruby>努力<rt>どりょく</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく（　　）を予約したのだから、楽しみましょう。",
+                        "options": ["ホテル", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかくの（　　）なのに、誰も起きてこない。",
+                        "options": ["ごちそう", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "せっかく（　　）のだから、全部食べよう。",
+                        "options": ["<ruby>作<rt>つく</rt></ruby>った", "<ruby>作<rt>つく</rt></ruby>る", "<ruby>作<rt>つく</rt></ruby>り", "<ruby>作<rt>つく</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく（　　）ても、相手に伝わらなければ意味がない。",
+                        "options": ["<ruby>話<rt>はな</rt></ruby>し", "<ruby>話<rt>はな</rt></ruby>す", "<ruby>話<rt>はな</rt></ruby>して", "<ruby>話<rt>はな</rt></ruby>そう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく<ruby>遠<rt>とお</rt></ruby>くまで（　　）のに、店が休みだった。",
+                        "options": ["<ruby>行<rt>い</rt></ruby>った", "<ruby>行<rt>い</rt></ruby>く", "<ruby>行<rt>い</rt></ruby>き", "<ruby>行<rt>い</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく<ruby>手<rt>て</rt></ruby>に（　　）チャンスを逃したくない。",
+                        "options": ["<ruby>入<rt>い</rt></ruby>れた", "<ruby>入<rt>い</rt></ruby>れる", "<ruby>入<rt>い</rt></ruby>れ", "<ruby>入<rt>い</rt></ruby>れよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "せっかく（　　）のに、雨で景色が見えなかった。",
+                        "options": ["<ruby>晴<rt>は</rt></ruby>れた", "<ruby>晴<rt>は</rt></ruby>れる", "<ruby>晴<rt>は</rt></ruby>れ", "<ruby>晴<rt>は</rt></ruby>れよう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Đã cất công đến tận Tokyo rồi nên tôi muốn đi tham quan Tháp Tokyo.",
+                        "jp": "せっかく<ruby>東京<rt>とうきょう</rt></ruby>まで<ruby>来<rt>き</rt></ruby>たのだから、<ruby>東京<rt>とうきょう</rt></ruby>タワーを<ruby>見学<rt>けんがく</rt></ruby>したい。"
+                    },
+                    {
+                        "vi": "Đã mất công dậy sớm chuẩn bị cơm hộp thế mà tôi lại để quên ở nhà.",
+                        "jp": "せっかく<ruby>早起<rt>はやお</rt></ruby>きしてお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったのに、<ruby>家<rt>いえ</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れてしまった。"
+                    },
+                    {
+                        "vi": "Đã cất công được nhận vào công ty này rồi nên tôi sẽ nỗ lực hết mình.",
+                        "jp": "せっかくこの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入社<rt>にゅうしゃ</rt></ruby>できたのだから、<ruby>精一杯<rt>せいいっぱい</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ります。"
+                    },
+                    {
+                        "vi": "Đã mất công giặt quần áo thế mà trời lại đổ mưa rào.",
+                        "jp": "せっかく<ruby>洗濯<rt>せんたく</rt></ruby>したのに、<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきた。"
+                    },
+                    {
+                        "vi": "Đã cất công mọi người cùng tụ họp đông đủ, chúng ta hãy chụp một tấm ảnh kỷ niệm nhé.",
+                        "jp": "せっかくみんなが<ruby>集<rt>あつ</rt></ruby>まったのだから、<ruby>記念写真<rt>きねんしゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りましょう。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "ただ ... 〜だけ",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>ただ (Chỉ, vỏn vẹn ／ Miễn phí ／ Nhưng...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>ただ</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜だけ / 〜のみ</span><br><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Ngoài ra: Miễn phí (0 đồng), đơn thuần, nhưng mà...</span></td></tr></tbody></table></div>",
+            "meaning": "Chỉ, vỏn vẹn / Ngoài ra: Miễn phí, đơn thuần, nhưng...",
+            "usage": "• <b>Ý nghĩa:</b><br>&nbsp;&nbsp;+ <code>ただ 〜 だけ</code>: Giới hạn phạm vi, mức độ (Chỉ, vỏn vẹn...).<br>&nbsp;&nbsp;+ <code>ただで / ただのN</code>: Tính chất miễn phí (0 đồng) hoặc sự vật bình thường, đơn thuần (Chỉ là...).<br>&nbsp;&nbsp;+ <code>ただ、〜</code>: Đứng đầu câu để bổ sung điểm trừ, phản biện nhẹ (Có điều, nhưng mà...).<br>• <b>Kết hợp:</b> <code>ただ ＋ V-るだけ / ただのN / ただで / Câu 1. ただ、Câu 2</code>.",
+            "explanation": "Dùng để giới hạn duy nhất một khía cạnh, chỉ giá trị 0 đồng hoặc làm liên từ chuyển tiếp chỉ một lưu ý nhỏ.",
+            "examples": [
+                {
+                    "jp": "<ruby>医者<rt>いしゃ</rt></ruby>は「ただの<ruby>風邪<rt>かぜ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>った。",
+                    "vi": "Bác sĩ đã nói: \"Chỉ là cảm cúm thông thường thôi\".",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_118.1.png"
+                },
+                {
+                    "jp": "この<ruby>本<rt>ほん</rt></ruby>はもう<ruby>読<rt>よ</rt></ruby>まないので、ただであげます。",
+                    "vi": "Cuốn sách này tôi không đọc nữa nên sẽ tặng miễn phí.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_118.2.png"
+                },
+                {
+                    "jp": "<ruby>店内<rt>てんない</rt></ruby>を<ruby>見<rt>み</rt></ruby>ている<ruby>客<rt>きゃく</rt></ruby>に「ただ<ruby>見<rt>み</rt></ruby>ているだけです」と<ruby>言<rt>い</rt></ruby>われた。",
+                    "vi": "Tôi bị người khách đang xem trong cửa hàng nói rằng: \"Tôi chỉ đang xem vỏn vẹn thế thôi\".",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_118.3.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しい。ただ、<ruby>少<rt>すこ</rt></ruby>し<ruby>頑固<rt>がんこ</rt></ruby>です。",
+                    "vi": "Anh ấy rất hiền lành. Nhưng mà có điều hơi bướng bỉnh.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_118.4.png"
+                },
+                {
+                    "jp": "このアパートはきれいです。ただ、<ruby>駅<rt>えき</rt></ruby>から<ruby>少<rt>すこ</rt></ruby>し<ruby>遠<rt>とお</rt></ruby>いです。",
+                    "vi": "Căn hộ này rất đẹp. Có điều là hơi xa nhà ga một chút.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_118.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "ただ座って待っている（　　）で、何もしなかった。",
+                        "options": ["だけ", "ほど", "ばかり", "くらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "このパンフレットは（　　）でもらえます。",
+                        "options": ["ただ", "ぜひ", "どうか", "まったく"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "彼の話は面白い。ただ、（　　）信じられない部分もある。",
+                        "options": ["少し", "まったく", "めったに", "けっして"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "私はただ自分の<ruby>意見<rt>いけん</rt></ruby>（　　）言っただけです。",
+                        "options": ["を", "に", "で", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ただの（　　）だから、気にする必要はありません。",
+                        "options": ["噂", "切符", "財布", "看板"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "ただ（　　）を待つだけの時間は退屈だ。",
+                        "options": ["<ruby>順番<rt>じゅんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この入場券は（　　）で手に入った。",
+                        "options": ["ただ", "案内", "約束", "準備"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ただの（　　）違いだったようだ。",
+                        "options": ["<ruby>勘違<rt>かんちが</rt></ruby>い", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "料理はおいしい。ただ、（　　）が少し高めだ。",
+                        "options": ["<ruby>値段<rt>ねだん</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "私はただ（　　）を守っただけです。",
+                        "options": ["ルール", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "ただ（　　）だけで、何も買わなかった。",
+                        "options": ["<ruby>見<rt>み</rt></ruby>た", "<ruby>見<rt>み</rt></ruby>る", "<ruby>見<rt>み</rt></ruby>て", "<ruby>見<rt>み</rt></ruby>よう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ただ（　　）ているだけでは上達しない。",
+                        "options": ["<ruby>聞<rt>き</rt></ruby>い", "<ruby>聞<rt>き</rt></ruby>く", "<ruby>聞<rt>き</rt></ruby>いた", "<ruby>聞<rt>き</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "彼は優秀だ。ただ、少し（　　）すぎる。",
+                        "options": ["<ruby>真面目<rt>まじめ</rt></ruby>", "<ruby>真面目<rt>まじめ</rt></ruby>な", "<ruby>真面目<rt>まじめ</rt></ruby>に", "<ruby>真面目<rt>まじめ</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ただ（　　）だけでは問題は解決しない。",
+                        "options": ["<ruby>悩<rt>なや</rt></ruby>む", "<ruby>悩<rt>なや</rt></ruby>み", "<ruby>悩<rt>なや</rt></ruby>んで", "<ruby>悩<rt>なや</rt></ruby>もう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "部屋は広い。ただ、日当たりが（　　）。",
+                        "options": ["<ruby>悪<rt>わる</rt></ruby>い", "<ruby>悪<rt>わる</rt></ruby>く", "<ruby>悪<rt>わる</rt></ruby>さ", "<ruby>悪<rt>わる</rt></ruby>ければ"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Tôi không có ý xấu gì cả, chỉ là muốn giúp đỡ bạn mà thôi.",
+                        "jp": "<ruby>悪気<rt>わるぎ</rt></ruby>はなくて、ただあなたを<ruby>助<rt>たす</rt></ruby>けたかっただけです。"
+                    },
+                    {
+                        "vi": "Công viên này mở cửa miễn phí cho tất cả mọi người vào tham quan.",
+                        "jp": "この<ruby>公園<rt>こうえん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でもただで<ruby>入場<rt>にゅうじょう</rt></ruby>できます。"
+                    },
+                    {
+                        "vi": "Bộ phim này rất hay. Có điều là thời lượng hơi dài một chút.",
+                        "jp": "この<ruby>映画<rt>えいが</rt></ruby>はとても<ruby>面白<rt>おもしろ</rt></ruby>い。ただ、<ruby>時間<rt>じかん</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>長<rt>なが</rt></ruby>いです。"
+                    },
+                    {
+                        "vi": "Đó chỉ là một giấc mơ thôi nên bạn không cần phải sợ hãi đâu.",
+                        "jp": "それはただの<ruby>夢<rt>ゆめ</rt></ruby>だから、<ruby>怖<rt>こわ</rt></ruby>がらなくてもいいですよ。"
+                    },
+                    {
+                        "vi": "Anh ấy không nói gì cả, chỉ vỏn vẹn mỉm cười nhẹ.",
+                        "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>言<rt>い</rt></ruby>わず、ただ<ruby>静<rt>しず</rt></ruby>かに<ruby>微笑<rt>ほほえ</rt></ruby>んだだけだった。"
+                    }
+                ]
+            }
+        }
+    ]
+}

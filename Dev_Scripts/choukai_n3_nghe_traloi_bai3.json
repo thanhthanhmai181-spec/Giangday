@@ -1,0 +1,252 @@
+{
+  "id": "choukai-n3-nghe_traloi-03",
+  "level": "N3",
+  "category": "nghe_traloi",
+  "categoryName": "Nghe trả lời (課題理解)",
+  "lessonNumber": 3,
+  "title": "Bài 3: Luyện nghe hiểu trả lời (課題理解 第3回)",
+  "description": "Dạng bài nghe hiểu yêu cầu hành động (課題理解): Lắng nghe câu hỏi trước, nắm bắt tình huống, phân tích phương án hành động và chọn đáp án chính xác nhất.",
+  "questions": [
+    {
+      "id": 13,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai3/13.mp3",
+      "question": "1番：<ruby>大学<rt>だいがく</rt></ruby>で、<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>国際<rt>こくさい</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "questionVi": "Ở trường đại học, một nam sinh và một nữ sinh đang nói chuyện. Nữ sinh sẽ làm gì tại buổi giao lưu quốc tế?",
+      "options": [
+        "<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>う",
+        "ピアノをひく",
+        "ギターをひく",
+        "バイオリンをひく"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "歌を歌う",
+          "meaning": "Hát.",
+          "analysis": "Sai: Những người tham gia buổi giao lưu sẽ hát theo ban nhạc ('参加者みんなに歌ってもらおう')."
+        },
+        {
+          "option": "ピアノをひく",
+          "meaning": "Chơi đàn piano.",
+          "analysis": "ĐÚNG: Nữ sinh ngày nhỏ từng học đàn piano, nam sinh thuyết phục cô đệm piano vì bài hát đơn giản và cô đã đồng ý ('鈴木さん、ピアノやってたんだよね？... 鈴木さんもやってよ... 曲は簡単なのにするから... はい')."
+        },
+        {
+          "option": "ギターをひく",
+          "meaning": "Chơi đàn guitar.",
+          "analysis": "Sai: Nam sinh sẽ chơi guitar ('僕がギターやるし')."
+        },
+        {
+          "option": "バイオリンをひく",
+          "meaning": "Chơi đàn violin.",
+          "analysis": "Sai: Bạn Sato sẽ chơi violin ('佐藤くんにバイオリンを頼むから')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「男：鈴木さん、ピアノやってたんだよね？女：ええ。子供の頃習ってましたけど、もう……。男：僕がギターやるし、佐藤くんにバイオリンを頼むから、鈴木さんもやってよ。昔習ってたんだったら、練習すれば思い出すよ。...曲は簡単なのにするから。じゃあ、練習日が決まったら知らせるよ。女：はい。」",
+      "explanation": "Đáp án đúng là 2 (ピアノをひく).\n- Nam sinh phân công: Nam chơi guitar, Sato chơi violin, khán giả tham gia sẽ cùng hát theo.\n- Bạn nữ (Suzuki) ngày xưa từng học piano nên được rủ chơi đàn piano. Dù hơi ngại vì lâu chưa chơi nhưng khi nam sinh bảo bài dễ và sẽ luyện tập cùng nhau thì cô đã đồng ý (はい).",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>今度<rt>こんど</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>で、<ruby>僕<rt>ぼく</rt></ruby>たちのクラブはみんなが<ruby>知<rt>し</rt></ruby>っている<ruby>曲<rt>きょく</rt></ruby>を<ruby>演奏<rt>えんそう</rt></ruby>しようって<ruby>決<rt>き</rt></ruby>まったよね。<ruby>僕<rt>ぼく</rt></ruby>たちが<ruby>演奏<rt>えんそう</rt></ruby>して、<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>みんなに<ruby>歌<rt>うた</rt></ruby>ってもらおうって。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong><ruby>鈴木<rt>すずき</rt></ruby>さん、ピアノやってたんだよね？</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> ええ。<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby><ruby>習<rt>なら</rt></ruby>ってましたけど、もう……。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong><ruby>僕<rt>ぼく</rt></ruby>がギターやるし、<ruby>佐藤<rt>さとう</rt></ruby>くんにバイオリンを<ruby>頼<rt>たの</rt></ruby>むから、<ruby>鈴木<rt>すずき</rt></ruby>さんもやってよ。</strong><ruby>昔<rt>むかし</rt></ruby><ruby>習<rt>なら</rt></ruby>ってたんだったら、<ruby>練習<rt>れんしゅう</rt></ruby>すれば<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>すよ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うーん、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>下手<rt>へた</rt></ruby>なんですよ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>曲<rt>きょく</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>なのにするから。じゃあ、<ruby>練習<rt>れんしゅう</rt></ruby><ruby>日<rt>び</rt></ruby>が<ruby>決<rt>き</rt></ruby>まったら<ruby>知<rt>し</rt></ruby>らせるよ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>国際<rt>こくさい</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしますか。</p>",
+      "scriptVi": "Nam sinh: Suzuki này, ở buổi giao lưu quốc tế sắp tới, câu lạc bộ của mình đã quyết định sẽ biểu diễn các bài nhạc mà ai cũng biết đúng không. Tụi mình sẽ đàn còn tất cả người tham gia sẽ hát theo.\nNữ sinh: Vâng ạ.\nNam sinh: Suzuki trước đây từng học chơi piano phải không?\nNữ sinh: Vâng, hồi bé em có học nhưng mà lâu rồi...\nNam sinh: Anh sẽ chơi guitar, còn violin thì anh nhờ Sato, nên Suzuki cũng tham gia đệm đàn nhé. Từng học rồi thì tập lại là nhớ ra ngay ấy mà.\nNữ sinh: Ưm, nhưng em chơi dở thật sự luôn đó ạ.\nNam sinh: Không sao đâu. Anh sẽ chọn những bài nhạc đơn giản thôi. Vậy khi nào chốt ngày tập anh sẽ báo nhé.\nNữ sinh: Vâng ạ.\nCâu hỏi: Nữ sinh sẽ làm gì tại buổi giao lưu quốc tế?"
+    },
+    {
+      "id": 14,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai3/14.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_traloi/bai3/3.jpg",
+      "question": "2番：<ruby>洋服<rt>ようふく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どこを<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>しますか。",
+      "questionVi": "Tại công ty thời trang may mặc, người phụ nữ và người đàn ông đang nói chuyện. Người phụ nữ sẽ vẽ lại/sửa lại vị trí nào?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "Hình 1 (Cổ áo - 襟)",
+          "meaning": "Cổ áo khoác.",
+          "analysis": "Sai: Cổ áo to và có thể tháo lắp linh hoạt, trưởng phòng thấy ổn ('襟は大きめだね... つけたり外したりできるようにしました... そう')."
+        },
+        {
+          "option": "Hình 2 (Cúc áo - ボタン)",
+          "meaning": "Hàng cúc/khuy áo.",
+          "analysis": "Sai: Khuy áo thu nhỏ theo xu hướng thời trang đã được duyệt ('ボタンは小さくしたんだね... 流行を意識しました')."
+        },
+        {
+          "option": "Hình 3 (Tay áo - 袖)",
+          "meaning": "Cổ tay áo / Ống tay áo.",
+          "analysis": "ĐÚNG: Trưởng phòng nhận xét phần ống tay áo trông hơi đơn điệu/trống trải và yêu cầu sáng tạo thêm chi tiết vào đó ('だけど、袖のところ、ちょっと寂しいな。ここ、もうちょっと工夫してみて')."
+        },
+        {
+          "option": "Hình 4 (Túi áo - ポケット)",
+          "meaning": "Túi áo khoác ngoài.",
+          "analysis": "Sai: Trưởng phòng khen kiểu dáng túi áo đẹp ('このポケットの形、いいね')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「男：このポケットの形、いいね。だけど、袖のところ、ちょっと寂しいな。ここ、もうちょっと工夫してみて。女：わかりました。...男：そう。じゃあ、書き直したらまた見せてね。女：はい。」",
+      "explanation": "Đáp án đúng là Hình 3 (袖 - Tay áo).\n- Trưởng phòng khen kiểu dáng túi áo (Hình 4) và tán thành ý tưởng khuy nhỏ (Hình 2), cổ áo to tháo rời được (Hình 1).\n- Riêng phần tay áo (袖 - Hình 3) thì bị chê là hơi trống trải (ちょっと寂しい) và yêu cầu thiết kế thêm chi tiết rồi vẽ lại (書き直したらまた見せてね).\n- Do đó vị trí cần vẽ lại là phần tay áo (Hình 3).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>課長<rt>かちょう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいコートのアイデア<ruby>書<rt>か</rt></ruby>いてみたので、<ruby>見<rt>み</rt></ruby>ていただけますか？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うーん。ボタンは<ruby>小<rt>ちい</rt></ruby>さくしたんだね。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい、<ruby>流行<rt>りゅうこう</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>しました。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そう。このポケットの<ruby>形<rt>かたち</rt></ruby>、いいね。<strong>だけど、<ruby>袖<rt>そで</rt></ruby>のところ、ちょっと<ruby>寂<rt>さび</rt></ruby>しいな。ここ、もうちょっと<ruby>工夫<rt>くふう</rt></ruby>してみて。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> わかりました。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>襟<rt>えり</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きめだね。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい、つけたり<ruby>外<rt>はず</rt></ruby>したりできるようにしました。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そう。じゃあ、<strong><ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>したらまた<ruby>見<rt>み</rt></ruby>せてね。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、どこを<ruby>書<rt>か</rt></ruby>き<ruby>直<rt>なお</rt></ruby>しますか。</p>",
+      "scriptVi": "Nữ: Trưởng phòng, em đã phác thảo ý tưởng cho chiếc áo khoác mới, nhờ trưởng phòng xem giúp em với ạ?\nNam: Ừm. Cúc áo em làm nhỏ lại nhỉ.\nNữ: Dạ vâng, em chú trọng theo xu hướng thịnh hành ạ.\nNam: Ừ. Dáng túi này đẹp đấy. Nhưng mà phần ống tay áo trông hơi đơn điệu quá. Chỗ này em thử tạo thêm điểm nhấn sáng tạo chút xem.\nNữ: Vâng, em hiểu rồi ạ.\nNam: Cổ áo thì dáng to nhỉ.\nNữ: Dạ, em thiết kế để có thể tháo ra lắp vào linh hoạt ạ.\nNam: Ừ. Vậy khi nào vẽ sửa lại xong thì mang cho tôi xem nhé.\nNữ: Vâng ạ.\nCâu hỏi: Người phụ nữ sẽ vẽ lại/sửa lại vị trí nào?"
+    },
+    {
+      "id": 15,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai3/15.mp3",
+      "question": "3番：<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>で、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、まず<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。",
+      "questionVi": "Tại hội trường buổi diễn thuyết, một người phụ nữ và một người đàn ông đang nói chuyện. Người đàn ông trước tiên phải làm việc gì?",
+      "options": [
+        "しりょうをうけつけに<ruby>運<rt>はこ</rt></ruby>ぶ",
+        "しりょうをさんかしゃの<ruby>机<rt>つくえ</rt></ruby>におく",
+        "ビデオを<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ぶ",
+        "ビデオのいちを<ruby>決<rt>き</rt></ruby>める"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "しりょうをうけつけに運ぶ",
+          "meaning": "Mang tài liệu ra quầy lễ tân.",
+          "analysis": "Sai: Ban đầu định phát ở lễ tân nhưng đã đổi phương án sang đặt sẵn lên bàn ('受付で配る予定だったんだけど、参加者の机の上に置いておくことになった')."
+        },
+        {
+          "option": "しりょうをさんかしゃの机におく",
+          "meaning": "Đặt tài liệu lên bàn của người tham dự.",
+          "analysis": "ĐÚNG: Người phụ nữ nhờ người nam đi đặt tài liệu lên từng bàn của người tham gia trước khi hội trường đông đúc và bận rộn ('参加者の机の上に置いておくことになったから、忙しくなる前にやっておいてもらえますか')."
+        },
+        {
+          "option": "ビデオを会場に運ぶ",
+          "meaning": "Vận chuyển máy quay phim tới hội trường.",
+          "analysis": "Sai: Máy quay phim đã được mang tới hội trường từ trước rồi ('ビデオは会場に運んであるから')."
+        },
+        {
+          "option": "ビデオのいちを決める",
+          "meaning": "Quyết định vị trí đặt máy quay phim.",
+          "analysis": "Sai: Việc này khoảng 1 tiếng nữa khi diễn giả Yamamoto đến thì mới hỏi ý kiến thầy ('1時間くらいしたら、いらっしゃるから')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「女：その資料、受付で配る予定だったんだけど、参加者の机の上に置いておくことになったから、忙しくなる前にやっておいてもらえますか？男：わかりました。...女：ビデオは会場に運んであるから、先生がいらっしゃったら、どこから撮ればいいかお聞きして。1時間くらいしたら、いらっしゃるから。男：あ、ビデオの位置ですね。わかりました。」",
+      "explanation": "Đáp án đúng là 2 (しりょうをさんかしゃの机におく).\n- Người phụ nữ giao việc: 'Tài liệu đổi kế hoạch sang đặt sẵn trên bàn người tham gia, anh làm trước khi bận rộn nhé' -> Người nam nhận lời làm ngay.\n- Máy quay thì đã mang đến rồi, còn chọn góc đặt máy quay thì phải đợi 1 tiếng nữa thầy Yamamoto đến mới hỏi được.\n- Vì vậy việc người nam phải làm đầu tiên là đặt tài liệu lên bàn người tham dự.",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>本田<rt>ほんだ</rt></ruby>さん、<ruby>午後<rt>ごご</rt></ruby>の<ruby>山本<rt>やまもと</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の<ruby>講演<rt>こうえん</rt></ruby><ruby>会<rt>かい</rt></ruby>だけど、<ruby>資料<rt>しりょう</rt></ruby>のコピーはできていますか？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> はい、<ruby>準備<rt>じゅんび</rt></ruby>してあります。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> その<ruby>資料<rt>しりょう</rt></ruby>、<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>配<rt>くば</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>だったんだけど、<strong><ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておくことになったから、<ruby>忙<rt>いそが</rt></ruby>しくなる<ruby>前<rt>まえ</rt></ruby>にやっておいてもらえますか？</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> わかりました。あの、<ruby>今日<rt>きょう</rt></ruby>の<ruby>講演<rt>こうえん</rt></ruby>はビデオで<ruby>撮<rt>と</rt></ruby>るんですよね？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うん。<ruby>ビデオ<rt>びでお</rt></ruby>は<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>んであるから、<ruby>先生<rt>せんせい</rt></ruby>がいらっしゃったら、どこから<ruby>撮<rt>と</rt></ruby>ればいいかお<ruby>聞<rt>き</rt></ruby>きして。1<ruby>時間<rt>じかん</rt></ruby>くらいしたら、いらっしゃるから。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あ、ビデオの<ruby>位置<rt>いち</rt></ruby>ですね。わかりました。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、まず<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。</p>",
+      "scriptVi": "Nữ: Anh Honda, về buổi diễn thuyết chiều nay của thầy Yamamoto, tài liệu đã photo xong chưa anh?\nNam: Vâng, tôi đã chuẩn bị sẵn rồi.\nNữ: Số tài liệu đó ban đầu định phát ở bàn lễ tân, nhưng giờ đổi thành đặt sẵn lên bàn của người tham gia rồi, anh làm trước khi hội trường bận rộn nhé?\nNam: Vâng, tôi hiểu rồi. À, buổi diễn thuyết hôm nay có quay video lại đúng không chị?\nNữ: Ừ. Máy quay thì đã chuyển tới hội trường rồi, khi nào thầy đến thì anh hỏi thầy xem nên quay từ góc nào nhé. Khoảng 1 tiếng nữa thầy mới tới.\nNam: À, vị trí đặt máy quay đúng không ạ. Tôi rõ rồi.\nCâu hỏi: Người đàn ông trước tiên phải làm việc gì?"
+    },
+    {
+      "id": 16,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai3/16.mp3",
+      "question": "4番：<ruby>大学<rt>だいがく</rt></ruby>で、ダンス<ruby>部<rt>ぶ</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。",
+      "questionVi": "Ở trường đại học, một nam sinh và một nữ sinh thuộc CLB khiêu vũ đang nói chuyện. Nữ sinh phải làm việc gì?",
+      "options": [
+        "ぶいんにメールを<ruby>送<rt>おく</rt></ruby>る",
+        "<ruby>何<rt>なに</rt></ruby>をおどるか<ruby>決<rt>き</rt></ruby>める",
+        "<ruby>人数<rt>にんずう</rt></ruby>をかくにんする",
+        "お<ruby>茶<rt>ちゃ</rt></ruby>とおかしを<ruby>買<rt>か</rt></ruby>う"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "ぶいんにメールを送る",
+          "meaning": "Gửi email thông báo cho toàn thể thành viên CLB.",
+          "analysis": "Sai: Nam sinh là chủ nhiệm CLB nên quyết định sẽ đích thân tự gửi email thông báo ban đầu ('最初のメールは、部長の僕から出した方がいいよね')."
+        },
+        {
+          "option": "何をおどるか決める",
+          "meaning": "Quyết định sẽ nhảy bài gì.",
+          "analysis": "Sai: Nam sinh đã quyết định chọn bài nhảy từng vô địch giải mùa hè ('夏の大会で優勝した時のダンスにしよう')."
+        },
+        {
+          "option": "人数をかくにんする",
+          "meaning": "Xác nhận số lượng người sẽ tham gia.",
+          "analysis": "ĐÚNG: Nam sinh yêu cầu mọi người gửi thư hồi đáp cho nữ sinh (Mori) và nhờ cô tổng hợp, xác nhận sĩ số ('返事は森さんに送ってもらうようにするから、人数の確認をお願い... わかった')."
+        },
+        {
+          "option": "お茶とおかしを買う",
+          "meaning": "Đi mua trà và bánh kẹo.",
+          "analysis": "Sai: Đợi sau khi xác nhận rõ số người tham gia thì mới tính tiếp có liên hoan mua bánh kẹo hay không ('何をするかは、人数がわかってから決めよう')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「男：あ、やっぱり最初のメールは、部長の僕から出した方がいいよね。来られるかどうか、返事は森さんに送ってもらうようにするから、人数の確認をお願い。女：わかった。...男：何をするかは、人数がわかってから決めよう。」",
+      "explanation": "Đáp án đúng là 3 (人数をかくにんする).\n- Nam sinh (trưởng CLB) nói bạn Kato sắp nghỉ, cần tổ chức buổi nhảy chia tay.\n- Bài nhảy đã được chọn (bài vô địch mùa hè).\n- Email ban đầu thì trưởng CLB sẽ tự gửi đi, nhưng hồi âm tham gia sẽ gửi về cho bạn nữ (Mori) nên Mori có nhiệm vụ kiểm tra và xác nhận sĩ số người đến (人数の確認をお願い -> わかった).\n- Bánh kẹo ăn uống thì chờ biết sĩ số mới quyết định.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>森<rt>もり</rt></ruby>さん、<ruby>加藤<rt>かとう</rt></ruby>くんが<ruby>今月<rt>こんげつ</rt></ruby>でダンス<ruby>部<rt>ぶ</rt></ruby>をやめるって<ruby>聞<rt>き</rt></ruby>いた？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うん、お<ruby>家<rt>うち</rt></ruby>の<ruby>事情<rt>じじょう</rt></ruby>なんだってね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>今月<rt>こんげつ</rt></ruby><ruby>末<rt>まつ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby><ruby>日<rt>び</rt></ruby>が、<ruby>加藤<rt>かとう</rt></ruby>くんが<ruby>来<rt>く</rt></ruby>るの<ruby>最後<rt>さいご</rt></ruby>になるから、みんなで<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>踊<rt>おど</rt></ruby>りたいね。<ruby>悪<rt>わる</rt></ruby>いけど、<ruby>部員<rt>ぶいん</rt></ruby>のみんなにメールで<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>してくれる？「<ruby>必<rt>かなら</rt></ruby>ず<ruby>来<rt>き</rt></ruby>て」って。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> わかった。<ruby>何<rt>なに</rt></ruby>を<ruby>踊<rt>おど</rt></ruby>るか<ruby>決<rt>き</rt></ruby>めなくちゃね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うん、<ruby>夏<rt>なつ</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>した<ruby>時<rt>とき</rt></ruby>のダンスにしよう。<strong>あ、やっぱり<ruby>最初<rt>さいしょ</rt></ruby>のメールは、<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>僕<rt>ぼく</rt></ruby>から<ruby>出<rt>だ</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいいよね。<ruby>来<rt>こ</rt></ruby>られるかどうか、<ruby>返事<rt>へんじ</rt></ruby>は<ruby>森<rt>もり</rt></ruby>さんに<ruby>送<rt>おく</rt></ruby>ってもらうようにするから、<ruby>人数<rt>にんずう</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>い。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> わかった。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>あと</rt></ruby>で、みんなで<ruby>何<rt>なに</rt></ruby>かしたいね。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うん。お<ruby>茶<rt>ちゃ</rt></ruby>とかお<ruby>菓子<rt>かし</rt></ruby>、<ruby>買<rt>か</rt></ruby>っておこうか？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>何<rt>なに</rt></ruby>をするかは、<ruby>人数<rt>にんずう</rt></ruby>がわかってから<ruby>決<rt>き</rt></ruby>めよう。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。</p>",
+      "scriptVi": "Nam sinh: Mori này, em nghe tin bạn Kato tháng này sẽ rời CLB khiêu vũ chưa?\nNữ sinh: Dạ em nghe rồi, hình như là do việc gia đình.\nNam sinh: Buổi tập cuối tháng này là buổi cuối cùng Kato đến, nên anh muốn mọi người cùng nhau nhảy một buổi. Phiền em gửi email thông báo cho tất cả thành viên trong CLB là 'Nhất định phải đến' nhé?\nNữ sinh: Vâng. Mình cũng phải chọn xem sẽ nhảy bài gì nữa nhỉ.\nNam sinh: Ừ, lấy bài nhảy hồi tụi mình vô địch giải mùa hè đi. À mà, email đầu tiên chắc do anh làm trưởng CLB gửi thì tốt hơn. Anh sẽ bảo mọi người gửi hồi âm xem có đến được không cho em, nhờ em kiểm tra và chốt sĩ số nhé.\nNữ sinh: Vâng, em hiểu rồi.\nNam sinh: Sau khi nhảy xong anh cũng muốn tụi mình tổ chức gì đó cùng nhau.\nNữ sinh: Vâng. Em mua sẵn trà với bánh kẹo nhé?\nNam sinh: Làm gì thì để biết chính xác số người tham gia rồi tính sau em ạ.\nCâu hỏi: Nữ sinh phải làm việc gì?"
+    },
+    {
+      "id": 17,
+      "subId": "5番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai3/17.mp3",
+      "question": "5番：<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>駅<rt>えき</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどうしますか。",
+      "questionVi": "Người phụ nữ đang gọi điện thoại đến nhà ga. Người phụ nữ sẽ làm gì?",
+      "options": [
+        "<ruby>今日<rt>きょう</rt></ruby>、<ruby>山川<rt>やまかわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>のまどぐちに<ruby>行<rt>い</rt></ruby>く",
+        "<ruby>今日<rt>きょう</rt></ruby>、<ruby>南<rt>みなみ</rt></ruby><ruby>駅<rt>えき</rt></ruby>のわすれものセンターに<ruby>行<rt>い</rt></ruby>く",
+        "<ruby>明日<rt>あした</rt></ruby>、<ruby>山川<rt>やまかわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>のまどぐちに<ruby>行<rt>い</rt></ruby>く",
+        "<ruby>明日<rt>あした</rt></ruby>、<ruby>南<rt>みなみ</rt></ruby><ruby>駅<rt>えき</rt></ruby>のわすれもののセンターに<ruby>行<rt>い</rt></ruby>く"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "今日、山川駅のまどぐちに行く",
+          "meaning": "Hôm nay đến quầy phục vụ ga Yamakawa.",
+          "analysis": "Sai: Người phụ nữ nói hôm nay dù thế nào cũng không thể đi được ('今日はどうしても行けない')."
+        },
+        {
+          "option": "今日、南駅のわすれものセンターに行く",
+          "meaning": "Hôm nay đến trung tâm đồ thất lạc ga Minami.",
+          "analysis": "Sai: Trong ngày hôm nay đồ vẫn ở ga Yamakawa, sang ngày mai mới chuyển sang ga Minami."
+        },
+        {
+          "option": "明日、山川駅のまどぐちに行く",
+          "meaning": "Ngày mai đến quầy phục vụ ga Yamakawa.",
+          "analysis": "Sai: Từ ngày hôm sau, đồ thất lạc bắt buộc phải chuyển sang trung tâm đồ thất lạc ở ga Minami chứ không giữ lại ga Yamakawa ('翌日以降、忘れ物はすべて南駅で受け取っていただくことになってるんですよ')."
+        },
+        {
+          "option": "明日、南駅のわすれもののセンターに行く",
+          "meaning": "Ngày mai đến trung tâm đồ thất lạc ở ga Minami.",
+          "analysis": "ĐÚNG: Do hôm nay không thể đi lấy được và ngày mai đồ bị chuyển sang trung tâm ga Minami nên cô ấy chấp nhận ngày mai sẽ đến ga Minami để lấy lại vé tháng ('翌日以降、忘れ物はすべて南駅で... 今日はどうしても行けないので、仕方ないですね。わかりました')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「男：今日中でしたら、この山川駅の窓口でお預かりしているんですが、次の日からは全部、南駅の忘れ物センターに移すことになっていますので、明日以降は南駅に取りに行ってください。...翌日以降、忘れ物はすべて南駅で受け取っていただくことになってるんですよ。女：そうですか。今日はどうしても行けないので、仕方ないですね。わかりました。」",
+      "explanation": "Đáp án đúng là 4 (明日、南駅のわすれもののセンターに行く).\n- Người phụ nữ làm rơi vé tháng ở ga Yamakawa và ga đã nhặt được.\n- Quy định: Trong ngày thì lấy ở ga Yamakawa, nhưng sang ngày hôm sau thì đồ bị chuyển về Trung tâm đồ thất lạc ga Minami (南駅の忘れ物センター).\n- Vì hôm nay cô không thể đi lấy được, cô đồng ý ngày mai sẽ sang ga Minami để nhận lại vé.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> はい、<ruby>山川<rt>やまかわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>です。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> すみません。<ruby>今日<rt>きょう</rt></ruby>、<ruby>山川<rt>やまかわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>を<ruby>出<rt>で</rt></ruby>た<ruby>後<rt>あと</rt></ruby>、<ruby>定期<rt>ていき</rt></ruby><ruby>券<rt>けん</rt></ruby>がないことに<ruby>気<rt>き</rt></ruby>づいたんです。<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってみたんですが、なくて……。あ、<ruby>青木<rt>あおき</rt></ruby>ひろこと<ruby>申<rt>もう</rt></ruby>します。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>定期<rt>ていき</rt></ruby><ruby>券<rt>けん</rt></ruby>ですね。ちょっと<ruby>待<rt>ま</rt></ruby>ってください。……ああ、<ruby>届<rt>とど</rt></ruby>いてますよ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> よかったー！ないと<ruby>困<rt>こま</rt></ruby>るので、<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>います。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong><ruby>今日<rt>きょう</rt></ruby><ruby>中<rt>じゅう</rt></ruby>でしたら、この<ruby>山川<rt>やまかわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>でお<ruby>預<rt>あず</rt></ruby>かりしているんですが、<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>からは<ruby>全部<rt>ぜんぶ</rt></ruby>、<ruby>南<rt>みなみ</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>センターに<ruby>移<rt>うつ</rt></ruby>すことになっていますので、<ruby>明日<rt>あした</rt></ruby><ruby>以降<rt>いこう</rt></ruby>は<ruby>南<rt>みなみ</rt></ruby><ruby>駅<rt>えき</rt></ruby>に<ruby>取<rt>と</rt></ruby>りに<ruby>行<rt>い</rt></ruby>ってください。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> え？<ruby>明日<rt>あした</rt></ruby>、<ruby>山川<rt>やまかわ</rt></ruby><ruby>駅<rt>えき</rt></ruby>に<ruby>行<rt>い</rt></ruby>くので、<ruby>置<rt>お</rt></ruby>いておいていただけませんか？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません。<strong><ruby>翌日<rt>よくじつ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>はすべて<ruby>南<rt>みなみ</rt></ruby><ruby>駅<rt>えき</rt></ruby>でお<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>りいただくことになってるんですよ。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> そうですか。<strong><ruby>今日<rt>きょう</rt></ruby>はどうしても<ruby>行<rt>い</rt></ruby>けないので、<ruby>仕方<rt>しかた</rt></ruby>ないですね。わかりました。</strong><br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどうしますか。</p>",
+      "scriptVi": "Nhân viên: Vâng, ga Yamakawa xin nghe.\nNữ: Xin lỗi anh, hôm nay sau khi ra khỏi ga Yamakawa tôi mới nhận ra là bị mất vé tháng. Tôi có ra đồn công an gần ga nhưng không thấy... Tôi tên là Aoki Hiroko ạ.\nNhân viên: Vé tháng phải không ạ. Xin chị đợi một lát... À, có người nhặt được đem nộp ở đây rồi chị nhé.\nNữ: May quá! Không có vé thì bất tiện lắm nên sáng mai tôi sẽ ghé ga lấy ạ.\nNhân viên: Nếu trong ngày hôm nay thì ga Yamakawa chúng tôi có giữ tại quầy, nhưng sang ngày mai toàn bộ đồ thất lạc sẽ chuyển về Trung tâm đồ thất lạc ở ga Minami, nên từ ngày mai trở đi xin chị sang ga Minami nhận nhé.\nNữ: Ơ? Ngày mai tôi có việc qua ga Yamakawa, ga giữ lại giúp tôi có được không ạ?\nNhân viên: Thành thật xin lỗi chị. Từ ngày hôm sau trở đi toàn bộ đồ thất lạc đều bắt buộc phải nhận tại ga Minami ạ.\nNữ: Vậy sao. Hôm nay tôi bận việc không thể nào đi được nên đành chịu vậy. Tôi hiểu rồi ạ.\nCâu hỏi: Người phụ nữ sẽ làm gì?"
+    },
+    {
+      "id": 18,
+      "subId": "6番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai3/18.mp3",
+      "question": "6番：カルチャーセンターの<ruby>話<rt>はな</rt></ruby>し<ruby>方<rt>かた</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>で、<ruby>先生<rt>せんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>のスピーチを<ruby>聞<rt>き</rt></ruby>いて、<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "questionVi": "Tại lớp học kỹ năng nói chuyện ở trung tâm văn hóa, giáo viên đang nói chuyện. Hôm nay sau khi nghe bài phát biểu của người ngồi bên cạnh, học viên sẽ làm gì?",
+      "options": [
+        "ことばの<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>をなおす",
+        "ないようについて<ruby>質問<rt>しつもん</rt></ruby>する",
+        "しせいについて<ruby>注意<rt>ちゅうい</rt></ruby>する",
+        "<ruby>話<rt>はな</rt></ruby>すはやさをチェックする"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "ことばの使い方をなおす",
+          "meaning": "Sửa cách dùng từ ngữ.",
+          "analysis": "Sai: Việc sửa cách dùng từ ngữ đã hoàn thành trong buổi học tuần trước ('先週は、話したいことを書いて、言葉の使い方も直しましたね')."
+        },
+        {
+          "option": "ないようについて質問する",
+          "meaning": "Đặt câu hỏi về nội dung bài nói.",
+          "analysis": "ĐÚNG: Giáo viên yêu cầu học viên hôm nay sau khi nghe người bên cạnh nói thì bắt buộc phải đặt câu hỏi về nội dung bài phát biểu đó ('相手の話を聞いて、内容について何か必ず質問してください')."
+        },
+        {
+          "option": "しせいについて注意する",
+          "meaning": "Nhắc nhở và chú ý về tư thế đứng.",
+          "analysis": "Sai: Nội dung tư thế đứng sang tuần sau mới học ('立ち方など、姿勢については来週やります')."
+        },
+        {
+          "option": "話すはやさをチェックする",
+          "meaning": "Kiểm tra tốc độ nói chuyện.",
+          "analysis": "Sai: Tốc độ nói thì về nhà tự bấm đồng hồ kiểm tra ('話す速さは、うちで時計を見ながらチェックしてくださいね')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「先生：今日は、隣の人と二人で練習をします。お互いに準備した内容を話しましょう。相手の話を聞いて、内容について何か必ず質問してください。質問を考えることが、自分のスピーチをよくするヒントにもなりますよ。立ち方など、姿勢については来週やります。話す速さは、うちで時計を見ながらチェックしてくださいね。」",
+      "explanation": "Đáp án đúng là 2 (ないようについて質問する).\n- Giáo viên phân chia lộ trình:\n  - Tuần trước: Viết nội dung và sửa cách dùng từ (言葉の使い方).\n  - Tuần tới: Luyện tư thế đứng (姿勢).\n  - Về nhà: Tự xem đồng hồ đo tốc độ nói (話す速さ).\n  - Hôm nay: Luyện tập cặp đôi, sau khi nghe người bên cạnh nói thì nhất định phải đặt câu hỏi về nội dung (内容について何か必ず質問してください).",
+      "scriptJp": "<p><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> <ruby>今日<rt>きょう</rt></ruby>は、<ruby>先週<rt>せんしゅう</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>き、スピーチの<ruby>練習<rt>れんしゅう</rt></ruby>をします。<ruby>先週<rt>せんしゅう</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>したいことを<ruby>書<rt>か</rt></ruby>いて、<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>も<ruby>直<rt>なお</rt></ruby>しましたね。<strong><ruby>今日<rt>きょう</rt></ruby>は、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>二<rt>ふた</rt></ruby><ruby>人<rt>り</rt></ruby>で<ruby>練習<rt>れんしゅう</rt></ruby>をします。お<ruby>互<rt>たが</rt></ruby>いに<ruby>準備<rt>じゅんび</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>を<ruby>話<rt>はな</rt></ruby>しましょう。<ruby>相手<rt>あいて</rt></ruby>の<ruby>話<rt>はな</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>内容<rt>ないよう</rt></ruby>について<ruby>何<rt>なに</rt></ruby>か<ruby>必<rt>かなら</rt></ruby>ず<ruby>質問<rt>しつもん</rt></ruby>してください。</strong><ruby>質問<rt>しつもん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えることが、<ruby>自分<rt>じぶん</rt></ruby>のスピーチをよくするヒントにもなりますよ。<ruby>立<rt>た</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>など、<ruby>姿勢<rt>しせい</rt></ruby>については<ruby>来週<rt>らいしゅう</rt></ruby>やります。<ruby>話<rt>はな</rt></ruby>す<ruby>速<rt>はや</rt></ruby>さは、うちで<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらチェックしてくださいね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>参加<rt>さんか</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>のスピーチを<ruby>聞<rt>き</rt></ruby>いて、<ruby>何<rt>なに</rt></ruby>をしますか。</p>",
+      "scriptVi": "Giáo viên: Hôm nay chúng ta tiếp tục buổi luyện tập phát biểu tuần trước nhé. Tuần trước các em đã viết nội dung muốn nói và sửa cách dùng từ rồi. Hôm nay chúng ta sẽ luyện tập theo cặp hai người với bạn ngồi cạnh. Các em hãy lần lượt nói nội dung mình đã chuẩn bị nhé. Khi lắng nghe bạn nói, các em hãy nhớ bắt buộc phải đặt câu hỏi về nội dung cho bạn. Việc suy nghĩ câu hỏi cũng sẽ là gợi ý để các em hoàn thiện bài phát biểu của chính mình đấy. Còn tư thế như cách đứng thì tuần sau chúng ta sẽ học. Tốc độ nói thì về nhà các em hãy vừa nhìn đồng hồ vừa kiểm tra nhé.\nCâu hỏi: Hôm nay sau khi nghe bài phát biểu của người ngồi bên cạnh, học viên sẽ làm gì?"
+    }
+  ]
+}

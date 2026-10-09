@@ -1,0 +1,842 @@
+{
+  "name": "Bài 13",
+  "x": 400,
+  "y": 280,
+  "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Tổng Quan Kính Ngữ Tiếng Nhật (Bài 13: 敬語 - けいご)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:26%;color:#b30000;'>Phân loại Kính ngữ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;'>Chủ thể hành động</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Quy tắc biến đổi & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>1. Tôn kính ngữ<br>(尊敬語 - そんけいご)</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;color:#d97706;'>Hành động của ĐỐI PHƯƠNG<br>(Cấp trên, khách hàng, giáo viên)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Nâng hành động của đối phương lên để bày tỏ sự tôn kính.<br>• <strong>Bị động</strong>: 飲まれる, 行かれる (Mẫu 50)<br>• <strong>Quy tắc</strong>: おVになります (Mẫu 51)<br>• <strong>Đặc biệt</strong>: いらっしゃる, 召し上がる (Mẫu 52)<br>• <strong>Yêu cầu lịch sự</strong>: お/ご〜ください (Mẫu 53)</td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;'>2. Khiêm nhường ngữ<br>(謙譲語 - けんじょうご)</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;color:#2563eb;'>Hành động của BẢN THÂN<br>(Người nói và người phe mình)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Hạ thấp hành động của bản thân để gián tiếp tôn vinh người nghe.<br>• <strong>Quy tắc</strong>: お/ご〜します (Mẫu 54)<br>• <strong>Đặc biệt</strong>: 参る, 申す, 伺う, 拝見する (Mẫu 55)</td></tr></tbody></table>",
+  "items": [
+    {
+      "structure": "SはNを V受身 (Tôn kính dạng Bị động)",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;width:38%;'>Nhóm 1 (五段)</td><td style='background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.3rem;font-weight:800;display:block;'>Đuôi う ➔ あ ＋ れる</span><span style='color:#aaa;font-size:0.9rem;display:block;margin-top:0.2rem;'>VD: 書く ➔ 書かれる / 飲む ➔ 飲まれる</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>Nhóm 2 (一段)</td><td style='background:rgba(255,77,79,0.06);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.3rem;font-weight:800;display:block;'>Bỏ る ＋ られる</span><span style='color:#aaa;font-size:0.9rem;display:block;margin-top:0.2rem;'>VD: 見る ➔ 見られる / 食べる ➔ 食べられる</span></td></tr><tr><td style='background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>Nhóm 3 (不規則)</td><td style='background:rgba(255,77,79,0.04);padding:0.75rem 1.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.3rem;font-weight:800;display:block;'>する ➔ される ／ 来る ➔ こられる</span><span style='color:#aaa;font-size:0.9rem;display:block;margin-top:0.2rem;'>VD: 出席される / 来られる</span></td></tr></table></div>",
+      "meaning": "Tôn kính ngữ chia ở dạng bị động (Lịch sự nhẹ nhàng)",
+      "usage": "1. Dùng thể bị động (受身形) của động từ để thể hiện sự kính trọng đối với hành động của đối phương (người nghe, cấp trên, khách hàng)。<br>2. Mức độ kính trọng: Thể bị động < お/ご〜になる < Động từ kính ngữ đặc biệt (いらっしゃる, 召し上がる)。<br>3. Rất phổ biến trong công việc và đời sống vì vừa lịch sự, vừa tự nhiên, không bị quá khách sáo。",
+      "explanation": "Hình thức chia giống hệt thể bị động nhưng mang ý nghĩa tôn kính, chủ ngữ thực hiện hành động là người được tôn trọng (Sは).",
+      "examples": [
+        {
+          "jp": "<ruby>部長<rt>ぶちょう</rt></ruby>はコーヒーを<ruby>飲<rt>の</rt></ruby>まれますか。",
+          "vi": "Trưởng phòng uống cà phê không ạ?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_50.1.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>かれます。",
+          "vi": "Thầy/Cô viết sách.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_50.2.png"
+        },
+        {
+          "jp": "<ruby>課長<rt>かちょう</rt></ruby>は8<ruby>時<rt>じ</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>来<rt>こ</rt></ruby>られました。",
+          "vi": "Tổ trưởng đã đến công ty lúc 8 giờ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_50.3.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>はニュースを<ruby>見<rt>み</rt></ruby>られましたか。",
+          "vi": "Thầy/Cô đã xem bản tin chưa ạ?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_50.4.png"
+        },
+        {
+          "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>、<ruby>出張<rt>しゅっちょう</rt></ruby>に<ruby>行<rt>い</rt></ruby>かれます。",
+          "vi": "Giám đốc ngày mai sẽ đi công tác ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_50.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>（　　）<ruby>明日<rt>あした</rt></ruby><ruby>帰国<rt>きこく</rt></ruby>されます。",
+            "options": ["は", "に", "で", "を"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>はその<ruby>映画<rt>えいが</rt></ruby>（　　）もう<ruby>見<rt>み</rt></ruby>られましたか。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>（　　）<ruby>来<rt>こ</rt></ruby>られますか。",
+            "options": ["へ", "を", "で", "より"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>山田<rt>やまだ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>がこの<ruby>論文<rt>ろんぶん</rt></ruby>（　　）<ruby>書<rt>か</rt></ruby>かれました。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>会長<rt>かいちょう</rt></ruby>はゴルフ（　　）されますか。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>は（　　）を<ruby>読<rt>よ</rt></ruby>まれています。",
+            "options": ["新聞", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>は（　　）で<ruby>帰<rt>かえ</rt></ruby>られました。",
+            "options": ["タクシー", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は新しい（　　）を<ruby>買<rt>か</rt></ruby>われました。",
+            "options": ["車", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>は（　　）に<ruby>参加<rt>さんか</rt></ruby>されます。",
+            "options": ["会議", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>お客様<rt>おきゃくさま</rt></ruby>が（　　）を<ruby>待<rt>ま</rt></ruby>たれています。",
+            "options": ["お茶", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>はもうお<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を＿＿＿か。",
+            "options": ["食べられました", "食べました", "食べさせました", "食べていました"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>、アメリカへ＿＿＿予定です。",
+            "options": ["行かれる", "行かせる", "行かされる", "行く"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>はこの<ruby>件<rt>けん</rt></ruby>について<ruby>何<rt>なに</rt></ruby>か＿＿＿か。",
+            "options": ["言われました", "言わせました", "言ってありました", "言いました"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>はまだオフィスに＿＿＿か。",
+            "options": ["残られています", "残させています", "残ってあります", "残します"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>のパーティーに＿＿＿か。",
+            "options": ["来られます", "来させます", "来させています", "来ます"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Giám đốc đã đọc bản kế hoạch này rồi ạ?",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>はこの<ruby>企画<rt>きかく</rt></ruby><ruby>書<rt>しょ</rt></ruby>をもう<ruby>読<rt>よ</rt></ruby>まれましたか。"
+          },
+          {
+            "vi": "Thầy giáo sẽ nghỉ dạy vào ngày mai.",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>をお<ruby>休<rt>やす</rt></ruby>みされます。"
+          },
+          {
+            "vi": "Trưởng phòng vừa mới rời khỏi công ty lúc nãy rồi ạ.",
+            "jp": "<ruby>部長<rt>ぶちょう</rt></ruby>はさっき<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>出<rt>で</rt></ruby>られました。"
+          },
+          {
+            "vi": "Bác sĩ đã bắt đầu ca khám bệnh chưa ạ?",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>はもう<ruby>診察<rt>しんさつ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>められましたか。"
+          },
+          {
+            "vi": "Giám đốc ngày mai sẽ đi công tác tại Tokyo.",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>出張<rt>しゅっちょう</rt></ruby>に行かれます。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "Sは NをおVます になります",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.5rem;font-size:1.3rem;color:#ffd700;font-weight:800;width:35%;'>お ＋ V-ます<br><span style='font-size:0.85rem;color:#aaa;font-weight:normal;'>(Bỏ ます)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.6rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>になります</span><span style='color:#ff7875;font-size:0.95rem;font-weight:600;display:block;margin-top:0.3rem;'>（〜になっています）</span></td></tr></table><div style='background:rgba(255,77,79,0.1);border:1px solid rgba(255,77,79,0.3);border-radius:10px;padding:0.7rem 1.2rem;width:100%;font-size:0.95rem;color:#ffd700;text-align:left;'>⚠️ <strong>Lưu ý:</strong> Không áp dụng với động từ Nhóm 3 (する) và động từ 1 âm tiết (như 見る, 来る, 寝る...).</div></div>",
+      "meaning": "Tôn kính ngữ quy tắc (Trang trọng)",
+      "usage": "1. Cấu trúc tôn kính ngữ tiêu chuẩn, trang trọng và lịch sự hơn thể bị động (Mẫu 50)。<br>2. Công thức: お ＋ Động từ thể ます (bỏ ます) ＋ になる / になります。<br>3. Không dùng cấu trúc này với động từ nhóm 3 và động từ có 1 âm tiết trước ます (như 見る ➔ 見ます, 来る ➔ 来ます, 寝る ➔ 寝ます) — những từ này phải dùng động từ kính ngữ đặc biệt (Mẫu 52)。",
+      "explanation": "Được dùng rất phổ biến khi giao tiếp với khách hàng, đối tác, thầy cô hoặc cấp trên trong môi trường công sở.",
+      "examples": [
+        {
+          "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は ワインをお<ruby>飲<rt>の</rt></ruby>みになりますか。",
+          "vi": "Giám đốc uống rượu vang không ạ?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_51.1.png"
+        },
+        {
+          "jp": "<ruby>課長<rt>かちょう</rt></ruby>はお<ruby>客様<rt>きゃくさま</rt></ruby>にお<ruby>会<rt>あ</rt></ruby>いになります。",
+          "vi": "Tổ trưởng sẽ gặp khách hàng.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_51.2.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>はこの<ruby>本<rt>ほん</rt></ruby>をお<ruby>読<rt>よ</rt></ruby>みになりましたか。",
+          "vi": "Thầy/Cô đã đọc cuốn sách này chưa ạ?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_51.3.png"
+        },
+        {
+          "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>電話<rt>でんわ</rt></ruby>をお<ruby>話<rt>はな</rt></ruby>しになっています。",
+          "vi": "Giám đốc đang nói chuyện điện thoại.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_51.4.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>はもうお<ruby>帰<rt>かえ</rt></ruby>りになりました。",
+          "vi": "Thầy/Cô đã về rồi ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_51.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>はお<ruby>車<rt>くるま</rt></ruby>（　　）お<ruby>乗<rt>の</rt></ruby>りになります。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>（　　）お<ruby>飲<rt>の</rt></ruby>みになりますか。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>はもうお<ruby>戻<rt>もど</rt></ruby>り（　　）なりました。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>がお<ruby>待<rt>ま</rt></ruby>ち（　　）なっています。",
+            "options": ["に", "を", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>資料<rt>しりょう</rt></ruby>（　　）お<ruby>使<rt>つか</rt></ruby>いになりますか。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>は（　　）をお<ruby>決<rt>き</rt></ruby>めになりました。",
+            "options": ["日程", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>は（　　）をお<ruby>読<rt>よ</rt></ruby>みになりました。",
+            "options": ["雑誌", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>お客様<rt>おきゃくさま</rt></ruby>は（　　）でお<ruby>払<rt>はら</rt></ruby>いになりますか。",
+            "options": ["カード", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は（　　）をお<ruby>持<rt>も</rt></ruby>ちになっています。",
+            "options": ["書類", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>は（　　）をお<ruby>届<rt>とど</rt></ruby>けになりました。",
+            "options": ["荷物", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>はすでにこの<ruby>企画<rt>きかく</rt></ruby>を＿＿＿になりました。",
+            "options": ["お認め", "認め", "お認める", "お認めた"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>はどちらにお＿＿＿になりますか。",
+            "options": ["住み", "住む", "住んだ", "住ま"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいパソコンをお＿＿＿になりました。",
+            "options": ["買い", "買う", "買った", "買え"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>お客様<rt>おきゃくさま</rt></ruby>はロビーでお＿＿＿になっています。",
+            "options": ["待ち", "待つ", "待った", "待て"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>はもうこのニュースをお＿＿＿になりましたか。",
+            "options": ["聞き", "聞く", "聞いた", "聞け"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Giám đốc đã quyết định lịch trình cho chuyến công tác tuần tới.",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>出張<rt>しゅっちょう</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>をお<ruby>決<rt>き</rt></ruby>めになりました。"
+          },
+          {
+            "vi": "Thầy giáo đã đọc xong cuốn tiểu thuyết này chưa ạ?",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>はこの<ruby>小説<rt>しょうせつ</rt></ruby>をもうお<ruby>読<rt>よ</rt></ruby>みになりましたか。"
+          },
+          {
+            "vi": "Quý khách sử dụng thanh toán bằng tiền mặt hay thẻ tín dụng ạ?",
+            "jp": "<ruby>お客様<rt>おきゃくさま</rt></ruby>は<ruby>現金<rt>げんきん</rt></ruby>とカード、どちらでお<ruby>払<rt>はら</rt></ruby>いになりますか。"
+          },
+          {
+            "vi": "Trưởng phòng đang viết email gửi cho đối tác.",
+            "jp": "<ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>へのメールをお<ruby>書<rt>か</rt></ruby>きになっています。"
+          },
+          {
+            "vi": "Thầy giáo đã về nhà an toàn rồi ạ.",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>無事<rt>ぶじ</rt></ruby>にお<ruby>帰<rt>かえ</rt></ruby>りになりました。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "Tôn kính ngữ (Các từ đặc biệt - 尊敬語)",
+      "detailedStructure": "<div class='keigo-table-wrap' style='width:100%;max-width:920px;margin:0 auto;overflow-x:auto;'><table style='width:100%;border-collapse:collapse;border-radius:10px;overflow:hidden;box-shadow:0 4px 16px rgba(0,0,0,0.4);border:1px solid rgba(255,255,255,0.12);font-family:\"Noto Sans JP\",sans-serif;font-size:0.95rem;text-align:center;'><thead><tr style='background:linear-gradient(90deg, rgba(255,215,0,0.2), rgba(255,77,79,0.2), rgba(255,215,0,0.2), rgba(255,77,79,0.2));color:#ffd700;font-weight:700;border-bottom:1px solid rgba(255,255,255,0.15);font-size:0.95rem;'><th style='padding:0.5rem 0.6rem;width:22%;border-right:1px solid rgba(255,255,255,0.1);'>Từ gốc (Ý nghĩa)</th><th style='padding:0.5rem 0.6rem;width:28%;color:#ff4d4f;border-right:2px solid rgba(255,255,255,0.2);'>Tôn kính đặc biệt (尊敬語)</th><th style='padding:0.5rem 0.6rem;width:22%;border-right:1px solid rgba(255,255,255,0.1);'>Từ gốc (Ý nghĩa)</th><th style='padding:0.5rem 0.6rem;width:28%;color:#ff4d4f;'>Tôn kính đặc biệt (尊敬語)</th></tr></thead><tbody><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>行く / 来る / いる <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Đi/Đến/Ở)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'>いらっしゃる <span style='font-size:0.82rem;color:#ff9999;'>(おいでになる)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>見る <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Xem / Nhìn)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;font-size:0.95rem;'>ご<ruby>覧<rt>らん</rt></ruby>になる <span style='font-size:0.82rem;color:#ff9999;'>(ご覧になります)</span></td></tr><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.04);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>食べる / 飲む <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Ăn / Uống)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がる <span style='font-size:0.82rem;color:#ff9999;'>(召し上がります)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>知っている <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Biết)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;font-size:0.95rem;'>ご<ruby>存<rt>ぞん</rt></ruby>じです <span style='font-size:0.82rem;color:#ff9999;'>(ご存じですか)</span></td></tr><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>言う <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Nói)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'>おっしゃる <span style='font-size:0.82rem;color:#ff9999;'>(おっしゃいます)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>くれる <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Cho mình)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;font-size:0.95rem;'>くださる <span style='font-size:0.82rem;color:#ff9999;'>(くださいます)</span></td></tr><tr style='background:rgba(255,255,255,0.04);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>する <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Làm)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'>なさる <span style='font-size:0.82rem;color:#ff9999;'>(なさいます)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>寝る <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Ngủ / Nghỉ ngơi)</span></td><td style='padding:0.45rem 0.5rem;color:#ff4d4f;font-weight:700;font-size:0.95rem;'>お<ruby>休<rt>やす</rt></ruby>みになる <span style='font-size:0.82rem;color:#ff9999;'>(お休みになります)</span></td></tr></tbody></table></div>",
+      "meaning": "Tôn kính ngữ đặc biệt (Mức độ tôn kính cao nhất)",
+      "usage": "1. Các động từ đặc biệt dùng riêng để tôn vinh tối đa hành động của đối phương (cấp trên, khách hàng, giáo viên)。<br>2. Tuyệt đối KHÔNG dùng các động từ này để nói về hành động của bản thân mình。<br>3. Khi động từ đã có dạng đặc biệt thì BẮT BUỘC ưu tiên sử dụng dạng đặc biệt này thay vì chia bị động hay お〜になる。",
+      "explanation": "Đây là nhóm động từ quan trọng nhất trong Kính ngữ N3. Cần học thuộc lòng từng cặp từ tương ứng.",
+      "examples": [
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>教室<rt>きょうしつ</rt></ruby>にいらっしゃいます。",
+          "vi": "Thầy/Cô đang ở trong lớp học.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_52.1.png"
+        },
+        {
+          "jp": "<ruby>課長<rt>かちょう</rt></ruby>は コーヒーを<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がっています。",
+          "vi": "Tổ trưởng đang uống cà phê.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_52.2.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>はサッカーをなさいます。",
+          "vi": "Thầy/Cô chơi bóng đá.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_52.3.png"
+        },
+        {
+          "jp": "A<ruby>先生<rt>せんせい</rt></ruby>はいろいろなことをご<ruby>存<rt>ぞん</rt></ruby>じです。",
+          "vi": "Thầy A biết rất nhiều điều.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_52.4.png"
+        },
+        {
+          "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>かおっしゃいましたか。",
+          "vi": "Giám đốc đã nói gì thế ạ?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_52.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>田中<rt>たなか</rt></ruby><ruby>社長<rt>しゃちょう</rt></ruby>（　　）ご<ruby>存<rt>ぞん</rt></ruby>じですか。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>（　　）いらっしゃいます。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>はうなぎ（　　）<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりました。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>がそう（　　）おっしゃいました。",
+            "options": ["と", "を", "に", "で"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>写真<rt>しゃしん</rt></ruby>（　　）ご<ruby>覧<rt>らん</rt></ruby>になりましたか。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>は（　　）を<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりましたか。",
+            "options": ["お寿司", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>は（　　）にいらっしゃいます。",
+            "options": ["日本", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は（　　）をなさいます。",
+            "options": ["テニス", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>お客様<rt>おきゃくさま</rt></ruby>が（　　）をおっしゃいました。",
+            "options": ["ご意見", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>はその（　　）をご<ruby>存<rt>ぞん</rt></ruby>じです。",
+            "options": ["ニュース", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>、どうぞこちらのお<ruby>菓子<rt>かし</rt></ruby>を＿＿＿ください。",
+            "options": ["召し上がって", "食べて", "いただいて", "召し上がり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に＿＿＿。",
+            "options": ["いらっしゃいます", "参ります", "おります", "申します"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>先<rt>さき</rt></ruby>ほど<ruby>何<rt>なに</rt></ruby>と＿＿＿か。",
+            "options": ["おっしゃいました", "申しました", "申し上げました", "伺いました"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>資料<rt>しりょう</rt></ruby>はもう＿＿＿か。",
+            "options": ["ご覧になりました", "拝見しました", "見ました", "お見せしました"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>課長<rt>かちょう</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>、どちらへ＿＿＿か。",
+            "options": ["いらっしゃいます", "参ります", "伺います", "おります"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Thầy giáo đang ở trong phòng nghiên cứu ạ.",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>にいらっしゃいます。"
+          },
+          {
+            "vi": "Giám đốc dùng bữa trưa chưa ạ?",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>はもうお<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりましたか。"
+          },
+          {
+            "vi": "Quý khách đã xem qua bản tài liệu này chưa ạ?",
+            "jp": "<ruby>お客様<rt>おきゃくさま</rt></ruby>、こちらの<ruby>資料<rt>しりょう</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>になりましたか。"
+          },
+          {
+            "vi": "Trưởng phòng Tanaka biết rất rõ về đối tác này.",
+            "jp": "<ruby>田中<rt>たなか</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>はその<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>のことをよくご<ruby>存<rt>ぞん</rt></ruby>じです。"
+          },
+          {
+            "vi": "Giám đốc vừa nói là ngày mai cuộc họp sẽ bắt đầu lúc 9 giờ.",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>が9<ruby>時<rt>じ</rt></ruby>からだとおっしゃいました。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "お/ご〜ください",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.8rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;width:45%;'>お ＋ V-ます (bỏ ます)<br><span style='font-size:0.85rem;color:#aaa;font-weight:normal;'>Động từ thuần Nhật (Nhóm 1, 2)</span></td><td rowspan='2' style='background:rgba(255,77,79,0.08);padding:1rem 1.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.8rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>ください</span></td></tr><tr><td style='background:rgba(0,243,255,0.1);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 1.5rem;font-size:1.15rem;color:#00f3ff;font-weight:700;'>ご ＋ Danh từ Hán Nhật<br><span style='font-size:0.85rem;color:#aaa;font-weight:normal;'>Động từ Nhóm 3 (する)</span></td></tr></table></div>",
+      "meaning": "Xin vui lòng... / Hãy... (Yêu cầu, đề nghị kính cẩn)",
+      "usage": "1. Dùng để đưa ra lời yêu cầu, đề nghị, hướng dẫn hoặc mời đối phương làm gì đó một cách tôn kính và lịch thiệp。<br>2. Đi với động từ thuần Nhật (Nhóm 1, 2): お ＋ V-ます(bỏ ます) ＋ ください (VD: お待ちください, お入りください)。<br>3. Đi với động từ Hán Nhật (Nhóm 3): ご ＋ Danh từ ＋ ください (VD: ご確認ください, ご連絡ください)。",
+      "explanation": "Lịch sự và trang trọng hơn rất nhiều so với 〜てください. Rất phổ biến trong thông báo tại sân bay, nhà ga, khách sạn, công sở.",
+      "examples": [
+        {
+          "jp": "<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。",
+          "vi": "Xin vui lòng chờ một lát.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_53.1.png"
+        },
+        {
+          "jp": "<ruby>間違<rt>まちが</rt></ruby>えないようにご<ruby>確認<rt>かくにん</rt></ruby>ください。",
+          "vi": "Xin vui lòng kiểm tra lại để tránh sai sót.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_53.2.png"
+        },
+        {
+          "jp": "こちらの<ruby>椅子<rt>いす</rt></ruby>におかけください。",
+          "vi": "Xin vui lòng ngồi vào chiếc ghế này.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_53.3.png"
+        },
+        {
+          "jp": "<ruby>明日<rt>あした</rt></ruby>、ご<ruby>連絡<rt>れんらく</rt></ruby>ください。",
+          "vi": "Xin vui lòng liên lạc vào ngày mai.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_53.4.png"
+        },
+        {
+          "jp": "どうぞ、お<ruby>入<rt>はい</rt></ruby>りください。",
+          "vi": "Xin vui lòng đi vào ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_53.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "どうぞお<ruby>好<rt>す</rt></ruby>きな<ruby>席<rt>せき</rt></ruby>（　　）お座りください。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>名前<rt>なまえ</rt></ruby>（　　）ご<ruby>記入<rt>きにゅう</rt></ruby>ください。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>足元<rt>あしもと</rt></ruby>（　　）ご<ruby>注意<rt>ちゅうい</rt></ruby>ください。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "いつでもお<ruby>気軽<rt>きがる</rt></ruby>（　　）ご<ruby>相談<rt>そうだん</rt></ruby>ください。",
+            "options": ["に", "を", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "こちら（　　）お<ruby>並<rt>なら</rt></ruby>びください。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>内容<rt>ないよう</rt></ruby>をよく（　　）ください。",
+            "options": ["ご確認ください", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>奥<rt>おく</rt></ruby>の（　　）へお<ruby>進<rt>すす</rt></ruby>みください。",
+            "options": ["部屋", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>自由<rt>じゆう</rt></ruby>に（　　）をお<ruby>取<rt>と</rt></ruby>りください。",
+            "options": ["パンフレット", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>車内<rt>しゃない</rt></ruby>での（　　）はご<ruby>遠慮<rt>えんりょ</rt></ruby>ください。",
+            "options": ["通話", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "どうぞご（　　）ください。",
+            "options": ["覧", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>質問<rt>しつもん</rt></ruby>がある<ruby>方<rt>かた</rt></ruby>は、<ruby>手<rt>て</rt></ruby>をお＿＿＿ください。",
+            "options": ["挙げ", "挙げる", "挙げた", "挙げれば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>準備<rt>じゅんび</rt></ruby>ができるまで、こちらでお＿＿＿ください。",
+            "options": ["待ち", "待つ", "待った", "待て"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>危<rt>あぶ</rt></ruby>ないですから、<ruby>白<rt>しろ</rt></ruby>い<ruby>線<rt>せん</rt></ruby>の<ruby>内側<rt>うちがわ</rt></ruby>までお＿＿＿ください。",
+            "options": ["下がり", "下がる", "下がった", "下がれ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>必要<rt>ひつよう</rt></ruby><ruby>事項<rt>じこう</rt></ruby>をご＿＿＿ください。",
+            "options": ["記入", "記入し", "記入して", "記入され"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>遠慮<rt>えんりょ</rt></ruby>なくお＿＿＿ください。",
+            "options": ["召し上がり", "召し上がる", "召し上がって", "召し上がれ"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Xin vui lòng kiểm tra lại họ tên và địa chỉ của quý khách.",
+            "jp": "お<ruby>名前<rt>なまえ</rt></ruby>とご<ruby>住所<rt>じゅうしょ</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+          },
+          {
+            "vi": "Xin vui lòng điền thông tin vào mẫu đơn đăng ký này.",
+            "jp": "こちらの<ruby>申込<rt>もうしこ</rt></ruby>み<ruby>用紙<rt>ようし</rt></ruby>にご<ruby>記入<rt>きにゅう</rt></ruby>ください。"
+          },
+          {
+            "vi": "Xin hãy cẩn thận dưới chân khi bước xuống xe.",
+            "jp": "お<ruby>降<rt>お</rt></ruby>りの<ruby>際<rt>さい</rt></ruby>は、<ruby>足元<rt>あしもと</rt></ruby>にご<ruby>注意<rt>ちゅうい</rt></ruby>ください。"
+          },
+          {
+            "vi": "Nếu có bất kỳ thắc mắc nào, xin vui lòng liên hệ với chúng tôi bất cứ lúc nào.",
+            "jp": "ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもご<ruby>連絡<rt>れんらく</rt></ruby>ください。"
+          },
+          {
+            "vi": "Xin quý khách vui lòng giữ yên lặng trong rạp chiếu phim.",
+            "jp": "<ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby><ruby>内<rt>ない</rt></ruby>ではお<ruby>静<rt>しず</rt></ruby>かに願います（お静かにしてください）。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "おV(ます) します / ごV(nhóm 3) します",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(37,99,235,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.8rem 1.5rem;font-size:1.15rem;color:#60a5fa;font-weight:700;width:45%;'>お ＋ V-ます (bỏ ます)<br><span style='font-size:0.85rem;color:#aaa;font-weight:normal;'>Động từ thuần Nhật (Nhóm 1, 2)</span></td><td rowspan='2' style='background:rgba(37,99,235,0.08);padding:1rem 1.5rem;vertical-align:middle;'><span style='color:#3b82f6;font-size:1.6rem;font-weight:800;display:block;'>します</span><span style='color:#60a5fa;font-size:1.1rem;font-weight:700;margin-top:0.3rem;display:block;'>（いたします）</span></td></tr><tr><td style='background:rgba(37,99,235,0.06);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 1.5rem;font-size:1.15rem;color:#60a5fa;font-weight:700;'>ご ＋ Danh từ Hán Nhật<br><span style='font-size:0.85rem;color:#aaa;font-weight:normal;'>Động từ Nhóm 3 (する)</span></td></tr></table></div>",
+      "meaning": "Để tôi làm giúp... / Tôi xin phép được làm... (Khiêm nhường)",
+      "usage": "1. Dùng khi BẢN THÂN người nói thực hiện hành động nhằm giúp đỡ, phục vụ hoặc đem lại lợi ích cho đối phương (người nghe/người bề trên)。<br>2. Thể hiện sự khiêm tốn của bản thân để gián tiếp bày tỏ sự kính trọng đối phương。<br>3. Thay します bằng いたします để tăng mức độ trang trọng trong môi trường doanh nghiệp (ビジネス)。",
+      "explanation": "Chủ ngữ luôn là BẢN THÂN người nói (私 / 私たち). Hành động luôn hướng về đối phương (không dùng cho hành động đơn phương của bản thân như: お昼ご飯をお食べします ❌).",
+      "examples": [
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>がお<ruby>持<rt>も</rt></ruby>ちします。",
+          "vi": "Để tôi mang/cầm giúp cho ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_54.1.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>がお<ruby>手伝<rt>てつだ</rt></ruby>いします。",
+          "vi": "Để tôi giúp một tay ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_54.2.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>が<ruby>金閣寺<rt>きんかくじ</rt></ruby>をご<ruby>案内<rt>あんない</rt></ruby>します。",
+          "vi": "Để tôi dẫn đường tham quan chùa Vàng ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_54.3.png"
+        },
+        {
+          "jp": "<ruby>資料<rt>しりょう</rt></ruby>をご<ruby>説明<rt>せつめい</rt></ruby>します。",
+          "vi": "Tôi xin phép giải thích về tài liệu.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_54.4.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>、お<ruby>荷物<rt>にもつ</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちしましょうか。",
+          "vi": "Thầy/Cô ơi, để em mang hành lý giúp thầy/cô nhé?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_54.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>がお<ruby>荷物<rt>にもつ</rt></ruby>（　　）お<ruby>持<rt>も</rt></ruby>ちします。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>駅<rt>えき</rt></ruby>までお<ruby>送<rt>おく</rt></ruby>り（　　）ます。",
+            "options": ["し", "され", "になっ", "て"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、お<ruby>電話<rt>でんわ</rt></ruby>（　　）します。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>（　　）ご<ruby>案内<rt>あんない</rt></ruby>いたします。",
+            "options": ["を", "に", "で", "より"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>企画<rt>きかく</rt></ruby>（　　）ご<ruby>提案<rt>ていあん</rt></ruby>いたします。",
+            "options": ["を", "に", "で", "へ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>が（　　）をお<ruby>調<rt>しら</rt></ruby>べします。",
+            "options": ["スケジュール", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>会場<rt>かいじょう</rt></ruby>までご（　　）いたします。",
+            "options": ["案内", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>後<rt>のち</rt></ruby>ほど（　　）をご<ruby>連絡<rt>れんらく</rt></ruby>します。",
+            "options": ["結果", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>傘<rt>かさ</rt></ruby>をお（　　）しましょうか。",
+            "options": ["貸し", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>工場<rt>こうじょう</rt></ruby>の（　　）をご<ruby>案内<rt>あんない</rt></ruby>いたします。",
+            "options": ["見学", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>重<rt>おも</rt></ruby>そうですね。<ruby>私<rt>わたし</rt></ruby>がお＿＿＿しましょうか。",
+            "options": ["持ち", "持つ", "持った", "持て"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>をご＿＿＿いたします。",
+            "options": ["連絡", "連絡し", "連絡して", "連絡され"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>空港<rt>くうこう</rt></ruby>まで車でお＿＿＿します。",
+            "options": ["送り", "送る", "送った", "送れ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部屋<rt>へや</rt></ruby>をご＿＿＿します。",
+            "options": ["案内", "案内し", "案内して", "案内され"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>をお＿＿＿します。",
+            "options": ["運び", "運ぶ", "運んだ", "運べ"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Để tôi xách giúp chiếc túi này cho thầy ạ.",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>、そのバッグをお<ruby>持<rt>も</rt></ruby>ちしましょうか。"
+          },
+          {
+            "vi": "Tôi xin phép được giải thích chi tiết về bản kế hoạch mới.",
+            "jp": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>計画<rt>けいかく</rt></ruby>について、<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>説明<rt>せつめい</rt></ruby>いたします。"
+          },
+          {
+            "vi": "Để tôi lái xe đưa giám đốc ra sân bay.",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>、<ruby>空港<rt>くうこう</rt></ruby>までお<ruby>車<rt>くるま</rt></ruby>でお<ruby>送<rt>おく</rt></ruby>りします。"
+          },
+          {
+            "vi": "Tôi xin phép được liên lạc lại với quý khách vào chiều mai.",
+            "jp": "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、またご<ruby>連絡<rt>れんらく</rt></ruby>いたします。"
+          },
+          {
+            "vi": "Để tôi hướng dẫn quý khách đi tham quan viện bảo tàng.",
+            "jp": "<ruby>博物館<rt>はくぶつかん</rt></ruby>をご<ruby>案内<rt>あんない</rt></ruby>いたします。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "Khiêm nhường ngữ dạng bất quy tắc (Các từ đặc biệt - 謙譲語)",
+      "detailedStructure": "<div class='keigo-table-wrap' style='width:100%;max-width:920px;margin:0 auto;overflow-x:auto;'><table style='width:100%;border-collapse:collapse;border-radius:10px;overflow:hidden;box-shadow:0 4px 16px rgba(0,0,0,0.4);border:1px solid rgba(255,255,255,0.12);font-family:\"Noto Sans JP\",sans-serif;font-size:0.95rem;text-align:center;'><thead><tr style='background:linear-gradient(90deg, rgba(59,130,246,0.2), rgba(56,189,248,0.2), rgba(59,130,246,0.2), rgba(56,189,248,0.2));color:#60a5fa;font-weight:700;border-bottom:1px solid rgba(255,255,255,0.15);font-size:0.95rem;'><th style='padding:0.5rem 0.6rem;width:22%;border-right:1px solid rgba(255,255,255,0.1);'>Từ gốc (Ý nghĩa)</th><th style='padding:0.5rem 0.6rem;width:28%;color:#38bdf8;border-right:2px solid rgba(255,255,255,0.2);'>Khiêm nhường đặc biệt (謙譲語)</th><th style='padding:0.5rem 0.6rem;width:22%;border-right:1px solid rgba(255,255,255,0.1);'>Từ gốc (Ý nghĩa)</th><th style='padding:0.5rem 0.6rem;width:28%;color:#38bdf8;'>Khiêm nhường đặc biệt (謙譲語)</th></tr></thead><tbody><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>行く / 来る <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Đi / Đến)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'><ruby>参<rt>まい</rt></ruby>る <span style='font-size:0.82rem;color:#93c5fd;'>(参ります)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>見る <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Xem / Đọc)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;font-size:0.95rem;'><ruby>拝見<rt>はいけん</rt></ruby>する <span style='font-size:0.82rem;color:#93c5fd;'>(拝見します)</span></td></tr><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.04);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>いる <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Ở)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'>おる <span style='font-size:0.82rem;color:#93c5fd;'>(おります)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>聞く / 尋ねる / 訪問 <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Hỏi/Thăm)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;font-size:0.95rem;'><ruby>伺<rt>うかが</rt></ruby>う <span style='font-size:0.82rem;color:#93c5fd;'>(伺います)</span></td></tr><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>食べる / 飲む / もらう <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Ăn/Uống/Nhận)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'>いただく <span style='font-size:0.82rem;color:#93c5fd;'>(いただきます)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>会う <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Gặp đối phương)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;font-size:0.95rem;'>お<ruby>目<rt>め</rt></ruby>にかかる <span style='font-size:0.82rem;color:#93c5fd;'>(お目にかかります)</span></td></tr><tr style='border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.04);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>言う <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Nói)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'><ruby>申<rt>もう</rt></ruby>す <span style='font-size:0.82rem;color:#93c5fd;'>(申します / 申し上げる)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>知っている <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Biết)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;font-size:0.95rem;'><ruby>存<rt>ぞん</rt></ruby>じております <span style='font-size:0.82rem;color:#93c5fd;'>(存じ上げる)</span></td></tr><tr style='background:rgba(255,255,255,0.02);'><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>する <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Làm)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;border-right:2px solid rgba(255,255,255,0.2);font-size:0.95rem;'>いたす <span style='font-size:0.82rem;color:#93c5fd;'>(いたします)</span></td><td style='padding:0.45rem 0.5rem;color:#ffd700;font-weight:700;border-right:1px solid rgba(255,255,255,0.1);font-size:0.95rem;'>あげる <span style='font-size:0.82rem;color:#ccc;font-weight:normal;'>(Biếu / Tặng)</span></td><td style='padding:0.45rem 0.5rem;color:#38bdf8;font-weight:700;font-size:0.95rem;'><ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げる <span style='font-size:0.82rem;color:#93c5fd;'>(差し上げます)</span></td></tr></tbody></table></div>",
+      "meaning": "Khiêm nhường ngữ đặc biệt (Dùng cho bản thân)",
+      "usage": "1. Các động từ khiêm nhường đặc biệt dùng để hạ thấp hành động của BẢN THÂN hoặc người thuộc phe mình (đồng nghiệp, người trong gia đình) nhằm gián tiếp tôn vinh người nghe lên。<br>2. Tuyệt đối KHÔNG dùng các động từ này cho hành động của đối phương (cấp trên, khách hàng, giáo viên)。<br>3. Thường dùng trong tự giới thiệu, báo cáo công việc, chào hỏi trang trọng trong kinh doanh。",
+      "explanation": "Là đối trọng trực tiếp của Tôn kính ngữ đặc biệt (Mẫu 52). Cần nắm vững để tránh nhầm lẫn giữa chủ thể 'tôi làm' (Khiêm nhường) và 'đối phương làm' (Tôn kính).",
+      "examples": [
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>に<ruby>昨日<rt>きのう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>について<ruby>伺<rt>うかが</rt></ruby>いました。",
+          "vi": "Tôi đã hỏi thầy giáo về buổi học ngày hôm qua.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_55.1.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>はフォンと<ruby>申<rt>もう</rt></ruby>します。",
+          "vi": "Tôi tên là Phong.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_55.2.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>はベトナムから<ruby>参<rt>まい</rt></ruby>りました。",
+          "vi": "Tôi đến từ Việt Nam.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_55.3.png"
+        },
+        {
+          "jp": "<ruby>明日<rt>あした</rt></ruby>、10<ruby>時<rt>じ</rt></ruby>にそちらに<ruby>参<rt>まい</rt></ruby>ります。",
+          "vi": "Ngày mai tôi sẽ đến đó lúc 10 giờ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_55.4.png"
+        },
+        {
+          "jp": "お<ruby>名前<rt>なまえ</rt></ruby>はかねがね<ruby>伺<rt>うかが</rt></ruby>っております。",
+          "vi": "Tôi đã nghe danh tiếng của ngài từ lâu rồi ạ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_55.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>はベトナム（　　）<ruby>参<rt>まい</rt></ruby>りました。",
+            "options": ["から", "に", "で", "を"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の10<ruby>時<rt>じ</rt></ruby>にそちら（　　）<ruby>伺<rt>うかが</rt></ruby>います。",
+            "options": ["へ", "を", "で", "より"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>（　　）お<ruby>目<rt>め</rt></ruby>にかかりたいのですが。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>土産<rt>みやげ</rt></ruby>（　　）<ruby>差<rt>さ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "その<ruby>件<rt>けん</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>も<ruby>存<rt>ぞん</rt></ruby>じ（　　）おります。",
+            "options": ["て", "に", "を", "で"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>はABC<ruby>会社<rt>かいしゃ</rt></ruby>の（　　）と<ruby>申<rt>もう</rt></ruby>します。",
+            "options": ["田中", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>資料<rt>しりょう</rt></ruby>を（　　）しました。",
+            "options": ["拝見", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>茶<rt>ちゃ</rt></ruby>を（　　）。",
+            "options": ["いただきます", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>、ご（　　）へ<ruby>伺<rt>うかが</rt></ruby>います。",
+            "options": ["自宅", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>感謝<rt>かんしゃ</rt></ruby>の（　　）を<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。",
+            "options": ["気持ち", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>に<ruby>御社<rt>おんしゃ</rt></ruby>へ＿＿＿。",
+            "options": ["参ります", "いらっしゃいます", "行かれます", "おいでになります"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>が<ruby>担当<rt>たんとう</rt></ruby>の<ruby>山田<rt>やまだ</rt></ruby>と＿＿＿。",
+            "options": ["申します", "おっしゃいます", "言われます", "なさいます"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>論文<rt>ろんぶん</rt></ruby>を＿＿＿しました。",
+            "options": ["拝見", "ご覧", "見られ", "お見せ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>奥様<rt>おくさま</rt></ruby>には<ruby>一度<rt>いちど</rt></ruby>お＿＿＿にかかりました。",
+            "options": ["目", "手", "足", "顔"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>のご<ruby>意見<rt>いけん</rt></ruby>を＿＿＿たいのですが。",
+            "options": ["伺い", "いらっしゃい", "おっしゃい", "なさい"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Tôi xin phép được đến quý công ty vào lúc 2 giờ chiều mai.",
+            "jp": "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>2<ruby>時<rt>じ</rt></ruby>に<ruby>御社<rt>おんしゃ</rt></ruby>へ<ruby>伺<rt>うかが</rt></ruby>います。"
+          },
+          {
+            "vi": "Tôi tên là Tanaka của công ty thương mại ABC.",
+            "jp": "ABC<ruby>商事<rt>しょうじ</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。"
+          },
+          {
+            "vi": "Tôi đã xem qua tập tài liệu quý báu của ngài.",
+            "jp": "ご<ruby>提示<rt>ていじ</rt></ruby>いただいた<ruby>資料<rt>しりょう</rt></ruby>を<ruby>拝見<rt>はいけん</rt></ruby>いたしました。"
+          },
+          {
+            "vi": "Hôm nay tôi rất vinh hạnh được gặp mặt giám đốc.",
+            "jp": "<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>社長<rt>しゃちょう</rt></ruby>にお<ruby>目<rt>め</rt></ruby>にかかることができて<ruby>光栄<rt>こうえい</rt></ruby>です。"
+          },
+          {
+            "vi": "Tôi đã nhận được món quà vô cùng tuyệt vời từ thầy giáo.",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>からとてもすばらしいお<ruby>土産<rt>みやげ</rt></ruby>をいただきました。"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "id": "choukai-n3-nghe_phanxa-02",
+  "level": "N3",
+  "category": "nghe_phanxa",
+  "categoryName": "Nghe phản xạ (即時応答)",
+  "lessonNumber": 2,
+  "title": "Bài 2: Luyện nghe phản xạ tình huống tức thì (即時応答 第2回)",
+  "description": "Dạng bài nghe phản xạ nhanh câu giao tiếp ngắn tức thì (即時応答): Lắng nghe câu nói và các phương án đối đáp trong file âm thanh. Bấm chọn câu phản hồi phù hợp nhất: 1, 2 hoặc 3.",
+  "questions": [
+    {
+      "id": 75,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/75.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. お茶はダメなの？",
+          "meaning": "Trà thì không được à?",
+          "analysis": "Sai: Đối phương đang hỏi xin trà hoặc đồ uống."
+        },
+        {
+          "option": "2. なくてもいいよ。",
+          "meaning": "Không có cũng được mà.",
+          "analysis": "Sai: Đây là câu người đi xin đồ nói."
+        },
+        {
+          "option": "3. 水ならあるけど。",
+          "meaning": "Nếu là nước lọc thì tớ có đấy.",
+          "analysis": "ĐÚNG: Trả lời đồ uống mình hiện có sẵn ('水ならあるけど') cho bạn đang khát khô cổ họng."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「のどカラカラなんだけど、お茶か何か持ってない？→ 3. 水ならあるけど。」",
+      "explanation": "Đáp án đúng là 3 (水ならあるけど).\n- Lời thoại: Bạn than khát và hỏi xin nước uống: 「のどカラカラなんだけど、お茶か何か持ってない？」 (Cổ họng tớ khô khốc rồi, cậu có mang theo trà hay gì không?).\n- Phản hồi có nước lọc: 「水ならあるけど。」 (Nếu là nước lọc thì tớ có đấy).",
+      "scriptJp": "<p>のどカラカラなんだけど、お<ruby>茶<rt>ちゃ</rt></ruby>か<ruby>何<rt>なに</rt></ruby>か<ruby>持<rt>も</rt></ruby>ってない？<br>1. お<ruby>茶<rt>ちゃ</rt></ruby>はダメなの？<br>2. なくてもいいよ。<br><strong>3. <ruby>水<rt>みず</rt></ruby>ならあるけど。</strong></p>",
+      "scriptVi": "Cổ họng tớ khô khốc hết cả rồi, cậu có mang theo trà hay đồ gì uống được không?\n1. Trà thì không được à?\n2. Không có cũng được mà.\n3. Nếu là nước lọc thì tớ có đấy."
+    },
+    {
+      "id": 76,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/76.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 部長が伝えてくださるんですか。",
+          "meaning": "Trưởng phòng sẽ truyền đạt giúp ạ?",
+          "analysis": "Sai: Mình là người phải đi truyền đạt báo cáo cho Trưởng phòng."
+        },
+        {
+          "option": "2. どうぞよろしくお願いします。",
+          "meaning": "Xin nhờ anh/chị ạ.",
+          "analysis": "Sai: Câu nhờ vả người khác."
+        },
+        {
+          "option": "3. わかりました、報告します。",
+          "meaning": "Tôi hiểu rồi, tôi sẽ báo cáo ạ.",
+          "analysis": "ĐÚNG: Tiếp nhận chỉ thị nhắc nhở và cam kết sẽ báo cáo lại cho Trưởng phòng ('わかりました、報告します')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「今日の会議で出た意見は、部長にもきちんと伝えておくようにね。→ 3. わかりました、報告します。」",
+      "explanation": "Đáp án đúng là 3 (わかりました、報告します).\n- Lời thoại: Được giao nhiệm vụ: 「今日の会議で出た意見は、部長にもきちんと伝えておくようにね。」 (Ý kiến trong cuộc họp hôm nay, nhớ báo cáo lại cẩn thận cho Trưởng phòng nhé).\n- Nhận lệnh chuẩn mực: 「わかりました、報告します。」 (Vâng tôi hiểu rồi, tôi sẽ báo cáo lại ngay ạ).",
+      "scriptJp": "<p><ruby>今日<rt>きょう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>出<rt>で</rt></ruby>た<ruby>意見<rt>いけん</rt></ruby>は、<ruby>部長<rt>ぶちょう</rt></ruby>にもきちんと<ruby>伝<rt>つた</rt></ruby>えておくようにね。<br>1. <ruby>部長<rt>ぶちょう</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>えてくださるんですか。<br>2. どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br><strong>3. わかりました、<ruby>報告<rt>ほうこく</rt></ruby>します。</strong></p>",
+      "scriptVi": "Những ý kiến đưa ra trong cuộc họp hôm nay, nhớ phải truyền đạt báo cáo lại cẩn thận cho Trưởng phòng đấy nhé.\n1. Trưởng phòng sẽ truyền đạt giúp ạ?\n2. Xin nhờ cậy anh ạ.\n3. Tôi hiểu rồi, tôi sẽ báo cáo ạ."
+    },
+    {
+      "id": 77,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/77.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. すみません、そうしていただけますか。",
+          "meaning": "Phiền anh, anh gọi giúp tôi như vậy được không ạ.",
+          "analysis": "ĐÚNG: Khách hàng đồng ý nhận lời đề nghị giúp đỡ gọi taxi của nhân viên một cách lịch sự ('そうしていただけますか')."
+        },
+        {
+          "option": "2. あの、私は呼んでおりませんが。",
+          "meaning": "À, tôi đâu có gọi đâu ạ.",
+          "analysis": "Sai: Nhân viên đang chủ động đề nghị gọi taxi giúp."
+        },
+        {
+          "option": "3. 頼んでくださったんですか。ありがとう。",
+          "meaning": "Bạn đã gọi hộ tôi rồi đấy à? Cảm ơn nhé.",
+          "analysis": "Sai: Nhân viên mới chỉ đang đề nghị gọi chứ chưa gọi xong."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「お客様、雨が降っておりますので、タクシーをお呼びいたしましょうか。→ 1. すみません、そうしていただけますか。」",
+      "explanation": "Đáp án đúng là 1 (すみません、そうしていただけますか).\n- Lời thoại: Nhân viên đề nghị: 「お客様、雨が降っておりますので、タクシーをお呼びいたしましょうか。」 (Kính thưa quý khách, trời đang mưa để em gọi taxi giúp quý khách nhé ạ?).\n- Khách đồng ý lịch sự: 「すみません、そうしていただけますか。」 (Cảm phiền bạn gọi giúp tôi nhé).",
+      "scriptJp": "<p>お<ruby>客様<rt>きゃくさま</rt></ruby>、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っておりますので、タクシーをお<ruby>呼<rt>よ</rt></ruby>びいたしましょうか。<br><strong>1. すみません、そうしていただけますか。</strong><br>2. あの、<ruby>私<rt>わたし</rt></ruby>は<ruby>呼<rt>よ</rt></ruby>んでおりませんが。<br>3. <ruby>頼<rt>たの</rt></ruby>んでくださったんですか。ありがとう。</p>",
+      "scriptVi": "Kính thưa quý khách, vì trời đang mưa nên để em gọi taxi giúp quý khách nhé ạ?\n1. Phiền bạn, bạn gọi giúp tôi như vậy được không ạ.\n2. À, tôi đâu có gọi đâu ạ.\n3. Bạn đã gọi hộ tôi rồi à? Cảm ơn nhé."
+    },
+    {
+      "id": 78,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/78.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. え？前の方に何かあるんですか。",
+          "meaning": "Hả? Phía đằng trước có cái gì à?",
+          "analysis": "Sai: Hiểu nhầm '前' (trước đây) thành phía trước mặt."
+        },
+        {
+          "option": "2. いえ、多分ないと思いますが。",
+          "meaning": "Dạ không, tôi nghĩ là chắc chưa gặp đâu ạ.",
+          "analysis": "ĐÚNG: Trả lời phủ nhận lịch sự câu hỏi liệu trước đây hai người đã từng gặp nhau ở đâu chưa ('お目にかかったことありませんか')."
+        },
+        {
+          "option": "3. どこでなくしましたか。",
+          "meaning": "Bạn đã làm mất ở đâu thế?",
+          "analysis": "Sai: Không liên quan đến việc gặp mặt."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「あの、前にどこかで、お目にかかったことありませんか。→ 2. いえ、多分ないと思いますが。」",
+      "explanation": "Đáp án đúng là 2 (いえ、多分ないと思いますが).\n- Lời thoại: Người khác hỏi: 「あの、前にどこかで、お目にかかったことありませんか。」 (Xin lỗi, trước đây chúng ta đã từng gặp nhau ở đâu chưa nhỉ?).\n- Đáp lại lịch sự: 「いえ、多分ないと思いますが。」 (Dạ không, em nghĩ là chắc chưa đâu ạ).",
+      "scriptJp": "<p>あの、<ruby>前<rt>まえ</rt></ruby>にどこかで、お<ruby>目<rt>め</rt></ruby>にかかったことありませんか。<br>1. え？<ruby>前<rt>まえ</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かあるんですか。<br><strong>2. いえ、<ruby>多分<rt>たぶん</rt></ruby>ないと<ruby>思<rt>おも</rt></ruby>いますが。</strong><br>3. どこでなくしましたか。</p>",
+      "scriptVi": "Xin lỗi, trước đây có phải chúng ta đã từng gặp nhau ở đâu đó rồi không nhỉ?\n1. Hả? Phía trước có cái gì à?\n2. Dạ không, tôi nghĩ là chắc chưa gặp đâu ạ.\n3. Bạn đã làm mất ở đâu thế?"
+    },
+    {
+      "id": 79,
+      "subId": "5番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/79.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. じゃあ、アイスクリーム頼むよ。",
+          "meaning": "Vậy thì nhờ cậu mua giúp que kem nhé.",
+          "analysis": "ĐÚNG: Tiếp nhận lời đề nghị mua hộ đồ ở siêu thị của bạn và nhờ mua kem ('アイスクリーム頼むよ')."
+        },
+        {
+          "option": "2. ついでに牛乳買ってきてよ。",
+          "meaning": "Nhân tiện thì mua sữa mang về đi.",
+          "analysis": "Sai: Dùng 'ついでに' khi mình tự đi nhờ mua thêm, không tự nhiên bằng câu 1."
+        },
+        {
+          "option": "3. 悪いけど、今は行けないよ。",
+          "meaning": "Ngại quá nhưng bây giờ tớ không đi được.",
+          "analysis": "Sai: Người nói là người đi siêu thị chứ không rủ mình cùng đi."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「スーパー行くけど、何か買ってこようか。→ 1. じゃあ、アイスクリーム頼むよ。」",
+      "explanation": "Đáp án đúng là 1 (じゃあ、アイスクリーム頼むよ).\n- Lời thoại: Bạn ngỏ ý mua đồ hộ: 「スーパー行くけど、何か買ってこようか。」 (Tớ đi siêu thị đây, có cần mua giúp gì không?).\n- Nhờ bạn mua đồ: 「じゃあ、アイスクリーム頼むよ。」 (Vậy nhờ cậu mua giúp que kem nhé).",
+      "scriptJp": "<p>スーパー<ruby>行<rt>い</rt></ruby>くけど、<ruby>何<rt>なに</rt></ruby>か<ruby>買<rt>か</rt></ruby>ってこようか。<br><strong>1. じゃあ、アイスクリーム<ruby>頼<rt>たの</rt></ruby>むよ。</strong><br>2. ついでに<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby><ruby>買<rt>か</rt></ruby>ってきてよ。<br>3. <ruby>悪<rt>わる</rt></ruby>いけど、<ruby>今<rt>いま</rt></ruby>は<ruby>行<rt>い</rt></ruby>けないよ。</p>",
+      "scriptVi": "Tớ đi siêu thị đây, có cần tớ mua giúp cái gì mang về không?\n1. Vậy thì nhờ cậu mua giúp que kem nhé.\n2. Nhân tiện thì mua sữa mang về đi.\n3. Ngại quá nhưng bây giờ tớ không đi được."
+    },
+    {
+      "id": 80,
+      "subId": "6番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/80.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. え？いつ頃から？",
+          "meaning": "Hả? Đóng từ tầm khoảng khi nào thế?",
+          "analysis": "ĐÚNG: Bất ngờ khi nghe tin quán quen đóng cửa suốt từ dạo nọ đến giờ ('ずっと閉まってる') nên hỏi thời điểm bắt đầu đóng."
+        },
+        {
+          "option": "2. え？そんなに早い時間に？",
+          "meaning": "Hả? Đóng vào giờ sớm thế cơ à?",
+          "analysis": "Sai: Hiểu nhầm giờ đóng cửa trong ngày."
+        },
+        {
+          "option": "3. え？今日から休み？",
+          "meaning": "Hả? Nghỉ từ hôm nay à?",
+          "analysis": "Sai: Quán đã đóng cửa suốt một thời gian rồi ('ずっと閉まってる')."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「前に一緒によく行った寿司屋、もうずっと閉まってるんだよ。→ 1. え？いつ頃から？」",
+      "explanation": "Đáp án đúng là 1 (え？いつ頃から？).\n- Lời thoại: Bạn kể: 「前に一緒によく行った寿司屋、もうずっと閉まってるんだよ。」 (Quán sushi hồi trước tụi mình hay đi, đóng cửa suốt từ đợt nọ tới giờ rồi đấy).\n- Hỏi lại mốc thời gian: 「え？いつ頃から？」 (Hả? Đóng từ tầm khi nào thế?).",
+      "scriptJp": "<p><ruby>前<rt>まえ</rt></ruby>に<ruby>一緒<rt>いっしょ</rt></ruby>によく<ruby>行<rt>い</rt></ruby>った<ruby>寿司屋<rt>すしや</rt></ruby>、もうずっと<ruby>閉<rt>し</rt></ruby>まってるんだよ。<br><strong>1. え？いつ<ruby>頃<rt>ごろ</rt></ruby>から？</strong><br>2. え？そんなに<ruby>早<rt>はや</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>に？<br>3. え？<ruby>今日<rt>きょう</rt></ruby>から<ruby>休<rt>やす</rt></ruby>み？</p>",
+      "scriptVi": "Quán sushi hồi trước tụi mình hay đi cùng nhau ấy, đóng cửa suốt từ đợt nọ tới giờ rồi đấy.\n1. Hả? Đóng từ tầm khoảng khi nào thế?\n2. Hả? Vào giờ sớm thế cơ à?\n3. Hả? Nghỉ từ hôm nay à?"
+    },
+    {
+      "id": 81,
+      "subId": "7番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/81.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. え？僕、メール送ってないよ。",
+          "meaning": "Hả? Tớ đâu có gửi email đâu.",
+          "analysis": "Sai: Đối phương là người gửi mail."
+        },
+        {
+          "option": "2. ごめん、受け取ったのに返事しなくて。",
+          "meaning": "Xin lỗi cậu, tớ nhận được rồi mà lại chưa phản hồi lại.",
+          "analysis": "ĐÚNG: Xác nhận đã nhận được email của bạn gửi hôm kia và xin lỗi vì chưa kịp hồi âm ('受け取ったのに返事しなくて')."
+        },
+        {
+          "option": "3. いいよ、届けてあげるよ。",
+          "meaning": "Được chứ, để tớ mang đến cho cậu.",
+          "analysis": "Sai: Không liên quan đến việc nhận mail."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「一昨日、資料をメールで送ったんだけど、届いてる？→ 2. ごめん、受け取ったのに返事しなくて。」",
+      "explanation": "Đáp án đúng là 2 (ごめん、受け取ったのに返事しなくて).\n- Lời thoại: Bạn hỏi: 「一昨日、資料をメールで送ったんだけど、届いてる？」 (Hôm kia tớ gửi tài liệu qua mail rồi, cậu nhận được chưa?).\n- Xác nhận và xin lỗi: 「ごめん、受け取ったのに返事しなくて。」 (Xin lỗi cậu nhé, tớ nhận được rồi mà chưa kịp trả lời lại).",
+      "scriptJp": "<p><ruby>一昨日<rt>おととい</rt></ruby>、<ruby>資料<rt>しりょう</rt></ruby>をメールで<ruby>送<rt>おく</rt></ruby>ったんだけど、<ruby>届<rt>とど</rt></ruby>いてる？<br>1. え？<ruby>僕<rt>ぼく</rt></ruby>、メール<ruby>送<rt>おく</rt></ruby>ってないよ。<br><strong>2. ごめん、<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ったのに<ruby>返事<rt>へんじ</rt></ruby>しなくて。</strong><br>3. いいよ、<ruby>届<rt>とど</rt></ruby>けてあげるよ。</p>",
+      "scriptVi": "Hôm kia, tôi đã gửi tài liệu qua email rồi, bạn đã nhận được chưa?\n1. Hả? Tôi đâu có gửi email đâu.\n2. Xin lỗi cậu, tớ nhận được rồi mà lại chưa phản hồi lại.\n3. Được chứ, để tớ mang đến cho cậu."
+    },
+    {
+      "id": 82,
+      "subId": "8番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/82.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 本当、量多いですね。",
+          "meaning": "Đúng thật, lượng nhiều quá trời luôn ạ.",
+          "analysis": "ĐÚNG: Đồng tình với nhận định phần ăn của quán này quá nhiều không thể ăn hết nổi ('本当、量多いですね')."
+        },
+        {
+          "option": "2. ちょっと足りないですよね。",
+          "meaning": "Hơi thiếu một chút nhỉ.",
+          "analysis": "Sai: Trái ngược với cảm thán quá nhiều."
+        },
+        {
+          "option": "3. じゃあ、一人で食べますか。",
+          "meaning": "Vậy thì bạn ăn một mình nhé?",
+          "analysis": "Sai: Không ăn hết được chứ không phải chia người ăn."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「この店のカレー、これで一人前？こんなに食べられないですよね。→ 1. 本当、量多いですね。」",
+      "explanation": "Đáp án đúng là 1 (本当、量多いですね).\n- Lời thoại: Bạn cảm thán suất ăn: 「この店のカレー、これで一人前？こんなに食べられないですよね。」 (Cà ri quán này ngần này là một suất á? Nhiều thế này ăn sao hết nhỉ).\n- Đồng tình: 「本当、量多いですね。」 (Công nhận, nhiều thật đấy ạ).",
+      "scriptJp": "<p>この<ruby>店<rt>みせ</rt></ruby>のカレー、これで<ruby>一人前<rt>いちにんまえ</rt></ruby>？こんなに<ruby>食<rt>た</rt></ruby>べられないですよね。<br><strong>1. <ruby>本当<rt>ほんとう</rt></ruby>、<ruby>量<rt>りょう</rt></ruby><ruby>多<rt>おお</rt></ruby>いですね。</strong><br>2. ちょっと<ruby>足<rt>た</rt></ruby>りないですよね。<br>3. じゃあ、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>食<rt>た</rt></ruby>べますか。</p>",
+      "scriptVi": "Cà ri quán này, ngần này mà là một suất á? Nhiều thế này làm sao ăn hết nổi nhỉ.\n1. Đúng thật, lượng nhiều quá trời luôn ạ.\n2. Hơi thiếu một chút nhỉ.\n3. Vậy thì bạn ăn một mình nhé?"
+    },
+    {
+      "id": 83,
+      "subId": "9番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai2/83.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. うーん、それは残念だね。",
+          "meaning": "Ừm, chuyện đó đáng tiếc thật nhỉ.",
+          "analysis": "Sai: Thiếu sự thông cảm với người xin lỗi."
+        },
+        {
+          "option": "2. ううん、気にしないで。",
+          "meaning": "Không sao đâu, cậu đừng bận tâm nhé.",
+          "analysis": "ĐÚNG: Đáp lại lời xin lỗi vì bận không đi chơi được bằng câu an ủi thân thiết 'ううん、気にしないで' (Đừng bận tâm nhé)."
+        },
+        {
+          "option": "3. 本当にごめん。",
+          "meaning": "Thật sự xin lỗi cậu nhé.",
+          "analysis": "Sai: Mình là người rủ chứ không phải người thất hẹn."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「昨日はせっかくボーリングに誘ってくれたのに、行けなくて悪かったね。→ 2. ううん、気にしないで。」",
+      "explanation": "Đáp án đúng là 2 (ううん、気にしないで).\n- Lời thoại: Bạn xin lỗi vì thất hẹn: 「昨日はせっかくボーリングに誘ってくれたのに、行けなくて悪かったね。」 (Hôm qua cậu cất công rủ đi bowling mà tớ không đi được, ngại quá).\n- An ủi bạn: 「ううん、気にしないで。」 (Không sao đâu, cậu đừng để bụng nhé).",
+      "scriptJp": "<p><ruby>昨日<rt>きのう</rt></ruby>はせっかくボーリングに<ruby>誘<rt>さそ</rt></ruby>ってくれたのに、<ruby>行<rt>い</rt></ruby>けなくて<ruby>悪<rt>わる</rt></ruby>かったね。<br>1. うーん、それは<ruby>残念<rt>ざんねん</rt></ruby>だね。<br><strong>2. ううん、<ruby>気<rt>き</rt></ruby>にしないで。</strong><br>3. <ruby>本当<rt>ほんとう</rt></ruby>にごめん。</p>",
+      "scriptVi": "Hôm qua bạn cất công rủ tớ đi chơi bowling thế mà tớ lại không đi được, ngại với cậu quá.\n1. Ừm, chuyện đó đáng tiếc thật nhỉ.\n2. Không sao đâu, cậu đừng bận tâm nhé.\n3. Thật sự xin lỗi cậu nhé."
+    }
+  ]
+}

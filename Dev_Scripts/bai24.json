@@ -1,0 +1,757 @@
+{
+    "name": "Bài 24",
+    "x": 770,
+    "y": 600,
+    "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Các Phó Từ Chỉ Sự Biến Đổi & Thời Gian (Bài 24)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:36%;color:#b30000;'>Bản chất & Sắc thái biến đổi</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;'>すでに</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Hoàn tất ở hiện tại:</b> Hành động/trạng thái đã diễn ra và hoàn thành xong từ trước</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Đã... / ... rồi</b><br><em>VD: 桜はすでに咲いた。<br>VD: 準備はすでに出来ている。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#059669;text-align:center;'>少しずつ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Từng lượng nhỏ:</b> Thay đổi chậm rãi, tích lũy từng chút một theo thời gian</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Từng chút một</b><br><em>VD: 日本語は少しずつ進んでいる。<br>VD: 体重が少しずつ減っている。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;'>次第に</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Tiến trình tự nhiên:</b> Chuyển biến từ từ, tuần tự theo dòng thời gian tự nhiên</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Từ từ, dần dần...</b><br><em>VD: 病気は次第に良くなっている。<br>VD: 数が次第に増えている。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;'>ますます</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Lũy tiến mạnh mẽ:</b> Mức độ ngày càng gia tăng, cao hơn hẳn so với trước</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Ngày càng...</b><br><em>VD: ますます元気になった。<br>VD: ますます難しくなっている。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#7c3aed;text-align:center;'>そのうち</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Tương lai gần (Trấn an):</b> Rồi thời gian trôi qua sự việc sẽ tự nhiên sáng tỏ/ổn định</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Sớm thôi / Chẳng mấy chốc</b><br><em>VD: そのうちわかるでしょう。<br>VD: そのうち慣れるよ。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#b45309;text-align:center;'>今に</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Dự đoán quả quyết / Cảnh báo:</b> Sớm muộn gì điều đó cũng nhất định sẽ thành sự thật</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Chốc lát, sớm thôi / Sớm muộn gì</b><br><em>VD: 君も今にわかるだろう。<br>VD: 彼は今に来るでしょう。</em></td></tr></tbody></table><div style='background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;'><div style='text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;'><h3 style='margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;'>🎌 BẢNG TỔNG HỢP 3 NHÓM PHÓ TỪ TIÊU BIỂU (BÀI 24) 🎌</h3><span style='font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;'>Hệ thống phân biệt giữa: Đã hoàn tất (すでに), Tiến trình biến đổi (少しずつ・次第に・ますます) & Tương lai (そのうち・今に)</span></div><div style='display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:1.2rem;'><div style='border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;'>Nhóm 1: Hoàn tất hiện tại</div><div style='padding:0.8rem;background:#eff6ff;text-align:center;'><b style='color:#2563eb;font-size:1.05rem;'>すでに</b><br><span style='font-size:0.85rem;color:#64748b;'>Đã hoàn thành xong trạng thái / hành động từ trước</span></div></div><div style='border:2px solid #059669;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#d1fae5;color:#065f46;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #059669;'>Nhóm 2: Mức độ biến đổi</div><div style='padding:0.8rem;background:#ecfdf5;text-align:center;'><b style='color:#059669;font-size:1.05rem;'>少しずつ ➔ 次第に ➔ ますます</b><br><span style='font-size:0.85rem;color:#64748b;'>Từng chút nhỏ ➔ Tuần tự tự nhiên ➔ Ngày càng tăng mạnh</span></div></div><div style='border:2px solid #7c3aed;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#ede9fe;color:#5b21b6;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #7c3aed;'>Nhóm 3: Dự đoán tương lai</div><div style='padding:0.8rem;background:#f5f3ff;text-align:center;'><b style='color:#7c3aed;font-size:1.05rem;'>そのうち (Trấn an) ／ 今に (Quả quyết)</b><br><span style='font-size:0.85rem;color:#64748b;'>Rồi sẽ ổn thôi ／ Sớm muộn gì cũng xảy ra</span></div></div></div></div>",
+    "items": [
+        {
+            "structure": "すでに",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>すでに (Đã... / ... rồi)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;font-size:1.2rem;color:#ffd700;font-weight:800;text-align:center;width:35%;' rowspan='3'>すでに<br><span style='font-size:0.85rem;color:#aaa;'>(既に)</span></td><td style='background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-た</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Đã hoàn tất hành động trong quá khứ</span></td></tr><tr><td style='background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-ている</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Đang ở trong trạng thái đã hoàn thành</span></td></tr><tr><td style='background:rgba(255,77,79,0.08);padding:0.75rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-てある</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Đã được chuẩn bị / đăng tải sẵn</span></td></tr></tbody></table></div>",
+            "meaning": "Đã... / ... rồi",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả hành động hoặc trạng thái đã hoàn thành xong ở thời điểm hiện tại.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Thường đi kèm với thể quá khứ (<code>〜た</code>), trạng thái tiếp diễn (<code>〜ている</code>) hoặc kết quả (<code>〜てある</code>).<br>&nbsp;&nbsp;+ Mang sắc thái trang trọng, văn viết hoặc khẳng định dứt khoát hơn so với <code>もう</code>.<br>• <b>Kết hợp:</b> <code>すでに ＋ V-た / V-ている / V-てある</code>.",
+            "explanation": "Chỉ sự việc đã hoàn thành hoặc trạng thái đã được xác lập từ trước đó, hiện tại không còn là việc sắp diễn ra nữa.",
+            "examples": [
+                {
+                    "jp": "<ruby>桜<rt>さくら</rt></ruby>はすでに<ruby>咲<rt>さ</rt></ruby>いた。",
+                    "vi": "Hoa anh đào đã nở rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_101.1.png"
+                },
+                {
+                    "jp": "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>はすでに<ruby>出来<rt>でき</rt></ruby>ている。",
+                    "vi": "Việc chuẩn bị bữa ăn đã hoàn thành rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_101.2.png"
+                },
+                {
+                    "jp": "この<ruby>事件<rt>じけん</rt></ruby>はすでに<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>載<rt>の</rt></ruby>ってある。",
+                    "vi": "Vụ việc này đã được đăng trên báo sẵn rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_101.3.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>はすでに<ruby>会社<rt>かいしゃ</rt></ruby>（　　）<ruby>出発<rt>しゅっぱつ</rt></ruby>した。",
+                        "options": ["を", "で", "に", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>はすでに<ruby>全員<rt>ぜんいん</rt></ruby>（　　）<ruby>配<rt>くば</rt></ruby>られた。",
+                        "options": ["に", "で", "を", "から"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>新幹線<rt>しんかんせん</rt></ruby>のチケットはすでに（　　）ある。",
+                        "options": ["<ruby>買<rt>か</rt></ruby>って", "<ruby>買<rt>か</rt></ruby>う", "<ruby>買<rt>か</rt></ruby>った", "<ruby>買<rt>か</rt></ruby>おう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>手紙<rt>てがみ</rt></ruby>はすでに<ruby>相手<rt>あいて</rt></ruby>に（　　）はずだ。",
+                        "options": ["<ruby>届<rt>とど</rt></ruby>いた", "<ruby>届<rt>とど</rt></ruby>く", "<ruby>届<rt>とど</rt></ruby>け", "<ruby>届<rt>とど</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>宿題<rt>しゅくだい</rt></ruby>はすでに（　　）しまった。",
+                        "options": ["<ruby>終<rt>お</rt></ruby>わって", "<ruby>終<rt>お</rt></ruby>わる", "<ruby>終<rt>お</rt></ruby>わり", "<ruby>終<rt>お</rt></ruby>われば"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "すでに（　　）を<ruby>過<rt>す</rt></ruby>ぎているので、もう<ruby>申込<rt>もうしこ</rt></ruby>めない。",
+                        "options": ["<ruby>締切<rt>しめきり</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>らはすでに（　　）しているそうだ。",
+                        "options": ["<ruby>結婚<rt>けっこん</rt></ruby>", "<ruby>散歩<rt>さんぽ</rt></ruby>", "<ruby>買い物<rt>かいもの</rt></ruby>", "<ruby>掃除<rt>そうじ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "すでに（　　）の<ruby>時間<rt>じかん</rt></ruby>になっている。",
+                        "options": ["<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "その<ruby>情報<rt>じょうほう</rt></ruby>はすでに（　　）で<ruby>公開<rt>こうかい</rt></ruby>されている。",
+                        "options": ["ネット", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>机<rt>つくえ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "すでに（　　）が<ruby>満席<rt>まんせき</rt></ruby>になっていた。",
+                        "options": ["<ruby>座席<rt>ざせき</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "<ruby>荷物<rt>にもつ</rt></ruby>はすでに（　　）あります。",
+                        "options": ["<ruby>送<rt>おく</rt></ruby>って", "<ruby>送<rt>おく</rt></ruby>る", "<ruby>送<rt>おく</rt></ruby>った", "<ruby>送<rt>おく</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>はすでに<ruby>真相<rt>しんそう</rt></ruby>を（　　）いた。",
+                        "options": ["<ruby>知<rt>し</rt></ruby>って", "<ruby>知<rt>し</rt></ruby>る", "<ruby>知<rt>し</rt></ruby>り", "<ruby>知<rt>し</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのビルはすでに（　　）された。",
+                        "options": ["<ruby>完成<rt>かんせい</rt></ruby>", "<ruby>完成<rt>かんせい</rt></ruby>だ", "<ruby>完成<rt>かんせい</rt></ruby>な", "<ruby>完成<rt>かんせい</rt></ruby>に"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>電車<rt>でんしゃ</rt></ruby>はすでに（　　）しまった。",
+                        "options": ["<ruby>行<rt>い</rt></ruby>って", "<ruby>行<rt>い</rt></ruby>く", "<ruby>行<rt>い</rt></ruby>き", "<ruby>行<rt>い</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>問題<rt>もんだい</rt></ruby>はすでに（　　）している。",
+                        "options": ["<ruby>解決<rt>かいけつ</rt></ruby>", "<ruby>解決<rt>かいけつ</rt></ruby>だ", "<ruby>解決<rt>かいけつ</rt></ruby>な", "<ruby>解決<rt>かいけつ</rt></ruby>の"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Hợp đồng này đã được ký kết từ tháng trước rồi.",
+                        "jp": "この<ruby>契約<rt>けいやく</rt></ruby>はすでに<ruby>先月<rt>せんげつ</rt></ruby><ruby>結<rt>むす</rt></ruby>ばれた。"
+                    },
+                    {
+                        "vi": "Khi tôi đến ga thì tàu đã rời đi mất rồi.",
+                        "jp": "<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>には、<ruby>電車<rt>でんしゃ</rt></ruby>はすでに出てしまっていた。"
+                    },
+                    {
+                        "vi": "Kế hoạch cho chuyến du lịch đã được quyết định xong xuôi rồi.",
+                        "jp": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>はすでに<ruby>決<rt>き</rt></ruby>まっている。"
+                    },
+                    {
+                        "vi": "Tôi đã thanh toán xong toàn bộ tiền viện phí rồi.",
+                        "jp": "<ruby>治療費<rt>ちりょうひ</rt></ruby>はすでにすべて<ruby>支払<rt>しはら</rt></ruby>ってある。"
+                    },
+                    {
+                        "vi": "Kết quả cuộc thi đã được thông báo trên trang chủ rồi.",
+                        "jp": "コンテストの<ruby>結果<rt>けっか</rt></ruby>はすでにホームページで<ruby>発表<rt>はっぴょう</rt></ruby>された。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "少しずつ",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>少しずつ (Từng chút một)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.85rem 1rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:35%;'>少しずつ<br><span style='font-size:0.85rem;color:#aaa;'>(すこしずつ)</span></td><td style='background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-ている / V-ていく / V-てくる</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Biến đổi từng lượng nhỏ, tích lũy dần theo thời gian</span></td></tr></tbody></table></div>",
+            "meaning": "Từng chút một",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả sự thay đổi dần dần về lượng hoặc mức độ theo thời gian.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Nhấn mạnh vào từng bước nhỏ, từng lượng nhỏ tích lũy dần.<br>&nbsp;&nbsp;+ Thường đi với các động từ chỉ sự biến đổi (<code>進む</code>, <code>減る</code>, <code>増える</code>, <code>変わる</code>).<br>• <b>Kết hợp:</b> <code>少しずつ ＋ V-ている / V-ていく / V-てくる</code>.",
+            "explanation": "Diễn tả quá trình tiến triển một cách chậm rãi, ổn định và có sự tích lũy qua từng giai đoạn nhỏ.",
+            "examples": [
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>進<rt>すす</rt></ruby>んでいる。",
+                    "vi": "Tiếng Nhật của anh ấy đang tiến bộ lên từng chút một.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_102.1.png"
+                },
+                {
+                    "jp": "<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>減<rt>へ</rt></ruby>っています。",
+                    "vi": "Cân nặng của tôi đang giảm dần từng chút một.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_102.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>貯金<rt>ちょきん</rt></ruby>を少しずつ（　　）いこう。",
+                        "options": ["<ruby>増<rt>ふ</rt></ruby>やして", "<ruby>増<rt>ふ</rt></ruby>やす", "<ruby>増<rt>ふ</rt></ruby>えた", "<ruby>増<rt>ふ</rt></ruby>やそう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>毎日<rt>まいにち</rt></ruby>少しずつ<ruby>単語<rt>たんご</rt></ruby>（　　）<ruby>覚<rt>おぼ</rt></ruby>える。",
+                        "options": ["を", "に", "で", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>生活<rt>せいかつ</rt></ruby>のペースに少しずつ（　　）きた。",
+                        "options": ["<ruby>慣<rt>な</rt></ruby>れて", "<ruby>慣<rt>な</rt></ruby>れる", "<ruby>慣<rt>な</rt></ruby>れた", "<ruby>慣<rt>な</rt></ruby>れよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>雪<rt>ゆき</rt></ruby>が少しずつ（　　）始めている。",
+                        "options": ["<ruby>溶<rt>と</rt></ruby>け", "<ruby>溶<rt>と</rt></ruby>ける", "<ruby>溶<rt>と</rt></ruby>けた", "<ruby>溶<rt>と</rt></ruby>けよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>との<ruby>距離<rt>きょり</rt></ruby>が少しずつ（　　）いく。",
+                        "options": ["<ruby>縮<rt>ちぢ</rt></ruby>まって", "<ruby>縮<rt>ちぢ</rt></ruby>まる", "<ruby>縮<rt>ちぢ</rt></ruby>まり", "<ruby>縮<rt>ちぢ</rt></ruby>まった"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "少しずつ（　　）が<ruby>高<rt>たか</rt></ruby>くなって春らしくなってきた。",
+                        "options": ["<ruby>気温<rt>きおん</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>怪我<rt>けが</rt></ruby>の（　　）が少しずつ<ruby>回復<rt>かいふく</rt></ruby>している。",
+                        "options": ["<ruby>状態<rt>じょうたい</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>注文<rt>ちゅうもん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "少しずつ（　　）を<ruby>返済<rt>へんさい</rt></ruby>していく。",
+                        "options": ["<ruby>借金<rt>しゃっきん</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>町<rt>まち</rt></ruby>の（　　）が少しずつ変わってきた。",
+                        "options": ["<ruby>風景<rt>ふうけい</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>仕事<rt>しごと</rt></ruby>の（　　）が少しずつ身についてきた。",
+                        "options": ["コツ", "<ruby>事故<rt>じこ</rt></ruby>", "<ruby>故障<rt>こしょう</rt></ruby>", "<ruby>怪我<rt>けが</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "<ruby>空<rt>そら</rt></ruby>が少しずつ（　　）なってきた。",
+                        "options": ["<ruby>明<rt>あか</rt></ruby>るく", "<ruby>明<rt>あか</rt></ruby>るい", "<ruby>明<rt>あか</rt></ruby>るさ", "<ruby>明<rt>あか</rt></ruby>るければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>水<rt>みず</rt></ruby>を少しずつ（　　）ください。",
+                        "options": ["<ruby>入<rt>い</rt></ruby>れて", "<ruby>入<rt>い</rt></ruby>れる", "<ruby>入<rt>い</rt></ruby>れた", "<ruby>入<rt>い</rt></ruby>れよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>練習<rt>れんしゅう</rt></ruby>して少しずつ（　　）ようになった。",
+                        "options": ["<ruby>泳<rt>およ</rt></ruby>げる", "<ruby>泳<rt>およ</rt></ruby>ぎ", "<ruby>泳<rt>およ</rt></ruby>ぐ", "<ruby>泳<rt>およ</rt></ruby>いだ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>熱<rt>ねつ</rt></ruby>が少しずつ（　　）きた。",
+                        "options": ["<ruby>下<rt>さ</rt></ruby>がって", "<ruby>下<rt>さ</rt></ruby>がる", "<ruby>下<rt>さ</rt></ruby>がり", "<ruby>下<rt>さ</rt></ruby>がった"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>体<rt>からだ</rt></ruby>が少しずつ（　　）動くようになった。",
+                        "options": ["<ruby>楽<rt>らく</rt></ruby>に", "<ruby>楽<rt>らく</rt></ruby>な", "<ruby>楽<rt>らく</rt></ruby>だ", "<ruby>楽<rt>らく</rt></ruby>さ"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Hãy đọc sách tiếng Nhật từng chút một mỗi ngày.",
+                        "jp": "<ruby>毎日<rt>まいにち</rt></ruby>少しずつ<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みましょう。"
+                    },
+                    {
+                        "vi": "Vết thương ở chân đang lành lại từng chút một.",
+                        "jp": "<ruby>足<rt>あし</rt></ruby>の<ruby>傷<rt>きず</rt></ruby>は少しずつ<ruby>治<rt>なお</rt></ruby>ってきている。"
+                    },
+                    {
+                        "vi": "Tôi tiết kiệm tiền từng chút một để đi du lịch.",
+                        "jp": "<ruby>旅行<rt>りょこう</rt></ruby>のために少しずつお<ruby>金<rt>かね</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めている。"
+                    },
+                    {
+                        "vi": "Thời tiết đang ấm dần lên từng chút một.",
+                        "jp": "<ruby>気候<rt>きこう</rt></ruby>が少しずつ<ruby>暖<rt>あたた</rt></ruby>かくなっている。"
+                    },
+                    {
+                        "vi": "Sau khi luyện tập, tôi đã hiểu bài từng chút một.",
+                        "jp": "<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねて、少しずつわかるようになった。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "次第に",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>次第に (Từ từ, dần dần)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.85rem 1rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:35%;'>次第に<br><span style='font-size:0.85rem;color:#aaa;'>(しだいに)</span></td><td style='background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-てくる / V-ていく / A-くなる</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Chuyển biến tự nhiên, tuần tự theo dòng thời gian</span></td></tr></tbody></table></div>",
+            "meaning": "Từ từ, dần dần",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả một hành động hoặc trạng thái biến đổi một cách từ từ, tuần tự theo thời gian.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Mang tính văn phong tự nhiên, diễn tả quy luật hoặc xu hướng biến đổi tự nhiên.<br>&nbsp;&nbsp;+ Thường đi kèm với các động từ biến đổi trạng thái (<code>良くなる</code>, <code>増える</code>, <code>暖かくなる</code>...).<br>• <b>Kết hợp:</b> <code>次第に ＋ V-てくる / V-ていく / V-ている / A-くなる</code>.",
+            "explanation": "Nhấn mạnh vào tiến trình thay đổi liên tục và tự nhiên của sự vật sự việc theo dòng thời gian trôi qua.",
+            "examples": [
+                {
+                    "jp": "<ruby>病気<rt>びょうき</rt></ruby>は<ruby>次第<rt>しだい</rt></ruby>に<ruby>良<rt>よ</rt></ruby>くなっています。",
+                    "vi": "Bệnh tình đang dần dần trở nên tốt hơn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_103.1.png"
+                },
+                {
+                    "jp": "<ruby>参加者<rt>さんかしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>次第<rt>しだい</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えています。",
+                    "vi": "Số lượng người tham gia đang dần dần tăng lên.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_103.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>雨<rt>あめ</rt></ruby>は次第に（　　）なってきた。",
+                        "options": ["<ruby>強<rt>つよ</rt></ruby>く", "<ruby>強<rt>つよ</rt></ruby>い", "<ruby>強<rt>つよ</rt></ruby>さ", "<ruby>強<rt>つよ</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>夕方<rt>ゆうがた</rt></ruby>になると、<ruby>外<rt>そと</rt></ruby>は次第に（　　）なってくる。",
+                        "options": ["<ruby>暗<rt>くら</rt></ruby>く", "<ruby>暗<rt>くら</rt></ruby>い", "<ruby>暗<rt>くら</rt></ruby>さ", "<ruby>暗<rt>くら</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>春<rt>はる</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づき、<ruby>日<rt>ひ</rt></ruby>が次第に（　　）なってきた。",
+                        "options": ["<ruby>長<rt>なが</rt></ruby>く", "<ruby>長<rt>なが</rt></ruby>い", "<ruby>長<rt>なが</rt></ruby>さ", "<ruby>長<rt>なが</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>町<rt>まち</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>が次第に（　　）いった。",
+                        "options": ["<ruby>変<rt>か</rt></ruby>わって", "<ruby>変<rt>か</rt></ruby>わる", "<ruby>変<rt>か</rt></ruby>わり", "<ruby>変<rt>か</rt></ruby>えた"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>緊張<rt>きんちょう</rt></ruby>が次第に（　　）きた。",
+                        "options": ["ほぐれて", "ほぐれる", "ほぐれた", "ほぐれよう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "次第に（　　）が<ruby>回復<rt>かいふく</rt></ruby>して青空が広がった。",
+                        "options": ["<ruby>天気<rt>てんき</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>風<rt>かぜ</rt></ruby>の（　　）が次第に<ruby>収<rt>おさ</rt></ruby>まってきた。",
+                        "options": ["<ruby>勢<rt>いきお</rt></ruby>い", "<ruby>色<rt>いろ</rt></ruby>", "<ruby>味<rt>あじ</rt></ruby>", "<ruby>声<rt>こえ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "次第に（　　）が<ruby>悪化<rt>あっか</rt></ruby>してきたので<ruby>心配<rt>しんぱい</rt></ruby>だ。",
+                        "options": ["<ruby>景気<rt>けいき</rt></ruby>", "<ruby>散歩<rt>さんぽ</rt></ruby>", "<ruby>掃除<rt>そうじ</rt></ruby>", "<ruby>買物<rt>かいもの</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>会場<rt>かいじょう</rt></ruby>の（　　）が次第に盛り上がってきた。",
+                        "options": ["<ruby>熱気<rt>ねっき</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "次第に（　　）がなくなってきた。",
+                        "options": ["<ruby>自信<rt>じしん</rt></ruby>", "<ruby>地震<rt>じしん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "<ruby>秋<rt>あき</rt></ruby>になり、<ruby>葉<rt>は</rt></ruby>が次第に（　　）きた。",
+                        "options": ["<ruby>色<rt>いろ</rt></ruby>づいて", "<ruby>色<rt>いろ</rt></ruby>づく", "<ruby>色<rt>いろ</rt></ruby>づき", "<ruby>色<rt>いろ</rt></ruby>づいた"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>声<rt>こえ</rt></ruby>が次第に（　　）なっていった。",
+                        "options": ["<ruby>小<rt>ちい</rt></ruby>さく", "<ruby>小<rt>ちい</rt></ruby>さい", "<ruby>小<rt>ちい</rt></ruby>ささ", "<ruby>小<rt>ちい</rt></ruby>さければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>夜<rt>よる</rt></ruby>が（　　）につれて、次第に静かになる。",
+                        "options": ["<ruby>更<rt>ふ</rt></ruby>ける", "<ruby>更<rt>ふ</rt></ruby>け", "<ruby>更<rt>ふ</rt></ruby>けた", "<ruby>更<rt>ふ</rt></ruby>けよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>霧<rt>きり</rt></ruby>が次第に（　　）きた。",
+                        "options": ["<ruby>晴<rt>は</rt></ruby>れて", "<ruby>晴<rt>は</rt></ruby>れる", "<ruby>晴<rt>は</rt></ruby>れ", "<ruby>晴<rt>は</rt></ruby>れた"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>記憶<rt>きおく</rt></ruby>が次第に（　　）なってきた。",
+                        "options": ["あいまい", "あいまいな", "あいまいに", "あいまいさ"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Cơn bão đang dần dần tiến gần vào đất liền.",
+                        "jp": "<ruby>台風<rt>たいふう</rt></ruby>が次第に<ruby>本土<rt>ほんど</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づいている。"
+                    },
+                    {
+                        "vi": "Nỗi lo lắng trong lòng tôi dần dần tan biến.",
+                        "jp": "<ruby>心<rt>こころ</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>が次第に<ruby>消<rt>き</rt></ruby>えていった。"
+                    },
+                    {
+                        "vi": "Trời về chiều dần dần trở nên se lạnh.",
+                        "jp": "<ruby>夕暮<rt>ゆうぐ</rt></ruby>れになり、次第に<ruby>肌寒<rt>はだざむ</rt></ruby>くなってきた。"
+                    },
+                    {
+                        "vi": "Số người sử dụng dịch vụ này đang dần dần tăng lên.",
+                        "jp": "このサービスを<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が次第に<ruby>増<rt>ふ</rt></ruby>えている。"
+                    },
+                    {
+                        "vi": "Hai người họ dần dần hiểu nhau nhiều hơn.",
+                        "jp": "<ruby>二人<rt>ふたり</rt></ruby>は次第にお<ruby>互<rt>たが</rt></ruby>いを<ruby>理解<rt>りかい</rt></ruby>し<ruby>合<rt>あ</rt></ruby>えるようになった。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "ますます",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>ますます (Ngày càng...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.85rem 1rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:35%;'>ますます</td><td style='background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-ていく / A-くなる / A-になる</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Gia tăng mạnh mẽ về mức độ, quy mô so với trước</span></td></tr></tbody></table></div>",
+            "meaning": "Ngày càng...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả mức độ hoặc trạng thái đang tiếp tục gia tăng mạnh mẽ, liên tục hơn so với trước.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Nhấn mạnh mức độ lũy tiến (đã nhiều nay còn nhiều hơn, đã khó nay còn khó hơn).<br>&nbsp;&nbsp;+ Thường đi với động từ chỉ sự phát triển, tính từ (<code>〜くなる</code>, <code>〜になる</code>, <code>〜ていく</code>).<br>• <b>Kết hợp:</b> <code>ますます ＋ V-ていく / A-くなる / A-になる</code>.",
+            "explanation": "Diễn tả sự tăng tiến vượt bậc hoặc gia tăng liên tục về cường độ, quy mô, tính chất của sự việc so với giai đoạn trước.",
+            "examples": [
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>運動<rt>うんどう</rt></ruby>してますます<ruby>元気<rt>げんき</rt></ruby>になった。",
+                    "vi": "Nhờ vận động mà anh ấy ngày càng trở nên khỏe mạnh hơn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_104.1.png"
+                },
+                {
+                    "jp": "この<ruby>問題<rt>もんだい</rt></ruby>はますます<ruby>難<rt>むずか</rt></ruby>しくなっている。",
+                    "vi": "Vấn đề này ngày càng trở nên khó khăn hơn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_104.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>彼女<rt>かのじょ</rt></ruby>はますます（　　）なってきた。",
+                        "options": ["<ruby>綺麗<rt>きれい</rt></ruby>", "<ruby>綺麗<rt>きれい</rt></ruby>だ", "<ruby>綺麗<rt>きれい</rt></ruby>の", "<ruby>綺麗<rt>きれい</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>物価<rt>ぶっか</rt></ruby>がますます（　　）なって生活が大変だ。",
+                        "options": ["<ruby>高<rt>たか</rt></ruby>く", "<ruby>高<rt>たか</rt></ruby>い", "<ruby>高<rt>たか</rt></ruby>さ", "<ruby>高<rt>たか</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>競争<rt>きょうそう</rt></ruby>はますます（　　）している。",
+                        "options": ["<ruby>激化<rt>げきか</rt></ruby>", "<ruby>激化<rt>げきか</rt></ruby>だ", "<ruby>激化<rt>げきか</rt></ruby>な", "<ruby>激化<rt>げきか</rt></ruby>の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>への<ruby>信頼<rt>しんらい</rt></ruby>がますます（　　）なった。",
+                        "options": ["<ruby>強<rt>つよ</rt></ruby>く", "<ruby>強<rt>つよ</rt></ruby>い", "<ruby>強<rt>つよ</rt></ruby>さ", "<ruby>強<rt>つよ</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>今後<rt>こんご</rt></ruby>の<ruby>活躍<rt>かつやく</rt></ruby>がますます（　　）される。",
+                        "options": ["<ruby>期待<rt>きたい</rt></ruby>", "<ruby>期待<rt>きたい</rt></ruby>だ", "<ruby>期待<rt>きたい</rt></ruby>な", "<ruby>期待<rt>きたい</rt></ruby>の"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "<ruby>科学<rt>かがく</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>がますます（　　）していく。",
+                        "options": ["<ruby>発展<rt>はってん</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>寒<rt>さむ</rt></ruby>さがますます（　　）になってきた。",
+                        "options": ["<ruby>厳<rt>きび</rt></ruby>しく", "<ruby>甘<rt>あま</rt></ruby>く", "<ruby>優<rt>やさ</rt></ruby>しく", "<ruby>楽<rt>たの</rt></ruby>しく"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>の（　　）がますます<ruby>悪化<rt>あっか</rt></ruby>しているようだ。",
+                        "options": ["<ruby>体調<rt>たいちょう</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>机<rt>つくえ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この<ruby>歌手<rt>かしゅ</rt></ruby>の（　　）がますます高まっている。",
+                        "options": ["<ruby>人気<rt>にんき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>", "<ruby>気候<rt>きこう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>仕事<rt>しごと</rt></ruby>の（　　）がますます増えてきた。",
+                        "options": ["<ruby>量<rt>りょう</rt></ruby>", "<ruby>線<rt>せん</rt></ruby>", "<ruby>角<rt>かど</rt></ruby>", "<ruby>橋<rt>はし</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "<ruby>夜<rt>よる</rt></ruby>になって<ruby>風<rt>かぜ</rt></ruby>がますます（　　）吹いてきた。",
+                        "options": ["<ruby>強<rt>つよ</rt></ruby>く", "<ruby>強<rt>つよ</rt></ruby>い", "<ruby>強<rt>つよ</rt></ruby>さ", "<ruby>強<rt>つよ</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>がますます（　　）なってきた。",
+                        "options": ["<ruby>楽<rt>たの</rt></ruby>しく", "<ruby>楽<rt>たの</rt></ruby>しい", "<ruby>楽<rt>たの</rt></ruby>しさ", "<ruby>楽<rt>たの</rt></ruby>しければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>状況<rt>じょうきょう</rt></ruby>がますます（　　）になってきた。",
+                        "options": ["<ruby>複雑<rt>ふくざつ</rt></ruby>", "<ruby>複雑<rt>ふくざつ</rt></ruby>な", "<ruby>複雑<rt>ふくざつ</rt></ruby>に", "<ruby>複雑<rt>ふくざつ</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼女<rt>かのじょ</rt></ruby>はますます（　　）話すようになった。",
+                        "options": ["<ruby>上手<rt>じょうず</rt></ruby>に", "<ruby>上手<rt>じょうず</rt></ruby>な", "<ruby>上手<rt>じょうず</rt></ruby>だ", "<ruby>上手<rt>じょうず</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>降<rt>ふ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>がますます（　　）なってきた。",
+                        "options": ["<ruby>激<rt>はげ</rt></ruby>しく", "<ruby>激<rt>はげ</rt></ruby>しい", "<ruby>激<rt>はげ</rt></ruby>しさ", "<ruby>激<rt>はげ</rt></ruby>しければ"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Sau khi đi du học, tiếng Nhật của cô ấy ngày càng giỏi hơn.",
+                        "jp": "<ruby>留学<rt>りゅうがく</rt></ruby>してから、<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>はますます<ruby>上手<rt>じょうず</rt></ruby>になった。"
+                    },
+                    {
+                        "vi": "Càng về cuối năm thì công việc ngày càng bận rộn hơn.",
+                        "jp": "<ruby>年末<rt>ねんまつ</rt></ruby>になるにつれて、<ruby>仕事<rt>しごと</rt></ruby>がますます<ruby>忙<rt>いそが</rt></ruby>しくなる。"
+                    },
+                    {
+                        "vi": "Trí tuệ nhân tạo ngày càng đóng vai trò quan trọng trong xã hội.",
+                        "jp": "AIは<ruby>社会<rt>しゃかい</rt></ruby>でますます<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たしている。"
+                    },
+                    {
+                        "vi": "Mối quan hệ giữa hai công ty ngày càng trở nên tốt đẹp.",
+                        "jp": "<ruby>両社<rt>りょうしゃ</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>はますます<ruby>良好<rt>りょうこう</rt></ruby>になっている。"
+                    },
+                    {
+                        "vi": "Sau khi nghe giải thích, tôi ngày càng thấy tò mò hơn.",
+                        "jp": "<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、ますます<ruby>興味<rt>きょうみ</rt></ruby>が<ruby>湧<rt>わ</rt></ruby>いてきた。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "そのうち",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>そのうち (Ngày nào đó, sớm thôi / Chẳng mấy chốc)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.85rem 1rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:35%;'>そのうち</td><td style='background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-る / V-るだろう / V-るでしょう</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Chắc chắn sẽ xảy ra/hiểu ra trong tương lai gần</span></td></tr></tbody></table></div>",
+            "meaning": "Ngày nào đó, sớm thôi / Chẳng mấy chốc",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả một hành động hoặc sự việc chắc chắn sẽ xảy ra trong tương lai gần sắp tới mà không cần tác động quá mức.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Dùng khi muốn trấn an, khuyên bảo (rồi thời gian trôi qua sẽ tự nhiên ổn/sẽ hiểu).<br>&nbsp;&nbsp;+ Thường đi với câu thể tương lai hoặc phỏng đoán (<code>〜だろう</code>, <code>〜でしょう</code>, <code>〜るよ</code>).<br>• <b>Kết hợp:</b> <code>そのうち ＋ V-る / V-るだろう / V-るでしょう</code>.",
+            "explanation": "Mang sắc thái tự nhiên, khuyên nhủ rằng không cần quá nôn nóng, cứ để thời gian trôi qua thì sự việc sẽ đạt được kết quả hoặc sáng tỏ.",
+            "examples": [
+                {
+                    "jp": "この<ruby>意味<rt>いみ</rt></ruby>はそのうちわかるでしょう。",
+                    "vi": "Ý nghĩa của điều này rồi chẳng mấy chốc bạn sẽ hiểu ra thôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_105.1.png"
+                },
+                {
+                    "jp": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>にはそのうち<ruby>慣<rt>な</rt></ruby>れるよ。",
+                    "vi": "Công việc mới thì rồi sớm muộn bạn cũng sẽ quen nhanh thôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_105.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>雨<rt>あめ</rt></ruby>はそのうち（　　）だろう。",
+                        "options": ["やむ", "やんで", "やんだ", "やもう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうちまた（　　）しましょう。",
+                        "options": ["お<ruby>会<rt>あ</rt></ruby>い", "<ruby>会<rt>あ</rt></ruby>う", "<ruby>会<rt>あ</rt></ruby>った", "<ruby>会<rt>あ</rt></ruby>おう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちもそのうち（　　）はずだ。",
+                        "options": ["<ruby>変<rt>か</rt></ruby>わる", "<ruby>変<rt>か</rt></ruby>わって", "<ruby>変<rt>か</rt></ruby>わり", "<ruby>変<rt>か</rt></ruby>えた"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち<ruby>良<rt>よ</rt></ruby>いことが（　　）よ。",
+                        "options": ["ある", "あって", "あった", "ありそう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>怒<rt>おこ</rt></ruby>りもそのうち（　　）だろう。",
+                        "options": ["<ruby>収<rt>おさ</rt></ruby>まる", "<ruby>収<rt>おさ</rt></ruby>まって", "<ruby>収<rt>おさ</rt></ruby>まり", "<ruby>収<rt>おさ</rt></ruby>まった"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "そのうち（　　）から<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>く</rt></ruby>るだろう。",
+                        "options": ["<ruby>彼<rt>かれ</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち（　　）で<ruby>遊<rt>あそ</rt></ruby>びに行きましょう。",
+                        "options": ["みんな", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち（　　）が<ruby>治<rt>なお</rt></ruby>るから、ゆっくり休んで。",
+                        "options": ["<ruby>風邪<rt>かぜ</rt></ruby>", "<ruby>写真<rt>しゃしん</rt></ruby>", "<ruby>辞書<rt>じしょ</rt></ruby>", "<ruby>時計<rt>とけい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち（　　）が<ruby>明<rt>あ</rt></ruby>けるよ。",
+                        "options": ["<ruby>夜<rt>よる</rt></ruby>", "<ruby>味<rt>あじ</rt></ruby>", "<ruby>声<rt>こえ</rt></ruby>", "<ruby>色<rt>いろ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち（　　）が<ruby>分<rt>わ</rt></ruby>かるようになる。",
+                        "options": ["<ruby>違<rt>ちが</rt></ruby>い", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "そのうち<ruby>自分<rt>じぶん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>を（　　）たい。",
+                        "options": ["<ruby>持<rt>も</rt></ruby>ち", "<ruby>持<rt>も</rt></ruby>つ", "<ruby>持<rt>も</rt></ruby>って", "<ruby>持<rt>も</rt></ruby>とう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち<ruby>真相<rt>しんそう</rt></ruby>が（　　）になるだろう。",
+                        "options": ["<ruby>明<rt>あき</rt></ruby>らか", "<ruby>明<rt>あき</rt></ruby>らかな", "<ruby>明<rt>あき</rt></ruby>らかに", "<ruby>明<rt>あき</rt></ruby>らかさ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち<ruby>生活<rt>せいかつ</rt></ruby>が（　　）なるよ。",
+                        "options": ["<ruby>楽<rt>らく</rt></ruby>に", "<ruby>楽<rt>らく</rt></ruby>な", "<ruby>楽<rt>らく</rt></ruby>だ", "<ruby>楽<rt>らく</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち（　　）できるようになるから諦めないで。",
+                        "options": ["<ruby>合格<rt>ごうかく</rt></ruby>", "<ruby>合格<rt>ごうかく</rt></ruby>だ", "<ruby>合格<rt>ごうかく</rt></ruby>な", "<ruby>合格<rt>ごうかく</rt></ruby>に"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そのうち（　　）に行きますね。",
+                        "options": ["<ruby>遊<rt>あそ</rt></ruby>び", "<ruby>遊<rt>あそ</rt></ruby>ぶ", "<ruby>遊<rt>あそ</rt></ruby>んで", "<ruby>遊<rt>あそ</rt></ruby>ぼう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Thời tiết xấu như thế này thì sớm muộn cũng sẽ tạnh thôi.",
+                        "jp": "こんなひどい<ruby>天気<rt>てんき</rt></ruby>もそのうち<ruby>晴<rt>は</rt></ruby>れるだろう。"
+                    },
+                    {
+                        "vi": "Nếu tiếp tục luyện tập, chẳng mấy chốc bạn sẽ nói trôi chảy thôi.",
+                        "jp": "<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>ければ、そのうちペラペラに<ruby>話<rt>はな</rt></ruby>せるようになるよ。"
+                    },
+                    {
+                        "vi": "Ngày nào đó tôi nhất định sẽ đến thăm Nhật Bản.",
+                        "jp": "そのうちぜひ<ruby>日本<rt>にほん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れたいと<ruby>思<rt>おも</rt></ruby>っている。"
+                    },
+                    {
+                        "vi": "Bạn không cần nóng vội, chẳng mấy chốc kết quả cũng sẽ có thôi.",
+                        "jp": "<ruby>焦<rt>あせ</rt></ruby>らなくても、そのうち<ruby>結果<rt>けっか</rt></ruby>は<ruby>出<rt>で</rt></ruby>るよ。"
+                    },
+                    {
+                        "vi": "Những vất vả hiện tại rồi sớm muộn cũng sẽ trở thành kỷ niệm đẹp.",
+                        "jp": "<ruby>今<rt>いま</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>もそのうちいい<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になるだろう。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "今に",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>今に (Chốc lát, sớm thôi / Chẳng mấy chốc)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.85rem 1rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:35%;'>今に<br><span style='font-size:0.85rem;color:#aaa;'>(いまに)</span></td><td style='background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;'><span style='color:#ff4d4f;font-weight:800;font-size:1.15rem;'>V-るだろう / V-るでしょう / V-るぞ</span><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Dự đoán quả quyết / cảnh báo việc sớm muộn sẽ xảy ra</span></td></tr></tbody></table></div>",
+            "meaning": "Chốc lát, sớm thôi / Chẳng mấy chốc (Sớm muộn gì)",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả một sự kiện hoặc hành động sẽ xảy ra trong tương lai rất gần hoặc sớm muộn gì cũng xảy ra.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Thường mang sắc thái cảnh báo, dự đoán mạnh mẽ hoặc quả quyết điều gì đó chắc chắn sẽ đến.<br>&nbsp;&nbsp;+ Thường đi cùng với các đuôi dự đoán, suy đoán chắc chắn (<code>〜だろう</code>, <code>〜でしょう</code>).<br>• <b>Kết hợp:</b> <code>今に ＋ V-るだろう / V-るでしょう / V-るぞ</code>.",
+            "explanation": "Dùng khi người nói muốn khẳng định với niềm tin hoặc sự cảnh báo chắc chắn rằng một sự việc nào đó không sớm thì muộn nhất định sẽ thành hiện thực.",
+            "examples": [
+                {
+                    "jp": "<ruby>君<rt>きみ</rt></ruby>も<ruby>今<rt>いま</rt></ruby>にわかるだろう。",
+                    "vi": "Cậu rồi cũng sẽ hiểu ra sớm thôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_106.1.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>今<rt>いま</rt></ruby>に<ruby>来<rt>く</rt></ruby>るでしょう。",
+                    "vi": "Anh ấy chốc nữa/sớm muộn sẽ đến thôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_106.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "そんな<ruby>運転<rt>うんてん</rt></ruby>をしていると、今に<ruby>事故<rt>じこ</rt></ruby>（　　）<ruby>起<rt>お</rt></ruby>こすぞ。",
+                        "options": ["を", "に", "で", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>は今に（　　）を<ruby>結<rt>むす</rt></ruby>ぶだろう。",
+                        "options": ["<ruby>実<rt>み</rt></ruby>", "<ruby>花<rt>はな</rt></ruby>", "<ruby>草<rt>くさ</rt></ruby>", "<ruby>木<rt>き</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>雨<rt>あめ</rt></ruby>が今にも（　　）そうだ。",
+                        "options": ["<ruby>降<rt>ふ</rt></ruby>り", "<ruby>降<rt>ふ</rt></ruby>る", "<ruby>降<rt>ふ</rt></ruby>った", "<ruby>降<rt>ふ</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今に<ruby>後悔<rt>こうかい</rt></ruby>（　　）ことになるぞ。",
+                        "options": ["する", "して", "した", "しよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>は今に<ruby>大物<rt>おおもの</rt></ruby>に（　　）だろう。",
+                        "options": ["なる", "なって", "なり", "なった"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "そんな<ruby>不摂生<rt>ふせっせい</rt></ruby>をしていると、今に（　　）を<ruby>壊<rt>こわ</rt></ruby>すよ。",
+                        "options": ["<ruby>体<rt>からだ</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>机<rt>つくえ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今に<ruby>私<rt>わたし</rt></ruby>の（　　）が<ruby>正<rt>ただ</rt></ruby>しかったとわかるはずだ。",
+                        "options": ["<ruby>主張<rt>しゅちょう</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>注文<rt>ちゅうもん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>嘘<rt>うそ</rt></ruby>をついていると、今に（　　）を<ruby>失<rt>うしな</rt></ruby>うぞ。",
+                        "options": ["<ruby>信用<rt>しんよう</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今に（　　）が<ruby>明<rt>あき</rt></ruby>らかになるだろう。",
+                        "options": ["<ruby>真実<rt>しんじつ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今に（　　）で<ruby>有名<rt>ゆうめい</rt></ruby>になってみせる。",
+                        "options": ["<ruby>世界<rt>せかい</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "<ruby>油断<rt>ゆだん</rt></ruby>していると、今に<ruby>痛<rt>いた</rt></ruby>い<ruby>目<rt>め</rt></ruby>に（　　）ぞ。",
+                        "options": ["あう", "あって", "あい", "あった"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>才能<rt>さいのう</rt></ruby>は今に<ruby>世<rt>よ</rt></ruby>に（　　）られるだろう。",
+                        "options": ["<ruby>認<rt>みと</rt></ruby>め", "<ruby>認<rt>みと</rt></ruby>める", "<ruby>認<rt>みと</rt></ruby>み", "<ruby>認<rt>みと</rt></ruby>ま"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今に（　　）ことの<ruby>重大<rt>じゅうだい</rt></ruby>さに<ruby>気<rt>き</rt></ruby>づくだろう。",
+                        "options": ["した", "する", "して", "しよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今にきっと（　　）してみせるよ。",
+                        "options": ["<ruby>成功<rt>せいこう</rt></ruby>", "<ruby>成功<rt>せいこう</rt></ruby>だ", "<ruby>成功<rt>せいこう</rt></ruby>な", "<ruby>成功<rt>せいこう</rt></ruby>に"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>悪事<rt>あくじ</rt></ruby>は今に（　　）されるだろう。",
+                        "options": ["<ruby>発覚<rt>はっかく</rt></ruby>", "<ruby>発覚<rt>はっかく</rt></ruby>だ", "<ruby>発覚<rt>はっかく</rt></ruby>な", "<ruby>発覚<rt>はっかく</rt></ruby>に"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Nếu không chăm chỉ học hành, sớm muộn gì bạn cũng sẽ hối hận đấy.",
+                        "jp": "<ruby>真面目<rt>まじめ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>しないと、今に<ruby>後悔<rt>こうかい</rt></ruby>するよ。"
+                    },
+                    {
+                        "vi": "Rồi sớm muộn gì mọi người cũng sẽ công nhận tài năng của anh ấy thôi.",
+                        "jp": "今にみんなが<ruby>彼<rt>かれ</rt></ruby>の<ruby>才能<rt>さいのう</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めるようになるだろう。"
+                    },
+                    {
+                        "vi": "Cứ tiêu xài hoang phí như thế thì chẳng mấy chốc bạn sẽ hết sạch tiền đấy.",
+                        "jp": "そんなに<ruby>無駄遣<rt>むだづか</rt></ruby>いをしていると、今にお<ruby>金<rt>かね</rt></ruby>がなくなるぞ。"
+                    },
+                    {
+                        "vi": "Sớm muộn gì dự án này cũng sẽ mang lại thành công vang dội.",
+                        "jp": "このプロジェクトは今に<ruby>大<rt>おお</rt></ruby>きな<ruby>成功<rt>せいこう</rt></ruby>を<ruby>収<rt>おさ</rt></ruby>めるだろう。"
+                    },
+                    {
+                        "vi": "Chốc nữa trời sẽ tạnh mưa thôi, chúng ta hãy đợi một chút nhé.",
+                        "jp": "今に<ruby>雨<rt>あめ</rt></ruby>もやむでしょうから、少し<ruby>待<rt>ま</rt></ruby>ちましょう。"
+                    }
+                ]
+            }
+        }
+    ]
+}

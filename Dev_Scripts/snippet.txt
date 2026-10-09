@@ -1,0 +1,5 @@
+﻿N3: [
+            {
+                name: "Bài 1",
+                x: 10, y: 50,
+                comparison: "<table class='grammar-comparison-table' style='width: 100%; border-collapse: collapse; margin-bottom: 2rem; background: #fdfaf6; color: #111; text-align: center; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.2);'><thead><tr><th colspan='3' style='border: 1px solid #333; padding: 1rem; font-size: 1.2rem; font-weight: 700; font-family: \"Noto Sans JP\", sans

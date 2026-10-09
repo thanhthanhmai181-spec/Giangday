@@ -1,0 +1,76 @@
+{
+  "id": "dokkai-n3-dientu-01",
+  "level": "N3",
+  "category": "dientu",
+  "categoryName": "Điền từ vào đoạn văn",
+  "lessonNumber": 1,
+  "title": "Máy Bán Hàng Tự Động Biết Nói (話す自動販売機)",
+  "timeLimit": 360,
+  "passage": "<p>わたしの<ruby>家<rt>いえ</rt></ruby>の<ruby>近所<rt>きんじょ</rt></ruby>には<ruby>一台<rt>いちだい</rt></ruby>の<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>があります。ふつうの<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>の<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>に<ruby>見<rt>み</rt></ruby>えますが、<span class='cloze-blank' data-qid='20'>[ 20 ]</span> <ruby>自動販売機<rt>じどうはんばいき</rt></ruby>は<ruby>話<rt>はな</rt></ruby>すことができます。たとえば、<ruby>朝<rt>あさ</rt></ruby>、<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、「おはようございます」と<ruby>話<rt>はな</rt></ruby>しかけてきたり、<ruby>買<rt>か</rt></ruby>った<ruby>後<rt>あと</rt></ruby>には、「いってらっしゃい」と<ruby>言<rt>い</rt></ruby>ってくれたりします。それから、<ruby>夜<rt>よる</rt></ruby>、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>に、「お<ruby>疲<rt>つか</rt></ruby>れさまでした」と<span class='cloze-blank' data-qid='21'>[ 21 ]</span>のを<ruby>見<rt>み</rt></ruby>たことがあります。</p><p><ruby>最初<rt>さいしょ</rt></ruby>はとてもびっくりしました。<ruby>機械<rt>きかい</rt></ruby>がしゃべるのは、アニメや<ruby>映画<rt>えいが</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だけだと<ruby>思<rt>おも</rt></ruby>っていたからです。わたしがよく<ruby>見<rt>み</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>も<ruby>人間<rt>にんげん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じようにしゃべったり、<ruby>歩<rt>ある</rt></ruby>いたりしています。<span class='cloze-blank' data-qid='22'>[ 22 ]</span>、<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しかけられるなんて、まるでアニメの<ruby>世界<rt>せかい</rt></ruby>にいるようだと<ruby>思<rt>おも</rt></ruby>いました。</p><p><ruby>今<rt>いま</rt></ruby>は、<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>が「いってらっしゃい」と<ruby>話<rt>はな</rt></ruby>しかけてくるのにも<ruby>慣<rt>な</rt></ruby>れて、<ruby>心<rt>こころ</rt></ruby>で「いってきます」と<ruby>答<rt>こた</rt></ruby>えています。もしいつか、<ruby>歩<rt>ある</rt></ruby>く<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>ができても、<ruby>今<rt>いま</rt></ruby>はもう <span class='cloze-blank' data-qid='23'>[ 23 ]</span> かもしれません。</p>",
+  "fullTranslation": "Ở gần nhà tôi có một chiếc máy bán hàng tự động. Trông nó giống như một chiếc máy bán đồ uống bình thường, nhưng chiếc máy bán hàng tự động ĐÓ lại có thể nói chuyện. Ví dụ, vào buổi sáng khi đứng cạnh máy, nó sẽ bắt chuyện chào 'Chào buổi sáng', hay sau khi mua hàng xong nó sẽ chúc 'Bạn đi nhé'. Hơn nữa, vào buổi tối, tôi từng thấy nó nói 'Bạn đã vất vả rồi' với người vừa mua nước.\n\nBan đầu tôi đã vô cùng ngạc nhiên, vì tôi từng nghĩ máy móc biết nói chỉ có trong phim hoạt hình hay điện ảnh mà thôi. Những cỗ máy tôi hay xem trong phim cũng vừa nói chuyện, vừa đi lại giống như con người. VÌ VẬY, khi được một chiếc máy bán hàng tự động bắt chuyện, tôi cảm thấy như mình đang ở trong thế giới hoạt hình vậy.\n\nBây giờ, tôi đã quen với việc máy bán hàng tự động chào 'Bạn đi nhé', và trong lòng tôi cũng đáp lại 'Tôi đi đây'. Giả sử một ngày nào đó có xuất hiện máy bán hàng tự động biết đi chăng nữa, thì có lẽ bây giờ tôi CŨNG SẼ KHÔNG CÒN NGẠC NHIÊN NỮA.",
+  "vocabulary": [
+    { "word": "自動販売機", "hiragana": "じどうはんばいき", "meaning": "Máy bán hàng tự động" },
+    { "word": "話しかける", "hiragana": "はなしかける", "meaning": "Bắt chuyện / Mở lời nói chuyện" },
+    { "word": "びっくりする", "hiragana": "びっくりする", "meaning": "Ngạc nhiên / Giật mình" },
+    { "word": "慣れる", "hiragana": "なれる", "meaning": "Quen với..." }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜てくれる", "meaning": "Ai đó làm việc gì cho mình (thể hiện sự cảm kích)" },
+    { "pattern": "〜なんて", "meaning": "Cái thứ như... / Đến mức như... (thể hiện sự ngạc nhiên)" },
+    { "pattern": "まるで〜ようだ", "meaning": "Cứ như thể là... / Giống hệt như là..." }
+  ],
+  "questions": [
+    {
+      "id": 20,
+      "question": "[ 20 ] に入る最も適当なものはどれですか。",
+      "options": [
+        "この",
+        "その",
+        "あの",
+        "どの"
+      ],
+      "answer": 1,
+      "evidence": "「ふつうの飲み物の自動販売機に見えますが、[ 20 ] 自動販売機は話すことができます。」",
+      "explanation": "Đáp án 2 (その) đúng. Trong văn bản, khi nhắc lại một đối tượng vừa được giới thiệu ở câu trước ('一台の自動販売機') thì dùng từ chỉ định 'その' (chỉ định theo văn mạch)."
+    },
+    {
+      "id": 21,
+      "question": "[ 21 ] に入る最も適当なものはどれですか。",
+      "options": [
+        "言っている",
+        "言った",
+        "言おう",
+        "言え"
+      ],
+      "answer": 0,
+      "evidence": "「飲み物を買った人に、「お疲れさまでした。」と [ 21 ] のを見たことがあります。」",
+      "explanation": "Đáp án 1 (言っている) đúng. Cấu trúc '[Hành động đang diễn ra] + のを見る' (Nhìn thấy việc ai đó đang làm gì) cần chia ở thể tiếp diễn V-ている."
+    },
+    {
+      "id": 22,
+      "question": "[ 22 ] に入る最も適当なものはどれですか。",
+      "options": [
+        "すると",
+        "だから",
+        "しかし",
+        "または"
+      ],
+      "answer": 1,
+      "evidence": "「わたしがよく見る機械も人間と同じようにしゃべったり、歩いたりしています。[ 22 ]、自動販売機に話しかけられるなんて、まるでアニメの世界にいるようだと思いました。」",
+      "explanation": "Đáp án 2 (だから) đúng. Vế trước giải thích robot trong anime thường biết nói -> 'Vì vậy' (だから) khi gặp máy bán nước biết nói thì có cảm tưởng như lạc vào thế giới anime."
+    },
+    {
+      "id": 23,
+      "question": "[ 23 ] に入る最も適当なものはどれですか。",
+      "options": [
+        "びっくりしない",
+        "びっくりする",
+        "びっくりした",
+        "びっくりしている"
+      ],
+      "answer": 0,
+      "evidence": "「自動販売機が「いってらっしゃい」と話しかけてくるのにも慣れて…もしいつか、歩く自動販売機ができても、今はもう [ 23 ] かもしれません。」",
+      "explanation": "Đáp án 1 (びっくりしない) đúng. Vì tác giả đã quen với máy biết nói rồi ('慣れて'), nên dù tương lai có máy biết đi chăng nữa thì 'bây giờ đã KHÔNG CÒN NGẠC NHIÊN NỮA' (今はもうびっくりしないかもしれません)."
+    }
+  ]
+}

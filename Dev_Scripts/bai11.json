@@ -1,0 +1,703 @@
+{
+  "name": "Bài 11",
+  "x": 360,
+  "y": 260,
+  "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Nguyện Vọng, Yêu Cầu & Lời Khuyên (Bài 11)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:30%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;'>Đối tượng & Sắc thái</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ていただきたい<br>〜てもらいたい<br>〜て欲しい</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Mong người khác làm giúp mình</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Muốn ai đó làm việc gì cho mình (người làm là đối phương).<br><em>VD: 先生に見ていただきたい。(Muốn thầy xem giúp)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜させていただきたい<br>〜させてもらいたい<br>〜させて欲しい</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Xin phép bản thân được làm</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Muốn đối phương cho phép mình được làm việc gì (người làm là tôi).<br><em>VD: 私にやらせてください。(Hãy cho phép tôi làm)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜といい / 〜ばいい<br>〜たらいい</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Ước muốn / Lời khuyên nhẹ</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Ước gì / Giá mà sự việc tốt đẹp xảy ra; hoặc khuyên người khác nên làm.<br><em>VD: 合格できたらいいなあ。(Ước gì đỗ kỳ thi)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜こと</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Nội quy / Chỉ thị / Mệnh lệnh</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Quy định bắt buộc phải làm hoặc không được làm trong nội quy, thông báo.<br><em>VD: 廊下を走らないこと。(Không được chạy ở hành lang)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜べき(だ / ではない)<br>〜たらどうか</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Đạo đức / Đề xuất thử làm</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Nên / Không nên làm theo lẽ thường; hoặc gợi ý đối phương thử làm xem sao.<br><em>VD: 約束は守るべきだ。(Nên giữ lời hứa)</em></td></tr></tbody></table>",
+  "items": [
+    {
+      "structure": "〜ていただきたい / 〜てもらいたい / 〜て欲しい",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:400px;'><tr><td rowspan='2' style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 2rem;font-size:1.25rem;color:#ffd700;font-weight:700;vertical-align:middle;'>V-て<br><span style='font-size:1.05rem;color:#ff7875;'>(V-ないで)</span></td><td style='background:rgba(255,77,79,0.08);padding:0.8rem 2.5rem;border-bottom:1px solid rgba(255,255,255,0.1);'><span style='color:#ff4d4f;font-size:1.4rem;font-weight:800;display:block;'>いただきたい <span style='font-size:0.9rem;color:#ffd700;'>(Lịch sự nhất - cấp trên)</span></span></td></tr><tr><td style='background:rgba(255,77,79,0.05);padding:0.8rem 2.5rem;'><span style='color:#ff7875;font-size:1.3rem;font-weight:700;display:block;'>もらいたい / 欲しい <span style='font-size:0.9rem;color:#aaa;'>(Ngang hàng / Thân mật)</span></span></td></tr></table></div>",
+      "meaning": "Muốn ai đó làm (hoặc không làm) việc gì cho mình",
+      "usage": "1. Dùng để bày tỏ nguyện vọng muốn người khác thực hiện một hành động nào đó mang lại lợi ích cho bản thân mình (người thực hiện hành động là đối phương)。<br>2. Phân cấp mức độ lịch sự: 〜ていただきたい (trang trọng, dùng với cấp trên, khách hàng, giáo viên) > 〜てもらいたい (lịch sự thông thường) > 〜てほしい (thân mật, dùng với bạn bè, người thân)。<br>3. Khi muốn người khác KHÔNG làm gì đó thì dùng dạng 〜ないでいただきたい / 〜ないでもらいたい / 〜ないでほしい。",
+      "explanation": "Khác với 〜たい (muốn chính mình làm), cụm cấu trúc này luôn hướng tới hành động của NGƯỜI KHÁC. Trợ từ chỉ người thực hiện hành động thường là に (VD: 先生に見ていただきたい).",
+      "examples": [
+        {
+          "jp": "この<ruby>書類<rt>しょるい</rt></ruby>、ちょっと<ruby>見<rt>み</rt></ruby>ていただきたいですが。",
+          "vi": "Tôi muốn bạn xem giúp tôi tài liệu này một chút...",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_41.1.png"
+        },
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>悩<rt>なや</rt></ruby>みを<ruby>聞<rt>き</rt></ruby>いてもらいたい。",
+          "vi": "Tôi muốn anh ấy lắng nghe những nỗi niềm/trăn trở của mình.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_41.2.png"
+        },
+        {
+          "jp": "ずっと<ruby>僕<rt>ぼく</rt></ruby>のそばにいて<ruby>欲<rt>ほ</rt></ruby>しい。",
+          "vi": "Tôi muốn em luôn ở bên cạnh anh.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_41.3.png"
+        },
+        {
+          "jp": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でタバコを<ruby>吸<rt>す</rt></ruby>わないで<ruby>欲<rt>ほ</rt></ruby>しい。",
+          "vi": "Tôi muốn bạn không hút thuốc ở trong phòng.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_41.4.png"
+        },
+        {
+          "jp": "<ruby>先生<rt>せんせい</rt></ruby>にこの<ruby>作文<rt>さくぶん</rt></ruby>を<ruby>直<rt>なお</rt></ruby>していただきたいです。",
+          "vi": "Tôi muốn thầy/cô sửa giúp tôi bài văn này.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_41.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>田中<rt>たなか</rt></ruby>さん（　　）この<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってもらいたい。",
+            "options": ["に", "を", "へ", "で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>（　　）<ruby>推薦<rt>すいせん</rt></ruby><ruby>状<rt>じょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていただきたいです。",
+            "options": ["に", "を", "が", "で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>親友<rt>しんゆう</rt></ruby>（　　）<ruby>本当<rt>ほんとう</rt></ruby>のことを<ruby>話<rt>はな</rt></ruby>してほしい。",
+            "options": ["に", "を", "へ", "より"],
+            "answer": 0
+          },
+          {
+            "question": "これ<ruby>以上<rt>いじょう</rt></ruby>、<ruby>迷惑<rt>めいわく</rt></ruby>をかけない（　　）ほしい。",
+            "options": ["で", "に", "を", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>（　　）ご<ruby>意見<rt>いけん</rt></ruby>をいただきたいのですが。",
+            "options": ["に", "を", "で", "より"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>専門家<rt>せんもんか</rt></ruby>に（　　）を<ruby>教<rt>おし</rt></ruby>えていただきたいです。",
+            "options": ["アドバイス", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>に私の（　　）を<ruby>理解<rt>りかい</rt></ruby>してもらいたい。",
+            "options": ["気持ち", "財布", "靴下", "傘"],
+            "answer": 0
+          },
+          {
+            "question": "みんなに（　　）を<ruby>守<rt>まも</rt></ruby>ってほしい。",
+            "options": ["ルール", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>詳<rt>くわ</rt></ruby>しく（　　）していただきたい。",
+            "options": ["診察", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>友達<rt>ともだち</rt></ruby>に（　　）を<ruby>撮<rt>と</rt></ruby>ってもらいたい。",
+            "options": ["写真", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>社長<rt>しゃちょう</rt></ruby>にこの<ruby>企画<rt>きかく</rt></ruby>を＿＿＿いただきたいです。",
+            "options": ["承認して", "承認する", "承認した", "承認すれば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>弟<rt>おとうと</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>を＿＿＿ほしい。",
+            "options": ["片付けて", "片付ける", "片付けた", "片付けない"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>夜遅<rt>よるおそ</rt></ruby>くに<ruby>電話<rt>でんわ</rt></ruby>を＿＿＿ほしい。",
+            "options": ["かけないで", "かけるで", "かけたで", "かけなくて"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のコツを＿＿＿もらいたい。",
+            "options": ["教えて", "教える", "教えた", "教えれば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>に＿＿＿いただきたいです。",
+            "options": ["答えて", "答える", "答えた", "答えれば"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Tôi muốn giám đốc ký tên vào bản hợp đồng này giúp tôi.",
+            "jp": "<ruby>社長<rt>しゃちょう</rt></ruby>にこの<ruby>契約<rt>けいやく</rt></ruby><ruby>書<rt>しょ</rt></ruby>にサインしていただきたいです。"
+          },
+          {
+            "vi": "Tôi muốn người yêu đến đón tôi ở sân bay.",
+            "jp": "<ruby>恋人<rt>こいびと</rt></ruby>に<ruby>空港<rt>くうこう</rt></ruby>まで<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>てもらいたい。"
+          },
+          {
+            "vi": "Tôi muốn bạn đừng nói cho ai biết về câu chuyện này nhé.",
+            "jp": "この<ruby>話<rt>はなし</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>にも<ruby>話<rt>はな</rt></ruby>さないでほしい。"
+          },
+          {
+            "vi": "Tôi muốn thầy giáo kiểm tra lại bài báo cáo này một lần nữa giúp tôi.",
+            "jp": "<ruby>先生<rt>せんせい</rt></ruby>にこのレポートをもう<ruby>一度<rt>いちど</rt></ruby>チェックしていただきたいです。"
+          },
+          {
+            "vi": "Tôi muốn con trai mình tự dọn dẹp phòng của nó.",
+            "jp": "<ruby>息子<rt>むすこ</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>してもらいたい。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜させていただきたい / 〜させてもらいたい / 〜させて欲しい",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:400px;'><tr><td rowspan='2' style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 2rem;font-size:1.25rem;color:#ffd700;font-weight:700;vertical-align:middle;'>V-させて<br><span style='font-size:0.95rem;color:#ff7875;'>(Thể sai khiến)</span></td><td style='background:rgba(255,77,79,0.08);padding:0.8rem 2.5rem;border-bottom:1px solid rgba(255,255,255,0.1);'><span style='color:#ff4d4f;font-size:1.4rem;font-weight:800;display:block;'>いただきたい <span style='font-size:0.9rem;color:#ffd700;'>(Xin phép cấp trên)</span></span></td></tr><tr><td style='background:rgba(255,77,79,0.05);padding:0.8rem 2.5rem;'><span style='color:#ff7875;font-size:1.3rem;font-weight:700;display:block;'>もらいたい / 欲しい <span style='font-size:0.9rem;color:#aaa;'>(Thông thường / Thân mật)</span></span></td></tr></table></div>",
+      "meaning": "Xin phép cho tôi được làm... / Muốn được phép làm...",
+      "usage": "1. Dùng khi người nói muốn xin phép đối phương để chính bản thân mình được thực hiện một hành động nào đó (người thực hiện hành động là người nói)。<br>2. Thể hiện sự khiêm tốn, lịch sự cao độ vì hành động của mình cần được đối phương chấp thuận。<br>3. Mức độ lịch sự: 〜させていただきたい (trang trọng nhất, trong công việc, phỏng vấn, thư từ) > 〜させてもらいたい > 〜させてほしい。",
+      "explanation": "Kết hợp giữa thể sai khiến (使役形: させる) + nhận sự cho phép (いただく / もらう / ほしい). Người nói là chủ thể hành động, nhưng hạ mình xin phép người nghe.",
+      "examples": [
+        {
+          "jp": "<ruby>文化<rt>ぶんか</rt></ruby><ruby>祭<rt>さい</rt></ruby>のポスターは<ruby>私<rt>わたし</rt></ruby>が<ruby>作<rt>つく</rt></ruby>らせていただきたいです。",
+          "vi": "Tôi muốn được cho phép tự mình làm poster của lễ hội văn hóa.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_42.1.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>がパーティーに<ruby>参加<rt>さんか</rt></ruby>させてもらいたいです。",
+          "vi": "Tôi muốn được cho phép tham gia bữa tiệc.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_42.2.png"
+        },
+        {
+          "jp": "<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じことを<ruby>言<rt>い</rt></ruby>わせないで<ruby>欲<rt>ほ</rt></ruby>しいよ。",
+          "vi": "Tôi muốn bạn đừng bắt tôi phải nói đi nói lại cùng một điều như thế.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_42.3.png"
+        },
+        {
+          "jp": "<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>させていただきたいです。",
+          "vi": "Tôi muốn được phép phát biểu trong cuộc họp ngày hôm nay.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_42.4.png"
+        },
+        {
+          "jp": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>らせていただきたいのですが。",
+          "vi": "Vì sức khỏe không tốt, tôi muốn được phép về sớm hôm nay...",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_42.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>（　　）このプロジェクトのリーダーをやらせていただきたいです。",
+            "options": ["に", "を", "で", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>（　　）させていただきます。",
+            "options": ["を", "に", "で", "と"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>少<rt>すこ</rt></ruby>し<ruby>考<rt>かんが</rt></ruby>え（　　）てもらえますか。",
+            "options": ["させて", "して", "されて", "し"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>退（　　）ていただきたいのですが。",
+            "options": ["させ", "し", "され", "せ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>わ（　　）てください。",
+            "options": ["せ", "れ", "さ", "い"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しい（　　）を<ruby>提案<rt>ていあん</rt></ruby>させていただきたいです。",
+            "options": ["企画", "消しゴム", "黒板", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の（　　）をお<ruby>休<rt>やす</rt></ruby>みさせていただきたいのですが。",
+            "options": ["会議", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>貴社<rt>きしゃ</rt></ruby>の（　　）を<ruby>見学<rt>けんがく</rt></ruby>させていただきたいです。",
+            "options": ["工場", "机", "時計", "鉛筆"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>私<rt>わたし</rt></ruby>にその（　　）を<ruby>担当<rt>たんとう</rt></ruby>させてほしい。",
+            "options": ["仕事", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>少<rt>すこ</rt></ruby>し（　　）をとらせていただきたいです。",
+            "options": ["休憩", "教科書", "財布", "傘"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>質問<rt>しつもん</rt></ruby>を＿＿＿いただきたいのですが、よろしいでしょうか。",
+            "options": ["させていただき", "していただき", "されていただき", "しいただき"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>今回<rt>こんかい</rt></ruby>のイベントは<ruby>私<rt>わたし</rt></ruby>に＿＿＿てもらいたいです。",
+            "options": ["仕切らせ", "仕切らされ", "仕切り", "仕切って"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、お<ruby>電話<rt>でんわ</rt></ruby>＿＿＿いただきたいです。",
+            "options": ["かけさせて", "かけて", "かけられて", "かけ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>資料<rt>しりょう</rt></ruby>を<ruby>見<rt>み</rt></ruby>＿＿＿いただいてもよろしいですか。",
+            "options": ["させて", "て", "られて", "られ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>を＿＿＿てほしい。",
+            "options": ["出させ", "出て", "出られ", "出"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Xin phép cho tôi được tự giới thiệu bản thân một chút.",
+            "jp": "<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をさせていただきたいと<ruby>思<rt>おも</rt></ruby>います。"
+          },
+          {
+            "vi": "Vì ngày mai có việc gia đình, tôi xin phép được nghỉ một ngày.",
+            "jp": "<ruby>明日<rt>あした</rt></ruby>は<ruby>用事<rt>ようじ</rt></ruby>がありますので、1<ruby>日<rt>にち</rt></ruby>お<ruby>休<rt>やす</rt></ruby>みさせていただきたいのですが。"
+          },
+          {
+            "vi": "Xin hãy cho phép tôi được giải thích lý do của sự việc lần này.",
+            "jp": "今回の件について、私に理由を説明させてください。"
+          },
+          {
+            "vi": "Tôi xin phép được trình bày ý kiến của mình về bản kế hoạch này.",
+            "jp": "この<ruby>計画<rt>けいかく</rt></ruby>について、<ruby>私<rt>わたし</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>述<rt>の</rt></ruby>べさせていただきたいです。"
+          },
+          {
+            "vi": "Cho phép tôi chụp một tấm ảnh kỷ niệm được không ạ?",
+            "jp": "<ruby>記念<rt>きねん</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>を1<ruby>枚<rt>まい</rt></ruby><ruby>撮<rt>と</rt></ruby>らせていただいてもよろしいでしょうか。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜といい / 〜ばいい / 〜たらいい",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:400px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>V-る ＋ といい</td><td rowspan='3' style='background:rgba(255,77,79,0.08);padding:1.2rem 2.5rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.6rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>いい（ですね / なあ）</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>V-ば ＋ いい</td></tr><tr><td style='background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>V-たら ＋ いい</td></tr></table></div>",
+      "meaning": "Ước gì... / Giá mà... thì tốt / Nên làm... thì tốt",
+      "usage": "1. Dùng để bày tỏ nguyện vọng, mong ước cho một sự việc tốt đẹp xảy ra (thường đi kèm với cuối câu: 〜といいですね / 〜ばいいなあ / 〜たらいいのに)。<br>2. Dùng để đưa ra lời khuyên, gợi ý nhẹ nhàng cho người khác (thường dùng 〜といいですよ / 〜たらいいですよ)。<br>3. Ở thể phủ định: V-なければいい / V-ないといい / V-なかったらいい (Ước gì không bị... thì tốt)。",
+      "explanation": "Khi muốn ước cho bản thân thường kết thúc bằng 〜なあ / 〜のに. Khi muốn chúc hoặc khuyên người khác thường kết thúc bằng 〜ね / 〜よ.",
+      "examples": [
+        {
+          "jp": "<ruby>明日<rt>あした</rt></ruby>はゆっくり<ruby>休<rt>やす</rt></ruby>むといいですよ。",
+          "vi": "Ngày mai bạn nên nghỉ ngơi thong thả thì tốt đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_43.1.png"
+        },
+        {
+          "jp": "<ruby>今度<rt>こんど</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>すればいいけど。",
+          "vi": "Ước gì tôi thi đỗ kỳ thi lần này...",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_43.2.png"
+        },
+        {
+          "jp": "<ruby>今年<rt>ことし</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>できたらいいなあ。",
+          "vi": "Ước gì năm nay mình kết hôn được nhỉ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_43.3.png"
+        },
+        {
+          "jp": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>らなければいいですね。",
+          "vi": "Ước gì trời không mưa nhỉ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_43.4.png"
+        },
+        {
+          "jp": "わからないことがあれば、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>聞<rt>き</rt></ruby>くといいですよ。",
+          "vi": "Nếu có điều gì không hiểu, bạn nên hỏi giáo viên thì tốt hơn đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_43.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>、いい<ruby>天気<rt>てんき</rt></ruby>になる（　　）いいね。",
+            "options": ["と", "を", "に", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったら、<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>聞<rt>き</rt></ruby>い（　　）いいですよ。",
+            "options": ["たら", "ば", "と", "なら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>早<rt>はや</rt></ruby>く<ruby>風邪<rt>かぜ</rt></ruby>が<ruby>治<rt>なお</rt></ruby>れ（　　）いいですね。",
+            "options": ["ば", "たら", "と", "なら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>困<rt>こま</rt></ruby>ったときは、いつでも<ruby>相談<rt>そうだん</rt></ruby>する（　　）いいですよ。",
+            "options": ["と", "を", "に", "で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>宝<rt>たから</rt></ruby>くじが<ruby>当<rt>あ</rt></ruby>たっ（　　）いいのになあ。",
+            "options": ["たら", "ば", "と", "なら"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>来週<rt>らいしゅう</rt></ruby>の（　　）に<ruby>合格<rt>ごうかく</rt></ruby>できたらいいなあ。",
+            "options": ["試験", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>熱<rt>ねつ</rt></ruby>があるなら、（　　）を<ruby>飲<rt>の</rt></ruby>んで<ruby>寝<rt>ね</rt></ruby>るといいですよ。",
+            "options": ["薬", "本", "靴下", "傘"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>家族<rt>かぞく</rt></ruby>みんなが（　　）でいられたらいいですね。",
+            "options": ["健康", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の（　　）を<ruby>持<rt>も</rt></ruby>てるといいなあ。",
+            "options": ["店", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>疲<rt>つか</rt></ruby>れたときは、（　　）にゆっくり<ruby>入<rt>はい</rt></ruby>るといいですよ。",
+            "options": ["お風呂", "教科書", "財布", "帽子"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いなら、<ruby>無理<rt>むり</rt></ruby>を＿＿＿いいですよ。",
+            "options": ["しないほうが", "しないで", "しなくて", "しなく"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>が<ruby>無事<rt>ぶじ</rt></ruby>に＿＿＿といいですね。",
+            "options": ["着く", "着いて", "着いたなら", "着き"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>がうまく＿＿＿いいですね。",
+            "options": ["行けば", "行って", "行くと", "行くなら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>分<rt>わ</rt></ruby>からない<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>辞書<rt>じしょ</rt></ruby>で＿＿＿いいですよ。",
+            "options": ["調べたら", "調べる", "調べて", "調べば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>、＿＿＿いいなあ。",
+            "options": ["うまくいったら", "うまくいくなら", "うまくいけば", "うまくいくと"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Ước gì chuyến du lịch tuần tới thời tiết sẽ đẹp nhỉ.",
+            "jp": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>、いい<ruby>天気<rt>てんき</rt></ruby>になるといいですね。"
+          },
+          {
+            "vi": "Nếu bị đau đầu, bạn nên uống thuốc này rồi đi ngủ sớm thì tốt đấy.",
+            "jp": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いなら、この<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>るといいですよ。"
+          },
+          {
+            "vi": "Ước gì tôi có thể nói tiếng Nhật lưu loát như người bản xứ.",
+            "jp": "<ruby>日本人<rt>にほんじん</rt></ruby>のように<ruby>日本語<rt>にほんご</rt></ruby>がペラペラ<ruby>話<rt>はな</rt></ruby>せたらいいのになあ。"
+          },
+          {
+            "vi": "Nếu muốn học tiếng Nhật nhanh tiến bộ, bạn nên nói chuyện nhiều với người Nhật.",
+            "jp": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりたいなら、<ruby>日本人<rt>にほんじん</rt></ruby>とたくさん<ruby>話<rt>はな</rt></ruby>すといいですよ。"
+          },
+          {
+            "vi": "Mong là bệnh của mẹ sẽ nhanh chóng hồi phục.",
+            "jp": "お<ruby>母<rt>かあ</rt></ruby>さんの<ruby>病気<rt>びょうき</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>良<rt>よ</rt></ruby>くなればいいですね。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜こと",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:380px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.8rem 2.5rem;font-size:1.25rem;color:#ffd700;font-weight:700;'>V-る <span style='font-size:0.95rem;color:#aaa;'>(Phải làm / Nên làm)</span></td><td rowspan='2' style='background:rgba(255,77,79,0.08);padding:1.2rem 3rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:2rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>こと</span></td></tr><tr><td style='background:rgba(255,215,0,0.05);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 2.5rem;font-size:1.25rem;color:#ff7875;font-weight:700;'>V-ない <span style='font-size:0.95rem;color:#aaa;'>(Không được làm)</span></td></tr></table></div>",
+      "meaning": "Phải... / Không được... / Cần phải...",
+      "usage": "1. Dùng để đưa ra mệnh lệnh, quy định, chỉ thị, yêu cầu hoặc lời khuyên mang tính nguyên tắc bắt buộc。<br>2. Thường xuất hiện trong văn bản nội quy, bảng quy tắc an toàn, hướng dẫn thi cử, truyền đạt mệnh lệnh từ người trên xuống người dưới。<br>3. V-ること = Phải làm việc đó; V-ないこと = Tuyệt đối không được làm việc đó。",
+      "explanation": "Được đặt ở cuối câu để biến câu thành một điều khoản quy định. Không dùng trong giao tiếp hội thoại thông thường để ra lệnh trực tiếp cho đối phương.",
+      "examples": [
+        {
+          "jp": "<ruby>病院<rt>びょういん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>さないこと。",
+          "vi": "Không được nói to ở bệnh viện.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_44.1.png"
+        },
+        {
+          "jp": "<ruby>痩<rt>や</rt></ruby>せたければ、お<ruby>酒<rt>さけ</rt></ruby>をやめること。",
+          "vi": "Nếu muốn giảm cân thì phải bỏ rượu.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_44.2.png"
+        },
+        {
+          "jp": "<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>話<rt>はな</rt></ruby>さないこと。",
+          "vi": "Trong giờ học không được nói chuyện với bạn bè.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_44.3.png"
+        },
+        {
+          "jp": "<ruby>図書館<rt>としょかん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>に<ruby>落書<rt>らくが</rt></ruby>きをしないこと。",
+          "vi": "Không được vẽ bậy vào sách của thư viện.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_44.4.png"
+        },
+        {
+          "jp": "<ruby>試験<rt>しけん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わないこと。",
+          "vi": "Trong giờ thi không được sử dụng từ điển.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_44.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>提出<rt>ていしゅつ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る（　　）。",
+            "options": ["こと", "わけ", "はず", "とおり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>館内<rt>かんない</rt></ruby>では<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮影<rt>さつえい</rt></ruby>しない（　　）。",
+            "options": ["こと", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>健康<rt>けんこう</rt></ruby>のために<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>する（　　）。",
+            "options": ["こと", "にとって", "について", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>するときはシートベルトを<ruby>締<rt>し</rt></ruby>める（　　）。",
+            "options": ["こと", "とおり", "まま", "うち"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>他人<rt>たにん</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>を<ruby>言<rt>い</rt></ruby>わない（　　）。",
+            "options": ["こと", "反面", "一方", "ところ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>試験<rt>しけん</rt></ruby>の（　　）をよく<ruby>読<rt>よ</rt></ruby>むこと。",
+            "options": ["注意事項", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎朝<rt>まいあさ</rt></ruby>、（　　）をきちんと<ruby>食<rt>た</rt></ruby>べること。",
+            "options": ["朝ご飯", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>外出<rt>がいしゅつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、（　　）を<ruby>確認<rt>かくにん</rt></ruby>すること。",
+            "options": ["戸締まり", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>他人<rt>たにん</rt></ruby>に（　　）をかけないこと。",
+            "options": ["迷惑", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>実験<rt>じっけん</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は、<ruby>手<rt>て</rt></ruby>をよく（　　）こと。",
+            "options": ["洗う", "壊す", "走る", "飛ぶ"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>出<rt>で</rt></ruby>るときは、<ruby>必<rt>かなら</rt></ruby>ず<ruby>電気<rt>でんき</rt></ruby>を＿＿＿こと。",
+            "options": ["消す", "消して", "消した", "消せば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>歩<rt>ある</rt></ruby>きながらスマホを＿＿＿こと。",
+            "options": ["使わない", "使わなくて", "使わないで", "使わず"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>面接<rt>めんせつ</rt></ruby>のときは、<ruby>清潔<rt>せいけつ</rt></ruby>な<ruby>服装<rt>ふくそう</rt></ruby>を＿＿＿こと。",
+            "options": ["心がける", "心がけて", "心がけた", "心がければ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>授業<rt>じゅぎょう</rt></ruby>に＿＿＿こと。",
+            "options": ["遅刻しない", "遅刻しなくて", "遅刻しないで", "遅刻せず"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>に＿＿＿こと。",
+            "options": ["従う", "従って", "従った", "従えば"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Không được vứt rác bừa bãi ở công viên.",
+            "jp": "<ruby>公園<rt>こうえん</rt></ruby>にゴミを<ruby>捨<rt>す</rt></ruby>てないこと。"
+          },
+          {
+            "vi": "Phải nộp bản báo cáo trước 5 giờ chiều thứ sáu tuần này.",
+            "jp": "<ruby>今週<rt>こんしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby><ruby>午後<rt>ごご</rt></ruby>5<ruby>時<rt>じ</rt></ruby>までにレポートを<ruby>提出<rt>ていしゅつ</rt></ruby>すること。"
+          },
+          {
+            "vi": "Sau khi ăn cơm xong, phải đánh răng cẩn thận.",
+            "jp": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>後<rt>あと</rt></ruby>は、きちんと<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>くこと。"
+          },
+          {
+            "vi": "Không được dùng điện thoại khi đang lái xe ô tô.",
+            "jp": "<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にスマートフォンを<ruby>操作<rt>そうさ</rt></ruby>しないこと。"
+          },
+          {
+            "vi": "Nếu muốn đỗ kỳ thi N3, mỗi ngày phải học từ vựng và ngữ pháp đầy đủ.",
+            "jp": "N3に<ruby>合格<rt>ごうかく</rt></ruby>したければ、<ruby>毎日<rt>まいにち</rt></ruby><ruby>単語<rt>たんご</rt></ruby>と<ruby>文法<rt>ぶんぽう</rt></ruby>をしっかり<ruby>勉強<rt>べんきょう</rt></ruby>すること。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜べき(だ・ではない) / 〜たらどうか",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:480px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 1.5rem;font-size:1.2rem;color:#ffd700;font-weight:700;width:42%;'>V-る<br><span style='font-size:0.9rem;color:#ff7875;'>(する ➔ すべき)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.5rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>べきだ / べきではない</span><span style='color:#aaa;font-size:0.9rem;display:block;margin-top:0.3rem;'>Đạo đức / Trách nhiệm xã hội</span></td></tr></table><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(0,243,255,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 1.5rem;font-size:1.2rem;color:#00f3ff;font-weight:700;width:42%;'>V-たら</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.5rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>どうですか / どうか</span><span style='color:#aaa;font-size:0.9rem;display:block;margin-top:0.3rem;'>Gợi ý nhẹ nhàng / Thử làm xem sao</span></td></tr></table></div>",
+      "meaning": "Nên / Không nên (nghĩa vụ) & Thử... xem sao? (gợi ý)",
+      "usage": "1. 〜べきだ / 〜べきではない: Thể hiện điều đương nhiên NÊN LÀM hoặc KHÔNG NÊN LÀM dựa trên đạo đức, trách nhiệm xã hội hoặc lương tâm con người (riêng động từ する có thể dùng するべき hoặc すべき)。<br>2. Không dùng 〜べきだ với luật lệ cứng nhắc hoặc quy định pháp luật (dùng なければならない)。<br>3. 〜たらどうか / 〜たらどうですか: Đưa ra lời khuyên, gợi ý nhẹ nhàng cho người khác thử trải nghiệm hoặc làm một hành động nào đó。",
+      "explanation": "〜べきだ mang sắc thái mạnh mẽ về mặt đạo lý và trách nhiệm. Còn 〜たらどうですか là lời đề xuất mang tính thăm dò, nhẹ nhàng trong hội thoại.",
+      "examples": [
+        {
+          "jp": "<ruby>野菜<rt>やさい</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>食<rt>た</rt></ruby>べるべきだ。",
+          "vi": "Nên ăn rau hằng ngày.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_45.1.png"
+        },
+        {
+          "jp": "<ruby>人<rt>ひと</rt></ruby>の<ruby>悪口<rt>わるくち</rt></ruby>を<ruby>言<rt>い</rt></ruby>うべきではない。",
+          "vi": "Không nên nói xấu người khác.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_45.2.png"
+        },
+        {
+          "jp": "<ruby>子供<rt>こども</rt></ruby>は<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>外<rt>そと</rt></ruby>にいるべきではない。",
+          "vi": "Trẻ con không nên ở ngoài đường đến đêm muộn.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_45.3.png"
+        },
+        {
+          "jp": "たまに<ruby>運動<rt>うんどう</rt></ruby>したらどうですか。",
+          "vi": "Thỉnh thoảng bạn thử vận động xem sao?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_45.4.png"
+        },
+        {
+          "jp": "<ruby>疲<rt>つか</rt></ruby>れているみたいですね。<ruby>少<rt>すこ</rt></ruby>し<ruby>休<rt>やす</rt></ruby>んだらどうですか。",
+          "vi": "Trông bạn có vẻ mệt mỏi nhỉ. Thử nghỉ ngơi một lát xem sao?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_45.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>約束<rt>やくそく</rt></ruby>は<ruby>守<rt>まも</rt></ruby>る（　　）だ。",
+            "options": ["べき", "わけ", "はず", "とおり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>をしっかり<ruby>言<rt>い</rt></ruby>う（　　）ではないか。",
+            "options": ["べき", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>少<rt>すこ</rt></ruby>し<ruby>散歩<rt>さんぽ</rt></ruby>でもし（　　）どうですか。",
+            "options": ["たら", "ば", "と", "なら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>嘘<rt>うそ</rt></ruby>をつく（　　）ではない。",
+            "options": ["べき", "とおり", "まま", "うち"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>話<rt>はな</rt></ruby>し合っ（　　）どうかと<ruby>思<rt>おも</rt></ruby>います。",
+            "options": ["たら", "ば", "と", "なら"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>若<rt>わか</rt></ruby>いうちにたくさん（　　）をしておくべきだ。",
+            "options": ["経験", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>親<rt>おや</rt></ruby>に（　　）を<ruby>言<rt>い</rt></ruby>うべきではない。",
+            "options": ["暴言", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>気分<rt>きぶん</rt></ruby><ruby>転換<rt>てんかん</rt></ruby>に（　　）へ<ruby>行<rt>い</rt></ruby>ったらどうですか。",
+            "options": ["旅行", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>を（　　）べきだ。",
+            "options": ["助ける", "壊す", "走る", "飛ぶ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しい（　　）を<ruby>始<rt>はじ</rt></ruby>めてみたらどうですか。",
+            "options": ["趣味", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>学生<rt>がくせい</rt></ruby>はもっと<ruby>勉強<rt>べんきょう</rt></ruby>＿＿＿べきだ。",
+            "options": ["す", "し", "して", "した"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>に<ruby>責任<rt>せきにん</rt></ruby>を＿＿＿べきだ。",
+            "options": ["持つ", "持って", "持った", "持てば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>一度<rt>いちど</rt></ruby><ruby>専門医<rt>せんもんい</rt></ruby>に＿＿＿みたらどうですか。",
+            "options": ["診て", "診る", "診た", "診れば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>環境<rt>かんきょう</rt></ruby>を＿＿＿べきではない。",
+            "options": ["汚す", "汚して", "汚した", "汚せば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>分<rt>わ</rt></ruby>からないなら、<ruby>先生<rt>せんせい</rt></ruby>に＿＿＿みたらどうですか。",
+            "options": ["聞いて", "聞く", "聞いた", "聞けば"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Chúng ta nên tôn trọng ý kiến của người khác.",
+            "jp": "<ruby>他者<rt>たしゃ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>するべきです。"
+          },
+          {
+            "vi": "Không nên lãng phí thời gian quý báu.",
+            "jp": "<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>を<ruby>無駄<rt>むだ</rt></ruby>にするべきではない。"
+          },
+          {
+            "vi": "Nếu bạn thấy căng thẳng quá, thử đi du lịch suối nước nóng xem sao?",
+            "jp": "ストレスがたまっているなら、<ruby>温泉<rt>おんせん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>にでも<ruby>行<rt>い</rt></ruby>ってみたらどうですか。"
+          },
+          {
+            "vi": "Người lớn nên làm gương tốt cho trẻ con noi theo.",
+            "jp": "<ruby>大人<rt>おとな</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>のいい<ruby>手本<rt>てほん</rt></ruby>になるべきだ。"
+          },
+          {
+            "vi": "Trông chiếc áo đó rất hợp với bạn đấy. Bạn thử mặc thử xem sao?",
+            "jp": "その<ruby>服<rt>ふく</rt></ruby>、とてもお<ruby>似合<rt>にあ</rt></ruby>いですよ。<ruby>試着<rt>しちゃく</rt></ruby>してみたらどうですか。"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dokkai-n3-doanvan-03",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 3,
+  "title": "町内のゴミ拾い活動 (Hoạt động nhặt rác trong khu phố)",
+  "timeLimit": 180,
+  "passage": "<p><ruby>町<rt>まち</rt></ruby>の<ruby>掲示板<rt>けいじばん</rt></ruby>に、このお<ruby>知<rt>し</rt></ruby>らせがはってある。</p><p>１３<ruby>日<rt>にち</rt></ruby>９<ruby>時<rt>じ</rt></ruby>に<ruby>集合<rt>しゅうごう</rt></ruby>してください。<br><ruby>集合<rt>しゅうごう</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>： <ruby>第一<rt>だいいち</rt></ruby><ruby>公園<rt>こうえん</rt></ruby><br><ruby>活動<rt>かつどう</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>： <ruby>町内<rt>ちょうない</rt></ruby>のゴミ<ruby>拾<rt>ひろ</rt></ruby>い<br><ruby>持<rt>も</rt></ruby>ち<ruby>物<rt>もの</rt></ruby>： <ruby>手袋<rt>てぶくろ</rt></ruby>（<ruby>掃除用<rt>そうじよう</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>持<rt>も</rt></ruby>ってきてください）<br>※ゴミ<ruby>袋<rt>ぶくろ</rt></ruby>はこちらでも<ruby>用意<rt>ようい</rt></ruby>しますが、ご<ruby>自宅<rt>じたく</rt></ruby>にあれば、お<ruby>持<rt>も</rt></ruby>ちください。<br><ruby>参加<rt>さんか</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>： <ruby>当日<rt>とうじつ</rt></ruby>、<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>集合<rt>しゅうごう</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください。<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みは<ruby>不要<rt>ふよう</rt></ruby>です。<br>※<ruby>大雨<rt>おおあめ</rt></ruby>などで<ruby>中止<rt>ちゅうし</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>希望<rt>きぼう</rt></ruby>する<ruby>方<rt>かた</rt></ruby>は、<ruby>前日<rt>ぜんじつ</rt></ruby>までにメールでお<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みください。<br>・<ruby>活動<rt>かつどう</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby><ruby>後<rt>ご</rt></ruby>、お<ruby>茶<rt>ちゃ</rt></ruby>、ジュースをお<ruby>配<rt>くば</rt></ruby>りします。</p>",
+  "fullTranslation": "Bảng thông báo của thị trấn có dán tờ thông báo này:\n\nXin hãy tập trung lúc 9 giờ ngày 13.\n- Địa điểm tập trung: Công viên số 1 (Đệ Nhất Công Viên)\n- Nội dung hoạt động: Nhặt rác trong khu phố\n- Đồ cần mang theo: Găng tay (BẮT BUỘC phải mang theo để dọn vệ sinh)\n  * Túi đựng rác phía chúng tôi cũng có chuẩn bị, nhưng nếu ở nhà có sẵn thì xin vui lòng mang theo.\n- Cách thức tham gia: Vào ngày hôm đó, hãy đến trực tiếp địa điểm tập trung. KHÔNG CẦN đăng ký trước.\n  * Những ai mong muốn nhận thông báo trong trường hợp trời mưa to phải hủy hoạt động thì xin vui lòng đăng ký qua email trước ngày hôm đó.\n- Sau khi kết thúc hoạt động, chúng tôi sẽ phát trà và nước hoa quả.",
+  "vocabulary": [
+    { "word": "掲示板", "hiragana": "けいじばん", "meaning": "Bảng thông báo" },
+    { "word": "ゴミ拾い", "hiragana": "ごみひろい", "meaning": "Nhặt rác" },
+    { "word": "手袋", "hiragana": "てぶくろ", "meaning": "Găng tay / Bao tay" },
+    { "word": "不要", "hiragana": "ふよう", "meaning": "Không cần thiết / Không cần" },
+    { "word": "中止", "hiragana": "ちゅうし", "meaning": "Hủy bỏ / Hoãn" },
+    { "word": "お配りする", "hiragana": "おくばりする", "meaning": "Phát / Phân phát (khiêm nhường ngữ)" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜必ず (かならず)", "meaning": "Nhất định / Bắt buộc phải làm gì" },
+    { "pattern": "〜は不要です", "meaning": "Không cần thiết phải làm gì" },
+    { "pattern": "〜をご希望の方は", "meaning": "Dành cho những ai có nguyện vọng..." }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：「ゴミゼロ活動」に参加したい人全員が、必ずしなければならないことは何か。",
+      "options": [
+        "12日までにメールで申し込み、13日の9時に手袋を持って第一公園に行く。",
+        "12日までにメールで申し込み、13日の9時に手袋とゴミ袋を持って第一公園に行く。",
+        "13日の9時に手袋を持って第一公園に行く。",
+        "13日の9時に手袋とゴミ袋を持って第一公園に行く。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "12日までにメールで申し込み、13日の9時に手袋を持って第一公園に行く。",
+          "meaning": "Đăng ký qua email trước ngày 12 và mang theo găng tay đến Công viên số 1 vào 9 giờ ngày 13.",
+          "analysis": "Sai: Việc đăng ký qua email trước ngày diễn ra (ngày 12) là không bắt buộc ('申し込みは不要です'), chỉ dành cho người muốn nhận thông báo hủy khi mưa to."
+        },
+        {
+          "option": "12日までにメールで申し込み、13日の9時に手袋とゴミ袋を持って第一公園に行く。",
+          "meaning": "Đăng ký qua email trước ngày 12 và mang theo cả găng tay lẫn túi đựng rác...",
+          "analysis": "Sai: Vừa sai việc bắt buộc đăng ký email, vừa sai việc bắt buộc mang theo túi rác."
+        },
+        {
+          "option": "13日の9時に手袋を持って第一公園に行く。",
+          "meaning": "Mang theo găng tay và đến Công viên số 1 vào lúc 9 giờ ngày 13.",
+          "analysis": "ĐÚNG: Khớp hoàn toàn với thông báo: không cần đăng ký trước ('申し込みは不要'), găng tay là vật dụng bắt buộc duy nhất ('手袋（掃除用に必ず持ってきてください）'), và địa điểm là Công viên số 1 lúc 9h ngày 13."
+        },
+        {
+          "option": "13日の9時に手袋とゴミ袋を持って第一公園に行く。",
+          "meaning": "Mang theo cả găng tay và túi đựng rác đến Công viên số 1 vào 9 giờ ngày 13.",
+          "analysis": "Sai: Túi rác ban tổ chức đã có chuẩn bị ('ゴミ袋はこちらでも用意しますが'), chỉ khuyến khích mang thêm nếu nhà có sẵn chứ không bắt buộc ('必ず')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「持ち物： 手袋（掃除用に必ず持ってきてください）」「参加方法： 当日、直接集合場所に来てください。申し込みは不要です。」",
+      "explanation": "Đáp án 3 đúng. Thông báo ghi rõ 'không cần đăng ký trước' (申し込みは不要), và đồ dùng mang theo chỉ có găng tay là 'bắt buộc mang' (必ず持ってきてください), còn túi rác thì ban tổ chức đã chuẩn bị sẵn nên không bắt buộc."
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+﻿{
+    "name":  "Bài 20",
+    "x":  630,
+    "y":  520,
+    "comparison":  "\u003ctable class=\u0027grammar-comparison-table\u0027 style=\u0027width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00273\u0027 style=\u0027border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003eBảng Phân Biệt Các Mẫu Với ばかり (Bài 20)\u003c/th\u003e\u003c/tr\u003e\u003ctr style=\u0027background:#f0eae1;font-weight:bold;\u0027\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;\u0027\u003eCấu trúc\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:32%;color:#b30000;\u0027\u003eBản chất \u0026 Sắc thái\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;\u0027\u003eÝ nghĩa \u0026 Ví dụ tiêu biểu\u003c/td\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;\u0027\u003e〜ばかり\u003cbr\u003e(N / V-ている / V-る)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eTập trung quá nhiều vào 1 đối tượng/hành động, mang tính phê phán\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eToàn là..., lúc nào cũng...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 毎日カップラーメンばかり食べている。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;\u0027\u003e〜てばかりいる\u003cbr\u003e(V-て ＋ ...)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eSuốt ngày chỉ thực hiện một hành động lặp đi lặp lại (thói quen xấu)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eLúc nào cũng chỉ làm V / Toàn làm V\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 休みの日は寝てばかりいる。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;\u0027\u003e〜ばかりでなく\u003cbr\u003e(Thể TTT ＋ ...)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eKhông chỉ dừng ở vế trước mà mức độ vế sau còn cao/rộng hơn\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eKhông chỉ... mà còn...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 分かりやすいばかりでなく、面白い。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#16a34a;text-align:center;\u0027\u003eV-るばかり ／ V-たばかり\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003e• V-る: Xu hướng biến đổi 1 chiều / Sẵn sàng chỉ chờ làm V\u003cbr\u003e• V-た: Hành động vừa mới diễn ra theo cảm nhận chủ quan\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eCàng ngày càng... / Chỉ còn chờ... / Vừa mới...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 仕事は増えるばかりだ。\u003cbr\u003eVD: さっき食べたばかりだ。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003cdiv style=\u0027background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;\u0027\u003e\u003cdiv style=\u0027text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;\u0027\u003e\u003ch3 style=\u0027margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e🎌 BẢNG TỔNG HỢP TOÀN BỘ CÁC CẤU TRÚC VỚI「ばかり」🎌\u003c/h3\u003e\u003cspan style=\u0027font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;\u0027\u003eHệ thống 5 cấu trúc trọng tâm của ばかり trong chương trình JLPT N3\u003c/span\u003e\u003c/div\u003e\u003cdiv style=\u0027display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:1.2rem;\u0027\u003e\u003cdiv style=\u0027border:2px solid #d97706;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fef3c7;color:#92400e;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #d97706;\u0027\u003eV-るばかり\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fffbeb;text-align:center;\u0027\u003e\u003cb style=\u0027color:#d97706;font-size:1.05rem;\u0027\u003eCàng ngày càng... (1 chiều)\u003cbr\u003eChỉ cần làm V nữa (là xong)\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Xu hướng / Chuẩn bị hoàn tất)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #16a34a;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dcfce7;color:#166534;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #16a34a;\u0027\u003eV-たばかり\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#f0fdf4;text-align:center;\u0027\u003e\u003cb style=\u0027color:#16a34a;font-size:1.05rem;\u0027\u003eVừa mới làm V\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Theo cảm nhận chủ quan của người nói)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #dc2626;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fee2e2;color:#991b1b;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #dc2626;\u0027\u003eV-てばかりいる\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fef2f2;text-align:center;\u0027\u003e\u003cb style=\u0027color:#dc2626;font-size:1.05rem;\u0027\u003eToàn làm V\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Lúc nào cũng chỉ làm một hành động)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #8b5cf6;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#ede9fe;color:#5b21b6;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #8b5cf6;\u0027\u003eN ／ V-ている ／ V-る ＋ ばかり\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#f5f3ff;text-align:center;\u0027\u003e\u003cb style=\u0027color:#8b5cf6;font-size:1.05rem;\u0027\u003eToàn là..., chỉ là...\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Tập trung quá nhiều, mang tính phàn nàn)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;\u0027\u003e普通形 (N, A-な だ bỏ だ) ＋ ばかりでなく\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#eff6ff;text-align:center;\u0027\u003e\u003cb style=\u0027color:#2563eb;font-size:1.05rem;\u0027\u003eKhông chỉ... mà còn...\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Mức độ sau cao hơn / rộng hơn trước)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+    "items":  [
+                  {
+                      "structure":  "〜ばかり",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eN\u003c/td\u003e\u003ctd rowspan=\u00273\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eばかり\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eToàn là..., lúc nào cũng chỉ... (Thường mang sắc thái tiêu cực, phàn nàn)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-ている\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-る\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Toàn là..., lúc nào cũng...",
+                      "usage":  "• Biểu thị trạng thái lặp đi lặp lại hoặc tập trung quá nhiều vào một việc/vật, chiếm tỉ lệ áp đảo.\u003cbr\u003e• Thường mang ý nghĩa phê phán, không hài lòng theo đánh giá chủ quan của người nói.\u003cbr\u003e• Đi sau danh từ (`N ＋ ばかり`), động từ thể Teiru (`V-ている ＋ ばかり`), hoặc động từ nguyên mẫu (`V-る ＋ ばかり`).",
+                      "explanation":  "Diễn tả sự thiên lệch quá mức về một sự vật/hành động, thường đi kèm cảm xúc phàn nàn.",
+                      "examples":  [
+                                       {
+                                           "jp":  "うちの\u003cruby\u003e子\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eとばかり\u003cruby\u003e遊\u003crt\u003eあそ\u003c/rt\u003e\u003c/ruby\u003eんでいて、\u003cruby\u003e全\u003crt\u003eまった\u003c/rt\u003e\u003c/ruby\u003eく\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしてくれない。",
+                                           "vi":  "Con nhà tôi toàn chơi với bạn bè mà chẳng chịu học hành gì cả.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_83.1.png"
+                                       },
+                                       {
+                                           "jp":  "ありがとうございます。いつもいただくばかりで、お\u003cruby\u003e返\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eしも\u003cruby\u003e出来\u003crt\u003eでき\u003c/rt\u003e\u003c/ruby\u003eなくてすみません。",
+                                           "vi":  "Xin cảm ơn. Tôi lúc nào cũng chỉ nhận thôi, không thể tặng lại gì được xin lỗi bạn.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_83.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eはただ\u003cruby\u003e泣\u003crt\u003eな\u003c/rt\u003e\u003c/ruby\u003eいているばかりで、\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eがあったのか\u003cruby\u003e分\u003crt\u003eわ\u003c/rt\u003e\u003c/ruby\u003eからなかった。",
+                                           "vi":  "Đứa trẻ chỉ toàn khóc, tôi không hiểu đã có chuyện gì xảy ra.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_83.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003e、カップラーメンばかり\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべている。",
+                                           "vi":  "Anh ấy mỗi ngày toàn ăn mì ly.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_83.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e文句\u003crt\u003eもんく\u003c/rt\u003e\u003c/ruby\u003eばかり\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eわないで、\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eでもやってみてください。",
+                                           "vi":  "Đừng có toàn phàn nàn như thế, hãy tự mình làm thử xem.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_83.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e肉\u003crt\u003eにく\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべないで、\u003cruby\u003e野菜\u003crt\u003eやさい\u003c/rt\u003e\u003c/ruby\u003eもちゃんと\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべなさい。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "ほど",
+                                                                              "くらい",
+                                                                              "まで"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e甘\u003crt\u003eあま\u003c/rt\u003e\u003c/ruby\u003eいもの（　　）\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eんでいるから、\u003cruby\u003e太\u003crt\u003eふと\u003c/rt\u003e\u003c/ruby\u003eるんだよ。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "こそ",
+                                                                              "さえ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e怒\u003crt\u003eおこ\u003c/rt\u003e\u003c/ruby\u003eって（　　）いないで、\u003cruby\u003e理由\u003crt\u003eりゆう\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eいてください。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "ほど",
+                                                                              "ため",
+                                                                              "よう"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e話\u003crt\u003eはなし\u003c/rt\u003e\u003c/ruby\u003e（　　）しないで、\u003cruby\u003e相手\u003crt\u003eあいて\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e意見\u003crt\u003eいけん\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eこう。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "なら",
+                                                                              "しか",
+                                                                              "より"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eっていて、\u003cruby\u003e洗濯物\u003crt\u003eせんたくもの\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e乾\u003crt\u003eかわ\u003c/rt\u003e\u003c/ruby\u003eかない。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "ほど",
+                                                                              "くらい",
+                                                                              "こそ"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "（　　）ばかり\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eっていると、\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e嫌\u003crt\u003eきら\u003c/rt\u003e\u003c/ruby\u003eわれますよ。",
+                                                          "options":  [
+                                                                          "嘘",
+                                                                          "笑顔",
+                                                                          "挨拶",
+                                                                          "感謝"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "お（　　）ばかり\u003cruby\u003e使\u003crt\u003eつか\u003c/rt\u003e\u003c/ruby\u003eっていないで、\u003cruby\u003e貯金\u003crt\u003eちょきん\u003c/rt\u003e\u003c/ruby\u003eもしなさい。",
+                                                          "options":  [
+                                                                          "金",
+                                                                          "水",
+                                                                          "薬",
+                                                                          "皿"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは（　　）ばかりしていて、ちっとも\u003cruby\u003e働\u003crt\u003eはたら\u003c/rt\u003e\u003c/ruby\u003eかない。",
+                                                          "options":  [
+                                                                          "昼寝",
+                                                                          "掃除",
+                                                                          "運転",
+                                                                          "料理"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e失敗\u003crt\u003eしっぱい\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e恐\u003crt\u003eおそ\u003c/rt\u003e\u003c/ruby\u003eれて、（　　）ばかりいると\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e進\u003crt\u003eすす\u003c/rt\u003e\u003c/ruby\u003eめない。",
+                                                          "options":  [
+                                                                          "悩んで",
+                                                                          "喜んで",
+                                                                          "急いで",
+                                                                          "笑って"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）ばかり\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eていないで、\u003cruby\u003e外\u003crt\u003eそと\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e運動\u003crt\u003eうんどう\u003c/rt\u003e\u003c/ruby\u003eしなさい。",
+                                                          "options":  [
+                                                                          "テレビ",
+                                                                          "景色",
+                                                                          "星",
+                                                                          "空"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e漫画\u003crt\u003eまんが\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ばかりで、\u003cruby\u003e宿題\u003crt\u003eしゅくだい\u003c/rt\u003e\u003c/ruby\u003eをやらない。",
+                                                                "options":  [
+                                                                                "読んでいる",
+                                                                                "読んで",
+                                                                                "読んだ",
+                                                                                "読もう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e後悔\u003crt\u003eこうかい\u003c/rt\u003e\u003c/ruby\u003e＿＿＿ばかりでは、\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e変\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eわらない。",
+                                                                "options":  [
+                                                                                "する",
+                                                                                "して",
+                                                                                "した",
+                                                                                "しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e謝\u003crt\u003eあやま\u003c/rt\u003e\u003c/ruby\u003eって＿＿＿ばかりいないで、\u003cruby\u003e行動\u003crt\u003eこうどう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e示\u003crt\u003eしめ\u003c/rt\u003e\u003c/ruby\u003eしてください。",
+                                                                "options":  [
+                                                                                "いる",
+                                                                                "いた",
+                                                                                "おる",
+                                                                                "ある"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e悪口\u003crt\u003eわるぐち\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ばかりいると、\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e失\u003crt\u003eうしな\u003c/rt\u003e\u003c/ruby\u003eう。",
+                                                                "options":  [
+                                                                                "言って",
+                                                                                "言う",
+                                                                                "言った",
+                                                                                "言おう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "じっと＿＿＿ばかりで、\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e手伝\u003crt\u003eてつだ\u003c/rt\u003e\u003c/ruby\u003eってくれない。",
+                                                                "options":  [
+                                                                                "見ている",
+                                                                                "見て",
+                                                                                "見た",
+                                                                                "見よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Đừng có toàn nói dối như thế, mọi người sẽ không tin bạn nữa đâu.",
+                                                                "jp":  "そんなに\u003cruby\u003e嘘\u003crt\u003eうそ\u003c/rt\u003e\u003c/ruby\u003eばかりつかないで。\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e信\u003crt\u003eしん\u003c/rt\u003e\u003c/ruby\u003eじてくれなくなりますよ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cô ấy lúc nào cũng chỉ toàn lo lắng về ngoại hình của mình.",
+                                                                "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eた\u003cruby\u003e目\u003crt\u003eめ\u003c/rt\u003e\u003c/ruby\u003eのことばかり\u003cruby\u003e気\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eにしている。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đừng chỉ toàn mua đồ giảm giá, hãy mua thứ thật sự cần thiết.",
+                                                                "jp":  "\u003cruby\u003e安売\u003crt\u003eやすう\u003c/rt\u003e\u003c/ruby\u003eりの物ばかり\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eわないで、\u003cruby\u003e本当\u003crt\u003eほんとう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e必要\u003crt\u003eひつよう\u003c/rt\u003e\u003c/ruby\u003eな物を\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eいなさい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Anh ta lúc nào cũng chỉ phàn nàn về công ty mà không chịu cố gắng.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e不満\u003crt\u003eふまん\u003c/rt\u003e\u003c/ruby\u003eばかり言っていて、\u003cruby\u003e努力\u003crt\u003eどりょく\u003c/rt\u003e\u003c/ruby\u003eしようとしない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cả tuần nay toàn mưa suốt, không thể đi giặt đồ được.",
+                                                                "jp":  "この1\u003cruby\u003e週間\u003crt\u003eしゅうかん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003eばかりで、\u003cruby\u003e洗濯\u003crt\u003eせんたく\u003c/rt\u003e\u003c/ruby\u003eができない。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜てばかりいる",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eV-て\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eばかりいる\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eLúc nào cũng chỉ làm V / Toàn làm V suốt (Phàn nàn về hành động lặp đi lặp lại)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Lúc nào cũng chỉ làm V / Toàn làm V",
+                      "usage":  "• Diễn tả việc một người nào đó suốt ngày chỉ thực hiện một hành động lặp đi lặp lại không ngừng.\u003cbr\u003e• Thường thể hiện sự không hài lòng, trách móc của người nói về một thói quen xấu của đối phương.\u003cbr\u003e• Biến thể: `V-てばかりいる / V-てばかりいないで / V-てばかりいては`.",
+                      "explanation":  "Nhấn mạnh tần suất lặp đi lặp lại tiêu cực của một hành động cụ thể.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e最近\u003crt\u003eさいきん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e泣\u003crt\u003eな\u003c/rt\u003e\u003c/ruby\u003eいてばかりいる。なんかあっただろう。",
+                                           "vi":  "Gần đây cô ấy toàn khóc suốt. Chắc là có chuyện gì rồi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_84.1.png"
+                                       },
+                                       {
+                                           "jp":  "お\u003cruby\u003e父\u003crt\u003eとう\u003c/rt\u003e\u003c/ruby\u003eさんは\u003cruby\u003e休\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eみの\u003cruby\u003e日\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e寝\u003crt\u003eね\u003c/rt\u003e\u003c/ruby\u003eてばかりいる。",
+                                           "vi":  "Bố tôi vào ngày nghỉ toàn nằm ngủ suốt.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_84.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e弟\u003crt\u003eおとうと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしないで、ゲームをしてばかりいる。",
+                                           "vi":  "Em trai tôi không học hành gì, toàn chơi game suốt.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_84.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e中\u003crt\u003eちゅう\u003c/rt\u003e\u003c/ruby\u003eなのに、\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはスマホを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eてばかりいる。",
+                                           "vi":  "Đang trong giờ làm việc mà anh ấy toàn nhìn điện thoại suốt.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_84.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e文句\u003crt\u003eもんく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eってばかりいても、\u003cruby\u003e解決\u003crt\u003eかいけつ\u003c/rt\u003e\u003c/ruby\u003eしませんよ。",
+                                           "vi":  "Nếu toàn phàn nàn suốt thì cũng chẳng giải quyết được gì đâu.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_84.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e一日中\u003crt\u003eいちにちじゅう\u003c/rt\u003e\u003c/ruby\u003eゴロゴロし（　　）ばかりいないで、\u003cruby\u003e散歩\u003crt\u003eさんぽ\u003c/rt\u003e\u003c/ruby\u003eでもしてきなさい。",
+                                                              "options":  [
+                                                                              "て",
+                                                                              "た",
+                                                                              "る",
+                                                                              "ます"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e妹\u003crt\u003eいもうと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e鏡\u003crt\u003eかがみ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eて（　　）いる。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "ほど",
+                                                                              "くらい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "そんなに\u003cruby\u003e怒\u003crt\u003eおこ\u003c/rt\u003e\u003c/ruby\u003eってばかり（　　）と、\u003cruby\u003e体\u003crt\u003eからだ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e毒\u003crt\u003eどく\u003c/rt\u003e\u003c/ruby\u003eですよ。",
+                                                              "options":  [
+                                                                              "いる",
+                                                                              "ある",
+                                                                              "なる",
+                                                                              "する"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eをサボっ（　　）ばかりいる。",
+                                                              "options":  [
+                                                                              "て",
+                                                                              "た",
+                                                                              "る",
+                                                                              "ます"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "お\u003cruby\u003e酒\u003crt\u003eさけ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eんで（　　）いると、\u003cruby\u003e病気\u003crt\u003eびょうき\u003c/rt\u003e\u003c/ruby\u003eになりますよ。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "こそ",
+                                                                              "さえ",
+                                                                              "だけ"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e娘\u003crt\u003eむすめ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eに（　　）ばかりいて、\u003cruby\u003e話\u003crt\u003eはなし\u003c/rt\u003e\u003c/ruby\u003eをしてくれない。",
+                                                          "options":  [
+                                                                          "こもって",
+                                                                          "出かけて",
+                                                                          "走って",
+                                                                          "泳いで"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはSNSを（　　）ばかりいて、\u003cruby\u003e現実\u003crt\u003eげんじつ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eようとしない。",
+                                                          "options":  [
+                                                                          "チェックして",
+                                                                          "洗濯して",
+                                                                          "料理して",
+                                                                          "運転して"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e祖父\u003crt\u003eそふ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e昔\u003crt\u003eむかし\u003c/rt\u003e\u003c/ruby\u003eの（　　）を\u003cruby\u003e自慢\u003crt\u003eじまん\u003c/rt\u003e\u003c/ruby\u003eしてばかりいる。",
+                                                          "options":  [
+                                                                          "話",
+                                                                          "傘",
+                                                                          "靴",
+                                                                          "薬"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e失敗\u003crt\u003eしっぱい\u003c/rt\u003e\u003c/ruby\u003eしたことを（　　）ばかりいても、\u003cruby\u003e始\u003crt\u003eはじ\u003c/rt\u003e\u003c/ruby\u003eまらないよ。",
+                                                          "options":  [
+                                                                          "悩んで",
+                                                                          "笑って",
+                                                                          "祝って",
+                                                                          "眠って"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "夫は\u003cruby\u003e家事\u003crt\u003eかじ\u003c/rt\u003e\u003c/ruby\u003eしないで、（　　）ばかりいる。",
+                                                          "options":  [
+                                                                          "休んで",
+                                                                          "働いて",
+                                                                          "勉強して",
+                                                                          "運動して"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e息子\u003crt\u003eむすこ\u003c/rt\u003e\u003c/ruby\u003eはユーチューブを＿＿＿ばかりいる。",
+                                                                "options":  [
+                                                                                "見て",
+                                                                                "見る",
+                                                                                "見た",
+                                                                                "見よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿ばかりいないで、\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eでやりなさい。",
+                                                                "options":  [
+                                                                                "頼って",
+                                                                                "頼る",
+                                                                                "頼った",
+                                                                                "頼ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e遊\u003crt\u003eあそ\u003c/rt\u003e\u003c/ruby\u003eんで＿＿＿いると、テストに\u003cruby\u003e落\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eちますよ。",
+                                                                "options":  [
+                                                                                "ばかり",
+                                                                                "だけ",
+                                                                                "ほど",
+                                                                                "くらい"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "お\u003cruby\u003e菓子\u003crt\u003eかし\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ばかりいると、\u003cruby\u003e虫歯\u003crt\u003eむしば\u003c/rt\u003e\u003c/ruby\u003eになるよ。",
+                                                                "options":  [
+                                                                                "食べて",
+                                                                                "食べる",
+                                                                                "食べた",
+                                                                                "食べよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e言い訳\u003crt\u003eいいわけ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ばかりいないで、\u003cruby\u003e素直\u003crt\u003eすなお\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e謝\u003crt\u003eあやま\u003c/rt\u003e\u003c/ruby\u003eりなさい。",
+                                                                "options":  [
+                                                                                "して",
+                                                                                "する",
+                                                                                "した",
+                                                                                "しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Cậu ấy suốt ngày chỉ biết chơi bời lêu lổng, chẳng chịu nghĩ đến tương lai.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e遊\u003crt\u003eあそ\u003c/rt\u003e\u003c/ruby\u003eんでばかりいて、\u003cruby\u003e将来\u003crt\u003eしょうらい\u003c/rt\u003e\u003c/ruby\u003eのことを\u003cruby\u003e考\u003crt\u003eかんが\u003c/rt\u003e\u003c/ruby\u003eえようとしない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đừng suốt ngày chỉ nằm một chỗ bấm điện thoại, hãy ra ngoài đi dạo đi.",
+                                                                "jp":  "スマホを\u003cruby\u003e触\u003crt\u003eさわ\u003c/rt\u003e\u003c/ruby\u003eってばかりいないで、\u003cruby\u003e外\u003crt\u003eそと\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e散歩\u003crt\u003eさんぽ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eきなさい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Suốt ngày chỉ biết cằn nhằn thì chẳng thể giải quyết được việc gì đâu.",
+                                                                "jp":  "\u003cruby\u003e怒鳴\u003crt\u003eどな\u003c/rt\u003e\u003c/ruby\u003eってばかりいても、\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e解決\u003crt\u003eかいけつ\u003c/rt\u003e\u003c/ruby\u003eしませんよ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Em gái tôi hễ rảnh rỗi là lại suốt ngày soi gương trang điểm.",
+                                                                "jp":  "\u003cruby\u003e妹\u003crt\u003eいもうと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e暇\u003crt\u003eひま\u003c/rt\u003e\u003c/ruby\u003eさえあれば、お\u003cruby\u003e化粧\u003crt\u003eけしょう\u003c/rt\u003e\u003c/ruby\u003eをしてばかりいる。"
+                                                            },
+                                                            {
+                                                                "vi":  "Nếu chỉ biết trốn tránh suốt thì bạn sẽ không bao giờ trưởng thành được.",
+                                                                "jp":  "\u003cruby\u003e逃\u003crt\u003eに\u003c/rt\u003e\u003c/ruby\u003eげてばかりいては、いつまでも\u003cruby\u003e成長\u003crt\u003eせいちょう\u003c/rt\u003e\u003c/ruby\u003eできません。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ばかりでなく",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eVTTT\u003c/td\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eばかりでなく\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eKhông chỉ A mà còn B (Vế sau thường đi kèm \u003cb\u003e〜も\u003c/b\u003e)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-い\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-な ＋ な\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eN\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Không chỉ... mà còn...",
+                      "usage":  "• Không chỉ dừng lại ở sự việc vế trước (thường là điều hiển nhiên), mà mức độ ở vế sau còn cao hơn hoặc rộng hơn thế nữa.\u003cbr\u003e• Vế sau thường đi kèm trợ từ \u003cb\u003eも, まで, さえ\u003c/b\u003e.\u003cbr\u003e• Thể thông thường TTT, trong đó `A-な` dùng `な`, `N` đi trực tiếp (bỏ `だ`).",
+                      "explanation":  "Mở rộng phạm vi hoặc nâng cao mức độ bổ sung thêm tính chất/sự việc ngoài mong đợi.",
+                      "examples":  [
+                                       {
+                                           "jp":  "ラン\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e説明\u003crt\u003eせつめい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e分\u003crt\u003eわ\u003c/rt\u003e\u003c/ruby\u003eかりやすいばかりでなく、\u003cruby\u003e面白\u003crt\u003eおもしろ\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                           "vi":  "Lời giải thích của cô Lan không chỉ dễ hiểu mà còn thú vị.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_85.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e日本人\u003crt\u003eにほんじん\u003c/rt\u003e\u003c/ruby\u003eばかりでなく、\u003cruby\u003e世界中\u003crt\u003eせかいじゅう\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eがエネルギー\u003cruby\u003e問題\u003crt\u003eもんだい\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e関心\u003crt\u003eかんしん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eっている。",
+                                           "vi":  "Không chỉ người Nhật mà mọi người trên toàn thế giới đều quan tâm đến vấn đề năng lượng.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_85.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e町\u003crt\u003eまち\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e案内\u003crt\u003eあんない\u003c/rt\u003e\u003c/ruby\u003eしてくれたばかりでなく、この\u003cruby\u003e地方\u003crt\u003eちほう\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eもご\u003cruby\u003e馳走\u003crt\u003eちそう\u003c/rt\u003e\u003c/ruby\u003eしてくれた。",
+                                           "vi":  "Anh ấy không chỉ dẫn tôi đi tham quan thị trấn mà còn chiêu đãi tôi món ăn của vùng này nữa.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_85.3.png"
+                                       },
+                                       {
+                                           "jp":  "このアパートは\u003cruby\u003e家賃\u003crt\u003eやちん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e安\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eいばかりでなく、\u003cruby\u003e駅\u003crt\u003eえき\u003c/rt\u003e\u003c/ruby\u003eから\u003cruby\u003e近\u003crt\u003eちか\u003c/rt\u003e\u003c/ruby\u003eくて\u003cruby\u003e便利\u003crt\u003eべんり\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                           "vi":  "Căn hộ này không chỉ giá thuê rẻ mà còn gần ga rất tiện lợi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_85.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e歌\u003crt\u003eうた\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e上手\u003crt\u003eじょうず\u003c/rt\u003e\u003c/ruby\u003eなばかりでなく、ダンスも\u003cruby\u003e得意\u003crt\u003eとくい\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                           "vi":  "Cô ấy không chỉ hát hay mà còn nhảy rất giỏi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_85.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "この\u003cruby\u003e本\u003crt\u003eほん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e大人\u003crt\u003eおとな\u003c/rt\u003e\u003c/ruby\u003e（　　）でなく、\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eにも\u003cruby\u003e人気\u003crt\u003eにんき\u003c/rt\u003e\u003c/ruby\u003eがある。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "ほど",
+                                                                              "くらい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e英語\u003crt\u003eえいご\u003c/rt\u003e\u003c/ruby\u003eばかりでなく、フランス\u003cruby\u003e語\u003crt\u003eご\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eせる。",
+                                                              "options":  [
+                                                                              "も",
+                                                                              "は",
+                                                                              "を",
+                                                                              "が"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "この\u003cruby\u003e野菜\u003crt\u003eやさい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e栄養\u003crt\u003eえいよう\u003c/rt\u003e\u003c/ruby\u003eがある（　　）でなく、とても\u003cruby\u003e安\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "ほど",
+                                                                              "よう"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eばかりでなく、\u003cruby\u003e家族\u003crt\u003eかぞく\u003c/rt\u003e\u003c/ruby\u003e（　　）ためにも\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003eでいよう。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "に",
+                                                                              "で",
+                                                                              "を"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "デザインが\u003cruby\u003e良\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eい（　　）でなく、\u003cruby\u003e機能\u003crt\u003eきのう\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e優\u003crt\u003eすぐ\u003c/rt\u003e\u003c/ruby\u003eれている。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "ほど",
+                                                                              "くらい"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "この\u003cruby\u003e車\u003crt\u003eくるま\u003c/rt\u003e\u003c/ruby\u003eは（　　）が\u003cruby\u003e安\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eいばかりでなく、\u003cruby\u003e燃費\u003crt\u003eねんぴ\u003c/rt\u003e\u003c/ruby\u003eもいい。",
+                                                          "options":  [
+                                                                          "価格",
+                                                                          "景色",
+                                                                          "冗談",
+                                                                          "季節"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは（　　）が\u003cruby\u003e親切\u003crt\u003eしんせつ\u003c/rt\u003e\u003c/ruby\u003eなばかりでなく、\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e速\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                                          "options":  [
+                                                                          "性格",
+                                                                          "天気",
+                                                                          "道具",
+                                                                          "荷物"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "このホテルは（　　）がきれいなばかりでなく、サービスも\u003cruby\u003e最高\u003crt\u003eさいこう\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                          "options":  [
+                                                                          "部屋",
+                                                                          "信号",
+                                                                          "道路",
+                                                                          "病院"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは（　　）が\u003cruby\u003e上手\u003crt\u003eじょうず\u003c/rt\u003e\u003c/ruby\u003eなばかりでなく、\u003cruby\u003e片付\u003crt\u003eかたづ\u003c/rt\u003e\u003c/ruby\u003eけも\u003cruby\u003e得意\u003crt\u003eとくい\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                          "options":  [
+                                                                          "料理",
+                                                                          "睡眠",
+                                                                          "散歩",
+                                                                          "風邪"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）ばかりでなく、\u003cruby\u003e海外\u003crt\u003eかいがい\u003c/rt\u003e\u003c/ruby\u003eからもたくさんのファンがやって\u003cruby\u003e来\u003crt\u003eく\u003c/rt\u003e\u003c/ruby\u003eる。",
+                                                          "options":  [
+                                                                          "国内",
+                                                                          "教室",
+                                                                          "玄関",
+                                                                          "薬局"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "あの\u003cruby\u003e店\u003crt\u003eみせ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e静\u003crt\u003eしず\u003c/rt\u003e\u003c/ruby\u003eか＿＿＿ばかりでなく、コーヒーも\u003cruby\u003e美味\u003crt\u003eおい\u003c/rt\u003e\u003c/ruby\u003eしい。",
+                                                                "options":  [
+                                                                                "な",
+                                                                                "だ",
+                                                                                "に",
+                                                                                "で"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはピアノが＿＿＿ばかりでなく、ギターも\u003cruby\u003e弾\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eける。",
+                                                                "options":  [
+                                                                                "弾ける",
+                                                                                "弾けて",
+                                                                                "弾けた",
+                                                                                "弾こう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "このパソコンは\u003cruby\u003e軽\u003crt\u003eかる\u003c/rt\u003e\u003c/ruby\u003eい＿＿＿でなく、バッテリーも\u003cruby\u003e長持\u003crt\u003eながも\u003c/rt\u003e\u003c/ruby\u003eちする。",
+                                                                "options":  [
+                                                                                "ばかり",
+                                                                                "だけ",
+                                                                                "ほど",
+                                                                                "くらい"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e親切\u003crt\u003eしんせつ\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿ばかりでなく、お\u003cruby\u003e土産\u003crt\u003eみやげ\u003c/rt\u003e\u003c/ruby\u003eまでくれた。",
+                                                                "options":  [
+                                                                                "教えてくれた",
+                                                                                "教えてくれて",
+                                                                                "教えてくれ",
+                                                                                "教えてくれよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "あの\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e有名\u003crt\u003eゆうめい\u003c/rt\u003e\u003c/ruby\u003e＿＿＿ばかりでなく、とても\u003cruby\u003e謙虚\u003crt\u003eけんきょ\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                                "options":  [
+                                                                                "な",
+                                                                                "だ",
+                                                                                "に",
+                                                                                "で"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Điện thoại này không chỉ chụp ảnh đẹp mà pin cũng rất trâu.",
+                                                                "jp":  "このスマホは\u003cruby\u003e写真\u003crt\u003eしゃしん\u003c/rt\u003e\u003c/ruby\u003eがきれいに\u003cruby\u003e撮\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eれるばかりでなく、バッテリーの\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eちもいい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Anh ấy không chỉ giúp tôi dọn nhà mà còn đãi tôi một bữa ăn thịnh soạn.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e引\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eっ\u003cruby\u003e越\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eしを\u003cruby\u003e手伝\u003crt\u003eてつだ\u003c/rt\u003e\u003c/ruby\u003eってくれたばかりでなく、ごちそうまでしてくれた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Bộ phim đó không chỉ thú vị mà còn mang ý nghĩa nhân văn sâu sắc.",
+                                                                "jp":  "その\u003cruby\u003e映画\u003crt\u003eえいが\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e面白\u003crt\u003eおもしろ\u003c/rt\u003e\u003c/ruby\u003eいばかりでなく、とても\u003cruby\u003e深\u003crt\u003eふか\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e意味\u003crt\u003eいみ\u003c/rt\u003e\u003c/ruby\u003eがある。"
+                                                            },
+                                                            {
+                                                                "vi":  "Thành phố này không chỉ an toàn mà môi trường sống cũng vô cùng trong lành.",
+                                                                "jp":  "この\u003cruby\u003e街\u003crt\u003eまち\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e治安\u003crt\u003eちあん\u003c/rt\u003e\u003c/ruby\u003eがいいばかりでなく、\u003cruby\u003e環境\u003crt\u003eかんきょう\u003c/rt\u003e\u003c/ruby\u003eもとてもすばらしい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cô ấy không chỉ thông minh mà lúc nào cũng đối xử dịu dàng với mọi người.",
+                                                                "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e頭\u003crt\u003eあたま\u003c/rt\u003e\u003c/ruby\u003eがいいばかりでなく、いつも\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eにでも\u003cruby\u003e優\u003crt\u003eやさ\u003c/rt\u003e\u003c/ruby\u003eしい。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ばかり / 〜たばかり",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e① V-る ＋ ばかりだ (Càng ngày càng... ／ Chỉ còn chờ...)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eV-る\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eばかりだ\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003e• \u003cb\u003eCàng ngày càng...:\u003c/b\u003e Xu hướng biến đổi 1 chiều (thường xấu đi)\u003cbr\u003e• \u003cb\u003eChỉ còn chờ...:\u003c/b\u003e Mọi chuẩn bị đã xong, chỉ chờ hành động\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ff4d4f;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e② V-た ＋ ばかりだ (Vừa mới làm V)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eV-た\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eばかりだ\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eVừa mới làm V xong (theo cảm nhận chủ quan của người nói, có thể là vừa xong hoặc cả tháng trước)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Càng ngày càng... / Chỉ còn chờ... / Vừa mới...",
+                      "usage":  "• \u003cb\u003eÝ nghĩa 1 (V-るばかり - Càng ngày càng...):\u003c/b\u003e Diễn tả một xu hướng biến đổi chỉ đi theo một chiều nhất định (thường là chiều hướng tiêu cực, xấu đi). Đi kèm: \u003ci\u003e増えるばかり、悪くなるばかり、上がるばかり\u003c/i\u003e.\u003cbr\u003e• \u003cb\u003eÝ nghĩa 2 (V-るばかり - Chỉ còn chờ...):\u003c/b\u003e Diễn tả mọi công đoạn chuẩn bị đã hoàn tất 100%, lúc này chỉ còn chờ thực hiện hành động vế sau là kết thúc (thường đi với \u003ci\u003eあとは〜\u003c/i\u003e).\u003cbr\u003e• \u003cb\u003eÝ nghĩa 3 (V-たばかり - Vừa mới...):\u003c/b\u003e Diễn tả hành động vừa mới xảy ra dựa trên cảm giác tâm lý chủ quan của người nói (khác với `V-たところ` đòi hỏi thời gian thực sự vừa xảy ra tức thì).",
+                      "explanation":  "Tổng hợp 3 sắc thái linh hoạt của ばかり khi kết hợp với thể từ điển V-ru và thể quá khứ V-ta.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e最近\u003crt\u003eさいきん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e増\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eえるばかりだ。",
+                                           "vi":  "Gần đây công việc cứ càng ngày càng tăng lên.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_86.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e必要\u003crt\u003eひつよう\u003c/rt\u003e\u003c/ruby\u003eなものは\u003cruby\u003e全部\u003crt\u003eぜんぶ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e準備\u003crt\u003eじゅんび\u003c/rt\u003e\u003c/ruby\u003eしたので、\u003cruby\u003e後\u003crt\u003eあと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eかけるばかりだ。",
+                                           "vi":  "Mọi thứ cần thiết đã chuẩn bị xong xuôi hết rồi, giờ chỉ còn chờ xuất phát thôi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_86.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eはできたから、あとは\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべるばかりです。",
+                                           "vi":  "Món ăn đã nấu xong rồi, giờ chỉ còn chờ để thưởng thức nữa thôi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_86.3.png"
+                                       },
+                                       {
+                                           "jp":  "さっきご\u003cruby\u003e飯\u003crt\u003eはん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべたばかりなので、お\u003cruby\u003e腹\u003crt\u003eなか\u003c/rt\u003e\u003c/ruby\u003eがいっぱいです。",
+                                           "vi":  "Vì tôi vừa mới ăn cơm xong lúc nãy nên giờ bụng vẫn đang rất no.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_86.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e物価\u003crt\u003eぶっか\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e上\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eがるばかりで、\u003cruby\u003e生活\u003crt\u003eせいかつ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e大変\u003crt\u003eたいへん\u003c/rt\u003e\u003c/ruby\u003eになります。",
+                                           "vi":  "Vật giá ở Nhật Bản chỉ có càng ngày càng tăng lên, cuộc sống dần trở nên vất vả.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_86.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e荷物\u003crt\u003eにもつ\u003c/rt\u003e\u003c/ruby\u003eは全部まとめたので、あとはタクシーを\u003cruby\u003e待\u003crt\u003eま\u003c/rt\u003e\u003c/ruby\u003eつ（　　）だ。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "ほど",
+                                                                              "くらい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e祖父\u003crt\u003eそふ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e病気\u003crt\u003eびょうき\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e悪\u003crt\u003eわる\u003c/rt\u003e\u003c/ruby\u003eくなる（　　）で、とても\u003cruby\u003e心配\u003crt\u003eしんぱい\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "こそ",
+                                                                              "さえ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e先週\u003crt\u003eせんしゅう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e新\u003crt\u003eあたら\u003c/rt\u003e\u003c/ruby\u003eしいスマホを\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eっ（　　）ばかりなのに、もう\u003cruby\u003e壊\u003crt\u003eこわ\u003c/rt\u003e\u003c/ruby\u003eれた。",
+                                                              "options":  [
+                                                                              "た",
+                                                                              "て",
+                                                                              "る",
+                                                                              "ます"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "この\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eった（　　）なので、まだ\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e慣\u003crt\u003eな\u003c/rt\u003e\u003c/ruby\u003eれていません。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "ほど",
+                                                                              "くらい",
+                                                                              "つもり"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e準備\u003crt\u003eじゅんび\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e完了\u003crt\u003eかんりょう\u003c/rt\u003e\u003c/ruby\u003eした。あとは\u003cruby\u003e本番\u003crt\u003eほんばん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e迎\u003crt\u003eむか\u003c/rt\u003e\u003c/ruby\u003eえる（　　）だ。",
+                                                              "options":  [
+                                                                              "ばかり",
+                                                                              "だけ",
+                                                                              "ほど",
+                                                                              "よう"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e景気\u003crt\u003eけいき\u003c/rt\u003e\u003c/ruby\u003eは（　　）ばかりで、\u003cruby\u003e回復\u003crt\u003eかいふく\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e兆\u003crt\u003eきざ\u003c/rt\u003e\u003c/ruby\u003eしが\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eえない。",
+                                                          "options":  [
+                                                                          "悪化する",
+                                                                          "綺麗になる",
+                                                                          "散歩する",
+                                                                          "喜ぶ"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "さっき（　　）を\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eんだばかりだから、まだ\u003cruby\u003e効\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eき\u003cruby\u003e目\u003crt\u003eめ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eていない。",
+                                                          "options":  [
+                                                                          "薬",
+                                                                          "傘",
+                                                                          "靴",
+                                                                          "本"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eを（　　）したばかりなのに、もう\u003cruby\u003e散\u003crt\u003eち\u003c/rt\u003e\u003c/ruby\u003eらかっている。",
+                                                          "options":  [
+                                                                          "掃除",
+                                                                          "料理",
+                                                                          "旅行",
+                                                                          "買い物"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e計画\u003crt\u003eけいかく\u003c/rt\u003e\u003c/ruby\u003eはすべて\u003cruby\u003e立\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eてた。あとは（　　）するばかりだ。",
+                                                          "options":  [
+                                                                          "実行",
+                                                                          "遠慮",
+                                                                          "挨拶",
+                                                                          "延期"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e手術\u003crt\u003eしゅじゅつ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e受\u003crt\u003eう\u003c/rt\u003e\u003c/ruby\u003eけたばかりなので、まだ\u003cruby\u003e激\u003crt\u003eはげ\u003c/rt\u003e\u003c/ruby\u003eしい（　　）はできない。",
+                                                          "options":  [
+                                                                          "運動",
+                                                                          "睡眠",
+                                                                          "景色",
+                                                                          "冗談"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e状況\u003crt\u003eじょうきょう\u003c/rt\u003e\u003c/ruby\u003eは＿＿＿ばかりで、ちっとも\u003cruby\u003e改善\u003crt\u003eかいぜん\u003c/rt\u003e\u003c/ruby\u003eしない。",
+                                                                "options":  [
+                                                                                "悪くなる",
+                                                                                "悪くなって",
+                                                                                "悪くなった",
+                                                                                "悪くなろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿ばかりの\u003cruby\u003e頃\u003crt\u003eころ\u003c/rt\u003e\u003c/ruby\u003eは、\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eが全く\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eせなかった。",
+                                                                "options":  [
+                                                                                "来た",
+                                                                                "来る",
+                                                                                "来て",
+                                                                                "来よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e書類\u003crt\u003eしょるい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e書\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eき\u003cruby\u003e終\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eわったので、あとは＿＿＿ばかりだ。",
+                                                                "options":  [
+                                                                                "提出する",
+                                                                                "提出して",
+                                                                                "提出した",
+                                                                                "提出しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e朝\u003crt\u003eあさ\u003c/rt\u003e\u003c/ruby\u003e＿＿＿ばかりなのに、もうお\u003cruby\u003e腹\u003crt\u003eなか\u003c/rt\u003e\u003c/ruby\u003eがすいてきた。",
+                                                                "options":  [
+                                                                                "起きた",
+                                                                                "起きる",
+                                                                                "起きて",
+                                                                                "起きよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "ストレスが＿＿＿ばかりで、\u003cruby\u003e夜\u003crt\u003eよる\u003c/rt\u003e\u003c/ruby\u003eもよく\u003cruby\u003e眠\u003crt\u003eねむ\u003c/rt\u003e\u003c/ruby\u003eれない。",
+                                                                "options":  [
+                                                                                "たまる",
+                                                                                "たまって",
+                                                                                "たまかった",
+                                                                                "たまろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Tôi vừa mới mua chiếc áo khoác này hôm qua nên chưa muốn giặt ngay.",
+                                                                "jp":  "\u003cruby\u003e昨日\u003crt\u003eきのう\u003c/rt\u003e\u003c/ruby\u003eこのコートを\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eったばかりなので、まだ\u003cruby\u003e洗\u003crt\u003eあら\u003c/rt\u003e\u003c/ruby\u003eいたくない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Mọi khâu chuẩn bị đã hoàn tất, giờ chỉ còn chờ tiếng còi khai cuộc bắt đầu.",
+                                                                "jp":  "\u003cruby\u003e準備\u003crt\u003eじゅんび\u003c/rt\u003e\u003c/ruby\u003eはすべて\u003cruby\u003e整\u003crt\u003eととの\u003c/rt\u003e\u003c/ruby\u003eったので、あとはスタートの\u003cruby\u003e合図\u003crt\u003eあいず\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e待\u003crt\u003eま\u003c/rt\u003e\u003c/ruby\u003eつばかりだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tình hình kinh tế cứ ngày càng xấu đi khiến ai cũng lo lắng.",
+                                                                "jp":  "\u003cruby\u003e経済\u003crt\u003eけいざい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e状況\u003crt\u003eじょうきょう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e悪\u003crt\u003eわる\u003c/rt\u003e\u003c/ruby\u003eくなるばかりで、みんな\u003cruby\u003e不安\u003crt\u003eふあん\u003c/rt\u003e\u003c/ruby\u003eに思っている。"
+                                                            },
+                                                            {
+                                                                "vi":  "Anh ấy vừa mới tốt nghiệp đại học tháng trước và đang bắt đầu tìm việc.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e先月\u003crt\u003eせんげつ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e大学\u003crt\u003eだいがく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e卒業\u003crt\u003eそつぎょう\u003c/rt\u003e\u003c/ruby\u003eしたばかりで、\u003cruby\u003e就職\u003crt\u003eしゅうしょく\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e活動\u003crt\u003eかつどう\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e始\u003crt\u003eはじ\u003c/rt\u003e\u003c/ruby\u003eめたところだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Số người học tiếng Nhật cứ ngày càng tăng lên trên khắp thế giới.",
+                                                                "jp":  "\u003cruby\u003e世界中\u003crt\u003eせかいじゅう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e学\u003crt\u003eまな\u003c/rt\u003e\u003c/ruby\u003eぶ\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e増\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eえるばかりだ。"
+                                                            }
+                                                        ]
+                                    }
+                  }
+              ]
+}

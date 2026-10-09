@@ -1,0 +1,564 @@
+{
+  "name": "Bài 12",
+  "x": 380,
+  "y": 270,
+  "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Ý Chí, Quyết Định, Cố Gắng & Chủ Quan (Bài 12)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;'>Bản chất & Chủ thể</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ことにする<br>〜ことにしている</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Quyết định chủ quan / Thói quen tự quyết</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Chính bản thân quyết định làm/không làm gì; hoặc duy trì quy tắc thói quen do mình đặt ra.<br><em>VD: 毎日運動することにした。(Tôi quyết định tập thể dục mỗi ngày)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ようにする<br>〜ようにしている</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Nỗ lực / Cố gắng đều đặn</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Nỗ lực, cố gắng từng chút một để tạo thói quen tốt hoặc khuyên người khác cố gắng.<br><em>VD: 甘い物を食べないようにしている。(Cố gắng không ăn đồ ngọt)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ようとする<br>〜ようとしない</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Sắp sửa làm / Không chịu làm (Ngôi 3)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Chuẩn bị làm ngay trong tích tắc; hoặc người khác nhất quyết không chịu làm gì.<br><em>VD: 電車に乗ろうとした時、ドアが閉まった。(Định bước lên tàu thì cửa đóng)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜つもりだ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Tưởng rằng / Cứ ngỡ là...</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Bản thân tin/nghĩ như vậy nhưng thực tế khách quan lại trái ngược hoặc khác biệt.<br><em>VD: 鍵をかけた積もりだった。(Cứ ngỡ là đã khóa cửa rồi)</em></td></tr></tbody></table><table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-top:1.5rem;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.5rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;background:#fff5f5;'>🥷 Tổng Hợp Các Cách Dùng Với 「します / する」</th></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1rem;width:33.33%;vertical-align:top;background:#fafafa;'><div style='background:#eef6ff;border:2px solid #3b82f6;border-radius:8px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;font-size:1.15rem;color:#1d4ed8;margin-bottom:0.6rem;'>Danh từ にする</div><div style='background:#f0fdf4;border:1px solid #86efac;border-radius:8px;padding:0.7rem;text-align:center;font-weight:600;font-size:1rem;color:#15803d;'>Quyết định, lựa chọn</div></td><td style='border:1px solid #333;padding:1rem;width:33.33%;vertical-align:top;background:#fafafa;'><div style='background:#eef6ff;border:2px solid #3b82f6;border-radius:8px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;font-size:1.15rem;color:#1d4ed8;margin-bottom:0.6rem;'>ようにする</div><div style='background:#f0fdf4;border:1px solid #86efac;border-radius:8px;padding:0.7rem;text-align:center;font-weight:600;font-size:1rem;color:#15803d;'>Cố gắng, đang cố, hãy cố</div></td><td style='border:1px solid #333;padding:1rem;width:33.33%;vertical-align:top;background:#fafafa;'><div style='background:#eef6ff;border:2px solid #3b82f6;border-radius:8px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;font-size:1.15rem;color:#1d4ed8;margin-bottom:0.6rem;'>ĐT ý hướng ＋ とする</div><div style='background:#f0fdf4;border:1px solid #86efac;border-radius:8px;padding:0.7rem;text-align:center;font-weight:600;font-size:0.95rem;color:#15803d;'>Định, đang định, đã định,<br>nhất định không định làm (ý định)</div></td></tr><tr><td style='border:1px solid #333;padding:1rem;width:33.33%;vertical-align:top;background:#fafafa;'><div style='background:#eef6ff;border:2px solid #3b82f6;border-radius:8px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;font-size:1.15rem;color:#1d4ed8;margin-bottom:0.6rem;'>おと / におい ＋ がする</div><div style='background:#f0fdf4;border:1px solid #86efac;border-radius:8px;padding:0.7rem;text-align:center;font-weight:600;font-size:1rem;color:#15803d;'>Thấy âm, ngửi thấy mùi</div></td><td style='border:1px solid #333;padding:1rem;width:33.33%;vertical-align:top;background:#fafafa;'><div style='background:#eef6ff;border:2px solid #3b82f6;border-radius:8px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;font-size:1.15rem;color:#1d4ed8;margin-bottom:0.6rem;'>Aいくする<br>Aなにする</div><div style='background:#f0fdf4;border:1px solid #86efac;border-radius:8px;padding:0.7rem;text-align:center;font-weight:600;font-size:0.95rem;color:#15803d;'>Làm cho nó A đi<br><span style='font-size:0.85em;color:#555;'>(Tính từ đi với động từ)</span></div></td><td style='border:1px solid #333;padding:1rem;width:33.33%;vertical-align:top;background:#fafafa;'><div style='background:#eef6ff;border:2px solid #3b82f6;border-radius:8px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;font-size:1.15rem;color:#1d4ed8;margin-bottom:0.6rem;'>〜をする</div><div style='background:#f0fdf4;border:1px solid #86efac;border-radius:8px;padding:0.7rem;text-align:center;font-weight:600;font-size:1rem;color:#15803d;'>Làm...<br><span style='font-size:0.85em;color:#555;'>(Hành động)</span></div></td></tr></tbody></table>",
+  "items": [
+    {
+      "structure": "〜ことにする / 〜ことにしている",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:480px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.8rem 1.8rem;font-size:1.2rem;color:#ffd700;font-weight:700;width:42%;'>V-る</td><td rowspan='2' style='background:rgba(255,77,79,0.08);padding:1rem 1.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.55rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>ことにする</span><span style='color:#ff7875;font-size:1.15rem;font-weight:700;margin-top:0.3rem;display:block;'>（ことにしている）</span></td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 1.8rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>V-ない</td></tr></table></div>",
+      "meaning": "Tôi quyết định làm (hoặc không làm)... / Duy trì thói quen tự quyết",
+      "usage": "1. Diễn tả một quyết định, ý chí do chính bản thân mình đưa ra về việc làm hay không làm một hành động nào đó (khác với 〜ことになる do hoàn cảnh hoặc tập thể quyết định)。<br>2. Dạng 〜ことにしている dùng để nói về việc duy trì một thói quen tốt, quy tắc sống do tự mình quyết tâm thực hiện đều đặn mỗi ngày。<br>3. Dạng phủ định: V-ないことにする (Quyết định sẽ không làm...) hoặc V-ないことにしている (Duy trì thói quen không làm...)。",
+      "explanation": "Nhấn mạnh vào Ý CHÍ CHỦ QUAN của người nói. Người nói tự chịu trách nhiệm về quyết định của mình.",
+      "examples": [
+        {
+          "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>のために、<ruby>友達<rt>ともだち</rt></ruby>との<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>約束<rt>やくそく</rt></ruby>を<ruby>断<rt>ことわ</rt></ruby>ることにする。",
+          "vi": "Vì cô ấy, tôi quyết định từ chối cuộc hẹn đi chơi với bạn bè.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_46.1.png"
+        },
+        {
+          "jp": "お<ruby>金<rt>かね</rt></ruby>がないから、<ruby>今度<rt>こんど</rt></ruby>の<ruby>正月<rt>しょうがつ</rt></ruby><ruby>帰国<rt>きこく</rt></ruby>しないことにした。",
+          "vi": "Vì không có tiền nên tôi đã quyết định Tết này sẽ không về nước.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_46.2.png"
+        },
+        {
+          "jp": "<ruby>毎朝<rt>まいあさ</rt></ruby>、5<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きることにしている。",
+          "vi": "Tôi duy trì thói quen thức dậy lúc 5 giờ mỗi sáng.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_46.3.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>することにした。",
+          "vi": "Tôi đã quyết định sang năm sẽ kết hôn.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_46.4.png"
+        },
+        {
+          "jp": "<ruby>健康<rt>けんこう</rt></ruby>のために、もうタバコを<ruby>吸<rt>す</rt></ruby>わないことにした。",
+          "vi": "Để bảo vệ sức khỏe, tôi đã quyết định không hút thuốc lá nữa.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_46.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>今年<rt>ことし</rt></ruby>からジョギングを<ruby>始<rt>はじ</rt></ruby>める（　　）にした。",
+            "options": ["こと", "わけ", "はず", "もの"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>夜<rt>よる</rt></ruby>9<ruby>時<rt>じ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない（　　）にしている。",
+            "options": ["こと", "よう", "つもり", "まま"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めて<ruby>留学<rt>りゅうがく</rt></ruby>する（　　）に決めました。",
+            "options": ["こと", "よう", "はず", "わけ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>本<rt>ほん</rt></ruby>を1<ruby>冊<rt>さつ</rt></ruby><ruby>読<rt>よ</rt></ruby>む（　　）にしている。",
+            "options": ["こと", "よう", "とおり", "ほど"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>誘<rt>さそ</rt></ruby>いは<ruby>断<rt>ことわ</rt></ruby>る（　　）にしました。",
+            "options": ["こと", "よう", "ばかり", "ついで"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>節約<rt>せつやく</rt></ruby>のために（　　）をしないことにした。",
+            "options": ["無駄遣い", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎日<rt>まいにち</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>（　　）をすることにしている。",
+            "options": ["散歩", "散らかし", "遅刻", "欠席"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>環境<rt>かんきょう</rt></ruby>のために（　　）を<ruby>持<rt>も</rt></ruby>ち<ruby>歩<rt>ある</rt></ruby>くことにしている。",
+            "options": ["マイバッグ", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>健康<rt>けんこう</rt></ruby>のために（　　）を<ruby>控<rt>ひか</rt></ruby>えることにした。",
+            "options": ["お酒", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>来年<rt>らいねん</rt></ruby>、（　　）を<ruby>受験<rt>じゅけん</rt></ruby>することにしました。",
+            "options": ["大学", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>はもう＿＿＿ことにした。",
+            "options": ["しない", "しなくて", "しないで", "せず"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>を＿＿＿ことにしている。",
+            "options": ["読む", "読んで", "読んだ", "読めば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しいパソコンを＿＿＿ことにした。",
+            "options": ["買う", "買って", "買った", "買えば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>夜遅<rt>よるおそ</rt></ruby>くにはスマホを＿＿＿ことにしている。",
+            "options": ["見ない", "見なくて", "見ないで", "見ず"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>来月<rt>らいげつ</rt></ruby>からジムに＿＿＿ことにしました。",
+            "options": ["通う", "通って", "通った", "通えば"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Tôi quyết định từ tháng sau sẽ tự nấu ăn để tiết kiệm tiền.",
+            "jp": "<ruby>節約<rt>せつやく</rt></ruby>のために、<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>自炊<rt>じすい</rt></ruby>することにしました。"
+          },
+          {
+            "vi": "Tôi duy trì thói quen mỗi ngày học 20 từ vựng tiếng Nhật mới.",
+            "jp": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>新<rt>あたら</rt></ruby>しい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>単語<rt>たんご</rt></ruby>を20<ruby>個<rt>こ</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えることにしている。"
+          },
+          {
+            "vi": "Vì trời mưa to nên tôi quyết định không đi leo núi nữa.",
+            "jp": "<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているから、<ruby>山登<rt>やまのぼ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>かないことにした。"
+          },
+          {
+            "vi": "Tôi đã quyết định sẽ chuyển sang một công ty mới vào mùa thu năm nay.",
+            "jp": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>転職<rt>てんしょく</rt></ruby>することにしました。"
+          },
+          {
+            "vi": "Tôi luôn duy trì thói quen uống một cốc nước ấm ngay sau khi thức dậy.",
+            "jp": "<ruby>起<rt>お</rt></ruby>きたらすぐに<ruby>白湯<rt>さゆ</rt></ruby>を1<ruby>杯<rt>ぱい</rt></ruby><ruby>飲<rt>の</rt></ruby>むことにしている。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜ようにする / 〜ようにしている",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td rowspan='3' style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;vertical-align:middle;width:28%;'>V-る<br><span style='font-size:1.15rem;color:#ff7875;margin-top:0.4rem;display:inline-block;'>V-ない</span></td><td style='background:rgba(255,77,79,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;vertical-align:middle;width:38%;'><span style='color:#ff4d4f;font-size:1.35rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>ようにする</span></td><td style='background:rgba(255,255,255,0.04);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;font-size:1.05rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Cố gắng</td></tr><tr><td style='background:rgba(255,77,79,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.35rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>ようにしている</span></td><td style='background:rgba(255,255,255,0.03);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;font-size:1.05rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Đang cố gắng</td></tr><tr><td style='background:rgba(255,77,79,0.04);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.25rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>ようにしてください</span></td><td style='background:rgba(255,255,255,0.02);padding:0.75rem 1rem;font-size:1.05rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Hãy, đừng (khuyên nhẹ)</td></tr></table></div>",
+      "meaning": "Cố gắng làm (hoặc không làm)... / Đang cố gắng nỗ lực...",
+      "usage": "1. Diễn tả sự cố gắng, nỗ lực tạo thành thói quen hoặc hành động đều đặn để thực hiện hoặc không thực hiện một việc gì đó。<br>2. Dạng 〜ようにしている nhấn mạnh vào quá trình đang liên tục nỗ lực duy trì thói quen tốt đó mỗi ngày。<br>3. Dạng 〜ようにしてください dùng như một lời khuyên, nhắc nhở hoặc yêu cầu gián tiếp, lịch sự và nhẹ nhàng hơn 〜てください。",
+      "explanation": "Khác với 〜ことにする (nhấn mạnh quyết định dứt khoát), 〜ようにする nhấn mạnh vào SỰ NỖ LỰC, CỐ GẮNG từng chút một để hướng tới mục tiêu.",
+      "examples": [
+        {
+          "jp": "これから<ruby>毎日<rt>まいにち</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>ぐらい<ruby>運動<rt>うんどう</rt></ruby>するようにする。",
+          "vi": "Từ bây giờ tôi sẽ cố gắng vận động khoảng 15 phút mỗi ngày.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_47.1.png"
+        },
+        {
+          "jp": "<ruby>忘<rt>わす</rt></ruby>れないようにちゃんとメモするようにしています。",
+          "vi": "Để không quên, tôi luôn cố gắng ghi chép lại cẩn thận.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_47.2.png"
+        },
+        {
+          "jp": "<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れないようにしてください。",
+          "vi": "Hãy cố gắng đừng đi muộn cuộc họp ngày mai nhé.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_47.3.png"
+        },
+        {
+          "jp": "<ruby>毎晩<rt>まいばん</rt></ruby>、<ruby>遅<rt>おそ</rt></ruby>くとも11<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>には<ruby>寝<rt>ね</rt></ruby>るようにしています。",
+          "vi": "Tôi luôn cố gắng đi ngủ muộn nhất là 11 giờ rưỡi mỗi tối.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_47.4.png"
+        },
+        {
+          "jp": "<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>いので、<ruby>甘<rt>あま</rt></ruby>いものを<ruby>食<rt>た</rt></ruby>べないようにする。",
+          "vi": "Vì không tốt cho cơ thể nên tôi sẽ cố gắng không ăn đồ ngọt.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_47.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>油<rt>あぶら</rt></ruby>っこいものを<ruby>食<rt>た</rt></ruby>べない（　　）にしています。",
+            "options": ["よう", "こと", "はず", "わけ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る（　　）にしてください。",
+            "options": ["よう", "こと", "つもり", "まま"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>外出<rt>がいしゅつ</rt></ruby>するときはマスクをする（　　）にしている。",
+            "options": ["よう", "こと", "とおり", "ほど"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>塩分<rt>えんぶん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りすぎない（　　）にしましょう。",
+            "options": ["よう", "こと", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>朝食<rt>ちょうしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる（　　）に努めている。",
+            "options": ["よう", "こと", "はず", "わけ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>野菜<rt>やさい</rt></ruby>をたくさん（　　）ようにしています。",
+            "options": ["食べる", "壊す", "走る", "飛ぶ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に（　　）をいじらないようにしている。",
+            "options": ["スマホ", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>階段<rt>かいだん</rt></ruby>を（　　）ようにしている。",
+            "options": ["使う", "飲む", "着る", "脱ぐ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>誰<rt>だれ</rt></ruby>にでも（　　）に<ruby>挨拶<rt>あいさつ</rt></ruby>するようにしてください。",
+            "options": ["笑顔", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎日<rt>まいにち</rt></ruby>1<ruby>本<rt>ぽん</rt></ruby>（　　）を<ruby>読<rt>よ</rt></ruby>むようにしている。",
+            "options": ["ニュース", "教科書", "財布", "靴下"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>風邪<rt>かぜ</rt></ruby>を＿＿＿ように、あたたかくしてください。",
+            "options": ["引かない", "引かなくて", "引かないで", "引かず"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>毎日<rt>まいにち</rt></ruby>2リットルの<ruby>水<rt>みず</rt></ruby>を＿＿＿ようにしています。",
+            "options": ["飲む", "飲んで", "飲んだ", "飲めば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>夜<rt>よる</rt></ruby>遅くには<ruby>大声<rt>おおごえ</rt></ruby>を＿＿＿ようにしてください。",
+            "options": ["出さない", "出さなくて", "出さないで", "出さず"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>言葉<rt>ことば</rt></ruby><ruby>遣<rt>づか</rt></ruby>いに＿＿＿ようにしています。",
+            "options": ["気をつける", "気をつけて", "気をつけた", "気をつければ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に＿＿＿ようにしてください。",
+            "options": ["遅れない", "遅れなくて", "遅れないで", "遅れず"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Tôi luôn cố gắng không ăn thức ăn nhanh vì sức khỏe.",
+            "jp": "<ruby>健康<rt>けんこう</rt></ruby>のために、ファストフードを<ruby>食<rt>た</rt></ruby>べないようにしています。"
+          },
+          {
+            "vi": "Hãy cố gắng rửa tay thật sạch bằng xà phòng sau khi về nhà nhé.",
+            "jp": "<ruby>帰宅<rt>きたく</rt></ruby>したら、せっけんでしっかり<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うようにしてください。"
+          },
+          {
+            "vi": "Tôi luôn cố gắng đi bộ thay vì đi thang máy.",
+            "jp": "エレベーターを<ruby>使<rt>つか</rt></ruby>わずに、<ruby>歩<rt>ある</rt></ruby>くようにしています。"
+          },
+          {
+            "vi": "Xin hãy cố gắng liên lạc trước nếu bạn đến muộn cuộc hẹn.",
+            "jp": "<ruby>約束<rt>やくそく</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れる<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>事前<rt>じぜん</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>するようにしてください。"
+          },
+          {
+            "vi": "Mỗi ngày tôi đều cố gắng nghe bản tin tiếng Nhật 30 phút.",
+            "jp": "<ruby>毎日<rt>まいにち</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>のニュースを<ruby>聞<rt>き</rt></ruby>くようにしています。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜Vようとする",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:580px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td rowspan='4' style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.4rem;color:#ffd700;font-weight:800;vertical-align:middle;width:24%;'>V-よう<br><span style='font-size:0.85rem;color:#aaa;font-weight:normal;'>(Thể ý chí)</span></td><td style='background:rgba(255,77,79,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.7rem 0.8rem;vertical-align:middle;width:28%;'><span style='color:#ff4d4f;font-size:1.35rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>とする</span></td><td style='background:rgba(255,255,255,0.04);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.7rem 1rem;font-size:0.95rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Sắp làm ＝ もうすぐ Vます <span style='color:#00f3ff;'>(chuẩn bị làm)</span></td></tr><tr><td style='background:rgba(255,77,79,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.7rem 0.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.35rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>としている</span></td><td style='background:rgba(255,255,255,0.03);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.7rem 1rem;font-size:0.95rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Đang định làm</td></tr><tr><td style='background:rgba(255,77,79,0.04);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.7rem 0.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.35rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>とした</span></td><td style='background:rgba(255,255,255,0.02);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.7rem 1rem;font-size:0.95rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Đã cố gắng, định làm nhưng KQ không như ý</td></tr><tr><td style='background:rgba(255,77,79,0.02);border-right:1px solid rgba(255,255,255,0.15);padding:0.7rem 0.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.35rem;font-weight:800;text-shadow:0 0 12px rgba(255,77,79,0.7);display:block;'>としない</span></td><td style='background:rgba(255,255,255,0.01);padding:0.7rem 1rem;font-size:0.95rem;color:#fff;font-weight:600;vertical-align:middle;text-align:left;'>Nhất định không... <span style='color:#ff7875;'>(Không tự nói bản thân)</span></td></tr></table></div>",
+      "meaning": "Định làm... / Chuẩn bị làm... & Không chịu làm (phủ định)",
+      "usage": "1. Diễn tả một hành động sắp sửa xảy ra ngay trong tích tắc, hoặc nỗ lực định làm gì đó tại một thời điểm cụ thể (thường đi với とした時, としたら)。<br>2. Dạng 〜ようとしている diễn tả một sự việc sắp sửa bắt đầu hoặc đang cố gắng thực hiện trong khoảnh khắc đó。<br>3. Dạng phủ định 〜ようとしない dùng để chỉ trích, nhận xét một người hoặc con vật khác hoàn toàn không có ý định hay nỗ lực chịu thực hiện hành động (chỉ dùng cho ngôi thứ 3)。",
+      "explanation": "Khác với 〜つもりだ (dự định trong tương lai xa), 〜ようとする nói về KHOẢNH KHẮC NGAY TRƯỚC KHI HÀNH ĐỘNG DIỄN RA (ví dụ: vừa cầm đũa lên định ăn).",
+      "examples": [
+        {
+          "jp": "ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べようとする<ruby>時<rt>とき</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>た。",
+          "vi": "Đúng lúc tôi chuẩn bị ăn cơm thì bạn đến chơi.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_48.1.png"
+        },
+        {
+          "jp": "あの子は<ruby>手<rt>て</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばして、テーブルの<ruby>上<rt>うえ</rt></ruby>のおもちゃを<ruby>取<rt>と</rt></ruby>ろうとしている。",
+          "vi": "Đứa bé đó đang vươn tay ra, định lấy món đồ chơi trên bàn.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_48.2.png"
+        },
+        {
+          "jp": "<ruby>帰<rt>かえ</rt></ruby>ろうとしたが、<ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>呼<rt>よ</rt></ruby>ばれた。",
+          "vi": "Tôi đang định đi về thì bị trưởng phòng gọi lại.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_48.3.png"
+        },
+        {
+          "jp": "Aさんは<ruby>先生<rt>せんせい</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>られても<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しようとしない。",
+          "vi": "Bạn A dù bị giáo viên mắng vẫn nhất quyết không chịu học tiếng Nhật.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_48.4.png"
+        },
+        {
+          "jp": "ポチは<ruby>私<rt>わたし</rt></ruby>が<ruby>呼<rt>よ</rt></ruby>んでも、こっちへ<ruby>来<rt>こ</rt></ruby>ようとしない。",
+          "vi": "Chú chó Pochi dù tôi có gọi cũng nhất quyết không chịu lại đây.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_48.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ろ（　　）としたとき、ドアが閉まった。",
+            "options": ["う", "と", "に", "へ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>よう（　　）したときに、<ruby>電話<rt>でんわ</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>った。",
+            "options": ["と", "に", "で", "を"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>息子<rt>むすこ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>から<ruby>宿題<rt>しゅくだい</rt></ruby>をし（　　）としない。",
+            "options": ["よう", "そう", "こと", "はず"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ろう（　　）しているところです。",
+            "options": ["と", "に", "を", "で"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>木<rt>き</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ろ（　　）としている。",
+            "options": ["う", "と", "に", "へ"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しい（　　）を<ruby>始<rt>はじ</rt></ruby>めようとしている。",
+            "options": ["事業", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>の（　　）を<ruby>話<rt>はな</rt></ruby>そうとしない。",
+            "options": ["こと", "財布", "靴下", "傘"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）がまさに<ruby>沈<rt>しず</rt></ruby>もうとしている。",
+            "options": ["太陽", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>犬<rt>いぬ</rt></ruby>が（　　）を<ruby>食<rt>た</rt></ruby>べようとしない。",
+            "options": ["餌", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>犯人<rt>はんにん</rt></ruby>が（　　）から<ruby>逃<rt>に</rt></ruby>げようとした。",
+            "options": ["窓", "教科書", "財布", "帽子"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>寝<rt>ね</rt></ruby>＿＿＿としたとき、インターホンが<ruby>鳴<rt>な</rt></ruby>った。",
+            "options": ["よう", "る", "た", "れば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>のミスを＿＿＿としない。",
+            "options": ["認めよう", "認める", "認めた", "認めれば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>出<rt>で</rt></ruby>かけ＿＿＿としたら、<ruby>急<rt>きゅう</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した。",
+            "options": ["よう", "る", "た", "れば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>妹<rt>いもうと</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>を＿＿＿としない。",
+            "options": ["食べよう", "食べる", "食べた", "食べれば"],
+            "answer": 0
+          },
+          {
+            "question": "ビルから<ruby>出<rt>で</rt></ruby>＿＿＿としたとき、<ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きた。",
+            "options": ["よう", "る", "た", "れば"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Đúng lúc tôi vừa định bước lên xe buýt thì trời đổ mưa lớn.",
+            "jp": "バスに<ruby>乗<rt>の</rt></ruby>ろうとしたとき、<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきた。"
+          },
+          {
+            "vi": "Anh ấy dù bị mọi người khuyên bảo vẫn nhất quyết không chịu đi khám bệnh.",
+            "jp": "<ruby>彼<rt>かれ</rt></ruby>はみんなに<ruby>言<rt>い</rt></ruby>われても、<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こうとしない。"
+          },
+          {
+            "vi": "Đúng lúc tôi định đi ngủ thì có điện thoại gấp từ công ty gọi tới.",
+            "jp": "<ruby>寝<rt>ね</rt></ruby>ようとしたとき、<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>緊急<rt>きんきゅう</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby>がかかってきた。"
+          },
+          {
+            "vi": "Đứa bé khóc và nhất quyết không chịu buông tay mẹ ra.",
+            "jp": "<ruby>子供<rt>こども</rt></ruby>は<ruby>泣<rt>な</rt></ruby>いてお<ruby>母<rt>かあ</rt></ruby>さんの<ruby>手<rt>て</rt></ruby>を<ruby>離<rt>はな</rt></ruby>そうとしない。"
+          },
+          {
+            "vi": "Máy bay đang chuẩn bị cất cánh khỏi đường băng.",
+            "jp": "<ruby>飛行機<rt>ひこうき</rt></ruby>がまさに<ruby>滑走路<rt>かっそうろ</rt></ruby>から<ruby>飛<rt>と</rt></ruby>び<ruby>立<rt>た</rt></ruby>とうとしている。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜つもりだ",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:480px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;width:42%;'>V-た / V-ている</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1rem 1.8rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.65rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>つもりだ</span><span style='color:#aaa;font-size:0.9rem;display:block;margin-top:0.3rem;'>Cứ ngỡ là... / Tưởng rằng...</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub> ＋ な</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1.5rem;font-size:1.15rem;color:#ffd700;font-weight:700;'>N ＋ の</td></tr></table></div>",
+      "meaning": "Cứ ngỡ là... / Tưởng rằng đã... (nhưng thực tế trái ngược)",
+      "usage": "1. Diễn tả ý nghĩ, niềm tin hoặc cảm nhận chủ quan của bản thân rằng mình đã làm hoặc đang ở trạng thái nào đó, tuy nhiên thực tế khách quan lại không phải như vậy hoặc bị người khác đánh giá trái ngược。<br>2. Thường mang sắc thái ngỡ ngàng, tiếc nuối, phân trần hoặc dùng để chỉ trích hành động của người khác。<br>3. Phân biệt với V-る＋つもりだ (dự định trong tương lai) — ở mẫu này luôn đi với V-た, V-ている, Aい, Aな, Nの để nói về trạng thái hoặc việc đã thực hiện。",
+      "explanation": "Thường đi kèm với quá khứ (〜たつもりだったが...) để diễn tả sự việc hóa ra không đúng như mình nghĩ.",
+      "examples": [
+        {
+          "jp": "<ruby>秘密<rt>ひみつ</rt></ruby>にしていたつもりだが、バレていた。",
+          "vi": "Tôi cứ ngỡ là mình đã giữ bí mật rồi, hóa ra lại bị lộ mất.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_49.1.png"
+        },
+        {
+          "jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>70<ruby>歳<rt>さい</rt></ruby>ですが、まだまだ<ruby>若<rt>わか</rt></ruby>いつもりです。",
+          "vi": "Năm nay tôi đã 70 tuổi rồi nhưng tôi tự thấy/nghĩ rằng mình vẫn còn rất trẻ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_49.2.png"
+        },
+        {
+          "jp": "<ruby>試験<rt>しけん</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>なつもりだったが、<ruby>思<rt>おも</rt></ruby>ったより<ruby>難<rt>むずか</rt></ruby>しかった。",
+          "vi": "Tôi cứ tưởng kỳ thi sẽ đơn giản, hóa ra lại khó hơn tôi nghĩ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_49.3.png"
+        },
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>のつもりだったが、<ruby>実際<rt>じっさい</rt></ruby>はそうでもなかった。",
+          "vi": "Tôi cứ ngỡ anh ấy là một người tử tế, nhưng thực tế lại không phải như vậy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_49.4.png"
+        },
+        {
+          "jp": "<ruby>自分<rt>じぶん</rt></ruby>ではちゃんと<ruby>書<rt>か</rt></ruby>いたつもりだったが、<ruby>間違<rt>まちが</rt></ruby>いがたくさんあった。",
+          "vi": "Bản thân tôi cứ nghĩ là mình đã viết rất đúng rồi, thế mà lại có rất nhiều lỗi sai.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_49.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>鍵<rt>かぎ</rt></ruby>をかけ（　　）つもりだったが、開いていた。",
+            "options": ["た", "て", "る", "ば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>説明<rt>せつめい</rt></ruby>し（　　）つもりだったが、<ruby>伝<rt>つた</rt></ruby>わっていなかった。",
+            "options": ["た", "て", "る", "ば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>若<rt>わか</rt></ruby>い（　　）でも、<ruby>体<rt>からだ</rt></ruby>は<ruby>衰<rt>おとろ</rt></ruby>えている。",
+            "options": ["つもり", "こと", "はず", "わけ"],
+            "answer": 0
+          },
+          {
+            "question": "プロの（　　）つもりで<ruby>仕事<rt>しごと</rt></ruby>をしている。",
+            "options": ["の", "な", "だ", "に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>綺麗<rt>きれい</rt></ruby>（　　）つもりで<ruby>掃除<rt>そうじ</rt></ruby>したのに、まだ汚い。",
+            "options": ["な", "の", "だ", "に"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>自分<rt>じぶん</rt></ruby>では（　　）のつもりだったが、<ruby>相手<rt>あいて</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせてしまった。",
+            "options": ["冗談", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>正<rt>ただ</rt></ruby>しい（　　）を<ruby>教<rt>おし</rt></ruby>えたつもりだった。",
+            "options": ["答え", "財布", "靴下", "傘"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）にいたつもりだったが、<ruby>忘<rt>わす</rt></ruby>れられていた。",
+            "options": ["そば", "時計", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）のつもりで<ruby>言<rt>い</rt></ruby>ったのに、<ruby>皮肉<rt>ひにく</rt></ruby>に<ruby>聞<rt>き</rt></ruby>こえたようだ。",
+            "options": ["褒め言葉", "電車", "冷蔵庫", "テレビ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>十分<rt>じゅうぶん</rt></ruby>に（　　）したつもりだったが、まだ<ruby>足<rt>た</rt></ruby>りなかった。",
+            "options": ["準備", "散歩", "昼寝", "買い物"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>財布<rt>さいふ</rt></ruby>をカバンに＿＿＿つもりだったが、<ruby>家<rt>いえ</rt></ruby>にあった。",
+            "options": ["入れた", "入れる", "入れて", "入れば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを＿＿＿つもりだったが、<ruby>誤解<rt>ごかい</rt></ruby>していた。",
+            "options": ["分かっていた", "分かって", "分かる", "分かれば"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>上手<rt>じょうず</rt></ruby>＿＿＿つもりだったが、録音を聞いたら下手だった。",
+            "options": ["な", "の", "だ", "に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>送<rt>おく</rt></ruby>り＿＿＿つもりだったが、メールが<ruby>下書<rt>したが</rt></ruby>きに<ruby>残<rt>のこ</rt></ruby>っていた。",
+            "options": ["信した", "信する", "信して", "信したなら"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>親切<rt>しんせつ</rt></ruby>＿＿＿つもりで<ruby>手伝<rt>てつだ</rt></ruby>ったが、<ruby>迷惑<rt>めいわく</rt></ruby>だったようだ。",
+            "options": ["な", "の", "だ", "に"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Tôi cứ ngỡ là mình đã gửi email rồi, hóa ra nó vẫn nằm trong hòm thư nháp.",
+            "jp": "メールを<ruby>送信<rt>そうしん</rt></ruby>したつもりだったが、まだ<ruby>下書<rt>したが</rt></ruby>きに<ruby>残<rt>のこ</rt></ruby>っていた。"
+          },
+          {
+            "vi": "Tôi cứ nghĩ bài kiểm tra này dễ, thế mà điểm số lại thấp bất ngờ.",
+            "jp": "このテストは<ruby>簡単<rt>かんたん</rt></ruby>なつもりだったが、<ruby>点数<rt>てんすう</rt></ruby>が<ruby>意外<rt>いがい</rt></ruby>に<ruby>低<rt>ひく</rt></ruby>かった。"
+          },
+          {
+            "vi": "Bản thân tôi cứ ngỡ là mình đã giải thích rất kỹ càng rồi, nhưng đối phương vẫn chưa hiểu.",
+            "jp": "<ruby>自分<rt>じぶん</rt></ruby>では<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>したつもりだったが、<ruby>相手<rt>あいて</rt></ruby>には<ruby>伝<rt>つた</rt></ruby>わっていなかった。"
+          },
+          {
+            "vi": "Tôi cứ tưởng anh ấy là bạn thân nhất của mình, hóa ra chỉ là suy nghĩ của riêng tôi.",
+            "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>親友<rt>しんゆう</rt></ruby>のつもりだったが、<ruby>私<rt>わたし</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>込<rt>こ</rt></ruby>みだったようだ。"
+          },
+          {
+            "vi": "Tôi cứ ngỡ là mình đã tắt bếp ga trước khi ra khỏi nhà rồi.",
+            "jp": "<ruby>外出<rt>がいしゅつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>にガスの<ruby>火<rt>ひ</rt></ruby>を<ruby>消<rt>け</rt></ruby>したつもりだった。"
+          }
+        ]
+      }
+    }
+  ]
+}

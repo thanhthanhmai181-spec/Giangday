@@ -1,0 +1,151 @@
+{
+  "id": "choukai-n3-nghe_hoi-01",
+  "level": "N3",
+  "category": "nghe_hoi",
+  "categoryName": "Nghe hỏi (発話表現)",
+  "lessonNumber": 1,
+  "title": "Bài 1: Luyện nghe hiểu phát ngôn theo tranh (発話表現 第1回)",
+  "description": "Dạng bài nghe hiểu phát ngôn tình huống theo hình ảnh minh họa (発話表現): Nhìn tranh, lắng nghe tình huống và câu hỏi trong file âm thanh. Bấm chọn câu đối đáp phù hợp nhất: 1, 2 hoặc 3.",
+  "questions": [
+    {
+      "id": 46,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai1/46.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai1/4.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 傘、忘れてるよ。",
+          "meaning": "Cậu quên ô kìa!",
+          "analysis": "ĐÚNG: Bạn chuẩn bị ra về mà bỏ quên ô trên bàn nên dùng câu này để nhắc nhở bạn mang về ('傘、忘れてるよ')."
+        },
+        {
+          "option": "2. 傘、持ってこなかったの？",
+          "meaning": "Cậu đã không mang theo ô đến à?",
+          "analysis": "Sai: Chiếc ô của bạn đang ở ngay trên bàn nên không thể hỏi là có mang đến hay không."
+        },
+        {
+          "option": "3. 傘、ここに置いたら？",
+          "meaning": "Cậu để ô ở đây thì sao?",
+          "analysis": "Sai: Bạn đang chuẩn bị ra về, nói câu này là bảo bạn bỏ lại ô ở đây."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「机の上に、友達の傘があります。友達は、今帰るところです。何と言いますか。→ 1. 傘、忘れてるよ。」",
+      "explanation": "Đáp án đúng là 1 (傘、忘れてるよ).\n- Tình huống: Bạn chuẩn bị ra về nhưng chiếc ô của bạn vẫn còn để quên trên bàn.\n- Khi muốn nhắc nhở bạn mang ô theo kẻo quên, câu nói tự nhiên và chính xác nhất là: 「傘、忘れてるよ。」 (Cậu bỏ quên ô kìa!).",
+      "scriptJp": "<p><ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>があります。<ruby>友達<rt>ともだち</rt></ruby>は、<ruby>今<rt>いま</rt></ruby><ruby>帰<rt>かえ</rt></ruby>るところです。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br><strong>1. <ruby>傘<rt>かさ</rt></ruby>、<ruby>忘<rt>わす</rt></ruby>れてるよ。</strong><br>2. <ruby>傘<rt>かさ</rt></ruby>、<ruby>持<rt>も</rt></ruby>ってこなかったの？<br>3. <ruby>傘<rt>かさ</rt></ruby>、ここに<ruby>置<rt>お</rt></ruby>いたら？</p>",
+      "scriptVi": "Tình huống: Trên bàn có chiếc ô của bạn. Bạn đang chuẩn bị ra về. Trong tình huống này bạn sẽ nói gì?\n1. Cậu quên ô kìa!\n2. Cậu đã không mang theo ô đến à?\n3. Cậu để ô ở đây thì sao?"
+    },
+    {
+      "id": 47,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai1/47.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai1/5.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. すみません。写真を撮っていただけませんか。",
+          "meaning": "Xin lỗi, anh/chị có thể chụp giúp tôi một kiểu ảnh được không ạ?",
+          "analysis": "ĐÚNG: Dùng mẫu kính ngữ nhờ vả lịch sự '〜ていただけませんか' khi muốn nhờ người lạ/người đi đường chụp ảnh giúp mình."
+        },
+        {
+          "option": "2. あの、写真を撮ってもよろしいですか。",
+          "meaning": "Xin lỗi, tôi chụp ảnh (ở đây / anh chị) có được phép không ạ?",
+          "analysis": "Sai: Mẫu '〜てもよろしいですか' dùng để xin phép cho bản thân mình được thực hiện hành động."
+        },
+        {
+          "option": "3. よければ、写真をお取りしましょうか。",
+          "meaning": "Nếu được thì để tôi chụp ảnh giúp anh/chị nhé?",
+          "analysis": "Sai: Mẫu khiêm nhường 'お〜しましょうか' dùng khi mình chủ động đề nghị giúp đỡ người khác."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「写真を撮ってほしいです。近くにいる人に、何と言いますか。→ 1. すみません。写真を撮っていただけませんか。」",
+      "explanation": "Đáp án đúng là 1 (すみません。写真を撮っていただけませんか).\n- Tình huống: Muốn nhờ người ở gần chụp ảnh giúp mình.\n- Khi muốn nhờ đối phương chụp ảnh giúp, ta dùng mẫu câu nhờ vả lịch sự: 「写真を撮っていただけませんか。」 (Chụp ảnh giúp tôi có được không ạ?).",
+      "scriptJp": "<p><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってほしいです。<ruby>近<rt>ちか</rt></ruby>くにいる<ruby>人<rt>ひと</rt></ruby>に、<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br><strong>1. すみません。<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていただけませんか。</strong><br>2. あの、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもよろしいですか。<br>3. よければ、<ruby>写真<rt>しゃしん</rt></ruby>をお<ruby>取<rt>と</rt></ruby>りしましょうか。</p>",
+      "scriptVi": "Tình huống: Bạn muốn người khác chụp ảnh giúp mình. Bạn sẽ nói gì với người ở gần đó?\n1. Xin lỗi, anh/chị có thể chụp giúp tôi một kiểu ảnh được không ạ?\n2. Xin lỗi, tôi chụp ảnh có được phép không ạ?\n3. Nếu được thì để tôi chụp ảnh cho anh/chị nhé?"
+    },
+    {
+      "id": 48,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai1/48.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai1/6.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. ここ、行かなきゃいけない？",
+          "meaning": "Chỗ này, có bắt buộc phải đi không vậy?",
+          "analysis": "Sai: Thể hiện sự miễn cưỡng, bắt buộc chứ không phải rủ rê hào hứng."
+        },
+        {
+          "option": "2. ここ、この前入ったよね。",
+          "meaning": "Chỗ này, hôm nọ tụi mình đã vào rồi nhỉ.",
+          "analysis": "Sai: Đây là quán mới phát hiện ra chứ không phải đã từng vào."
+        },
+        {
+          "option": "3. ここ、ちょっと見ていかない？",
+          "meaning": "Chỗ này, tụi mình ghé vào xem một chút không?",
+          "analysis": "ĐÚNG: Dùng mẫu rủ rê thân mật '〜ていかない？' (ghé vào một lát không) rủ bạn cùng vào cửa hàng đẹp mới phát hiện."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「おしゃれな店を見つけました。友達を誘って、一緒に入りたいです。何と言いますか。→ 3. ここ、ちょっと見ていかない？」",
+      "explanation": "Đáp án đúng là 3 (ここ、ちょっと見ていかない？).\n- Tình huống: Phát hiện ra một cửa hàng rất đẹp/thời trang và muốn rủ bạn cùng ghé vào xem.\n- Mẫu câu rủ rê bạn bè thân thiết cùng ghé vào xem: 「ここ、ちょっと見ていかない？」 (Ghé vào đây xem một chút không cậu?).",
+      "scriptJp": "<p>おしゃれな<ruby>店<rt>みせ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。<ruby>友達<rt>ともだち</rt></ruby>を<ruby>誘<rt>さそ</rt></ruby>って、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたいです。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br>1. ここ、<ruby>行<rt>い</rt></ruby>かなきゃいけない？<br>2. ここ、この<ruby>前<rt>まえ</rt></ruby><ruby>入<rt>はい</rt></ruby>ったよね。<br><strong>3. ここ、ちょっと<ruby>見<rt>み</rt></ruby>ていかない？</strong></p>",
+      "scriptVi": "Tình huống: Bạn nhìn thấy một cửa hàng rất thời thượng và đẹp đẽ. Bạn muốn rủ bạn mình cùng vào xem. Bạn sẽ nói gì?\n1. Chỗ này, có bắt buộc phải đi không?\n2. Chỗ này, hôm nọ tụi mình đã vào rồi nhỉ.\n3. Chỗ này, tụi mình ghé vào xem một chút không?"
+    },
+    {
+      "id": 49,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai1/49.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai1/7.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. ぜひ、その辞書使って。",
+          "meaning": "Cậu nhất định hãy dùng cuốn từ điển đó đi.",
+          "analysis": "Sai: Đây là câu cho người khác mượn từ điển của mình."
+        },
+        {
+          "option": "2. その辞書、ちょっと使わせてもらってもいい？",
+          "meaning": "Cuốn từ điển đó, cậu cho tớ dùng một lát có được không?",
+          "analysis": "ĐÚNG: Dùng mẫu sai khiến kết hợp xin phép '〜(さ)せてもらってもいい？' (Cho phép tớ dùng... được không) để mượn từ điển của bạn bè."
+        },
+        {
+          "option": "3. その辞書、使ってみるといいよ。",
+          "meaning": "Cậu thử dùng cuốn từ điển đó xem, tốt lắm đấy.",
+          "analysis": "Sai: Đây là câu đưa ra lời khuyên cho bạn."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「辞書を忘れたので、友達の辞書を借りたいです。何と言いますか。→ 2. その辞書、ちょっと使わせてもらってもいい？」",
+      "explanation": "Đáp án đúng là 2 (その辞書、ちょっと使わせてもらってもいい？).\n- Tình huống: Quên mang từ điển nên muốn xin phép mượn dùng từ điển của bạn bè.\n- Khi muốn xin phép mượn dùng đồ của bạn bè, ta dùng thể sai khiến xin phép: 「その辞書、ちょっと使わせてもらってもいい？」 (Cho tớ mượn dùng một chút có được không?).",
+      "scriptJp": "<p><ruby>辞書<rt>じしょ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたので、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>借<rt>か</rt></ruby>りたいです。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか。<br>1. ぜひ、その<ruby>辞書<rt>じしょ</rt></ruby><ruby>使<rt>つか</rt></ruby>って。<br><strong>2. その<ruby>辞書<rt>じしょ</rt></ruby>、ちょっと<ruby>使<rt>つか</rt></ruby>わせてもらってもいい？</strong><br>3. その<ruby>辞書<rt>じしょ</rt></ruby>、<ruby>使<rt>つか</rt></ruby>ってみるといいよ。</p>",
+      "scriptVi": "Tình huống: Vì bạn để quên từ điển nên muốn mượn từ điển của bạn mình. Bạn sẽ nói gì?\n1. Cậu nhất định hãy dùng cuốn từ điển đó đi.\n2. Cuốn từ điển đó, cậu cho tớ dùng một lát có được không?\n3. Cậu thử dùng cuốn từ điển đó xem, tốt lắm đấy."
+    }
+  ]
+}

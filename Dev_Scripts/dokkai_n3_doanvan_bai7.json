@@ -1,0 +1,62 @@
+{
+  "id": "dokkai-n3-doanvan-07",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 7,
+  "title": "東京マラソン (Giải Marathon Tokyo)",
+  "timeLimit": 180,
+  "passage": "<p><ruby>毎年<rt>まいとし</rt></ruby>３<ruby>万人<rt>まんにん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>する「<ruby>東京<rt>とうきょう</rt></ruby>マラソン」は、<ruby>人気<rt>にんき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く、<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>んでもなかなか<ruby>出<rt>で</rt></ruby>られない。わたしも<ruby>去年<rt>きょねん</rt></ruby>やっと<ruby>出<rt>で</rt></ruby>られ、４２.１９５キロを<ruby>最後<rt>さいご</rt></ruby>まで<ruby>走<rt>はし</rt></ruby>ることができた。<ruby>特<rt>とく</rt></ruby>に<ruby>印象<rt>いんしょう</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>ったのは、<ruby>新宿<rt>しんじゅく</rt></ruby>や<ruby>銀座<rt>ぎんざ</rt></ruby>などの、いつもは<ruby>車<rt>くるま</rt></ruby>でいっぱいの<ruby>大都会<rt>だいとかい</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>ることの<ruby>気持<rt>きも</rt></ruby>ちよさだった。<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>応援<rt>おうえん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け、<ruby>高<rt>たか</rt></ruby>いビルや<ruby>周<rt>まわ</rt></ruby>りの<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら、<ruby>車<rt>くるま</rt></ruby>の<ruby>通行<rt>つうこう</rt></ruby>が<ruby>禁止<rt>きんし</rt></ruby>された<ruby>車道<rt>しゃどう</rt></ruby>を<ruby>走<rt>はし</rt></ruby>るのは<ruby>予想<rt>よそう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しく、これが「<ruby>東京<rt>とうきょう</rt></ruby>マラソン」の<ruby>人気<rt>にんき</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>なのだと<ruby>思<rt>おも</rt></ruby>った。<ruby>機会<rt>きかい</rt></ruby>があれば、ぜひまた<ruby>出<rt>で</rt></ruby>たいと<ruby>思<rt>おも</rt></ruby>っている。</p>",
+  "fullTranslation": "Giải chạy 'Tokyo Marathon' với hơn 3 vạn người tham gia mỗi năm là giải đấu vô cùng được ưa chuộng, dù có nộp đơn đăng ký cũng khó lòng mà được tham gia. Năm ngoái tôi cũng đã may mắn được tham dự và chạy hết quãng đường 42.195 km đến tận đích cuối cùng. Điều đọng lại ấn tượng sâu sắc nhất đối với tôi chính là cảm giác sảng khoái tuyệt vời khi được chạy trên những con đường đại đô thị như Shinjuku hay Ginza - nơi mà ngày thường lúc nào cũng ken đặc xe cộ. Nhận được sự cổ vũ của đông đảo mọi người, vừa ngắm nhìn những tòa nhà chọc trời và phong cảnh xung quanh, vừa sải bước chạy trên lòng đường cấm xe cộ lưu thông quả thực vui sướng vượt ngoài sức tưởng tượng, và tôi nghĩ đó chính là bí quyết tạo nên sức hút của Tokyo Marathon. Nếu có cơ hội, tôi nhất định muốn tham gia một lần nữa.",
+  "vocabulary": [
+    { "word": "大都会", "hiragana": "だいとかい", "meaning": "Đại đô thị / Thành phố lớn" },
+    { "word": "印象に残る", "hiragana": "いんしょうにのこる", "meaning": "Đọng lại ấn tượng sâu sắc" },
+    { "word": "大勢", "hiragana": "おおぜい", "meaning": "Đông đảo (người)" },
+    { "word": "通行禁止", "hiragana": "つうこうきんし", "meaning": "Cấm lưu thông / Cấm đi lại" },
+    { "word": "車道", "hiragana": "しゃどう", "meaning": "Lòng đường xe chạy" },
+    { "word": "予想以上", "hiragana": "よそういじょう", "meaning": "Vượt ngoài dự tính / Hơn cả tưởng tượng" },
+    { "word": "秘密", "hiragana": "ひみつ", "meaning": "Bí quyết / Bí mật" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜なかなか〜ない", "meaning": "Mãi mà không... / Rất khó để..." },
+    { "pattern": "〜ながら", "meaning": "Vừa... vừa... (hành động đồng thời)" },
+    { "pattern": "〜ぜひ〜たい", "meaning": "Nhất định muốn làm gì" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：この文章を書いた人がぜひまた出たいと思っている理由は何か。",
+      "options": [
+        "何回も申し込めば、自分も「東京マラソン」に出られることがわかったから。",
+        "頑張れば、自分も42.195キロを最後まで走れることがわかったから。",
+        "車が走っていない大都会の車道を走るのが気持ちよく、予想以上に楽しかったから。",
+        "大勢の人の応援を受け、車でいっぱいの道を走ることが、予想以上に楽しかったから。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "何回も申し込めば、自分も「東京マラソン」に出られることがわかったから。",
+          "meaning": "Vì hiểu ra rằng nếu đăng ký nhiều lần thì mình cũng sẽ được tham gia Tokyo Marathon.",
+          "analysis": "Sai: Bài đọc nêu '申し込んでもなかなか出られない' (rất khó trúng tuyển), không phải lý do tác giả muốn chạy lại."
+        },
+        {
+          "option": "頑張れば、自分も42.195キロを最後まで走れることがわかったから。",
+          "meaning": "Vì biết rằng chỉ cần cố gắng thì bản thân cũng chạy hết được 42.195km.",
+          "analysis": "Sai: Đây chỉ là kết quả thành tích năm ngoái, không phải lý do cốt lõi tạo nên mong muốn tham gia tiếp."
+        },
+        {
+          "option": "車が走っていない大都会の車道を走るのが気持ちよく、予想以上に楽しかったから。",
+          "meaning": "Vì cảm giác được chạy trên lòng đường đại đô thị không có xe cộ rất sảng khoái và vui ngoài sức tưởng tượng.",
+          "analysis": "ĐÚNG: Khớp chính xác với tâm đắc của tác giả: 'いつもは車でいっぱいの大都会の道を走ることの気持ちよさ... 車の通行が禁止された車道を走るのは予想以上に楽しく... これが人気の秘密... ぜひまた出たい'."
+        },
+        {
+          "option": "大勢の人の応援を受け、車でいっぱいの道を走ることが、予想以上に楽しかったから。",
+          "meaning": "Vì nhận được sự cổ vũ của nhiều người và chạy trên con đường ngập tràn xe cộ...",
+          "analysis": "Sai: Khi diễn ra giải chạy thì xe cộ bị cấm lưu thông ('通行が禁止された車道'), không có chuyện chạy giữa dòng xe cộ ken đặc."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「いつもは車でいっぱいの大都会の道を走ることの気持ちよさだった。...車の通行が禁止された車道を走るのは予想以上に楽しく、これが「東京マラソン」の人気の秘密なのだと思った。機会があれば、ぜひまた出たいと思っている。」",
+      "explanation": "Đáp án 3 đúng. Tác giả cảm thấy vô cùng phấn khích và thích thú khi được thoải mái sải bước trên những trục đường đại đô thị lớn vốn ngày thường xe cộ ken đặc nay được cấm xe hoàn toàn để phục vụ giải chạy."
+    }
+  ]
+}

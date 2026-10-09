@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nihongo Sensei - Nền Tảng Giảng Dạy Tiếng Nhật</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@700&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css?v=83">
+</head>
+<body>
+    <div class="bg-overlay" id="animated-bg"></div>
+    <div id="sakura-container"></div>
+
+    <div class="app-container" id="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <button class="sidebar-collapse-btn" id="sidebar-collapse-btn" title="Thu gon thanh dieu huong">
+                <i class="fa-solid fa-chevron-left" id="sidebar-collapse-icon"></i>
+            </button>
+            <div class="teacher-profile">
+                <div class="profile-img-container">
+                    <img src="assets/Logo.png" alt="Teacher Icon" class="profile-img">
+                    <div class="online-indicator"></div>
+                </div>
+                <h2 class="teacher-name">SƠNKURO SENSEI</h2>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <div class="nav-group">
+                    <div class="nav-group-title">📚 QUẢN LÝ</div>
+                    <button class="nav-btn active" data-target="dashboard">
+                        <i class="fa-solid fa-chart-line"></i>
+                        <span>Tổng Quan</span>
+                    </button>
+
+                </div>
+
+                <div class="nav-group">
+                    <div class="nav-group-title">🧠 LÝ THUYẾT & KỸ NĂNG</div>
+                    <button class="nav-btn" data-target="tuvung">
+                        <i class="fa-solid fa-spell-check"></i>
+                        <span>Từ Vựng (Goi)</span>
+                    </button>
+                    <button class="nav-btn" data-target="hantu">
+                        <i class="fa-solid fa-language"></i>
+                        <span>Hán Tự (Kanji)</span>
+                    </button>
+                    <button class="nav-btn" data-target="nguphap">
+                        <i class="fa-solid fa-bars-staggered"></i>
+                        <span>Ngữ Pháp (Bunpou)</span>
+                    </button>
+                    <button class="nav-btn" data-target="dokkai">
+                        <i class="fa-solid fa-book-open-reader"></i>
+                        <span>Đọc Hiểu (Dokkai)</span>
+                    </button>
+                    <button class="nav-btn" data-target="choukai">
+                        <i class="fa-solid fa-headphones"></i>
+                        <span>Nghe Hiểu (Choukai)</span>
+                    </button>
+                    <button class="nav-btn" data-target="kaiwa">
+                        <i class="fa-solid fa-comments"></i>
+                        <span>Hội Thoại AI (Kaiwa)</span>
+                    </button>
+                </div>
+
+                <div class="nav-group">
+                    <div class="nav-group-title">🛠 CÔNG CỤ GIẢNG DẠY</div>
+                    <button class="nav-btn" data-target="curriculum">
+                        <i class="fa-solid fa-map-location-dot"></i>
+                        <span>Lộ Trình</span>
+                    </button>
+                    <button class="nav-btn" data-target="whiteboard">
+                        <i class="fa-solid fa-chalkboard-user"></i>
+                        <span>Bảng Điện Tử</span>
+                    </button>
+
+                </div>
+
+
+            </nav>
+
+            <div class="sidebar-footer">
+
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="top-header" id="top-header">
+                <div class="header-title" style="display: flex; align-items: center; gap: 1rem;">
+                    <button class="btn-icon" id="sidebar-toggle-btn" title="Ẩn/Hiện Menu" style="color: var(--text-primary); background: rgba(255,255,255,0.1); border-radius: 50%; padding: 0.5rem 0.8rem;"><i class="fa-solid fa-bars"></i></button>
+                    <div>
+                        <h1 id="page-title">Tổng Quan Lớp Học</h1>
+                        <p id="page-subtitle">Quản lý và tương tác với học viên</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <!-- Furigana Toggle -->
+                    <button class="action-btn text-neon-cyan" id="furigana-toggle" title="Bật/Tắt Furigana">
+                                    <div class="stat-value">A/A</div>
+                    </button>
+
+                    <!-- Timer Widget -->
+
+
+                </div>
+            </header>
+
+            <!-- Views Container -->
+            <div class="views-container">
+                <!-- Dashboard View -->
+                <section id="dashboard" class="view-section active">
+                    <div class="dashboard-content" style="display: block;">
+                        <div class="recent-classes glass-panel mb-2">
+                            <h2 class="panel-title">Lịch Trình Hôm Nay</h2>
+                            <ul class="class-list" id="dashboard-class-list">
+                                <!-- Rendered via JS -->
+                            </ul>
+                        </div>
+
+                        <!-- Class Tracking: N3 - Ham chơi -->
+                        <div class="class-tracking-card glass-panel mb-2" id="class-n3-hamchoi">
+                            <div class="class-card-header">
+                                <div class="class-title-group">
+                                    <div class="class-badge">N3</div>
+                                    <div>
+                                        <h2 class="class-name">N3 - Ham chơi</h2>
+                                        <div class="class-subtext">Theo dõi tiến độ giảng dạy các phân môn</div>
+                                    </div>
+                                </div>
+                                <div class="class-stats-summary">
+                                    <div class="class-stat-pill">
+                                        <span class="stat-label">Tổng tiến độ:</span>
+                                        <span class="stat-value text-neon-cyan" id="n3-total-progress-text">0%</span>
+                                        <div class="mini-progress-bar">
+                                            <div class="mini-progress-fill" id="n3-total-progress-bar" style="width: 0%;"></div>
+                                        </div>
+                                    </div>
+                                    <div class="class-action-btns">
+                                        <button class="btn-icon class-collapse-btn" id="n3-toggle-collapse-btn" title="Thu gọn / Mở rộng lớp học">
+                                            <i class="fa-solid fa-chevron-up"></i>
+                                        </button>
+                                        <button class="btn-primary btn-outline btn-small" id="n3-reset-progress-btn" title="Đặt lại tất cả tiến độ lớp này">
+                                            <i class="fa-solid fa-rotate-left"></i> Đặt lại
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Class Body (Collapsible) -->
+                            <div class="class-card-body" id="class-n3-body">
+                                <!-- Row 1: Từ Vựng (30 bài) -->
+                                <div class="class-track-section">
+                                    <div class="class-track-header">
+                                        <div class="class-track-title">
+                                            <i class="fa-solid fa-spell-check text-neon-cyan"></i>
+                                            <span>Từ Vựng (Goi)</span>
+                                            <span class="track-count-badge" id="n3-vocab-count">0/30 bài</span>
+                                        </div>
+                                        <div class="class-track-hint">
+                                            <i class="fa-solid fa-circle-info"></i> Click để học | Chuột phải hoặc bấm ✓ để bật/tắt sáng
+                                        </div>
+                                    </div>
+                                    <div class="class-track-scroll-wrapper">
+                                        <div class="class-track-scroll" id="hamchoi-vocab-track">
+                                            <!-- 30 nodes rendered via JS -->
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Row 2: Ngữ Pháp (28 bài) -->
+                                <div class="class-track-section">
+                                    <div class="class-track-header">
+                                        <div class="class-track-title">
+                                            <i class="fa-solid fa-bars-staggered text-neon-purple"></i>
+                                            <span>Ngữ Pháp (Bunpou)</span>
+                                            <span class="track-count-badge" id="n3-grammar-count">0/28 bài</span>
+                                        </div>
+                                        <div class="class-track-hint">
+                                            <i class="fa-solid fa-circle-info"></i> Click để học | Chuột phải hoặc bấm ✓ để bật/tắt sáng
+                                        </div>
+                                    </div>
+                                    <div class="class-track-scroll-wrapper">
+                                        <div class="class-track-scroll" id="hamchoi-grammar-track">
+                                            <!-- 28 nodes rendered via JS -->
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Row 3: Hán Tự (42 bài) -->
+                                <div class="class-track-section">
+                                    <div class="class-track-header">
+                                        <div class="class-track-title">
+                                            <i class="fa-solid fa-language text-neon-yellow"></i>
+                                            <span>Hán Tự (Kanji)</span>
+                                            <span class="track-count-badge" id="n3-kanji-count">0/42 bài</span>
+                                        </div>
+                                        <div class="class-track-hint">
+                                            <i class="fa-solid fa-circle-info"></i> Click để học | Chuột phải hoặc bấm ✓ để bật/tắt sáng
+                                        </div>
+                                    </div>
+                                    <div class="class-track-scroll-wrapper">
+                                        <div class="class-track-scroll" id="hamchoi-kanji-track">
+                                            <!-- 42 nodes rendered via JS -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Class Tracking: N3 - Hmm -->
+                        <div class="class-tracking-card glass-panel mb-2" id="class-n3-hmm">
+                            <div class="class-card-header">
+                                <div class="class-title-group">
+                                    <div class="class-badge">N3</div>
+                                    <div>
+                                        <h2 class="class-name">N3 - Hmm</h2>
+                                        <div class="class-subtext">Theo dõi tiến độ giảng dạy các phân môn</div>
+                                    </div>
+                                </div>
+                                <div class="class-stats-summary">
+                                    <div class="class-stat-pill">
+                                        <span class="stat-label">Tổng tiến độ:</span>
+                                        <span class="stat-value text-neon-cyan" id="n3-hmm-total-progress-text">0%</span>
+                                        <div class="mini-progress-bar">
+                                            <div class="mini-progress-fill" id="n3-hmm-total-progress-bar" style="width: 0%;"></div>
+                                        </div>
+                                    </div>
+                                    <div class="class-action-btns">
+                                        <button class="btn-icon class-collapse-btn" id="n3-hmm-toggle-collapse-btn" title="Thu gọn / Mở rộng lớp học">
+                                            <i class="fa-solid fa-chevron-up"></i>
+                                        </button>
+                                        <button class="btn-primary btn-outline btn-small" id="n3-hmm-reset-progress-btn" title="Đặt lại tất cả tiến độ lớp này">
+                                            <i class="fa-solid fa-rotate-left"></i> Đặt lại
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Class Body (Collapsible) -->
+                            <div class="class-card-body" id="class-n3-hmm-body">
+                                <!-- Row 1: Từ Vựng (30 bài) -->
+                                <div class="class-track-section">
+                                    <div class="class-track-header">
+                                        <div class="class-track-title">
+                                            <i class="fa-solid fa-spell-check text-neon-cyan"></i>
+                                            <span>Từ Vựng (Goi)</span>
+                                            <span class="track-count-badge" id="n3-hmm-vocab-count">0/30 bài</span>
+                                        </div>
+                                        <div class="class-track-hint">
+                                            <i class="fa-solid fa-circle-info"></i> Click để học | Chuột phải hoặc bấm ✓ để bật/tắt sáng
+                                        </div>
+                                    </div>
+                                    <div class="class-track-scroll-wrapper">
+                                        <div class="class-track-scroll" id="hmm-vocab-track">
+                                            <!-- 30 nodes rendered via JS -->
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Row 2: Ngữ Pháp (28 bài) -->
+                                <div class="class-track-section">
+                                    <div class="class-track-header">
+                                        <div class="class-track-title">
+                                            <i class="fa-solid fa-bars-staggered text-neon-purple"></i>
+                                            <span>Ngữ Pháp (Bunpou)</span>
+                                            <span class="track-count-badge" id="n3-hmm-grammar-count">0/28 bài</span>
+                                        </div>
+                                        <div class="class-track-hint">
+                                            <i class="fa-solid fa-circle-info"></i> Click để học | Chuột phải hoặc bấm ✓ để bật/tắt sáng
+                                        </div>
+                                    </div>
+                                    <div class="class-track-scroll-wrapper">
+                                        <div class="class-track-scroll" id="hmm-grammar-track">
+                                            <!-- 28 nodes rendered via JS -->
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Row 3: Hán Tự (42 bài) -->
+                                <div class="class-track-section">
+                                    <div class="class-track-header">
+                                        <div class="class-track-title">
+                                            <i class="fa-solid fa-language text-neon-yellow"></i>
+                                            <span>Hán Tự (Kanji)</span>
+                                            <span class="track-count-badge" id="n3-hmm-kanji-count">0/42 bài</span>
+                                        </div>
+                                        <div class="class-track-hint">
+                                            <i class="fa-solid fa-circle-info"></i> Click để học | Chuột phải hoặc bấm ✓ để bật/tắt sáng
+                                        </div>
+                                    </div>
+                                    <div class="class-track-scroll-wrapper">
+                                        <div class="class-track-scroll" id="hmm-kanji-track">
+                                            <!-- 42 nodes rendered via JS -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Flashcards View -->
+                <section id="flashcards" class="view-section">
+                    <div class="flashcard-controls">
+                        <select class="custom-select" id="deck-selector">
+                            <option value="kanjiN4">Bộ Kanji N4 - Cơ bản</option>
+                            <option value="vocabN3">Từ vựng N3 - Đời sống</option>
+                                        <option value="grammarN5">Ngữ pháp N5</option>
+                        </select>
+                        <div class="control-btns">
+                            <button class="btn-icon" title="Trộn thẻ (Shuffle)" id="shuffle-btn"><i class="fa-solid fa-shuffle"></i></button>
+                        </div>
+                    </div>
+                    
+                    <div class="flashcard-container">
+                        <div class="flashcard 3d-effect" id="main-flashcard">
+                            <div class="flashcard-inner">
+                                <div class="flashcard-front">
+                        <button class="audio-btn" id="play-audio-btn" title="Phát âm tiếng Nhật" onclick="event.stopPropagation(); playCurrentAudio();">
+                                        <i class="fa-solid fa-volume-high"></i>
+                                    </button>
+                                    <!-- Use Ruby for Furigana -->
+                        <div class="card-kanji" id="card-kanji"><ruby>心<rt>こころ</rt></ruby></div>
+                                </div>
+                                <div class="flashcard-back">
+                        <div class="card-meaning" id="card-meaning">Trái tim, Tâm trí</div>
+                                    <div class="card-examples" id="card-examples">
+                                        <!-- Examples injected here -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="flashcard-navigation">
+                    <button class="nav-circle btn-forget"><i class="fa-solid fa-xmark"></i> Quên</button>
+                        <span class="card-counter" id="card-counter">1 / 10</span>
+                        <button class="nav-circle success btn-remember"><i class="fa-solid fa-check"></i> Nhớ</button>
+                    </div>
+                </section>
+
+                <!-- Quiz View -->
+                <section id="quiz" class="view-section">
+                    <div class="quiz-container glass-panel">
+                        <div class="quiz-header">
+                <h2 class="panel-title" style="margin:0; border:none;">Kiểm tra Ngữ pháp N3</h2>
+                <div class="quiz-progress">Câu <span id="quiz-current">1</span>/<span id="quiz-total">5</span></div>
+                        </div>
+                        
+                        <div class="quiz-question-box">
+            <p class="quiz-instruction">Chọn đáp án đúng nhất điền vào chỗ trống:</p>
+            <p class="quiz-text" id="quiz-question">昨日のテストは____難しくなかったです。</p>
+                        </div>
+                        
+                        <div class="quiz-options" id="quiz-options">
+                            <!-- Rendered via JS -->
+                        </div>
+
+                        <div class="quiz-explanation" id="quiz-explanation" style="display: none;">
+                <h4 class="text-neon-cyan"><i class="fa-solid fa-circle-info"></i> Giải thích:</h4>
+                <p id="quiz-exp-text">Giải thích ở đây.</p>
+                        </div>
+                        
+                        <div class="quiz-footer">
+                <button class="btn-primary btn-outline" id="quiz-prev-btn" disabled>Câu trước</button>
+                <button class="btn-primary" id="quiz-check-btn">Kiểm tra đáp án</button>
+                <button class="btn-primary" id="quiz-next-btn" style="display: none;">Câu tiếp theo <i class="fa-solid fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Vocabulary View [NEW] -->
+                <section id="tuvung" class="view-section">
+                    <div class="gamified-vocab-container">
+                        <!-- Level Tabs -->
+                        <div class="map-level-tabs glass-panel mb-2" style="position: relative; padding-right: 4rem;">
+                    <button class="level-tab" data-map-level="N5">Vùng Đất Khởi Đầu (N5)</button>
+                    <button class="level-tab" data-map-level="N4">Quần Đảo Thử Thách (N4)</button>
+                    <button class="level-tab active" data-map-level="N3">Lục Địa Cao Thủ (N3)</button>
+                            <button class="btn-icon" id="toggle-map-btn" style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); background: rgba(0,243,255,0.1); border-radius: 50%; color: var(--neon-cyan); border: 1px solid var(--neon-cyan);" title="Ẩn/Hiện Bản Đồ"><i class="fa-solid fa-chevron-up"></i></button>
+                        </div>
+                        
+                        <!-- Map Area -->
+                        <div class="treasure-map-area glass-panel" id="treasure-map-container">
+                            <div class="map-background" id="vocab-treasure-map">
+                                <!-- Nodes rendered via JS -->
+                            </div>
+                        </div>
+
+                        <!-- Vocab Detail Panel -->
+                        <div id="vocab-detail-panel" class="glass-panel" style="display: none; margin-top: 1.5rem;">
+                            <div class="quiz-header" style="justify-content: space-between; align-items: center;">
+                                <h2 class="panel-title" id="vocab-detail-title" style="margin:0; border:none;">Từ Vựng</h2>
+                                
+                                <div class="view-mode-toggle" style="display: flex; gap: 0.5rem; background: rgba(0,0,0,0.3); padding: 5px; border-radius: 20px;">
+                        <button class="btn-icon active-view" id="btn-view-list" style="border-radius: 15px; padding: 5px 15px;" title="Danh sách"><i class="fa-solid fa-list"></i></button>
+                        <button class="btn-icon" id="btn-view-flashcard" style="border-radius: 15px; padding: 5px 15px; opacity: 0.5;" title="Thẻ bài (Nhiều)"><i class="fa-solid fa-layer-group"></i></button>
+                        <button class="btn-icon" id="btn-view-presentation" style="border-radius: 15px; padding: 5px 15px; opacity: 0.5;" title="Trình chiếu (Phóng to)"><i class="fa-solid fa-expand"></i></button>
+                                    <button class="btn-icon" id="btn-view-quiz" style="border-radius: 15px; padding: 5px 15px; opacity: 0.5;" title="Kiểm tra (Ghi nhớ)"><i class="fa-solid fa-clipboard-question"></i></button>
+                                </div>
+                                
+                                <button class="btn-icon" id="close-vocab-panel" style="background: rgba(255,255,255,0.1); border-radius: 50%;"><i class="fa-solid fa-xmark"></i></button>
+                            </div>
+                            <div class="table-container mt-2" id="vocab-list-view">
+                                <table class="data-table" id="tuvung-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Từ Vựng</th>
+                            <th>Hán Tự</th>
+                            <th>Ý Nghĩa</th>
+                            <th style="width: 80px;">Phát âm</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="tuvung-tbody">
+                                        <!-- Rendered via JS -->
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- Flashcard View -->
+                            <div class="vocab-flashcard-grid mt-2" id="vocab-flashcard-view" style="display: none;">
+                                <!-- Rendered via JS -->
+                            </div>
+                            <!-- Presentation View -->
+                            <div class="vocab-presentation-view mt-2" id="vocab-presentation-view" style="display: none; position: relative; justify-content: center; align-items: center; min-height: 500px;">
+                                <button class="nav-btn prev-btn" id="pres-prev-btn"><i class="fa-solid fa-chevron-left"></i></button>
+                                <div class="presentation-card-container" id="presentation-card-container" style="width: 100%; max-width: 600px; height: 450px;">
+                                    <!-- Rendered via JS -->
+                                </div>
+                                <button class="nav-btn next-btn" id="pres-next-btn"><i class="fa-solid fa-chevron-right"></i></button>
+                            </div>
+                            <!-- Quiz View -->
+                            <div class="vocab-quiz-view mt-2" id="vocab-quiz-view" style="display: none; position: relative; flex-direction: column; justify-content: center; align-items: center; min-height: 500px;">
+                                <div class="quiz-controls" style="margin-bottom: 20px; display: flex; gap: 10px;">
+                                    <button class="btn-primary btn-outline" id="quiz-btn-inorder"><i class="fa-solid fa-arrow-down-1-9"></i> Theo thứ tự</button>
+                    <button class="btn-primary" id="quiz-btn-shuffle"><i class="fa-solid fa-shuffle"></i> Xáo trộn</button>
+                                </div>
+                                <div style="display: flex; position: relative; justify-content: center; align-items: center; width: 100%;">
+                                    <button class="nav-btn prev-btn" id="quiz-prev-btn"><i class="fa-solid fa-chevron-left"></i></button>
+                                    <div class="presentation-card-container" id="quiz-card-container" style="width: 100%; max-width: 600px; height: 450px;">
+                                        <!-- Rendered via JS -->
+                                    </div>
+                                    <button class="nav-btn next-btn" id="quiz-next-btn"><i class="fa-solid fa-chevron-right"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Kanji Map View -->
+                <section id="hantu" class="view-section">
+                    <div class="gamified-kanji-container">
+                        <!-- Level Tabs -->
+                        <div class="map-level-tabs glass-panel mb-2" style="position: relative; padding-right: 4rem;">
+                            <button class="level-tab kanji-level-tab active" data-kanji-level="N5">Thư Sinh Lộ (N5)</button>
+                            <button class="level-tab kanji-level-tab" data-kanji-level="N4">Tiến Sĩ Bảng (N4)</button>
+                    <button class="level-tab kanji-level-tab" data-kanji-level="N3">Đại Nho Lâm (N3)</button>
+                            <button class="btn-icon" id="toggle-kanji-map-btn" style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); background: rgba(255,215,0,0.1); border-radius: 50%; color: #ffd700; border: 1px solid #ffd700;" title="Ẩn/Hiện Bản Đồ"><i class="fa-solid fa-chevron-up"></i></button>
+                        </div>
+                        
+                        <!-- Map Area -->
+                        <div class="treasure-map-area glass-panel" id="kanji-map-container">
+                            <div class="map-background kanji-map-bg" id="kanji-map">
+                                <!-- Nodes rendered via JS -->
+                            </div>
+                        </div>
+
+                        <!-- Kanji Detail Panel -->
+                        <div id="kanji-detail-panel" class="glass-panel" style="display: none; margin-top: 1.5rem;">
+                            <div class="quiz-header" style="justify-content: space-between; align-items: center;">
+                        <h2 class="panel-title" id="kanji-detail-title" style="margin:0; border:none; color: #ffd700;">Hán Tự</h2>
+                                
+                                <div class="view-mode-toggle" style="display: flex; gap: 0.5rem; background: rgba(0,0,0,0.3); padding: 5px; border-radius: 20px;">
+                        <button class="btn-icon active-view" id="btn-kanji-view-list" style="border-radius: 15px; padding: 5px 15px;" title="Danh sách"><i class="fa-solid fa-list"></i></button>
+                        <button class="btn-icon" id="btn-kanji-view-flashcard" style="border-radius: 15px; padding: 5px 15px; opacity: 0.5;" title="Flashcard Hán Tự"><i class="fa-solid fa-clone"></i></button>
+                        <button class="btn-icon" id="btn-kanji-view-game" style="border-radius: 15px; padding: 5px 15px; opacity: 0.5;" title="Luyện tập ghép chữ"><i class="fa-solid fa-gamepad"></i></button>
+                                    <button class="btn-icon" id="btn-kanji-view-vocab" style="border-radius: 15px; padding: 5px 15px; opacity: 0.5;" title="Flashcard Từ Vựng"><i class="fa-solid fa-layer-group"></i></button>
+                                </div>
+                                
+                                <button class="btn-icon" id="close-kanji-panel" style="background: rgba(255,255,255,0.1); border-radius: 50%;"><i class="fa-solid fa-xmark"></i></button>
+                            </div>
+                            
+                            <!-- List View -->
+                            <div class="kanji-grid mt-2" id="hantu-grid">
+                                <!-- Rendered via JS -->
+                            </div>
+                            
+                            <!-- Flashcard Mindmap View -->
+                            <div class="kanji-flashcard-container mt-2" id="hantu-flashcard-view" style="display: none;">
+                                <div class="kanji-flashcard-wrapper">
+                                    <button class="flashcard-nav prev" id="kanji-flashcard-prev"><i class="fa-solid fa-chevron-left"></i></button>
+                                    <div class="kanji-flashcard-3d" id="kanji-flashcard-3d">
+                                        <!-- Rendered via JS -->
+                                    </div>
+                                    <button class="flashcard-nav next" id="kanji-flashcard-next"><i class="fa-solid fa-chevron-right"></i></button>
+                                </div>
+                                <div class="flashcard-progress" id="kanji-flashcard-progress">1 / 5</div>
+                            </div>
+
+                            <!-- Match Game View -->
+                            <div class="kanji-game-container mt-2" id="hantu-game-view" style="display: none;">
+                                <div class="game-header" style="text-align: center; margin-bottom: 1rem;">
+                <p style="color: #ccc;">Hãy chọn ghép nối đúng 3 yếu tố: <strong>Chữ Hán - Âm Hán Việt - Nghĩa</strong></p>
+                                </div>
+                                <div class="kanji-game-board">
+                                    <!-- Rendered via JS -->
+                                </div>
+                            </div>
+
+                            <!-- Vocab Flashcard View -->
+                            <div class="kanji-vocab-flashcard-container mt-2" id="hantu-vocab-flashcard-view" style="display: none; flex-direction: column; align-items: center; width: 100%;">
+                                <div class="vocab-flashcard-controls" style="margin-bottom: 1rem; display: flex; gap: 1rem; background: rgba(0,0,0,0.5); padding: 5px; border-radius: 25px;">
+                                    <button class="active-view" id="btn-vocab-seq" style="padding: 8px 20px; border-radius: 20px; font-size: 1rem; font-family: var(--font-base); border: none; cursor: pointer; display: flex; align-items: center; gap: 8px; color: #111; font-weight: bold;"><i class="fa-solid fa-arrow-down-1-9"></i> Tuần tự</button>
+                        <button id="btn-vocab-shuffle" style="padding: 8px 20px; border-radius: 20px; font-size: 1rem; font-family: var(--font-base); opacity: 0.5; border: none; cursor: pointer; display: flex; align-items: center; gap: 8px; background: transparent; color: #fff; font-weight: bold;"><i class="fa-solid fa-shuffle"></i> Xáo trộn</button>
+                                </div>
+                                <div class="vocab-flashcard-grid" id="vocab-flashcard-grid" style="width: 100%; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1.5rem; padding: 1rem 2rem; max-height: 60vh; overflow-y: auto;">
+                                    <!-- Rendered via JS -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Grammar View [NEW] -->
+                <section id="nguphap" class="view-section">
+                    <div class="gamified-kanji-container" id="grammar-layout">
+                        <!-- Controls -->
+                        <div style="display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 0.5rem; flex-wrap: wrap;">
+                            <div class="map-level-tabs glass-panel mb-2" style="position: relative; padding-right: 4rem; margin-bottom: 0 !important; flex-grow: 1;" id="grammar-level-tabs">
+                    <span class="panel-title" style="margin: 0; padding: 0 1rem; border:none; display:inline-block; font-size: 1.2rem;">Ngữ pháp</span>
+                                <button class="level-tab" data-level="N5">N5</button>
+                                <button class="level-tab" data-level="N4">N4</button>
+                                <button class="level-tab active" data-level="N3">N3</button>
+                            </div>
+                            
+                            <!-- View Toggle & Furigana Toggle -->
+                            <div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
+                                <div class="map-level-tabs glass-panel mb-2" style="margin-bottom: 0 !important;" id="grammar-view-tabs">
+                                    <button class="level-tab active" data-view="list"><i class="fa-solid fa-list"></i> Danh sách</button>
+                                    <button class="level-tab" data-view="flashcard"><i class="fa-solid fa-clone"></i> Flashcard</button>
+                                </div>
+                                <button class="grammar-furigana-toggle-btn active" id="grammar-furigana-toggle" title="Bật / Tắt phiên âm Furigana (Phím tắt: F)">
+                                    <span style="font-size: 0.95rem;">A/A</span>
+                                    <span class="furigana-status-text">Furigana: BẬT</span>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Lesson Quick Selector -->
+                        <div class="grammar-lesson-bar glass-panel" id="grammar-lesson-nav-bar" style="display: flex; align-items: center; justify-content: space-between; gap: 0.8rem; margin-bottom: 1rem; padding: 0.6rem 1rem; flex-wrap: wrap;">
+                            <div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
+                                <span style="font-weight: 700; color: #ffd700; display: flex; align-items: center; gap: 0.4rem; font-size: 0.95rem;">
+                                    <i class="fa-solid fa-book-bookmark"></i> Chọn bài nhanh:
+                                </span>
+                                <select id="grammar-lesson-select" class="grammar-custom-select">
+                                    <option value="">-- Chọn bài học --</option>
+                                </select>
+                            </div>
+                            <div id="grammar-quick-pills" style="display: flex; align-items: center; gap: 0.35rem; overflow-x: auto; max-width: 100%; padding-bottom: 3px;">
+                                <!-- Rendered via JS -->
+                            </div>
+                        </div>
+
+                        <!-- Grammar List Area -->
+                        <div class="glass-panel" style="padding: 1.5rem;">
+                            <div class="grammar-list" id="nguphap-list" style="display: flex; flex-direction: column; gap: 1rem;">
+                                <!-- Rendered via JS -->
+                            </div>
+                            <div class="grammar-flashcards-grid" id="nguphap-flashcards" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+                                <!-- Rendered via JS -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Dokkai (Reading Comprehension) View -->
+                <section id="dokkai" class="view-section">
+                    <div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 1rem;">
+                        <!-- Tab Controls for Levels -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; justify-content: flex-start;" id="dokkai-level-tabs">
+                            <span class="panel-title" style="margin: 0; padding: 0 1rem; border:none; display:inline-block; font-size: 1.2rem;">Cấp Độ</span>
+                            <button class="level-tab" data-level="N5">N5</button>
+                            <button class="level-tab" data-level="N4">N4</button>
+                            <button class="level-tab active" data-level="N3">N3</button>
+                        </div>
+                        
+                        <!-- Tab Controls for Skills -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; flex-grow: 1;" id="dokkai-skill-tabs">
+                            <span class="panel-title" style="margin: 0; padding: 0 1rem; border:none; display:inline-block; font-size: 1.2rem;">Kỹ Năng</span>
+                            <button class="level-tab active" data-skill="dientu">Điền từ</button>
+                            <button class="level-tab" data-skill="doanvan">Đoản văn</button>
+                            <button class="level-tab" data-skill="trungvan">Trung văn</button>
+                            <button class="level-tab" data-skill="truongvan">Trường văn</button>
+                            <button class="level-tab" data-skill="thongtin">Tìm thông tin</button>
+                        </div>
+                        
+                        <!-- Tab Controls for Lessons -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; justify-content: flex-start; overflow-x: auto; white-space: nowrap;" id="dokkai-lesson-tabs">
+                            <!-- Rendered via JS -->
+                        </div>
+                    </div>
+
+                    <div class="dokkai-layout" id="dokkai-content-area">
+                        <!-- Reading Passage Container -->
+                        <div class="dokkai-passage glass-panel">
+                <h2 class="panel-title" id="dokkai-title">Bài Đọc Hiểu</h2>
+                            <div class="passage-content furigana-enabled" id="dokkai-passage-container">
+                                <!-- Rendered via JS -->
+                            </div>
+                            
+                            <!-- Highlight tools for teacher -->
+                            <div class="highlighter-tools">
+                        <button class="tool-btn highlight-btn" data-color="yellow"><i class="fa-solid fa-highlighter"></i> Bôi Vàng</button>
+                        <button class="tool-btn highlight-btn" data-color="transparent"><i class="fa-solid fa-eraser"></i> Xóa Bôi</button>
+                            </div>
+                        </div>
+
+                        <!-- Questions Container -->
+                        <div class="dokkai-questions glass-panel" id="dokkai-questions-container">
+                            <!-- Rendered via JS -->
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Choukai (Listening) View -->
+                <section id="choukai" class="view-section">
+                    <div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 1rem;">
+                        <!-- Tab Controls for Levels -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; justify-content: flex-start;" id="choukai-level-tabs">
+                    <span class="panel-title" style="margin: 0; padding: 0 1rem; border:none; display:inline-block; font-size: 1.2rem;">Trình Độ</span>
+                            <button class="level-tab" data-level="N5">N5</button>
+                            <button class="level-tab" data-level="N4">N4</button>
+                            <button class="level-tab active" data-level="N3">N3</button>
+                        </div>
+                        
+                        <!-- Tab Controls for Types -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; flex-grow: 1;" id="choukai-type-tabs">
+                            <span class="panel-title" style="margin: 0; padding: 0 1rem; border:none; display:inline-block; font-size: 1.2rem;">Kỹ Năng</span>
+                            <button class="level-tab active" data-type="nghe_traloi">Nghe trả lời</button>
+                            <button class="level-tab" data-type="nghe_chude">Nghe chủ đề</button>
+                            <button class="level-tab" data-type="nghe_hoi">Nghe hỏi</button>
+                            <button class="level-tab" data-type="nghe_phanxa">Nghe phản xạ</button>
+                        </div>
+                        
+                        <!-- Tab Controls for Lessons -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; justify-content: flex-start; overflow-x: auto; white-space: nowrap;" id="choukai-lesson-tabs">
+                            <!-- JS will inject buttons here -->
+                        </div>
+                    </div>
+
+                    <div class="choukai-container glass-panel" id="choukai-content-area">
+                        <!-- JS will inject dynamic content here, replacing the static HTML below -->
+                        <div class="quiz-header">
+                            <h2 class="panel-title" id="choukai-title" style="margin:0; border:none;">Nghe Hiểu (Choukai)</h2>
+                        </div>
+
+                        <!-- Audio Player -->
+                        <div class="audio-player-box">
+                            <div class="audio-visualizer">
+                    <!-- Giả lập sóng âm thanh -->
+                                <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+                                <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+                                <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+                            </div>
+                            
+                            <div class="audio-controls">
+                                <button class="btn-primary btn-outline" id="audio-play-btn"><i class="fa-solid fa-play"></i> Nghe</button>
+                                
+                                <div class="speed-controls">
+                                    <span class="text-secondary">Tốc độ: </span>
+                                    <button class="speed-btn" data-speed="0.75">0.75x</button>
+                                    <button class="speed-btn active" data-speed="1.0">1.0x</button>
+                                    <button class="speed-btn" data-speed="1.25">1.25x</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Script / Transcript -->
+                        <div class="transcript-box">
+                            <div class="transcript-header">
+                                <h3>Lời thoại (Script)</h3>
+                                <button class="btn-primary btn-outline btn-small" id="toggle-script-btn">Hiện kịch bản</button>
+                            </div>
+                            <div class="transcript-content" id="audio-script" style="display: none; filter: blur(5px);">
+                                <!-- Script content here -->
+                            </div>
+                        </div>
+
+                        <!-- Question Area -->
+                        <div id="choukai-question-area">
+                            <!-- Question and options injected via JS -->
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Kaiwa (Conversation) View [NEW] -->
+                <section id="kaiwa" class="view-section">
+                    <div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 1rem;">
+                        <!-- Tab Controls for Levels -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; justify-content: flex-start;" id="kaiwa-level-tabs">
+                    <span class="panel-title" style="margin: 0; padding: 0 1rem; border:none; display:inline-block; font-size: 1.2rem;">Trình Độ</span>
+                            <button class="level-tab" data-level="N5">N5</button>
+                            <button class="level-tab" data-level="N4">N4</button>
+                            <button class="level-tab active" data-level="N3">N3</button>
+                        </div>
+                        
+                        <!-- Tab Controls for Lessons -->
+                        <div class="map-level-tabs glass-panel" style="margin-bottom: 0 !important; justify-content: flex-start; overflow-x: auto; white-space: nowrap;" id="kaiwa-lesson-tabs">
+                            <!-- JS will inject buttons here -->
+                        </div>
+                    </div>
+
+                    <div class="kaiwa-container glass-panel">
+                        <div class="kaiwa-header">
+                            <h2 class="panel-title" id="kaiwa-title" style="margin:0; border:none;"><i class="fa-solid fa-comments text-neon-cyan"></i> Hội Thoại Giao Tiếp (Roleplay)</h2>
+                <p class="text-secondary mt-2">Bấm vào từng câu thoại để nghe phát âm. Cùng học sinh nhập vai để luyện nói.</p>
+                        </div>
+
+                        <div class="chat-interface furigana-enabled" id="kaiwa-chat">
+                            <!-- Rendered via JS -->
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Dictionary View -->
+                <section id="dictionary" class="view-section">
+                    <div class="dict-container glass-panel">
+                        <div class="search-box dict-search-box">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="dict-input" placeholder="Nhập từ khóa (vd: học, manabu, 学, ngữ pháp)...">
+                    <button class="btn-primary" id="dict-search-btn">Tìm</button>
+                        </div>
+
+                        <div class="dict-results-container" id="dict-results" style="display:none; flex-direction: column; gap: 1rem; margin-top: 2rem;">
+                            <!-- Results will be dynamically rendered here -->
+                        </div>
+                        
+                        <div class="dict-empty-state" id="dict-empty">
+                            <i class="fa-solid fa-book-journal-whills"></i>
+                <p>Nhập từ khóa vào ô tìm kiếm để tra cứu Từ vựng, Kanji, và Ngữ pháp.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Whiteboard View -->
+                <section id="whiteboard" class="view-section">
+                    <div class="whiteboard-wrapper glass-panel">
+                        <div class="toolbar">
+                        <button class="tool-btn active" data-tool="pen" title="Bút vẽ"><i class="fa-solid fa-pen"></i></button>
+                            <button class="tool-btn" data-tool="eraser" title="Cục tẩy"><i class="fa-solid fa-eraser"></i></button>
+                            
+                            <div class="divider"></div>
+                            
+                            <div class="color-picker" style="display: flex; gap: 0.5rem; align-items: center;">
+                                <button class="color-btn active" style="background-color: #00f3ff; width:20px; height:20px; border-radius:50%; border:2px solid #fff; cursor:pointer;" data-color="#00f3ff"></button>
+                                <button class="color-btn" style="background-color: #ff2a5f; width:20px; height:20px; border-radius:50%; border:none; cursor:pointer;" data-color="#ff2a5f"></button>
+                                <button class="color-btn" style="background-color: #b026ff; width:20px; height:20px; border-radius:50%; border:none; cursor:pointer;" data-color="#b026ff"></button>
+                                <button class="color-btn" style="background-color: #ffff00; width:20px; height:20px; border-radius:50%; border:none; cursor:pointer;" data-color="#ffff00"></button>
+                            </div>
+                            
+                            <div class="divider"></div>
+                        <button class="tool-btn clear-btn" title="Xóa toàn bộ bảng"><i class="fa-solid fa-trash-can"></i> Xóa bảng</button>
+                        </div>
+                        <div class="canvas-container">
+                            <canvas id="teachingCanvas" width="1000" height="600"></canvas>
+                            <div class="canvas-placeholder">
+                                <i class="fa-solid fa-pen-nib text-neon-cyan mb-2"></i>
+                <p>Bảng điện tử đã sẵn sàng. Dùng chuột để viết Kanji, sửa bài tập.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <!-- Curriculum View -->
+                <section id="curriculum" class="view-section">
+                    <div class="curriculum-layout">
+                        <div class="level-selector glass-panel" id="level-selector-container">
+                            <button class="level-btn" data-level="N5">N5 <span>Cơ bản</span></button>
+                            <button class="level-btn" data-level="N4">N4 <span>Sơ trung cấp</span></button>
+                            <button class="level-btn active" data-level="N3">N3 <span>Trung cấp</span></button>
+                            <button class="level-btn" data-level="N2">N2 <span>Cao cấp</span></button>
+                    <button class="level-btn" data-level="N1">N1 <span>Chuyên gia</span></button>
+                        </div>
+                        <div class="lessons-container glass-panel">
+                <h2 class="panel-title" id="curriculum-title">Chương trình N3 (Trung cấp)</h2>
+                            <div class="lesson-timeline" id="lesson-timeline-container">
+                                <!-- Rendered via JS -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Analytics View [NEW] -->
+                <section id="analytics" class="view-section">
+                    <div class="analytics-container">
+            <!-- Cột Danh sách lớp -->
+                        <div class="glass-panel student-list-panel">
+                <h2 class="panel-title">Danh sách Lớp JP_N3_A1</h2>
+                            <ul class="student-roster" id="student-roster">
+                                <!-- Rendered via JS -->
+                            </ul>
+                        </div>
+                        
+                        <!-- Cột Biểu đồ -->
+                        <div class="glass-panel radar-chart-panel">
+                <h2 class="panel-title" id="chart-student-name">Đánh Giá Năng Lực Học Viên</h2>
+                            <div class="radar-container">
+                                <canvas id="skillsRadarChart"></canvas>
+                            </div>
+                            <div class="student-stats mt-2">
+                                <p><span class="text-secondary">Điểm danh:</span> <span class="text-neon-cyan">100%</span></p>
+                                <p><span class="text-secondary">BTVN:</span> <span class="text-neon-red">9/10</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Games View [NEW] -->
+                <section id="games" class="view-section">
+                    <div class="games-container glass-panel">
+                        <div class="quiz-header">
+                            <h2 class="panel-title" style="margin:0; border:none;">Memory Match: Kanji & Hiragana</h2>
+                            <div class="score-display text-neon-red">Điểm: <span id="game-score">0</span></div>
+                        </div>
+                <p class="text-secondary mb-2" style="text-align:center;">Tìm 2 thẻ tương ứng (Kanji và Cách đọc) để lật mở. Trò chơi rất tốt để khởi động lớp học!</p>
+                        <div class="game-board" id="memory-game-board">
+                            <!-- Rendered via JS -->
+                        </div>
+                        <div style="text-align:center; margin-top:1.5rem;">
+                            <button class="btn-primary" id="restart-game-btn"><i class="fa-solid fa-rotate-right"></i> Chơi Lại</button>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Grammar Presentation Overlay [NEW] -->
+    <div id="grammar-presentation-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(rgba(11, 12, 16, 0.4), rgba(11, 12, 16, 0.6)), url('assets/grammar_presentation_bg.jpg') center/cover no-repeat; z-index: 10000; flex-direction: column;">
+        <div class="presentation-header" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem; background: rgba(0,0,0,0.5); border-bottom: 1px solid var(--neon-cyan);">
+            <div class="presentation-progress" style="font-size: 1.2rem; color: var(--neon-cyan); font-weight: bold;">
+                Slide <span id="grammar-slide-current">1</span>/<span id="grammar-slide-total">20</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <button class="grammar-furigana-toggle-btn active" id="grammar-slide-furigana-toggle" title="Bật / Tắt phiên âm Furigana (Phím tắt: F)" style="padding: 0.4rem 0.9rem; font-size: 0.88rem;">
+                    <span style="font-weight: 800;">A/A</span>
+                    <span class="furigana-status-text">Furigana: BẬT</span>
+                </button>
+                <button class="btn-icon" id="close-grammar-presentation" style="color: var(--neon-red); font-size: 1.5rem; background: transparent; border: none; cursor: pointer;" title="Đóng trình chiếu (Esc)">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+        </div>
+        
+        <div class="presentation-body" style="flex: 1; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; padding: 2rem;">
+            <!-- Prev Button -->
+            <button class="nav-btn prev-btn" id="grammar-slide-prev" style="position: absolute; left: 20px; z-index: 10;">
+                <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            
+            <!-- Slide Content -->
+            <div id="grammar-slide-content" style="width: 100%; max-width: 1200px; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative;">
+                <!-- Slides rendered via JS -->
+            </div>
+            
+            <!-- Next Button -->
+            <button class="nav-btn next-btn" id="grammar-slide-next" style="position: absolute; right: 20px; z-index: 10;">
+                <i class="fa-solid fa-chevron-right"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Floating Sidebar Open Button (visible when sidebar is hidden) -->
+    <button id="sidebar-open-fab" title="Mo thanh dieu huong">
+        <i class="fa-solid fa-bars"></i>
+        <span class="fab-label">MENU</span>
+    </button>
+
+    <script src="grammar_explanations.js?v=2131"></script>
+    <script src="script.js?v=2131"></script>
+    <script src="class_tracking.js?v=2131"></script>
+    <script src="dokkai.js?v=2131"></script>
+    <script src="choukai.js?v=2131"></script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+{
+  "id": "choukai-n3-nghe_chude-04",
+  "level": "N3",
+  "category": "nghe_chude",
+  "categoryName": "Nghe chủ đề (ポイント理解)",
+  "lessonNumber": 4,
+  "title": "Bài 4: Luyện nghe hiểu chủ đề (ポイント理解 第4回)",
+  "description": "Dạng bài nghe hiểu chủ đề / điểm cốt lõi (ポイント理解): Lắng nghe câu hỏi và các lựa chọn trực tiếp từ file âm thanh. Bấm chọn 1, 2, 3 hoặc 4.",
+  "questions": [
+    {
+      "id": 40,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai4/40.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. マラソンの練習方法",
+          "meaning": "Phương pháp và kỹ thuật luyện tập chạy marathon.",
+          "analysis": "Sai: Chỉ nhắc đã tập được 1 tháng chứ không nói về phương pháp tập luyện cụ thể."
+        },
+        {
+          "option": "2. マラソンによる体の変化",
+          "meaning": "Những thay đổi của cơ thể sau khi chạy marathon.",
+          "analysis": "Sai: Người nữ chỉ thừa nhận chạy bộ tốt cho sức khỏe chứ không kể về sự thay đổi cơ thể."
+        },
+        {
+          "option": "3. マラソンを始めた理由",
+          "meaning": "Lý do vì sao bắt đầu tập luyện và tham gia chạy marathon.",
+          "analysis": "ĐÚNG: Người nữ giải thích bản thân vốn không giỏi chạy bền, nhưng được tiền bối trong công ty rủ tham gia giải đấu cùng, nghe kể thấy hào hứng nên quyết định thử sức ('会社の先輩にマラソンが好きな人がいて、一緒に大会に出ようって誘われて。話を聞いていたら、やってみてもいいかなって思ったんだ')."
+        },
+        {
+          "option": "4. マラソン大会の結果",
+          "meaning": "Kết quả của giải chạy marathon.",
+          "analysis": "Sai: Giải chạy tuần sau mới diễn ra ('大会、来週なんだけど')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「女：会社の先輩にマラソンが好きな人がいて、一緒に大会に出ようって誘われて。話を聞いていたら、やってみてもいいかなって思ったんだ。」",
+      "explanation": "Đáp án đúng là 3 (マラソンを始めた理由).\n- Câu hỏi trong audio: 「女の人は何について話していますか？」 (Người phụ nữ đang nói về điều gì?).\n- Người nam hỏi lý do người nữ bắt đầu chạy marathon. Người nữ chia sẻ mình vốn chạy dở, nhưng được tiền bối cùng công ty rủ tham gia giải chạy nên quyết định thử sức.\n- Toàn bộ nội dung là lý do bắt đầu chạy marathon (マラソンを始めた理由).",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>最近<rt>さいきん</rt></ruby>、マラソンを<ruby>始<rt>はじ</rt></ruby>めたんだって？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うん、1ヶ<ruby>月<rt>げつ</rt></ruby>くらい<ruby>前<rt>まえ</rt></ruby>から<ruby>練習<rt>れんしゅう</rt></ruby>してる。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> へえー、やっぱり<ruby>健康<rt>けんこう</rt></ruby>のため？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>確<rt>たし</rt></ruby>かに<ruby>体<rt>からだ</rt></ruby>にはいいと<ruby>思<rt>おも</rt></ruby>うけど、<ruby>本当<rt>ほんとう</rt></ruby>は<ruby>長<rt>なが</rt></ruby>く<ruby>走<rt>はし</rt></ruby>るの<ruby>苦手<rt>にがて</rt></ruby>だったんだ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> え？じゃあどうして？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <strong><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>にマラソンが<ruby>好<rt>す</rt></ruby>きな<ruby>人<rt>ひと</rt></ruby>がいて、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>大会<rt>たいかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ようって<ruby>誘<rt>さそ</rt></ruby>われて。<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いていたら、やってみてもいいかなって<ruby>思<rt>おも</rt></ruby>ったんだ。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そうなんだ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>大会<rt>たいかい</rt></ruby>、<ruby>来週<rt>らいしゅう</rt></ruby>なんだけど。ゆっくりでもゴールできたらいいな。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>頑張<rt>がんば</rt></ruby>ってね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか？<br>1. マラソンの<ruby>練習<rt>れんしゅう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby><br>2. マラソンによる<ruby>体<rt>からだ</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby><br>3. マラソンを<ruby>始<rt>はじ</rt></ruby>めた<ruby>理由<rt>りゆう</rt></ruby><br>4. マラソン<ruby>大会<rt>たいかい</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby></p>",
+      "scriptVi": "Nam: Dạo này nghe nói cậu bắt đầu tập chạy marathon à?\nNữ: Ừ, tớ luyện tập từ khoảng một tháng trước rồi.\nNam: Chà, chắc là để rèn luyện sức khỏe hả?\nNữ: Công nhận là tốt cho sức khỏe thật, nhưng thú thực trước giờ tớ chạy đường dài dở lắm.\nNam: Ơ? Thế sao tự nhiên lại chạy?\nNữ: Ở công ty có chị tiền bối rất mê chạy marathon, chị ấy rủ tớ cùng tham gia giải chạy. Nghe chị ấy kể chuyện truyền cảm hứng quá nên tớ nghĩ hay là mình cũng thử sức xem sao.\nNam: Ra là vậy.\nNữ: Giải chạy vào tuần sau rồi đấy. Dù chạy chậm nhưng hoàn thành về đến đích là tớ mãn nguyện rồi.\nNam: Cố lên nhé!\nCâu hỏi: Người phụ nữ đang nói về điều gì?\n1. Phương pháp luyện tập marathon\n2. Sự thay đổi của cơ thể nhờ marathon\n3. Lý do bắt đầu chạy marathon\n4. Kết quả của giải chạy marathon"
+    },
+    {
+      "id": 41,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai4/41.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 遅れて出席する",
+          "meaning": "Sẽ đến tham dự cuộc họp muộn hơn giờ bắt đầu.",
+          "analysis": "ĐÚNG: Người nam giải thích lịch khám bệnh trùng ngày họp, 1h mới khám xong nên không thể kịp giờ bắt đầu cuộc họp lúc 1h30, nhưng phần báo cáo của anh ở cuối cuộc họp nên anh sẽ kịp đến dự phần đó ('1時半からの会議にはちょっと…… 会議の最後の方でこの間の出張の報告をすることになっているんですが、それまでには間に合うと思います')."
+        },
+        {
+          "option": "2. 出席できない",
+          "meaning": "Không thể tham dự cuộc họp (vắng mặt).",
+          "analysis": "Sai: Anh ấy khẳng định sẽ kịp đến dự vào phần cuối cuộc họp."
+        },
+        {
+          "option": "3. 時間を変えてほしい",
+          "meaning": "Mong muốn dời / đổi giờ họp.",
+          "analysis": "Sai: Anh ấy không yêu cầu đổi giờ họp của công ty."
+        },
+        {
+          "option": "4. 進行の順番を変えてほしい",
+          "meaning": "Mong muốn thay đổi thứ tự tiến trình cuộc họp.",
+          "analysis": "Sai: Phần báo cáo của anh vốn dĩ đã được xếp ở cuối rồi nên anh không xin đổi thứ tự."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「男：検査は1時に終わる予定なんですが、1時半からの会議にはちょっと……会議の最後の方でこの間の出張の報告をすることになっているんですが、それまでには間に合うと思います。課長：分かりました。」",
+      "explanation": "Đáp án đúng là 1 (遅れて出席する).\n- Câu hỏi trong audio: 「男の人が会議について言いたいことは何ですか？」 (Điều người nam muốn trình bày về cuộc họp là gì?).\n- Người nam xin phép: Do lịch khám bệnh đến 1h mới xong nên sẽ không kịp đến dự từ đầu buổi họp lúc 1h30, nhưng anh sẽ kịp đến vào phần cuối cuộc họp để thực hiện phần báo cáo công tác của mình.\n- Do đó anh muốn thông báo sẽ đến dự họp muộn (遅れて出席する).",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あの、<ruby>課長<rt>かちょう</rt></ruby>。<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>のことでお<ruby>話<rt>はなし</rt></ruby>があるんですが。<br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> ああ、<ruby>山田<rt>やまだ</rt></ruby>さん。どうしたの？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>実<rt>じつ</rt></ruby>は、<ruby>腕<rt>うで</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くて<ruby>昨日<rt>きのう</rt></ruby><ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったんですが、<ruby>一応<rt>いちおう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>をすることになりまして。<br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> ええ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あの、それで、<ruby>検査<rt>けんさ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>選<rt>えら</rt></ruby>べなくて、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>と<ruby>重<rt>かさ</rt></ruby>なってしまったんです。<strong><ruby>検査<rt>けんさ</rt></ruby>は1<ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>なんですが、1<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>からの<ruby>会議<rt>かいぎ</rt></ruby>にはちょっと……</strong><br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> あ、そう。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong><ruby>会議<rt>かいぎ</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>でこの<ruby>間<rt>あいだ</rt></ruby>の<ruby>出張<rt>しゅっちょう</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>をすることになっているんですが、それまでには<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うと<ruby>思<rt>おも</rt></ruby>います。</strong><br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> <ruby>分<rt>わ</rt></ruby>かりました。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だといいですね。もし<ruby>検査<rt>けんさ</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>がかかって<ruby>欠席<rt>けっせき</rt></ruby>することになりそうだったら<ruby>連絡<rt>れんらく</rt></ruby>してください。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>会議<rt>かいぎ</rt></ruby>について<ruby>言<rt>い</rt></ruby>いたいことは<ruby>何<rt>なん</rt></ruby>ですか？<br>1. <ruby>遅<rt>おく</rt></ruby>れて<ruby>出席<rt>しゅっせき</rt></ruby>する<br>2. <ruby>出席<rt>しゅっせき</rt></ruby>できない<br>3. <ruby>時間<rt>じかん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてほしい<br>4. <ruby>進行<rt>しんこう</rt></ruby>の<ruby>順番<rt>じゅんばん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてほしい</p>",
+      "scriptVi": "Nam: Dạ thưa Trưởng phòng, em có chuyện muốn thưa về cuộc họp tuần tới ạ.\nTrưởng phòng: À Yamada. Có chuyện gì thế em?\nNam: Dạ thực ra tay em bị đau nên hôm qua em có đi khám, bác sĩ chỉ định làm xét nghiệm kiểm tra ạ.\nTrưởng phòng: Ừ.\nNam: Dạ ngày xét nghiệm không tự chọn được nên bị trùng vào đúng hôm họp tuần sau ạ. Dự kiến xét nghiệm xong lúc 1 giờ, nhưng cuộc họp bắt đầu lúc 1 giờ rưỡi thì em e là khó kịp giờ từ đầu...\nTrưởng phòng: À thế à.\nNam: Phần báo cáo chuyến công tác vừa rồi của em được xếp ở cuối cuộc họp, nên em nghĩ đến lúc đó thì em sẽ kịp có mặt ạ.\nTrưởng phòng: Chị hiểu rồi. Mong là sức khỏe em không sao. Nếu xét nghiệm mất nhiều thời gian mà khả năng phải vắng mặt thì báo chị nhé.\nCâu hỏi: Điều người nam muốn trình bày về cuộc họp là gì?\n1. Sẽ đến tham dự muộn\n2. Không thể tham dự cuộc họp\n3. Muốn đổi giờ họp\n4. Muốn đổi thứ tự tiến trình cuộc họp"
+    },
+    {
+      "id": 42,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai4/42.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 美しく見える歩き方",
+          "meaning": "Dáng đi sao cho đẹp mắt và thanh lịch.",
+          "analysis": "Sai: Bài nói tập trung vào việc giảm đau nhức xương khớp chứ không nói về dáng đi thẩm mỹ."
+        },
+        {
+          "option": "2. 靴の正しい選び方",
+          "meaning": "Phương pháp lựa chọn giày dép đúng cách.",
+          "analysis": "Sai: Việc chọn giày chỉ được nhắc thoáng qua như một yếu tố phụ."
+        },
+        {
+          "option": "3. 足の痛みと年齢の関係",
+          "meaning": "Mối quan hệ giữa cơn đau chân và độ tuổi.",
+          "analysis": "Sai: Tuổi tác chỉ được nhắc đến như một trong các nguyên nhân ban đầu."
+        },
+        {
+          "option": "4. 体の痛みと歩く姿勢の関係",
+          "meaning": "Mối quan hệ giữa các cơn đau trên cơ thể và tư thế khi đi bộ.",
+          "analysis": "ĐÚNG: Người phụ nữ phân tích: việc chú ý và điều chỉnh tư thế đi bộ đúng cách ('歩く姿勢に気をつける') sẽ giúp làm thuyên giảm các cơn đau ở đầu gối hay thắt lưng ('膝や腰に痛み... 痛みが軽くなることがあります')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「女：歩き方を変えることで良くなることもあるんですよ。...歩く姿勢に気をつけるだけで痛みが軽くなることがあります。自分に合った靴を選ぶことも大事ですが、普段の歩き方にも注意してみましょう。」",
+      "explanation": "Đáp án đúng là 4 (体の痛みと歩く姿勢の関係).\n- Câu hỏi trong audio: 「女の人は何について話していますか？」 (Người phụ nữ đang nói về điều gì?).\n- Bài nói giải thích: Những cơn đau ở khớp gối hay thắt lưng có thể được cải thiện bằng cách thay đổi dáng đi; chỉ cần chú ý tư thế khi đi bộ (歩く姿勢) là cơn đau có thể thuyên giảm.\n- Toàn bộ nội dung là mối liên hệ giữa cơn đau trên cơ thể và tư thế đi bộ (体の痛みと歩く姿勢の関係).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>皆<rt>みな</rt></ruby>さんは<ruby>歩<rt>ある</rt></ruby>いている<ruby>時<rt>とき</rt></ruby>に<strong><ruby>膝<rt>ひざ</rt></ruby>や<ruby>腰<rt>こし</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みを<ruby>感<rt>かん</rt></ruby>じる</strong>ことはありませんか？<ruby>痛<rt>いた</rt></ruby>みの<ruby>原因<rt>げんいん</rt></ruby>は<ruby>年齢<rt>ねんれい</rt></ruby>によるものもありますが、<strong><ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>変<rt>か</rt></ruby>えることで<ruby>良<rt>よ</rt></ruby>くなることもあるんですよ。</strong><ruby>普段<rt>ふだん</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>がどのように<ruby>歩<rt>ある</rt></ruby>いているか<ruby>意識<rt>いしき</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>は<ruby>少<rt>すく</rt></ruby>ないかもしれませんが、<strong><ruby>歩<rt>ある</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるだけで<ruby>痛<rt>いた</rt></ruby>みが<ruby>軽<rt>かる</rt></ruby>くなることがあります。</strong><ruby>自分<rt>じぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<ruby>靴<rt>くつ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶことも<ruby>大事<rt>だいじ</rt></ruby>ですが、<ruby>普段<rt>ふだん</rt></ruby>の<ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby>にも<ruby>注意<rt>ちゅうい</rt></ruby>してみましょう。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか？<br>1. <ruby>美<rt>うつく</rt></ruby>しく<ruby>見<rt>み</rt></ruby>える<ruby>歩<rt>ある</rt></ruby>き<ruby>方<rt>かた</rt></ruby><br>2. <ruby>靴<rt>くつ</rt></ruby>の<ruby>正<rt>ただ</rt></ruby>しい<ruby>選<rt>えら</rt></ruby>び<ruby>方<rt>かた</rt></ruby><br>3. <ruby>足<rt>あし</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みと<ruby>年齢<rt>ねんれい</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby><br>4. <ruby>体<rt>からだ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みと<ruby>歩<rt>ある</rt></ruby>く<ruby>姿勢<rt>しせい</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby></p>",
+      "scriptVi": "Người phụ nữ: Khi đi bộ, có bao giờ quý vị cảm thấy bị đau ở khớp gối hay thắt lưng không? Nguyên nhân của cơn đau có thể do tuổi tác, nhưng việc thay đổi dáng đi cũng có thể giúp cải thiện tình trạng này đấy ạ. Trong đời sống thường ngày, có lẽ ít ai để ý xem bản thân đang đi bộ như thế nào, tuy nhiên chỉ cần chú ý đến tư thế khi đi bộ là các cơn đau có thể thuyên giảm đáng kể. Việc chọn đôi giày vừa vặn phù hợp là rất quan trọng, nhưng chúng ta cũng hãy chú ý đến cả tư thế đi lại hàng ngày nữa nhé.\nCâu hỏi: Người phụ nữ đang nói về điều gì?\n1. Dáng đi sao cho đẹp mắt\n2. Cách chọn giày đúng chuẩn\n3. Mối quan hệ giữa đau chân và tuổi tác\n4. Mối quan hệ giữa cơn đau trên cơ thể và tư thế khi đi bộ"
+    }
+  ]
+}

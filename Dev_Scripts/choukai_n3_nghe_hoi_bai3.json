@@ -1,0 +1,151 @@
+{
+  "id": "choukai-n3-nghe_hoi-03",
+  "level": "N3",
+  "category": "nghe_hoi",
+  "categoryName": "Nghe hỏi (発話表現)",
+  "lessonNumber": 3,
+  "title": "Bài 3: Luyện nghe hiểu phát ngôn theo tranh (発話表現 第3回)",
+  "description": "Dạng bài nghe hiểu phát ngôn tình huống theo hình ảnh minh họa (発話表現): Nhìn tranh, lắng nghe tình huống và câu hỏi trong file âm thanh. Bấm chọn câu đối đáp phù hợp nhất: 1, 2 hoặc 3.",
+  "questions": [
+    {
+      "id": 54,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai3/54.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai3/12.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 使い方、教えようか？",
+          "meaning": "Cách sử dụng, để anh/chị chỉ cho nhé?",
+          "analysis": "ĐÚNG: Tiền bối chủ động đề nghị hướng dẫn giúp đỡ hậu bối đang lúng túng dùng mẫu thân mật '〜(よ)うか'."
+        },
+        {
+          "option": "2. これ、教えてくれる？",
+          "meaning": "Cái này, em chỉ cho anh/chị được không?",
+          "analysis": "Sai: Đây là câu tiền bối nhờ hậu bối chỉ cho mình."
+        },
+        {
+          "option": "3. 使ってもいいよ。",
+          "meaning": "Em dùng cũng được đấy.",
+          "analysis": "Sai: Đây là câu cho phép đối phương sử dụng."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「パソコンが使えなくて、後輩が困っています。後輩に何と言いますか？→ 1. 使い方、教えようか？」",
+      "explanation": "Đáp án đúng là 1 (使い方、教えようか？).\n- Tình huống: Hậu bối đang lúng túng vì không biết dùng máy tính.\n- Khi tiền bối muốn chủ động đề nghị giúp đỡ, chỉ cách dùng cho hậu bối: 「使い方、教えようか？」 (Cách dùng thế nào, để anh chỉ cho nhé?).",
+      "scriptJp": "<p>パソコンが<ruby>使<rt>つか</rt></ruby>えなくて、<ruby>後輩<rt>こうはい</rt></ruby>が<ruby>困<rt>こま</rt></ruby>っています。<ruby>後輩<rt>こうはい</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br><strong>1. <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>、<ruby>教<rt>おし</rt></ruby>えようか？</strong><br>2. これ、<ruby>教<rt>おし</rt></ruby>えてくれる？<br>3. <ruby>使<rt>つか</rt></ruby>ってもいいよ。</p>",
+      "scriptVi": "Tình huống: Hậu bối đang gặp khó khăn vì không biết dùng máy tính. Bạn sẽ nói gì với hậu bối để giúp đỡ?\n1. Cách sử dụng, để anh/chị chỉ cho nhé?\n2. Cái này, em chỉ cho anh/chị được không?\n3. Em dùng cũng được đấy."
+    },
+    {
+      "id": 55,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai3/55.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai3/13.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 卵を入れなくていいですか？",
+          "meaning": "Không cho trứng vào có được không ạ?",
+          "analysis": "Sai: Dùng khi người nấu hỏi xem có cần bỏ trứng vào không."
+        },
+        {
+          "option": "2. このケーキは卵を使っていますか？",
+          "meaning": "Bánh kem này có sử dụng trứng không ạ?",
+          "analysis": "ĐÚNG: Khách hàng bị dị ứng muốn hỏi nhân viên tiệm bánh để xác nhận thành phần nguyên liệu của bánh có trứng hay không."
+        },
+        {
+          "option": "3. 卵を食べなきゃならないんですか？",
+          "meaning": "Bắt buộc phải ăn trứng sao ạ?",
+          "analysis": "Sai: Hỏi có bắt buộc ăn trứng không."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「アレルギーで、卵が食べられません。ケーキに卵が入っているかどうか知りたいです。店の人に何と言いますか？→ 2. このケーキは卵を使っていますか？」",
+      "explanation": "Đáp án đúng là 2 (このケーキは卵を使っていますか？).\n- Tình huống: Bị dị ứng không ăn được trứng, muốn hỏi nhân viên xem bánh kem có chứa trứng không.\n- Câu hỏi thành phần nguyên liệu chuẩn xác: 「このケーキは卵を使っていますか？」 (Bánh kem này có dùng trứng không ạ?).",
+      "scriptJp": "<p>アレルギーで、<ruby>卵<rt>たまご</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられません。ケーキに<ruby>卵<rt>たまご</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っているかどうか<ruby>知<rt>し</rt></ruby>りたいです。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br>1. <ruby>卵<rt>たまご</rt></ruby>を<ruby>入<rt>い</rt></ruby>れなくていいですか？<br><strong>2. このケーキは<ruby>卵<rt>たまご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていますか？</strong><br>3. <ruby>卵<rt>たまご</rt></ruby>を<ruby>食<rt>た</rt></ruby>べなきゃならないんですか？</p>",
+      "scriptVi": "Tình huống: Do bị dị ứng nên bạn không thể ăn trứng. Bạn muốn biết bánh kem có chứa trứng hay không. Bạn sẽ hỏi nhân viên quán như thế nào?\n1. Không cho trứng vào có được không ạ?\n2. Bánh kem này có sử dụng trứng không ạ?\n3. Bắt buộc phải ăn trứng sao ạ?"
+    },
+    {
+      "id": 56,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai3/56.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai3/14.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. サインをもらってきてくださいませんか？",
+          "meaning": "Trưởng phòng có thể đi xin chữ ký về giúp tôi được không ạ?",
+          "analysis": "Sai: Đây là câu nhờ Trưởng phòng đi xin chữ ký của người khác mang về cho mình."
+        },
+        {
+          "option": "2. こちらにサインをいただきたいんですが。",
+          "meaning": "Em xin phép nhờ Trưởng phòng ký vào chỗ này giúp em ạ.",
+          "analysis": "ĐÚNG: Dùng mẫu khiêm nhường và nhờ vả trang trọng '〜をいただきたいんですが' khi xin chữ ký của cấp trên."
+        },
+        {
+          "option": "3. どちらにサインをいたしましょうか？",
+          "meaning": "Tôi nên ký vào chỗ nào thì được ạ?",
+          "analysis": "Sai: Dùng khi bản thân mình là người sẽ đặt bút ký."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「書類に部長のサインが欲しいです。部長に何と言いますか？→ 2. こちらにサインをいただきたいんですが。」",
+      "explanation": "Đáp án đúng là 2 (こちらにサインをいただきたいんですが).\n- Tình huống: Cần xin chữ ký của Trưởng phòng vào tài liệu.\n- Khi xin chữ ký của cấp trên, ta nói: 「こちらにサインをいただきたいんですが。」 (Em xin phép nhờ Trưởng phòng ký vào chỗ này giúp em ạ).",
+      "scriptJp": "<p><ruby>書類<rt>しょるい</rt></ruby>に<ruby>部長<rt>ぶちょう</rt></ruby>のサインが<ruby>欲<rt>ほ</rt></ruby>しいです。<ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br>1. サインをもらってきてくださいませんか？<br><strong>2. こちらにサインをいただきたいんですが。</strong><br>3. どちらにサインをいたしましょうか？</p>",
+      "scriptVi": "Tình huống: Bạn muốn xin chữ ký của Trưởng phòng vào tài liệu. Bạn sẽ nói gì với Trưởng phòng?\n1. Trưởng phòng có thể đi xin chữ ký về giúp tôi được không ạ?\n2. Em xin phép nhờ Trưởng phòng ký vào chỗ này giúp em ạ.\n3. Tôi nên ký vào chỗ nào thì được ạ?"
+    },
+    {
+      "id": 57,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai3/57.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai3/15.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. ねえ、急がないと。",
+          "meaning": "Này, tụi mình không nhanh chân lên là lỡ tàu đấy!",
+          "analysis": "ĐÚNG: Tàu sắp lăn bánh chạy mất nên dùng mẫu giục giã '〜ないと' để giục bạn chạy nhanh lên tàu."
+        },
+        {
+          "option": "2. さっき出発したところだよ。",
+          "meaning": "Tàu vừa mới xuất phát tức thì đấy.",
+          "analysis": "Sai: Tàu chưa chạy, mới chỉ sắp chạy thôi ('出発しそうです')."
+        },
+        {
+          "option": "3. もう行っちゃったね。",
+          "meaning": "Tàu đã đi mất rồi nhỉ.",
+          "analysis": "Sai: Tàu chưa rời đi."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「電車に乗ります。出発しそうです。友達に何と言いますか？→ 1. ねえ、急がないと。」",
+      "explanation": "Đáp án đúng là 1 (ねえ、急がないと).\n- Tình huống: Chuẩn bị lên tàu điện mà tàu sắp sửa chạy mất.\n- Để giục bạn nhanh chân bước lên tàu kẻo muộn: 「ねえ、急がないと。」 (Này, phải nhanh lên thôi kẻo lỡ tàu!).",
+      "scriptJp": "<p><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。<ruby>出発<rt>しゅっぱつ</rt></ruby>しそうです。<ruby>友達<rt>ともだち</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br><strong>1. ねえ、<ruby>急<rt>いそ</rt></ruby>がないと。</strong><br>2. さっき<ruby>出発<rt>しゅっぱつ</rt></ruby>したところだよ。<br>3. もう<ruby>行<rt>い</rt></ruby>っちゃったね。</p>",
+      "scriptVi": "Tình huống: Bạn chuẩn bị lên tàu điện. Tàu sắp sửa xuất phát rồi. Bạn sẽ nói gì để giục bạn mình?\n1. Này, tụi mình không nhanh lên là trễ đấy!\n2. Tàu vừa mới xuất phát tức thì đấy.\n3. Tàu đã đi mất rồi nhỉ."
+    }
+  ]
+}

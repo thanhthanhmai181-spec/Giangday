@@ -1,0 +1,703 @@
+{
+  "name": "Bài 9",
+  "x": 300,
+  "y": 180,
+  "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Các Cấu Trúc Truyền Đạt Thông Tin (Truyền Th闻 / Trích Dẫn)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:22%;color:#b30000;'>Sắc thái / Bối cảnh</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Đặc điểm & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜ということだ<br>〜とのことだ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Trang trọng / Tin tức / Thư từ</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>1. Truyền đạt thông tin chính xác từ nguồn tin cụ thể.<br>2. Giải thích ý nghĩa (đi kèm <strong>つまり</strong> = <em>Nghĩa là...</em>).<br><em>VD: 明日から雨だとのことです。(Nghe nói từ mai trời mưa)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜と言われている</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Dư luận / Quan điểm xã hội</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Được xã hội, số đông người ta công nhận hoặc đồn đại (không rõ chủ thể nói là ai).<br><em>VD: 納豆は体に良いと言われている。(Nattou được cho là tốt cho sức khỏe)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜とか</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Văn nói / Tin đồn chưa kiểm chứng</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Nghe nói phong phanh, không chắc chắn 100% về độ chính xác của thông tin.<br><em>VD: あの店は美味しいとか。(Nghe nói quán đó ngon lắm thì phải)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜って</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Khẩu ngữ thân mật (Casual)</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Thay thế cho <strong>〜と言っている</strong>, <strong>〜そうだ</strong> hoặc nhấn mạnh chủ đề trong hội thoại bạn bè.<br><em>VD: 彼、来ないって。(Anh ấy bảo là không đến đâu)</em></td></tr><tr><td style='border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;'>〜という</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'>Văn viết trang trọng / Báo chí</td><td style='border:1px solid #333;padding:0.8rem 1rem;'>Cách nói truyền thuật trang trọng trong sách báo, phóng sự, văn kiện chính thức.<br><em>VD: 犯人は逃走中だという。(Nghe nói thủ phạm đang bỏ trốn)</em></td></tr></tbody></table>",
+  "items": [
+    {
+      "structure": "〜ということだ / 〜とのことだ",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:340px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1.2rem 3rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.8rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>ということだ</span><span style='color:#ff7875;font-size:1.1rem;font-weight:700;margin-top:0.4rem;display:block;'>（とのことだ）</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub>だ</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>Nだ</td></tr></table></div>",
+      "meaning": "Nghe nói... / Có nghĩa là...",
+      "usage": "1. Truyền đạt lại thông tin nghe được hoặc đọc được từ một nguồn xác thực (thường đi kèm 〜によると / 〜では)。<br>2. Dùng để tóm tắt, giải thích bản chất sự việc (thường đi kèm つまり = tức là)。",
+      "explanation": "〜ということだ mang sắc thái trang trọng, khách quan hơn 〜そうだ. Khi dùng 〜とのことだ mang sắc thái lịch sự, thường thấy trong thư từ, thông báo công vụ hoặc tin nhắn kính ngữ.",
+      "examples": [
+        {
+          "jp": "Aさんは<ruby>付<rt>つ</rt></ruby>き<ruby>合<rt>あ</rt></ruby>って3<ruby>日<rt>か</rt></ruby>で<ruby>結婚<rt>けっこん</rt></ruby>したとのことだ。",
+          "vi": "Nghe nói anh A kết hôn chỉ sau 3 ngày hẹn hò.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_30.1.png"
+        },
+        {
+          "jp": "アンケートでは、<ruby>一番<rt>いちばん</rt></ruby><ruby>人気<rt>にんき</rt></ruby>がある<ruby>職業<rt>しょくぎょう</rt></ruby>は<ruby>公務員<rt>こうむいん</rt></ruby>だということです。",
+          "vi": "Theo kết quả khảo sát, nghe nói công việc được yêu thích nhất là công chức nhà nước.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_30.2.png"
+        },
+        {
+          "jp": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>先生<rt>せんせい</rt></ruby>はやさしいということだ。",
+          "vi": "Nghe nói giáo viên mới rất hiền lành.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_30.3.png"
+        },
+        {
+          "jp": "つまり、<ruby>入<rt>はい</rt></ruby>ってはいけないということね。",
+          "vi": "Tóm lại, nghĩa là không được phép đi vào đúng không?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_30.4.png"
+        },
+        {
+          "jp": "お<ruby>金<rt>かね</rt></ruby>はいりません。<ruby>無料<rt>むりょう</rt></ruby>だということですね。",
+          "vi": "Không cần trả tiền. Có nghĩa là hoàn toàn miễn phí đúng không?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_30.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>に（　　）、<ruby>明日<rt>あした</rt></ruby>は<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るということです。",
+            "options": ["よると", "ついて", "対して", "とって"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>田中<rt>たなか</rt></ruby>さんから<ruby>連絡<rt>れんらく</rt></ruby>があり、<ruby>今日<rt>きょう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>む（　　）です。",
+            "options": ["とのこと", "について", "にとって", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>合格<rt>ごうかく</rt></ruby><ruby>率<rt>りつ</rt></ruby>が20％ということは、かなり<ruby>難<rt>むずか</rt></ruby>しい（　　）。",
+            "options": ["ということだ", "わけではない", "ことになった", "はずがない"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>のお<ruby>話<rt>はなし</rt></ruby>では、<ruby>来月<rt>らいげつ</rt></ruby><ruby>新<rt>あたら</rt></ruby>しいプロジェクトが<ruby>始<rt>はじ</rt></ruby>まる（　　）だ。",
+            "options": ["ということ", "について", "にとって", "において"],
+            "answer": 0
+          },
+          {
+            "question": "つまり、これ<ruby>以上<rt>いじょう</rt></ruby>は<ruby>待<rt>ま</rt></ruby>てない（　　）ですね。",
+            "options": ["ということ", "について", "に対して", "にとって"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>新聞<rt>しんぶん</rt></ruby>の（　　）によると、ガソリンの<ruby>値段<rt>ねだん</rt></ruby>がまた<ruby>上<rt>あ</rt></ruby>がるということだ。",
+            "options": ["記事", "黒板", "消しゴム", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>からの（　　）では、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>空港<rt>くうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたとのことです。",
+            "options": ["メール", "財布", "傘", "辞書"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>医者<rt>いしゃ</rt></ruby>の（　　）によると、<ruby>手術<rt>しゅじゅつ</rt></ruby>は<ruby>成功<rt>せいこう</rt></ruby>したとのことだ。",
+            "options": ["説明", "料理", "散歩", "観光"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>試験<rt>しけん</rt></ruby>の（　　）によると、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>されるということです。",
+            "options": ["案内", "消しゴム", "机", "時計"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）、このボタンを<ruby>押<rt>お</rt></ruby>せば<ruby>電源<rt>でんげん</rt></ruby>が<ruby>切<rt>き</rt></ruby>れるということですね。",
+            "options": ["要するに", "絶対に", "まさか", "ちっとも"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby>＿＿＿とのことです。",
+            "options": ["する", "して", "したなら", "し"],
+            "answer": 0
+          },
+          {
+            "question": "あの<ruby>店<rt>みせ</rt></ruby>のケーキはとても＿＿＿ということです。",
+            "options": ["美味しい", "美味しく", "美味しくて", "美味しさ"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>地域<rt>ちいき</rt></ruby>は<ruby>夜間<rt>やかん</rt></ruby>とても＿＿＿ということです。",
+            "options": ["静かだ", "静かな", "静かで", "静かに"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>は＿＿＿とのことですから、<ruby>学校<rt>がっこう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みです。",
+            "options": ["祝日だ", "祝日の", "祝日で", "祝日な"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>会議<rt>かいぎ</rt></ruby>に＿＿＿とのことです。",
+            "options": ["出席できない", "出席できなく", "出席できなくて", "出席でき"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Theo dự báo thời tiết, nghe nói ngày mai trời sẽ nắng đẹp.",
+            "jp": "<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>快晴<rt>かいせい</rt></ruby>だということです。"
+          },
+          {
+            "vi": "Có tin nhắn từ anh Yamada nói rằng anh ấy sẽ đến muộn một chút.",
+            "jp": "<ruby>山田<rt>やまだ</rt></ruby>さんから、<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れるとのことです。"
+          },
+          {
+            "vi": "Tức là, nếu đỗ kỳ thi này thì có thể tốt nghiệp đúng không?",
+            "jp": "つまり、この<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>すれば<ruby>卒業<rt>そつぎょう</rt></ruby>できるということですね。"
+          },
+          {
+            "vi": "Nghe nói cửa hàng mới mở đằng kia rất đông khách.",
+            "jp": "あそこに<ruby>新<rt>あたら</rt></ruby>しくできた<ruby>店<rt>みせ</rt></ruby>は、とても<ruby>混<rt>こ</rt></ruby>んでいるとのことです。"
+          },
+          {
+            "vi": "Theo lá thư của mẹ, cả gia đình ở quê ai nấy đều khỏe mạnh.",
+            "jp": "<ruby>母<rt>はは</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>によると、<ruby>田舎<rt>いなか</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>はみんな<ruby>元気<rt>げんき</rt></ruby>だということです。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜と言われている",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:340px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1.2rem 3rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:1.8rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>と言われている</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub>だ</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>Nだ</td></tr></table></div>",
+      "meaning": "Được cho là... / Người ta nói rằng...",
+      "usage": "1. Dùng để truyền đạt đánh giá, nhận định chung của xã hội, dư luận (không quy về một cá nhân phát ngôn cụ thể)。<br>2. Thường xuất hiện trong bài đọc hiểu N3, các bài xã luận, bài viết khoa học hoặc giới thiệu văn hóa。",
+      "explanation": "Là dạng bị động của động từ 言う. Thường xuất hiện trong bài đọc hiểu N3, các bài xã luận, bài viết khoa học hoặc giới thiệu văn hóa。",
+      "examples": [
+        {
+          "jp": "あの<ruby>会社<rt>かいしゃ</rt></ruby>はもうすぐ<ruby>倒産<rt>とうさん</rt></ruby>すると<ruby>言<rt>い</rt></ruby>われている。",
+          "vi": "Công ty đó được cho là sắp phá sản.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_31.1.png"
+        },
+        {
+          "jp": "<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby>な<ruby>都市<rt>とし</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われている。",
+          "vi": "Tokyo được cho là thành phố an toàn nhất thế giới.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_31.2.png"
+        },
+        {
+          "jp": "<ruby>日本<rt>にほん</rt></ruby>ではいれずみは<ruby>良<rt>よ</rt></ruby>くないと<ruby>言<rt>い</rt></ruby>われている。",
+          "vi": "Ở Nhật Bản, hình xăm được cho là không tốt.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_31.3.png"
+        },
+        {
+          "jp": "13は<ruby>不吉<rt>ふきつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われている。",
+          "vi": "Số 13 được cho là con số không may mắn.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_31.4.png"
+        },
+        {
+          "jp": "<ruby>納豆<rt>なっとう</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いと<ruby>言<rt>い</rt></ruby>われている。",
+          "vi": "Nattou được cho là rất tốt cho sức khỏe cơ thể.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_31.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>緑茶<rt>りょくちゃ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby>にいい（　　）<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["と", "を", "に", "で"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>寺<rt>てら</rt></ruby>は800<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられた（　　）<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["と", "が", "を", "に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>暖冬<rt>だんとう</rt></ruby>になる（　　）<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["と", "を", "へ", "より"],
+            "answer": 0
+          },
+          {
+            "question": "カラスはとても<ruby>頭<rt>あたま</rt></ruby>がいい<ruby>鳥<rt>とり</rt></ruby>だ（　　）<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["と", "の", "を", "で"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むと<ruby>長生<rt>ながい</rt></ruby>きできる（　　）<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["と", "に", "へ", "より"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>富士山<rt>ふじさん</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>で（　　）<ruby>高<rt>たか</rt></ruby>い<ruby>山<rt>やま</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["一番", "ちっとも", "めったに", "まるで"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）を<ruby>食<rt>た</rt></ruby>べると<ruby>風邪<rt>かぜ</rt></ruby>をひかないと<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["ニンニク", "消しゴム", "ティッシュ", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>森<rt>もり</rt></ruby>には（　　）が<ruby>住<rt>す</rt></ruby>んでいると<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["神様", "冷蔵庫", "電車", "掃除機"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）は<ruby>人間<rt>にんげん</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>できると<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["イルカ", "鉛筆", "机", "帽子"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>絵<rt>え</rt></ruby>には<ruby>不思議<rt>ふしぎ</rt></ruby>な（　　）があると<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["力", "服", "靴", "鞄"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>運動<rt>うんどう</rt></ruby>はストレス<ruby>解消<rt>かいしょう</rt></ruby>に＿＿＿と<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["効果的だ", "効果的な", "効果的で", "効果的に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>睡眠<rt>すいみん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>が＿＿＿と<ruby>免疫<rt>めんえき</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がると<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["短い", "短く", "短くて", "短さ"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>湖<rt>みずうみ</rt></ruby>には<ruby>大昔<rt>おおむかし</rt></ruby>から<ruby>怪獣<rt>かいじゅう</rt></ruby>が＿＿＿と<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["いる", "いて", "いれば", "い"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>次期<rt>じき</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby>の＿＿＿と<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["有力候補だ", "有力候補な", "有力候補で", "有力候補の"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>酒<rt>さけ</rt></ruby>の<ruby>飲<rt>の</rt></ruby>みすぎは<ruby>肝臓<rt>かんぞう</rt></ruby>に＿＿＿と<ruby>言<rt>い</rt></ruby>われている。",
+            "options": ["悪い", "悪く", "悪くて", "悪かった"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Người ta nói rằng việc cười nhiều sẽ giúp nâng cao hệ miễn dịch.",
+            "jp": "よく<ruby>笑<rt>わら</rt></ruby>うことは<ruby>免疫<rt>めんえき</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めると<ruby>言<rt>い</rt></ruby>われている。"
+          },
+          {
+            "vi": "Hoa anh đào được xem là loài hoa tượng trưng cho nước Nhật.",
+            "jp": "<ruby>桜<rt>さくら</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>を<ruby>象徴<rt>しょうちょう</rt></ruby>する<ruby>花<rt>はな</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われている。"
+          },
+          {
+            "vi": "Người ta nói rằng nếu đi bộ 8.000 bước mỗi ngày thì sẽ khỏe mạnh.",
+            "jp": "<ruby>毎日<rt>まいにち</rt></ruby>8000<ruby>歩<rt>ぽ</rt></ruby><ruby>歩<rt>ある</rt></ruby>くと<ruby>健康<rt>けんこう</rt></ruby>になれると<ruby>言<rt>い</rt></ruby>われている。"
+          },
+          {
+            "vi": "Tòa nhà này được cho là đã được xây dựng từ thế kỷ 18.",
+            "jp": "この<ruby>建物<rt>たてもの</rt></ruby>は18<ruby>世紀<rt>せいき</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられたと<ruby>言<rt>い</rt></ruby>われている。"
+          },
+          {
+            "vi": "Người ta nói rằng dầu ô liu rất tốt cho việc ngăn ngừa xơ vữa động mạch.",
+            "jp": "オリーブオイルは<ruby>動脈<rt>どうみゃく</rt></ruby><ruby>硬化<rt>こうか</rt></ruby>の<ruby>予防<rt>よぼう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いと<ruby>言<rt>い</rt></ruby>われている。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜とか",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:340px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1.2rem 3rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:2rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>とか</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub>だ</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>Nだ</td></tr></table></div>",
+      "meaning": "Nghe nói là... / Hình như là...",
+      "usage": "1. Dùng trong văn nói hàng ngày để truyền đạt thông tin nghe được gián tiếp từ tin đồn hoặc nguồn không rõ ràng。<br>2. Người nói không dám chắc 100% về tính xác thực của thông tin (mang nghĩa \"nghe nói là / hình như là\")。",
+      "explanation": "Đứng ở cuối câu, có thể thêm 〜とかで (nghe nói vì... nên) hoặc 〜とか言っていた (nghe nói ai đó bảo là...).",
+      "examples": [
+        {
+          "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>はテニスの<ruby>試合<rt>しあい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>したとか。",
+          "vi": "Nghe nói cô ấy đã vô địch giải đấu quần vợt.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_33.1.png"
+        },
+        {
+          "jp": "あのレストランはとても<ruby>美味<rt>おい</rt></ruby>しいとか。",
+          "vi": "Nghe nói nhà hàng đó đồ ăn ngon lắm.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_33.2.png"
+        },
+        {
+          "jp": "<ruby>来週<rt>らいしゅう</rt></ruby>からずっと<ruby>雨<rt>あめ</rt></ruby>だとか。",
+          "vi": "Nghe nói từ tuần sau trời sẽ mưa liên tục.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_33.3.png"
+        },
+        {
+          "jp": "あのレストランは<ruby>有名<rt>ゆうめい</rt></ruby>だとか。",
+          "vi": "Nghe nói nhà hàng đó rất nổi tiếng.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_33.4.png"
+        },
+        {
+          "jp": "<ruby>最近<rt>さいきん</rt></ruby>、インフルエンザが<ruby>流行<rt>はや</rt></ruby>っているとか。",
+          "vi": "Nghe nói dạo gần đây bệnh cúm đang lây lan mạnh.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_33.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>山田<rt>やまだ</rt></ruby>さんは<ruby>来月<rt>らいげつ</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>する（　　）<ruby>聞<rt>き</rt></ruby>きました。",
+            "options": ["とか", "などに", "ほど", "ばかり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>北海道<rt>ほっかいどう</rt></ruby>はもう<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っている（　　）。",
+            "options": ["とか", "について", "にとって", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しいスマホはとても<ruby>性能<rt>せいのう</rt></ruby>がいい（　　）で、<ruby>買<rt>か</rt></ruby>いたくなりました。",
+            "options": ["とか", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>をひいた（　　）で、<ruby>今日<rt>きょう</rt></ruby>は<ruby>休講<rt>きゅうこう</rt></ruby>です。",
+            "options": ["とか", "ほど", "とおり", "まま"],
+            "answer": 0
+          },
+          {
+            "question": "あの<ruby>映画<rt>えいが</rt></ruby>はとても<ruby>感動<rt>かんどう</rt></ruby>的だ（　　）。<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうかな。",
+            "options": ["とか", "について", "にとって", "において"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "<ruby>駅前<rt>えきまえ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい（　　）がオープンしたとか。",
+            "options": ["カフェ", "消しゴム", "宿題", "鉛筆"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>佐藤<rt>さとう</rt></ruby>さんは（　　）でアメリカへ<ruby>行<rt>い</rt></ruby>ったとか。",
+            "options": ["出張", "睡眠", "朝ご飯", "洗濯"],
+            "answer": 0
+          },
+          {
+            "question": "あの<ruby>店<rt>みせ</rt></ruby>の（　　）は<ruby>絶品<rt>ぜっぴん</rt></ruby>だとか。<ruby>食<rt>た</rt></ruby>べてみたいね。",
+            "options": ["ラーメン", "机", "黒板", "時計"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>は（　　）の<ruby>資格<rt>しかく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ったとか。すごいですね。",
+            "options": ["弁護士", "消しゴム", "靴", "鞄"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に（　　）が<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>してきたとか。",
+            "options": ["留学生", "冷蔵庫", "電子レンジ", "教科書"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>は＿＿＿とか。<ruby>残念<rt>ざんねん</rt></ruby>ですね。",
+            "options": ["中止だ", "中止な", "中止で", "中止に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>能力試験N1に＿＿＿とか。<ruby>素晴<rt>すば</rt></ruby>らしい！",
+            "options": ["合格した", "合格して", "合格するなら", "合格"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>パソコン<rt>ぱそこん</rt></ruby>はとても＿＿＿とか。<ruby>買<rt>か</rt></ruby>おうかな。",
+            "options": ["使いやすい", "使いやすく", "使いやすくて", "使いやすさ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>部長<rt>ぶちょう</rt></ruby>はとても＿＿＿とか。",
+            "options": ["厳しい", "厳しく", "厳しくて", "厳しさ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>台風<rt>たいふう</rt></ruby>が＿＿＿とか。",
+            "options": ["来る", "来て", "来れば", "来い"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Nghe nói anh Tanaka tuần sau sẽ chuyển công tác sang chi nhánh Osaka.",
+            "jp": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>来週<rt>らいしゅう</rt></ruby><ruby>大阪<rt>おおさか</rt></ruby><ruby>支社<rt>ししゃ</rt></ruby>へ<ruby>転勤<rt>てんきん</rt></ruby>するとか。"
+          },
+          {
+            "vi": "Nghe nói dạo gần đây quán cà phê đó rất đông khách trẻ tuổi.",
+            "jp": "<ruby>最近<rt>さいきん</rt></ruby>、あのカフェは<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>で<ruby>賑<rt>にぎ</rt></ruby>やかだとか。"
+          },
+          {
+            "vi": "Nghe nói bộ phim đó doanh thu phòng vé đã vượt 10 tỷ yên.",
+            "jp": "あの<ruby>映画<rt>えいが</rt></ruby>は<ruby>興行<rt>こうぎょう</rt></ruby><ruby>収入<rt>しゅうにゅう</rt></ruby>が100<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えたとか。"
+          },
+          {
+            "vi": "Nghe nói ngày mai nhiệt độ sẽ giảm sâu xuống dưới 5 độ C.",
+            "jp": "<ruby>明日<rt>あした</rt></ruby>は<ruby>気温<rt>きおん</rt></ruby>が5<ruby>度<rt>ど</rt></ruby><ruby>以下<rt>いか</rt></ruby>まで<ruby>下<rt>さ</rt></ruby>がるとか。"
+          },
+          {
+            "vi": "Nghe nói cô ấy vừa mới mua một căn nhà riêng rất đẹp.",
+            "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>はとてもきれいな<ruby>一戸建<rt>いっこだ</rt></ruby>てを<ruby>買<rt>か</rt></ruby>ったとか。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜って",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:340px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1.2rem 3rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:2rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>って</span><span style='color:#ff7875;font-size:1.05rem;font-weight:700;margin-top:0.3rem;display:block;'>（〜だって）</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub>だ</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>Nだ</td></tr></table></div>",
+      "meaning": "Nghe nói là / Nói là... / Gọi là...",
+      "usage": "1. Trích dẫn lời ai đó nói trong văn nói thân mật (thay cho 〜と言っている)。<br>2. Truyền đạt thông tin nghe được (thay cho 〜そうだ / 〜だって)。<br>3. Nhắc đến tên hoặc chủ đề trong hội thoại (thay cho 〜という / 〜は)。",
+      "explanation": "Chỉ dùng trong văn nói thân mật (bạn bè, gia đình). Không dùng trong văn cảnh trang trọng hoặc kính ngữ.",
+      "examples": [
+        {
+          "jp": "<ruby>彼<rt>かれ</rt></ruby>はしらないって<ruby>言<rt>い</rt></ruby>ってた。<ruby>本当<rt>ほんとう</rt></ruby>かなあ。",
+          "vi": "Anh ấy bảo là không biết. Có thật vậy không nhỉ?",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_34.1.png"
+        },
+        {
+          "jp": "Bさんの<ruby>恋人<rt>こいびと</rt></ruby>は<ruby>人気<rt>にんき</rt></ruby>アイドルだって。",
+          "vi": "Nghe nói người yêu của bạn B là thần tượng nổi tiếng đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_34.2.png"
+        },
+        {
+          "jp": "Sơn Tùng さんって<ruby>人<rt>ひと</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby>があったよ。",
+          "vi": "Có cuộc gọi từ một người tên là Sơn Tùng đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_34.3.png"
+        },
+        {
+          "jp": "Bさんは<ruby>中国語<rt>ちゅうごくご</rt></ruby>も<ruby>日本語<rt>にほんご</rt></ruby>もペラペラなんですって。",
+          "vi": "Nghe bảo bạn B nói lưu loát cả tiếng Trung lẫn tiếng Nhật cơ đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_34.4.png"
+        },
+        {
+          "jp": "「マック」って「マクドナルド」の<ruby>略<rt>りゃく</rt></ruby>だよ。",
+          "vi": "\"Makku\" là tên viết tắt của \"McDonald's\" đấy.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_34.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>テストがある（　　）、<ruby>知<rt>し</rt></ruby>ってた？",
+            "options": ["って", "ほど", "ばかり", "とおり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>田中<rt>たなか</rt></ruby>さん、<ruby>今日<rt>きょう</rt></ruby>は<ruby>来<rt>こ</rt></ruby>られない（　　）よ。",
+            "options": ["だって", "にとって", "について", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>木村<rt>きむら</rt></ruby>さん（　　）<ruby>人<rt>ひと</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていますか。",
+            "options": ["って", "ほど", "ばかり", "ついで"],
+            "answer": 0
+          },
+          {
+            "question": "お<ruby>母<rt>かあ</rt></ruby>さん、<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きなさい（　　）<ruby>怒<rt>おこ</rt></ruby>ってたよ。",
+            "options": ["って", "ほど", "とおり", "まま"],
+            "answer": 0
+          },
+          {
+            "question": "これ、すごく<ruby>美味<rt>おい</rt></ruby>しい（　　）！<ruby>食<rt>た</rt></ruby>べてみて。",
+            "options": ["って", "にとって", "について", "において"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "（　　）って、ベトナムの<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>のことだよ。",
+            "options": ["フォー", "黒板", "消しゴム", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>先生<rt>せんせい</rt></ruby>が（　　）を<ruby>出<rt>だ</rt></ruby>しなさいって<ruby>言<rt>い</rt></ruby>ってたよ。",
+            "options": ["宿題", "傘", "財布", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>来週<rt>らいしゅう</rt></ruby>、（　　）があるんだって。みんなで<ruby>行<rt>い</rt></ruby>こう。",
+            "options": ["お祭り", "睡眠", "朝ご飯", "散歩"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼<rt>かれ</rt></ruby>の（　　）は<ruby>医者<rt>いしゃ</rt></ruby>なんだって。",
+            "options": ["お父さん", "消しゴム", "教科書", "時計"],
+            "answer": 0
+          },
+          {
+            "question": "（　　）って、どういう<ruby>意味<rt>いみ</rt></ruby>？",
+            "options": ["「一期一会」", "「鉛筆」", "「ノート」", "「机」"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>山田<rt>やまだ</rt></ruby>くん、<ruby>今日<rt>きょう</rt></ruby>は＿＿＿って。<ruby>残念<rt>ざんねん</rt></ruby>だな。",
+            "options": ["来ない", "来なく", "来なくて", "来ないで"],
+            "answer": 0
+          },
+          {
+            "question": "あの<ruby>映画<rt>えいが</rt></ruby>、すっごく＿＿＿ってよ！<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ。",
+            "options": ["面白い", "面白く", "面白くて", "面白さ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新<rt>あたら</rt></ruby>しいスマホ、とても＿＿＿だって。",
+            "options": ["便利", "便利な", "便利で", "便利に"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>明日<rt>あした</rt></ruby>は＿＿＿だって。<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていこう。",
+            "options": ["雨", "雨な", "雨で", "雨の"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>彼女<rt>かのじょ</rt></ruby>、もう<ruby>帰<rt>かえ</rt></ruby>っ＿＿＿って。",
+            "options": ["た", "て", "たら", "れば"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Anh ấy bảo là tối nay bận nên không đi ăn cùng được đâu.",
+            "jp": "<ruby>彼<rt>かれ</rt></ruby>、<ruby>今夜<rt>こんや</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しいから<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>けないって。"
+          },
+          {
+            "vi": "Nghe nói ngày mai được nghỉ học cả ngày đấy, thích thật!",
+            "jp": "<ruby>明日<rt>あした</rt></ruby>は<ruby>一日<rt>いちにち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>休校<rt>きゅうこう</rt></ruby>なんだって。やったー！"
+          },
+          {
+            "vi": "Mẹ dặn là phải dọn phòng trước khi đi ngủ đấy.",
+            "jp": "お<ruby>母<rt>かあ</rt></ruby>さんが、<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>を<ruby>片付<rt>かたづ</rt></ruby>けなさいって。"
+          },
+          {
+            "vi": "Cái từ gọi là \"Otaku\" trong tiếng Nhật nghĩa là gì vậy?",
+            "jp": "<ruby>日本語<rt>にほんご</rt></ruby>の「オタク」って、どういう<ruby>意味<rt>いみ</rt></ruby>ですか。"
+          },
+          {
+            "vi": "Nghe bảo anh Tanaka sắp chuyển sang làm cho một công ty nước ngoài đấy.",
+            "jp": "<ruby>田中<rt>たなか</rt></ruby>さん、<ruby>外資<rt>がいし</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>に<ruby>転職<rt>てんしょく</rt></ruby>するんだって。"
+          }
+        ]
+      }
+    },
+    {
+      "structure": "〜という",
+      "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;'><table style='margin:0 auto;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:center;font-family:\"Noto Sans JP\",sans-serif;min-width:340px;'><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>VTTT</td><td rowspan='4' style='background:rgba(255,77,79,0.08);padding:1.2rem 3rem;vertical-align:middle;'><span style='color:#ff4d4f;font-size:2rem;font-weight:800;text-shadow:0 0 16px rgba(255,77,79,0.8);display:block;'>という</span></td></tr><tr><td style='background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>AいTTT</td></tr><tr><td style='background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>A<sub style='font-size:0.75em;vertical-align:sub;'>な</sub>だ</td></tr><tr><td style='background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 2rem;font-size:1.2rem;color:#ffd700;font-weight:700;'>Nだ</td></tr></table></div>",
+      "meaning": "Nghe nói là... / Tương truyền rằng...",
+      "usage": "1. Dùng trong văn viết trang trọng, bản tin tức, phóng sự báo chí để truyền đạt thông tin khách quan。<br>2. Dùng trong truyện cổ tích, sách lịch sử mang sắc thái \"tương truyền rằng...\"。",
+      "explanation": "Có mức độ trang trọng cao nhất trong các cấu trúc truyền thuật. Không dùng trong giao tiếp hội thoại thân mật hàng ngày.",
+      "examples": [
+        {
+          "jp": "あの<ruby>事件<rt>じけん</rt></ruby>の<ruby>犯人<rt>はんにん</rt></ruby>は<ruby>捕<rt>つか</rt></ruby>まったという。",
+          "vi": "Nghe nói thủ phạm của vụ án đó đã bị bắt giữ.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_35.1.png"
+        },
+        {
+          "jp": "この<ruby>辺<rt>あた</rt></ruby>りは、<ruby>昔<rt>むかし</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>だったという。",
+          "vi": "Tương truyền vùng này ngày xưa từng là biển.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_35.2.png"
+        },
+        {
+          "jp": "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいという。",
+          "vi": "Người ta nói rằng vấn đề này rất nan giải.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_35.3.png"
+        },
+        {
+          "jp": "<ruby>子<rt>こ</rt></ruby>どもがマスクをするのは<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby>だという。",
+          "vi": "Có thông tin cho rằng trẻ em đeo khẩu trang ngược lại còn tiềm ẩn nguy hiểm.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_35.4.png"
+        },
+        {
+          "jp": "<ruby>豆腐<rt>とうふ</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>にとても<ruby>良<rt>よ</rt></ruby>いという。",
+          "vi": "Nghe nói đậu phụ rất tốt cho cơ thể con người.",
+          "img": "Ngữ pháp N3/N3_Ngữ pháp_35.5.png"
+        }
+      ],
+      "exercises": {
+        "particles": [
+          {
+            "question": "<ruby>昔<rt>むかし</rt></ruby>、ここには<ruby>大<rt>おお</rt></ruby>きな<ruby>城<rt>しろ</rt></ruby>があった（　　）。",
+            "options": ["という", "にとって", "について", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>事故<rt>じこ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は<ruby>現在<rt>げんざい</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>だ（　　）。",
+            "options": ["という", "にとって", "について", "において"],
+            "answer": 0
+          },
+          {
+            "question": "その<ruby>島<rt>しま</rt></ruby>には<ruby>珍<rt>めずら</rt></ruby>しい<ruby>動物<rt>どうぶつ</rt></ruby>が<ruby>生息<rt>せいそく</rt></ruby>している（　　）。",
+            "options": ["という", "ほど", "ばかり", "とおり"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>被害<rt>ひがい</rt></ruby><ruby>総額<rt>そうがく</rt></ruby>は10<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>にのぼる（　　）。",
+            "options": ["という", "にとって", "について", "に対して"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>首相<rt>しゅしょう</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>アジア<ruby>諸国<rt>しょこく</rt></ruby>を<ruby>歴訪<rt>れきほう</rt></ruby>する（　　）。",
+            "options": ["という", "にとって", "において", "について"],
+            "answer": 0
+          }
+        ],
+        "vocab": [
+          {
+            "question": "その<ruby>村<rt>むら</rt></ruby>には<ruby>古<rt>ふる</rt></ruby>い（　　）が<ruby>残<rt>のこ</rt></ruby>っているという。",
+            "options": ["伝説", "消しゴム", "黒板", "机"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>政府<rt>せいふ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい（　　）を<ruby>発表<rt>はっぴょう</rt></ruby>したという。",
+            "options": ["方針", "財布", "傘", "靴下"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>今年<rt>ことし</rt></ruby>の（　　）は<ruby>例年<rt>れいねん</rt></ruby>より<ruby>高<rt>たか</rt></ruby>いという。",
+            "options": ["平均気温", "消しゴム", "鉛筆", "ノート"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>新薬<rt>しんやく</rt></ruby>の（　　）が<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>んでいるという。",
+            "options": ["臨床試験", "昼寝", "散歩", "掃除"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>古代<rt>こだい</rt></ruby>の（　　）が<ruby>新<rt>あたら</rt></ruby>たに<ruby>発見<rt>はっけん</rt></ruby>されたという。",
+            "options": ["遺跡", "テレビ", "電話", "冷蔵庫"],
+            "answer": 0
+          }
+        ],
+        "conjugation": [
+          {
+            "question": "<ruby>来年<rt>らいねん</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>空港<rt>くうこう</rt></ruby>が＿＿＿という。",
+            "options": ["完成する", "完成して", "完成したなら", "完成"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>地域<rt>ちいき</rt></ruby>は<ruby>水<rt>みず</rt></ruby>が＿＿＿という。",
+            "options": ["豊かだ", "豊かな", "豊かで", "豊かに"],
+            "answer": 0
+          },
+          {
+            "question": "その<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>実用<rt>じつよう</rt></ruby><ruby>化<rt>か</rt></ruby>はまだ＿＿＿という。",
+            "options": ["難しい", "難しく", "難しくて", "難しさ"],
+            "answer": 0
+          },
+          {
+            "question": "<ruby>容疑者<rt>ようぎしゃ</rt></ruby>は<ruby>罪<rt>つみ</rt></ruby>を＿＿＿という。",
+            "options": ["認めた", "認めて", "認めれば", "認めるなら"],
+            "answer": 0
+          },
+          {
+            "question": "この<ruby>絵<rt>え</rt></ruby>の<ruby>作者<rt>さくしゃ</rt></ruby>は＿＿＿という。",
+            "options": ["不明だ", "不明な", "不明で", "不明に"],
+            "answer": 0
+          }
+        ],
+        "translation": [
+          {
+            "vi": "Nghe nói công ty đó đã bắt đầu tiến hành phát triển công nghệ mới.",
+            "jp": "あの<ruby>企業<rt>きぎょう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>開発<rt>かいはつ</rt></ruby>に<ruby>着手<rt>ちゃくしゅ</rt></ruby>したという。"
+          },
+          {
+            "vi": "Theo báo cáo, tỷ lệ thất nghiệp đã giảm xuống mức thấp nhất trong 5 năm qua.",
+            "jp": "<ruby>報告<rt>ほうこく</rt></ruby>によると、<ruby>失業<rt>しつぎょう</rt></ruby><ruby>率<rt>りつ</rt></ruby>は<ruby>過去<rt>かこ</rt></ruby>5<ruby>年<rt>ねん</rt></ruby>で<ruby>最低<rt>さいてい</rt></ruby>になったという。"
+          },
+          {
+            "vi": "Tương truyền ngôi đền này có lịch sử hơn 1200 năm.",
+            "jp": "この<ruby>神社<rt>じんじゃ</rt></ruby>は1200<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>持<rt>も</rt></ruby>つという。"
+          },
+          {
+            "vi": "Nghe nói cuộc đàm phán thương mại giữa hai nước đã đạt được thỏa thuận cơ bản.",
+            "jp": "<ruby>両国<rt>りょうこく</rt></ruby><ruby>間<rt>かん</rt></ruby>の<ruby>通商<rt>つうしょう</rt></ruby><ruby>交渉<rt>こうしょう</rt></ruby>は<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>合意<rt>ごうい</rt></ruby>に<ruby>達<rt>たっ</rt></ruby>したという。"
+          },
+          {
+            "vi": "Nghe nói loại cây này chỉ nở hoa vào ban đêm và tỏa hương thơm ngát.",
+            "jp": "この<ruby>植物<rt>しょくぶつ</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>にだけ<ruby>花<rt>はな</rt></ruby>を<ruby>咲<rt>さ</rt></ruby>かせ、<ruby>良<rt>よ</rt></ruby>い<ruby>香<rt>かお</rt></ruby>りを<ruby>放<rt>はな</rt></ruby>つという。"
+          }
+        ]
+      }
+    }
+  ]
+}

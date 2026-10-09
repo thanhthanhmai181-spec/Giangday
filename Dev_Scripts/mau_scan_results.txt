@@ -1,0 +1,30 @@
+﻿bai13.json has 9 matches
+   Mẫu 50 -> Context: trong>: 飲まれる, 行かれる (Mẫu 50)<br>• <strong>Quy tắc</strong>: おVになります (Mẫu 51)<br>•
+   Mẫu 51 -> Context: </strong>: おVになります (Mẫu 51)<br>• <strong>Đặc biệt</strong>: いらっしゃる, 召し上がる (Mẫu 5
+   Mẫu 52 -> Context: ng>: いらっしゃる, 召し上がる (Mẫu 52)<br>• <strong>Yêu cầu lịch sự</strong>: お/ご〜ください (Mẫu
+   Mẫu 53 -> Context: /strong>: お/ご〜ください (Mẫu 53)</td></tr><tr><td style='border:1px solid #333;paddin
+   Mẫu 54 -> Context: </strong>: お/ご〜します (Mẫu 54)<br>• <strong>Đặc biệt</strong>: 参る, 申す, 伺う, 拝見する (Mẫ
+   Mẫu 55 -> Context: : 参る, 申す, 伺う, 拝見する (Mẫu 55)</td></tr></tbody></table>",
+  "items": [
+    {
+     
+   Mẫu 50 -> Context: sự hơn thể bị động (Mẫu 50)。<br>2. Công thức: お ＋ Động từ thể ます (bỏ ます) ＋ になる /
+   Mẫu 52 -> Context:  kính ngữ đặc biệt (Mẫu 52)。",
+      "explanation": "Được dùng rất phổ biến khi 
+   Mẫu 52 -> Context:  kính ngữ đặc biệt (Mẫu 52). Cần nắm vững để tránh nhầm lẫn giữa chủ thể 'tôi là
+bai18.json has 2 matches
+   Mẫu 76 -> Context: nation":  "Khác với Mẫu 76 (ví von trừu tượng \u0027cứ như thể là... dù thực tế 
+   Mẫu 78 -> Context:  không phải\u0027), Mẫu 78 dùng để so sánh các đặc tính có thật, lấy người hoặc 
+bai22.json has 12 matches
+   Mẫu 90: -> Context: :center;\u0027\u003eMẫu 90:\u003cbr\u003e〜と ／ 〜たら\u003c/td\u003e\u003ctd style=\
+   Mẫu 91: -> Context: :center;\u0027\u003eMẫu 91:\u003cbr\u003e〜ると ／ 〜たら\u003c/td\u003e\u003ctd style=
+   Mẫu 93: -> Context: :center;\u0027\u003eMẫu 93:\u003cbr\u003e〜ていると...た\u003cbr\u003e〜ていたら...た\u003c/
+   Mẫu 94: -> Context: :center;\u0027\u003eMẫu 94:\u003cbr\u003e〜ると...た\u003c/td\u003e\u003ctd style=\u
+   Mẫu 90: -> Context: #d97706;\u0027\u003eMẫu 90: 〜と / 〜たら\u003c/div\u003e\u003cdiv style=\u0027paddin
+   Mẫu 91: -> Context: #2563eb;\u0027\u003eMẫu 91: 〜ると / 〜たら\u003c/div\u003e\u003cdiv style=\u0027paddi
+   Mẫu 93: -> Context: #dc2626;\u0027\u003eMẫu 93: 〜ていると...た / 〜ていたら...た\u003c/div\u003e\u003cdiv style
+   Mẫu 94: -> Context: #16a34a;\u0027\u003eMẫu 94: 〜ると...た\u003c/div\u003e\u003cdiv style=\u0027padding
+   Mẫu 90: -> Context: 55,0.1);\u0027\u003eMẫu 90: 〜と ／ 〜たら (Sau khi làm... thì bất ngờ nhận ra...)\u00
+   Mẫu 91: -> Context: 55,0.1);\u0027\u003eMẫu 91: 〜ると ／ 〜たら (Sau khi... thì... / Cứ... thì...)\u003c/t
+   Mẫu 93: -> Context: 55,0.1);\u0027\u003eMẫu 93: 〜ていると...た ／ 〜ていたら...た (Đang lúc... thì bất ngờ xảy r
+   Mẫu 94: -> Context: 55,0.1);\u0027\u003eMẫu 94: 〜ると...た (Vừa làm xong A là lập tức làm B ngay)\u003c

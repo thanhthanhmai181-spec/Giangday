@@ -1,0 +1,131 @@
+{
+  "id": "choukai-n3-nghe_chude-03",
+  "level": "N3",
+  "category": "nghe_chude",
+  "categoryName": "Nghe chủ đề (ポイント理解)",
+  "lessonNumber": 3,
+  "title": "Bài 3: Luyện nghe hiểu chủ đề (ポイント理解 第3回)",
+  "description": "Dạng bài nghe hiểu chủ đề / điểm cốt lõi (ポイント理解): Lắng nghe câu hỏi và các lựa chọn trực tiếp từ file âm thanh. Bấm chọn 1, 2, 3 hoặc 4.",
+  "questions": [
+    {
+      "id": 37,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai3/37.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 練習と同じように落ち着いてできた。",
+          "meaning": "Đã thi đấu bình tĩnh y hệt như lúc tập luyện.",
+          "analysis": "Sai: Vận động viên phủ nhận và nói tim đập thình thịch rất hồi hộp ('いや、全然そんなことないよ。ドキドキしてた')."
+        },
+        {
+          "option": "2. 練習不足で失敗が多かった。",
+          "meaning": "Do thiếu tập luyện nên mắc nhiều sai lầm.",
+          "analysis": "Sai: Anh ấy đã nỗ lực tập luyện rất nhiều ('練習頑張ってきたけど')."
+        },
+        {
+          "option": "3. 相手が弱く、簡単に勝てた。",
+          "meaning": "Đối thủ yếu nên đã dễ dàng giành chiến thắng.",
+          "analysis": "Sai: Đối thủ là người từng nhiều lần vô địch rất mạnh ('何度も優勝している選手が相手だったから')."
+        },
+        {
+          "option": "4. 緊張したが、応援で頑張れた。",
+          "meaning": "Dù rất hồi hộp căng thẳng nhưng nhờ sự cổ vũ của mọi người nên đã nỗ lực hết mình.",
+          "analysis": "ĐÚNG: Anh chia sẻ bản thân rất hồi hộp, lúc bị dẫn điểm tưởng chừng bỏ cuộc, nhưng nghe tiếng hò reo cổ vũ của mọi người thì sức mạnh lại trào dâng để nỗ lực chiến thắng ('ドキドキしてた... 点数に差が出た時は、もうダメだと思ったけど、みんなの声が聞こえて、絶対負けられないと思ったんだ。そうしたら力が出てきて')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「男：ドキドキしてた。...何度も優勝している選手が相手だったから、点数に差が出た時は、もうダメだと思ったけど、みんなの声が聞こえて、絶対負けられないと思ったんだ。そうしたら力が出てきて。」",
+      "explanation": "Đáp án đúng là 4 (緊張したが、応援で頑張れた).\n- Câu hỏi trong audio: 「男の選手は、試合についてどう言っていますか？」 (Vận động viên nam nói gì về trận đấu?).\n- Nam vận động viên chia sẻ: Anh rất hồi hộp (ドキドキしてた), đối thủ lại từng nhiều lần vô địch nên lúc bị dẫn điểm tưởng như thua cuộc. Nhưng nhờ nghe thấy tiếng hò reo cổ vũ của mọi người (みんなの声), anh được tiếp thêm sức mạnh để quyết tâm lội ngược dòng giành chiến thắng.",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。<ruby>勝<rt>か</rt></ruby>ってよかったね！すごく<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いているように<ruby>見<rt>み</rt></ruby>えたよ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong>いや、<ruby>全然<rt>ぜんぜん</rt></ruby>そんなことないよ。ドキドキしてた。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> そうだったんだ、わからなかったよ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>練習<rt>れんしゅう</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ってきたけど、<ruby>練習<rt>れんしゅう</rt></ruby>と<ruby>試合<rt>しあい</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>うからね。<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>優勝<rt>ゆうしょう</rt></ruby>している<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>相手<rt>あいて</rt></ruby>だったから、<ruby>点数<rt>てんすう</rt></ruby>に<ruby>差<rt>さ</rt></ruby>が<ruby>出<rt>で</rt></ruby>た<ruby>時<rt>とき</rt></ruby>は、もうダメだと<ruby>思<rt>おも</rt></ruby>ったけど、<strong>みんなの<ruby>声<rt>こえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえて、<ruby>絶対<rt>ぜったい</rt></ruby><ruby>負<rt>ま</rt></ruby>けられないと<ruby>思<rt>おも</rt></ruby>ったんだ。そうしたら<ruby>力<rt>ちから</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきて。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> そっか、<ruby>本当<rt>ほんとう</rt></ruby>によかったね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>試合<rt>しあい</rt></ruby>についてどう<ruby>言<rt>い</rt></ruby>っていますか？<br>1. <ruby>練習<rt>れんしゅう</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いてできた。<br>2. <ruby>練習<rt>れんしゅう</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>で<ruby>失敗<rt>しっぱい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>かった。<br>3. <ruby>相手<rt>あいて</rt></ruby>が<ruby>弱<rt>よわ</rt></ruby>く、<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>勝<rt>か</rt></ruby>てた。<br>4. <ruby>緊張<rt>きんちょう</rt></ruby>したが、<ruby>応援<rt>おうえん</rt></ruby>で<ruby>頑張<rt>がんば</rt></ruby>れた。</p>",
+      "scriptVi": "Nữ: Vất vả cho cậu rồi. Thắng trận tốt quá! Trông cậu thi đấu cực kỳ bình tĩnh luôn đấy.\nNam: Đâu có, hoàn toàn không phải vậy đâu. Tim tớ đập thình thịch hồi hộp muốn chết.\nNữ: Thế hả, nhìn ngoài chẳng nhận ra luôn.\nNam: Tớ đã tập luyện rất chăm chỉ, nhưng mà tập luyện với thi đấu thực tế khác hẳn nhau. Đối thủ lại là tay vợt từng nhiều lần vô địch, nên lúc bị cách biệt điểm số tớ đã ngỡ là toi rồi. Nhưng đúng lúc ấy nghe thấy tiếng hò reo cổ vũ của mọi người, tớ nghĩ nhất định không thể chịu thua được. Thế là sức mạnh lại tự nhiên trào dâng.\nNữ: Ra là vậy, thật là mừng cho cậu.\nCâu hỏi: Vận động viên nam nói gì về trận đấu?\n1. Đã thi đấu bình tĩnh như lúc tập luyện\n2. Do thiếu tập luyện nên mắc nhiều sai lầm\n3. Đối thủ yếu nên đã dễ dàng thắng trận\n4. Dù rất căng thẳng nhưng nhờ sự cổ vũ nên đã nỗ lực hết mình"
+    },
+    {
+      "id": 38,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai3/38.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 猫をペットにする時の注意",
+          "meaning": "Những điều cần lưu ý khi nuôi mèo làm thú cưng tại nhà.",
+          "analysis": "Sai: Bài nói giới thiệu quán cà phê mèo cho người không nuôi được mèo chứ không hướng dẫn cách nuôi mèo ở nhà."
+        },
+        {
+          "option": "2. 猫と一緒に過ごせる店",
+          "meaning": "Quán cà phê nơi khách có thể cùng trải nghiệm, vui chơi và ở bên cạnh những chú mèo.",
+          "analysis": "ĐÚNG: Phát thanh viên giới thiệu quán 'Mike' trước ga Midori: uống trà/cà phê, ngắm mèo ở cự ly gần ('さまざまな猫をすぐそばで見ることができます'), vuốt ve, chơi đùa cùng mèo ('自由に触ったり、一緒に遊ぶこともできます'), cho mèo ăn."
+        },
+        {
+          "option": "3. 猫の好きなエサの種類",
+          "meaning": "Các loại thức ăn mà loài mèo yêu thích.",
+          "analysis": "Sai: Chỉ nhắc quán có chuẩn bị sẵn thức ăn cho mèo để khách cho ăn."
+        },
+        {
+          "option": "4. 猫の名前の募集",
+          "meaning": "Việc mở đợt bình chọn / kêu gọi đặt tên cho mèo.",
+          "analysis": "Sai: Việc đặt tên chỉ là một hoạt động thú vị tại quán."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「男：猫が好きだけど、何か理由があってペットとして飼うことができないという方。緑駅前の「ミケ」というお店では、コーヒーや紅茶を飲みながら、さまざまな猫をすぐそばで見ることができますよ。注意を守れば、自由に触ったり、一緒に遊ぶこともできます。」",
+      "explanation": "Đáp án đúng là 2 (猫と一緒に過ごせる店).\n- Câu hỏi trong audio: 「アナウンサーは、何について話していますか？」 (Phát thanh viên đang nói về điều gì?).\n- Phát thanh viên giới thiệu quán cà phê 'Mike' dành cho những người yêu mèo: Vừa uống cà phê vừa ngắm mèo, vuốt ve, chơi đùa và cho mèo ăn.\n- Toàn bộ nội dung là giới thiệu một quán dịch vụ nơi mọi người có thể đến trải nghiệm cùng mèo (猫と一緒に過ごせる店).",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>猫<rt>ねこ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだけど、<ruby>何<rt>なに</rt></ruby>か<ruby>理由<rt>りゆう</rt></ruby>があってペットとして<ruby>飼<rt>か</rt></ruby>うことができないという<ruby>方<rt>かた</rt></ruby>。<strong><ruby>緑<rt>みどり</rt></ruby><ruby>駅<rt>えき</rt></ruby><ruby>前<rt>まえ</rt></ruby>の「ミケ」というお<ruby>店<rt>みせ</rt></ruby>では、コーヒーやお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みながら、さまざまな<ruby>猫<rt>ねこ</rt></ruby>をすぐそばで<ruby>見<rt>み</rt></ruby>ることができますよ。<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>守<rt>まも</rt></ruby>れば、<ruby>自由<rt>じゆう</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>ったり、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>ぶこともできます。</strong>いろいろな<ruby>種類<rt>しゅるい</rt></ruby>のエサもあって、エサをやることも<ruby>可能<rt>かのう</rt></ruby>です。<ruby>人<rt>ひと</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れている<ruby>猫<rt>ねこ</rt></ruby>ばかりですので、<ruby>安心<rt>あんしん</rt></ruby>ですよ。<ruby>新<rt>あたら</rt></ruby>しい<ruby>猫<rt>ねこ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>時<rt>とき</rt></ruby>には、<ruby>名前<rt>なまえ</rt></ruby>を<ruby>募集<rt>ぼしゅう</rt></ruby>することもあるそうです。<ruby>自分<rt>じぶん</rt></ruby>が<ruby>名前<rt>なまえ</rt></ruby>をつけた<ruby>猫<rt>ねこ</rt></ruby>がいると、<ruby>会<rt>あ</rt></ruby>いにいきたくなりますよね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> アナウンサーは、<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか？<br>1. <ruby>猫<rt>ねこ</rt></ruby>をペットにする<ruby>時<rt>とき</rt></ruby>の<ruby>注意<rt>ちゅうい</rt></ruby><br>2. <ruby>猫<rt>ねこ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごせる<ruby>店<rt>みせ</rt></ruby><br>3. <ruby>猫<rt>ねこ</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなエサの<ruby>種類<rt>しゅるい</rt></ruby><br>4. <ruby>猫<rt>ねこ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>の<ruby>募集<rt>ぼしゅう</rt></ruby></p>",
+      "scriptVi": "Phát thanh viên nam: Dành cho những quý vị rất thích mèo nhưng vì lý do nào đó không thể nuôi làm thú cưng tại nhà. Tại quán mang tên 'Mike' trước ga Midori, quý vị có thể vừa thưởng thức cà phê hay trà, vừa được ngắm nhìn nhiều chú mèo khác nhau ở ngay cự ly gần. Chỉ cần tuân thủ các lưu ý, quý vị có thể thoải mái vuốt ve hay cùng chơi đùa với chúng. Quán cũng có sẵn nhiều loại thức ăn để quý vị có thể tự tay cho mèo ăn. Toàn bộ là những chú mèo rất quấn và quen với người nên quý vị hoàn toàn có thể yên tâm. Khi có chú mèo mới đến, nghe nói quán còn mở đợt kêu gọi đặt tên nữa. Nếu có chú mèo do chính mình đặt tên thì ai cũng sẽ muốn đến thăm phải không quý vị.\nCâu hỏi: Phát thanh viên đang nói về điều gì?\n1. Những lưu ý khi nuôi mèo làm thú cưng\n2. Quán cà phê nơi có thể tận hưởng thời gian bên cạnh những chú mèo\n3. Các loại thức ăn mà loài mèo yêu thích\n4. Việc kêu gọi bình chọn đặt tên cho mèo"
+    },
+    {
+      "id": 39,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai3/39.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 祭りの歴史",
+          "meaning": "Lịch sử và nguồn gốc hình thành của lễ hội.",
+          "analysis": "Sai: Chỉ nhắc đây là lần thứ 5 tổ chức chứ không nói sâu về lịch sử."
+        },
+        {
+          "option": "2. 祭りをつくった理由",
+          "meaning": "Nguyên nhân và lý do ban đầu sáng lập nên lễ hội.",
+          "analysis": "Sai: Không nói về lý do tại sao người ta lại tạo ra lễ hội."
+        },
+        {
+          "option": "3. 祭りによる効果",
+          "meaning": "Những hiệu quả và tác động tích cực do lễ hội mang lại cho địa phương.",
+          "analysis": "ĐÚNG: Phát thanh viên nêu rõ: Lễ hội giúp nhiều người biết đến thị trấn nhỏ hơn ('祭りでこの町を知る人も増えました'), khách du lịch đến tham quan quanh năm kể cả ngoài mùa lễ hội ('今では、祭り以外の時期にも観光に来る人が増えています'), giúp giới trẻ có cơ hội hiểu biết và gắn bó hơn với quê hương mình ('若者が自分たちの町について知る機会にもなっています')."
+        },
+        {
+          "option": "4. 祭りに対する町の人たちの意見",
+          "meaning": "Các ý kiến đánh giá của người dân trong thị trấn đối với lễ hội.",
+          "analysis": "Sai: Không phỏng vấn hay trích dẫn ý kiến của người dân."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「女：桜町は小さい町ですが、祭りでこの町を知る人も増えました。今では、祭り以外の時期にも観光に来る人が増えています。毎年、町の若者が中心になってこの祭りを行っていて、若者が自分たちの町について知る機会にもなっています。」",
+      "explanation": "Đáp án đúng là 3 (祭りによる効果).\n- Câu hỏi trong audio: 「アナウンサーは、この祭りの何について話していますか？」 (Phát thanh viên đang nói về điều gì của lễ hội này?).\n- Phát thanh viên phân tích các lợi ích mà Lễ hội âm nhạc Sakura mang lại: Giúp thị trấn nhỏ được nhiều người biết đến, gia tăng lượng khách du lịch vào các mùa khác trong năm, tạo cơ hội cho giới trẻ địa phương tìm hiểu và gắn kết với quê hương.\n- Toàn bộ nội dung là các tác động/hiệu quả tích cực do lễ hội đem lại (祭りによる効果).",
+      "scriptJp": "<p><strong>アナウンサー：</strong> <ruby>来月<rt>らいげつ</rt></ruby>8<ruby>日<rt>ようか</rt></ruby>から、<ruby>桜<rt>さくら</rt></ruby><ruby>町<rt>まち</rt></ruby>で<ruby>第<rt>だい</rt></ruby>5<ruby>回<rt>かい</rt></ruby>「<ruby>桜<rt>さくら</rt></ruby><ruby>音楽<rt>おんがく</rt></ruby><ruby>祭<rt>まつ</rt></ruby>り」が<ruby>行<rt>おこな</rt></ruby>われます。3<ruby>日間<rt>にちかん</rt></ruby>、<ruby>町<rt>まち</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>でクラシックやジャズなどが<ruby>演奏<rt>えんそう</rt></ruby>されるこの<ruby>祭<rt>まつ</rt></ruby>り。<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむために、<ruby>毎年<rt>まいとし</rt></ruby><ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まります。<strong><ruby>桜<rt>さくら</rt></ruby><ruby>町<rt>まち</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さい<ruby>町<rt>まち</rt></ruby>ですが、<ruby>祭<rt>まつ</rt></ruby>りでこの<ruby>町<rt>まち</rt></ruby>を<ruby>知<rt>し</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えました。<ruby>今<rt>いま</rt></ruby>では、<ruby>祭<rt>まつ</rt></ruby>り<ruby>以外<rt>いがい</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>にも<ruby>観光<rt>かんこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>町<rt>まち</rt></ruby>の<ruby>若者<rt>わかもの</rt></ruby>が<ruby>中心<rt>ちゅうしん</rt></ruby>になってこの<ruby>祭<rt>まつ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>っていて、<ruby>若者<rt>わかもの</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>町<rt>まち</rt></ruby>について<ruby>知<rt>し</rt></ruby>る<ruby>機会<rt>きかい</rt></ruby>にもなっています。</strong><br><strong><ruby>問<rt>と</rt></ruby>い：</strong> アナウンサーは、この<ruby>祭<rt>まつ</rt></ruby>りの<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか？<br>1. <ruby>祭<rt>まつ</rt></ruby>りの<ruby>歴史<rt>れきし</rt></ruby><br>2. <ruby>祭<rt>まつ</rt></ruby>りをつくった<ruby>理由<rt>りゆう</rt></ruby><br>3. <ruby>祭<rt>まつ</rt></ruby>りによる<ruby>効果<rt>こうか</rt></ruby><br>4. <ruby>祭<rt>まつ</rt></ruby>りに<ruby>対<rt>たい</rt></ruby>する<ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちの<ruby>意見<rt>いけん</rt></ruby></p>",
+      "scriptVi": "Phát thanh viên nữ: Kể từ ngày 8 tháng sau, tại thị trấn Sakura sẽ diễn ra 'Lễ hội Âm nhạc Sakura' lần thứ 5. Trong suốt 3 ngày, các thể loại âm nhạc như cổ điển hay jazz sẽ được trình diễn tại các công viên và cửa hàng trong thị trấn. Hàng năm đều có rất đông người đổ về để cùng thưởng thức âm nhạc. Sakura là một thị trấn nhỏ, nhưng nhờ có lễ hội mà số người biết đến thị trấn đã tăng lên đáng kể. Hiện nay, ngay cả vào những khoảng thời gian ngoài mùa lễ hội, lượng khách đến du lịch cũng ngày một nhiều hơn. Hàng năm, giới trẻ trong thị trấn là lực lượng nòng cốt đứng ra tổ chức lễ hội này, và đây cũng chính là cơ hội quý báu để các bạn trẻ tìm hiểu và thêm yêu thị trấn của mình.\nCâu hỏi: Phát thanh viên đang nói về khía cạnh nào của lễ hội này?\n1. Lịch sử của lễ hội\n2. Lý do sáng lập ra lễ hội\n3. Những hiệu quả / tác động tích cực do lễ hội mang lại\n4. Ý kiến của người dân thị trấn đối với lễ hội"
+    }
+  ]
+}

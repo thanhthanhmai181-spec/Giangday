@@ -1,0 +1,253 @@
+{
+  "id": "choukai-n3-nghe_traloi-02",
+  "level": "N3",
+  "category": "nghe_traloi",
+  "categoryName": "Nghe trả lời (課題理解)",
+  "lessonNumber": 2,
+  "title": "Bài 2: Luyện nghe hiểu trả lời (課題理解 第2回)",
+  "description": "Dạng bài nghe hiểu yêu cầu hành động (課題理解): Lắng nghe câu hỏi trước, quan sát hình ảnh minh họa (nếu có), nắm bắt tình huống và chọn hành động chính xác.",
+  "questions": [
+    {
+      "id": 7,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai2/7.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_traloi/bai2/1.jpg",
+      "question": "1番：うちで<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>妻<rt>つま</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きますか。",
+      "questionVi": "Ở nhà, người chồng và người vợ đang nói chuyện. Người vợ sẽ đi mua cái gì?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "Hình 1 (Hộp cơm 1 tầng thon dài)",
+          "meaning": "Chỉ mua hộp cơm 1 tầng thon dài.",
+          "analysis": "Sai: Người chồng nói hộp cơm 1 tầng đựng được ít thức ăn, chiều sẽ đói nên muốn loại 2 tầng ('2段になってて重ねられるタイプのがいいな。1段だと入れられる量が少なくて...')."
+        },
+        {
+          "option": "Hình 2 (Hộp cơm 1 tầng + Bình nước)",
+          "meaning": "Mua hộp cơm 1 tầng thon dài cùng với bình nước.",
+          "analysis": "Sai: Chồng muốn loại 2 tầng và không mua bình nước lần này."
+        },
+        {
+          "option": "Hình 3 (Hộp cơm 2 tầng thon dài)",
+          "meaning": "Mua hộp cơm 2 tầng thon dài (không mua bình nước).",
+          "analysis": "ĐÚNG: Người chồng muốn hộp cơm thon dài loại 2 tầng xếp chồng lên nhau ('細長い形... 2段になってて重ねられるタイプ'). Về bình nước, người chồng bảo lần này chưa cần ('あるといいなと思うけど、今回はいいよ'). Do đó người vợ chỉ mua hộp cơm 2 tầng."
+        },
+        {
+          "option": "Hình 4 (Hộp cơm 2 tầng + Bình nước)",
+          "meaning": "Mua hộp cơm 2 tầng thon dài và bình nước.",
+          "analysis": "Sai: Người chồng đã từ chối mua bình nước trong lần này ('今回はいいよ')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「夫：2段になってて重ねられるタイプのがいいな。1段だと入れられる量が少なくて、夕方にはお腹空いちゃうかもしれないから。妻：わかった。前に水筒欲しいって言ってたけど、それも一緒に買っとく？夫：あるといいなと思うけど、今回はいいよ。妻：わかった。」",
+      "explanation": "Đáp án đúng là Hình 3 (細長い2段のお弁当箱).\n- Người chồng muốn đổi sang hộp cơm dáng thon dài (để dễ cho vào cặp đi làm) và chọn loại 2 tầng xếp chồng lên nhau vì loại 1 tầng quá ít thức ăn.\n- Khi người vợ hỏi có mua thêm bình giữ nhiệt (水筒) không, người chồng bảo: 'Có thì tốt nhưng lần này thôi khỏi' (今回はいいよ).\n- Vì vậy người vợ chỉ đi mua hộp cơm 2 tầng thon dài (Hình 3).",
+      "scriptJp": "<p><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> <ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>持<rt>も</rt></ruby>っていってるお<ruby>弁当<rt>べんとう</rt></ruby><ruby>箱<rt>ばこ</rt></ruby>、<ruby>形<rt>かたち</rt></ruby>が<ruby>通勤<rt>つうきん</rt></ruby><ruby>用<rt>よう</rt></ruby>のカバンに<ruby>入<rt>い</rt></ruby>れにくくて、<strong><ruby>細長<rt>ほそなが</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>のが<ruby>欲<rt>ほ</rt></ruby>しいんだ。</strong><br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> あ、じゃあ、<ruby>明日<rt>あした</rt></ruby>デパートの<ruby>近<rt>ちか</rt></ruby>くに<ruby>行<rt>い</rt></ruby>く<ruby>用事<rt>ようじ</rt></ruby>があるから、<ruby>買<rt>か</rt></ruby>ってきてあげる。<br><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> えー？<br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> うん。<br><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> <strong>2<ruby>段<rt>だん</rt></ruby>になってて<ruby>重<rt>かさ</rt></ruby>ねられるタイプのがいいな。</strong>1<ruby>段<rt>だん</rt></ruby>だと<ruby>入<rt>い</rt></ruby>れられる<ruby>量<rt>りょう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて、<ruby>夕方<rt>ゆうがた</rt></ruby>にはお<ruby>腹<rt>なか</rt></ruby><ruby>空<rt>す</rt></ruby>いちゃうかもしれないから。<br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> わかった。<ruby>前<rt>まえ</rt></ruby>に<ruby>水筒<rt>すいとう</rt></ruby><ruby>欲<rt>ほ</rt></ruby>しいって<ruby>言<rt>い</rt></ruby>ってたけど、それも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>買<rt>か</rt></ruby>っとく？<br><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> あるといいなと<ruby>思<rt>おも</rt></ruby>うけど、<strong><ruby>今回<rt>こんかい</rt></ruby>はいいよ。</strong><br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> わかった。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>妻<rt>つま</rt></ruby>は<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きますか。</p>",
+      "scriptVi": "Chồng: Hộp cơm anh mang đi làm hình dáng hơi khó nhét vào cặp đi làm, anh muốn loại dáng thon dài cơ.\nVợ: À, thế mai em có việc đi gần trung tâm thương mại, để em mua về cho.\nChồng: Thật hả em?\nVợ: Vâng.\nChồng: Anh thích loại 2 tầng xếp chồng lên nhau nhé. Loại 1 tầng thì đựng được ít thức ăn, chiều muộn sợ lại bị đói.\nVợ: Em hiểu rồi. Hôm trước anh bảo muốn mua bình nước giữ nhiệt nữa, em mua luôn một thể nhé?\nChồng: Có thì cũng tốt đấy nhưng lần này thôi khỏi cần em ạ.\nVợ: Vâng, em biết rồi.\nCâu hỏi: Người vợ sẽ đi mua cái gì?"
+    },
+    {
+      "id": 8,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai2/8.mp3",
+      "question": "2番：<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>男<rt>おtoko</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>受付<rt>うけつけ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどこで<ruby>山本<rt>やまもと</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちますか。",
+      "questionVi": "Tại quầy lễ tân công ty, một người đàn ông và nhân viên lễ tân đang nói chuyện. Người đàn ông sẽ đợi Trưởng phòng Yamamoto ở đâu?",
+      "options": [
+        "<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>",
+        "かいぎしつ",
+        "ロビー",
+        "おうせつしつ"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "工場の中",
+          "meaning": "Bên trong nhà xưởng/nhà máy.",
+          "analysis": "Sai: Khi Trưởng phòng Yamamoto đến thì nhân viên mới dẫn khách vào xem nhà xưởng ('山本が到着しましたら、すぐに工場の方にご案内しますので')."
+        },
+        {
+          "option": "かいぎしつ",
+          "meaning": "Phòng họp.",
+          "analysis": "Sai: Cuộc họp và tài liệu chuẩn bị trong phòng tiếp khách chứ không phải phòng họp chung."
+        },
+        {
+          "option": "ロビー",
+          "meaning": "Sảnh chờ.",
+          "analysis": "Sai: Ban đầu người đàn ông định đợi ở sảnh chờ, nhưng nhân viên lễ tân đã mời vào phòng tiếp khách ở phía trong sảnh."
+        },
+        {
+          "option": "おうせつしつ",
+          "meaning": "Phòng tiếp khách (応接室).",
+          "analysis": "ĐÚNG: Nhân viên lễ tân mời khách vào phòng tiếp khách ở phía trong sảnh chờ, nơi đã chuẩn bị sẵn tài liệu và trà ('ロビーの奥に応接室がございまして、本日の会議の資料とお茶をご用意しておりますので、そちらで')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「男：あ、そうですか。では、ロビーで待ちます。受付：あ、いえ。ロビーの奥に応接室がございまして、本日の会議の資料とお茶をご用意しておりますので、そちらで。山本が到着しましたら、すぐに工場の方にご案内しますので。男：あ、はい。よろしくお願いします。」",
+      "explanation": "Đáp án đúng là 4 (おうせつしつ - 応接室).\n- Trưởng phòng Yamamoto bị tắc đường nên về muộn.\n- Người đàn ông định đợi ở sảnh chờ (ロビー), nhưng lễ tân mời vào phòng tiếp khách ở phía trong (ロビーの奥の応接室) vì đã chuẩn bị sẵn trà và tài liệu họp ở đó.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あの、さくら<ruby>工業<rt>こうぎょう</rt></ruby>の<ruby>森田<rt>もりた</rt></ruby>と<ruby>申<rt>もう</rt></ruby>しますが、<ruby>営業<rt>えいぎょう</rt></ruby>の<ruby>山本<rt>やまもと</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>、いらっしゃいますか。<ruby>今日<rt>きょう</rt></ruby>は<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>見学<rt>けんがく</rt></ruby>と<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>伺<rt>うかが</rt></ruby>いました。<br><strong><ruby>受付<rt>うけつけ</rt></ruby>：</strong> はい、<ruby>森田<rt>もりた</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>伺<rt>うかが</rt></ruby>っております。<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございませんが、<ruby>山本<rt>やまもと</rt></ruby>は<ruby>外出<rt>がいしゅつ</rt></ruby><ruby>先<rt>さき</rt></ruby>からこちらに<ruby>戻<rt>もど</rt></ruby>るのが、<ruby>交通<rt>こうつう</rt></ruby><ruby>渋滞<rt>じゅうたい</rt></ruby>で<ruby>少々<rt>しょうしょう</rt></ruby><ruby>遅<rt>おく</rt></ruby>れておりまして。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あ、そうですか。では、ロビーで<ruby>待<rt>ま</rt></ruby>ちます。<br><strong><ruby>受付<rt>うけつけ</rt></ruby>：</strong> あ、いえ。<strong>ロビーの<ruby>奥<rt>おく</rt></ruby>に<ruby>応接<rt>おうせつ</rt></ruby><ruby>室<rt>しつ</rt></ruby>がございまして、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>しておりますので、そちらで。</strong><ruby>山本<rt>やまもと</rt></ruby>が<ruby>到着<rt>とうちゃく</rt></ruby>しましたら、すぐに<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>にご<ruby>案内<rt>あんない</rt></ruby>しますので。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あ、はい。よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどこで<ruby>山本<rt>やまもと</rt></ruby><ruby>部長<rt>ぶちょう</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちますか。</p>",
+      "scriptVi": "Nam: Xin chào, tôi là Morita bên công ty Công nghiệp Sakura, xin hỏi Trưởng phòng kinh doanh Yamamoto có ở đây không ạ? Hôm nay tôi đến theo lịch tham quan nhà máy và họp.\nLễ tân: Vâng, thưa ngài Morita, chúng tôi đã nhận được thông tin. Thành thật xin lỗi ngài, Trưởng phòng Yamamoto trên đường từ ngoài trở về công ty đang bị kẹt xe nên sẽ đến muộn một chút ạ.\nNam: À vậy sao. Thế tôi ngồi đợi ở sảnh nhé.\nLễ tân: Dạ không, phía trong sảnh có phòng tiếp khách, chúng tôi đã chuẩn bị sẵn tài liệu cuộc họp hôm nay và nước trà ở đó rồi ạ, xin mời ngài vào đó. Khi nào Trưởng phòng Yamamoto đến, chúng tôi sẽ dẫn ngài đi tham quan nhà xưởng ngay ạ.\nNam: Vâng, cảm ơn cô.\nCâu hỏi: Người đàn ông sẽ đợi Trưởng phòng Yamamoto ở đâu?"
+    },
+    {
+      "id": 9,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai2/9.mp3",
+      "question": "3番：<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>来<rt>く</rt></ruby>る<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えますか。",
+      "questionVi": "Trong phòng nghiên cứu trường đại học, thầy giáo và nữ sinh đang nói chuyện. Nữ sinh sẽ hướng dẫn điều gì cho lưu học sinh đến vào tuần tới?",
+      "options": [
+        "<ruby>食堂<rt>しょくどう</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>",
+        "<ruby>学生<rt>がくせい</rt></ruby><ruby>課<rt>か</rt></ruby>へのしょるいの<ruby>出<rt>だ</rt></ruby>し<ruby>方<rt>かた</rt></ruby>",
+        "<ruby>学生<rt>がくせい</rt></ruby><ruby>課<rt>か</rt></ruby>のけいじばんの<ruby>見<rt>み</rt></ruby><ruby>方<rt>かた</rt></ruby>",
+        "としょかんの<ruby>利用<rt>りよう</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "食堂の利用方法",
+          "meaning": "Cách sử dụng và ăn uống tại nhà ăn (cách gọi món).",
+          "analysis": "ĐÚNG: Thầy giáo nhờ nữ sinh hướng dẫn lưu học sinh cách sử dụng nhà ăn trong giờ nghỉ trưa ('まずは食堂の使い方。注文の仕方とか... ついでにお昼も一緒に')."
+        },
+        {
+          "option": "学生課へのしょるいの出し方",
+          "meaning": "Cách nộp giấy tờ cho Phòng Công tác sinh viên.",
+          "analysis": "Sai: Do Phòng sinh viên nghỉ trưa 12h-13h và 13h nữ sinh có tiết học, thầy giáo đã đổi sang nhờ người khác hướng dẫn phần này ('学生課の方は掲示板と一緒に他の人にお願いするからいいよ')."
+        },
+        {
+          "option": "学生課のけいじばんの見方",
+          "meaning": "Cách xem bảng thông báo của Phòng sinh viên.",
+          "analysis": "Sai: Việc này được thầy chuyển cho người khác phụ trách cùng với Phòng sinh viên."
+        },
+        {
+          "option": "としょかんの利用方法",
+          "meaning": "Cách sử dụng thư viện.",
+          "analysis": "Sai: Thư viện đã có nhân viên hướng dẫn riêng nên không cần nữ sinh chỉ dẫn ('図書館も、あ、あそこは案内係がいるからいいね')."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「先生：まずは食堂の使い方。注文の仕方とか、初めての人にはわかりにくいだろうからね。ついでにお昼も一緒に。...学生：あの、先生。学生課は12時から1時まで昼休みです。すみません、私1時から授業がありまして... 先生：そっか。じゃあ、学生課の方は掲示板と一緒に他の人にお願いするからいいよ。それじゃ、よろしくね。」",
+      "explanation": "Đáp án đúng là 1 (食堂の利用方法).\n- Thầy giáo ban đầu nhờ nữ sinh dẫn lưu học sinh đi xem nhà ăn (食堂) và phòng sinh viên (学生課). Thư viện thì đã có nhân viên hướng dẫn riêng.\n- Do phòng sinh viên đóng cửa nghỉ trưa từ 12h-13h, mà 13h nữ sinh lại có tiết học, thầy giáo nói sẽ nhờ người khác phụ trách phòng sinh viên và bảng tin.\n- Vì vậy nữ sinh chỉ cần hướng dẫn cách sử dụng nhà ăn (食堂の使い方).",
+      "scriptJp": "<p><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> あ、<ruby>森<rt>もり</rt></ruby>さん。<ruby>来週<rt>らいしゅう</rt></ruby>からうちのゼミに<ruby>交換<rt>こうかん</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby>が<ruby>入<rt>はい</rt></ruby>るって<ruby>前<rt>まえ</rt></ruby>に<ruby>話<rt>はな</rt></ruby>したけど、<ruby>月曜<rt>げつよう</rt></ruby>の12<ruby>時<rt>じ</rt></ruby>にここに来ることになったよ。それで、<ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>案内<rt>あんない</rt></ruby>とかちょっと<ruby>手伝<rt>てつだ</rt></ruby>ってもらえない？<br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> はい。<br><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> <strong>まずは<ruby>食堂<rt>しょくどう</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>。<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>仕<rt>し</rt></ruby><ruby>方<rt>かた</rt></ruby>とか、<ruby>初<rt>はじ</rt></ruby>めての<ruby>人<rt>ひと</rt></ruby>にはわかりにくいだろうからね。<ruby>序<rt>つい</rt></ruby>でにお<ruby>昼<rt>ひる</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に。</strong><br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> はい、<ruby>誘<rt>さそ</rt></ruby>ってみます。<br><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> それと、<ruby>学生<rt>がくせい</rt></ruby><ruby>課<rt>か</rt></ruby><ruby>案内<rt>あんない</rt></ruby>して、<ruby>書類<rt>しょるい</rt></ruby>の<ruby>出<rt>だ</rt></ruby>し<ruby>方<rt>かた</rt></ruby>とか、<ruby>掲示<rt>けいじ</rt></ruby><ruby>板<rt>ばん</rt></ruby>に<ruby>貼<rt>は</rt></ruby>ってあるお<ruby>知<rt>し</rt></ruby>らせの<ruby>見<rt>み</rt></ruby><ruby>方<rt>かた</rt></ruby>とかいろいろ<ruby>教<rt>おし</rt></ruby>えてあげて。<ruby>図書館<rt>としょかん</rt></ruby>も、あ、あそこは<ruby>案内<rt>あんない</rt></ruby><ruby>係<rt>がかり</rt></ruby>がいるからいいね。じゃ、<ruby>食堂<rt>しょくどう</rt></ruby>と<ruby>学生<rt>がくせい</rt></ruby><ruby>課<rt>か</rt></ruby>、<ruby>頼<rt>たの</rt></ruby>んだよ。<br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> あの、<ruby>先生<rt>せんせい</rt></ruby>。<ruby>学生<rt>がくせい</rt></ruby><ruby>課<rt>か</rt></ruby>は12<ruby>時<rt>じ</rt></ruby>から1<ruby>時<rt>じ</rt></ruby>まで<ruby>昼休<rt>ひるやす</rt></ruby>みです。すみません、<ruby>私<rt>わたし</rt></ruby>1<ruby>時<rt>じ</rt></ruby>から<ruby>授業<rt>じゅぎょう</rt></ruby>がありまして、2<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby><ruby>過<rt>す</rt></ruby>ぎには<ruby>戻<rt>もど</rt></ruby>れますが。<br><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> <strong>そっか。じゃあ、<ruby>学生<rt>がくせい</rt></ruby><ruby>課<rt>か</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>は<ruby>掲示<rt>けいじ</rt></ruby><ruby>板<rt>ばん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にお<ruby>願<rt>ねが</rt></ruby>いするからいいよ。それじゃ、よろしくね。</strong><br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> はい。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>来<rt>く</rt></ruby>る<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えますか。</p>",
+      "scriptVi": "Thầy giáo: À, Mori này. Thầy từng nói tuần sau nhóm seminar của mình sẽ có sinh viên trao đổi, bạn ấy sẽ đến đây lúc 12 giờ trưa thứ Hai. Em có thể giúp thầy dẫn bạn ấy đi tham quan vào giờ nghỉ trưa được không?\nNữ sinh: Dạ vâng ạ.\nThầy giáo: Trước tiên là cách sử dụng nhà ăn nhé. Cách gọi món này nọ đối với người mới lần đầu chắc sẽ khó hiểu, tiện thể rủ bạn ấy ăn trưa cùng luôn.\nNữ sinh: Vâng, em sẽ rủ bạn ấy.\nThầy giáo: Với lại dẫn bạn ấy qua Phòng sinh viên, chỉ cho bạn ấy cách nộp giấy tờ và cách đọc thông báo dán trên bảng tin nhé. Còn thư viện thì ở đó có nhân viên hướng dẫn rồi nên thôi. Vậy thầy nhờ em phụ trách nhà ăn và Phòng sinh viên nhé.\nNữ sinh: Dạ thưa thầy, Phòng sinh viên nghỉ trưa từ 12 giờ đến 1 giờ. Mà 1 giờ em lại có tiết học, phải sau 2 giờ rưỡi em mới quay lại được ạ.\nThầy giáo: Thế à. Vậy thì Phòng sinh viên với bảng thông báo thầy sẽ nhờ bạn khác, em không cần lo phần đó nữa. Nhờ em phần nhà ăn nhé.\nNữ sinh: Vâng ạ.\nCâu hỏi: Nữ sinh sẽ hướng dẫn điều gì cho lưu học sinh đến vào tuần tới?"
+    },
+    {
+      "id": 10,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai2/10.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_traloi/bai2/2.jpg",
+      "question": "4番：<ruby>今日<rt>きょう</rt></ruby>オープンするレストランで、<ruby>女<rt>おんな</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>と<ruby>店長<rt>てんちょう</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>はこの<ruby>後<rt>あと</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。",
+      "questionVi": "Tại nhà hàng khai trương hôm nay, nữ nhân viên và quản lý nhà hàng đang nói chuyện. Nữ nhân viên sau đây phải làm việc gì?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "Hình 1 (Xếp ghế ra ngoài cho khách ngồi)",
+          "meaning": "Xếp ghế ra ngoài cho khách ngồi đợi.",
+          "analysis": "Sai: Nhân viên đã chủ động mang ghế ra ngoài cho khách ngồi từ trước đó rồi ('椅子はもうお出しして、座っていただいています')."
+        },
+        {
+          "option": "Hình 2 (Mang trà lạnh mời khách)",
+          "meaning": "Bê trà lạnh ra mời khách đang ngồi chờ bên ngoài.",
+          "analysis": "ĐÚNG: Cửa hàng trưởng dặn trời nóng nên hãy mang trà lạnh ra mời khách đang đợi ('今日暑いから、待ってる方に冷たいお茶をお出しして... さっき言ったこと、頼んだよ')."
+        },
+        {
+          "option": "Hình 3 (Gọi điện thoại đặt thêm rau)",
+          "meaning": "Gọi điện thoại đặt giao thêm rau.",
+          "analysis": "Sai: Cửa hàng trưởng bảo khi nào thấy sắp thiếu rau thì mới báo để gọi đặt sau ('足りなくなりそうだったら早めに言ってね')."
+        },
+        {
+          "option": "Hình 4 (Đi ngân hàng đổi tiền lẻ)",
+          "meaning": "Đi ngân hàng đổi tiền lẻ.",
+          "analysis": "Sai: Cửa hàng trưởng sẽ tự mình đi ngân hàng đổi tiền lẻ ('ちょっと銀行で両替してくる')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「店長：立ったまま待っていただくのは申し訳ないから、椅子を外に並べて。それから、今日暑いから、待ってる方に冷たいお茶をお出しして。店員：はい。あの、椅子はもうお出しして、座っていただいています。店長：そう、ありがとう。...じゃ、さっき言ったこと、頼んだよ。ちょっと銀行で両替してくる。」",
+      "explanation": "Đáp án đúng là Hình 2 (待ってる方に冷たいお茶をお出しする).\n- Khách đã đến xếp hàng trước giờ mở cửa. Cửa hàng trưởng bảo xếp ghế và mời trà lạnh.\n- Nhân viên báo ghế đã xếp ra ngoài cho khách ngồi rồi. Cửa hàng trưởng dặn tiếp: 'Vậy việc tôi vừa nói nhờ cô nhé' (tức là mang trà lạnh ra mời khách).\n- Đổi tiền lẻ thì cửa hàng trưởng tự đi ngân hàng.",
+      "scriptJp": "<p><strong><ruby>店員<rt>てんいん</rt></ruby>：</strong> <ruby>店長<rt>てんちょう</rt></ruby>、<ruby>開店<rt>かいてん</rt></ruby>まで1<ruby>時間<rt>じかん</rt></ruby>ありますが、もう<ruby>外<rt>そと</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っていらっしゃるお<ruby>客様<rt>きゃくさま</rt></ruby>がいます。<br><strong><ruby>店長<rt>てんちょう</rt></ruby>：</strong> もう？<ruby>立<rt>た</rt></ruby>ったまま<ruby>待<rt>ま</rt></ruby>っていただくのは<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ないから、<ruby>椅子<rt>いす</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べて。それから、<ruby>今日<rt>きょう</rt></ruby><ruby>暑<rt>あつ</rt></ruby>いから、<strong><ruby>待<rt>ま</rt></ruby>ってる<ruby>方<rt>かた</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>茶<rt>ちゃ</rt></ruby>をお<ruby>出<rt>だ</rt></ruby>しして。</strong><br><strong><ruby>店員<rt>てんいん</rt></ruby>：</strong> はい。あの、<ruby>椅子<rt>いす</rt></ruby>はもうお<ruby>出<rt>だ</rt></ruby>しして、<ruby>座<rt>すわ</rt></ruby>っていただいています。<br><strong><ruby>店長<rt>てんちょう</rt></ruby>：</strong> そう、ありがとう。<br><strong><ruby>店員<rt>てんいん</rt></ruby>：</strong> <ruby>女性<rt>じょせい</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いみたいです。<br><strong><ruby>店長<rt>てんちょう</rt></ruby>：</strong> じゃあ、サラダの<ruby>注文<rt>ちゅうもん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いかもしれないね。<ruby>野菜<rt>やさい</rt></ruby>、<ruby>多<rt>おお</rt></ruby>めに<ruby>準備<rt>じゅんび</rt></ruby>したんだけど、<ruby>足<rt>た</rt></ruby>りなくなりそうだったら<ruby>早<rt>はや</rt></ruby>めに<ruby>言<rt>い</rt></ruby>ってね。<ruby>電話<rt>でんわ</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby>して<ruby>届<rt>とど</rt></ruby>けてもらうから。<br><strong><ruby>店員<rt>てんいん</rt></ruby>：</strong> わかりました。<br><strong><ruby>店長<rt>てんちょう</rt></ruby>：</strong> <strong>じゃ、さっき<ruby>言<rt>い</rt></ruby>ったこと、<ruby>頼<rt>たの</rt></ruby>んだよ。ちょっと<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>両替<rt>りょうがえ</rt></ruby>してくる。</strong>お<ruby>釣<rt>つ</rt></ruby>り<ruby>用<rt>よう</rt></ruby>の<ruby>小銭<rt>こぜに</rt></ruby>、<ruby>多<rt>おお</rt></ruby>めにご<ruby>用意<rt>ようい</rt></ruby>しといた<ruby>方<rt>ほう</rt></ruby>がよさそうだからね。<br><strong><ruby>店員<rt>てんいん</rt></ruby>：</strong> はい。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>はこの<ruby>後<rt>あと</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。</p>",
+      "scriptVi": "Nhân viên: Cửa hàng trưởng, còn 1 tiếng nữa mới mở cửa nhưng ngoài cửa đã có khách đứng đợi rồi ạ.\nCửa hàng trưởng: Đã có rồi à? Để khách đứng đợi thì áy náy quá, cô đem ghế ra ngoài xếp đi. Với lại hôm nay trời nóng, cô mang trà lạnh ra mời những khách đang đợi nhé.\nNhân viên: Vâng ạ. À, ghế thì em đã mang ra xếp cho khách ngồi rồi ạ.\nCửa hàng trưởng: Thế à, cảm ơn cô nhé.\nNhân viên: Có vẻ có nhiều khách nữ ạ.\nCửa hàng trưởng: Vậy chắc sẽ có nhiều khách gọi món salad. Rau thì tôi đã chuẩn bị nhiều hơn rồi, nhưng nếu thấy sắp thiếu thì nhớ báo sớm nhé, tôi sẽ gọi điện đặt giao thêm.\nNhân viên: Vâng, em hiểu rồi ạ.\nCửa hàng trưởng: Vậy việc ban nãy tôi dặn nhờ cô nhé. Tôi đi ngân hàng đổi ít tiền lẻ đây, nên chuẩn bị sẵn nhiều tiền xu lẻ để thối cho khách.\nNhân viên: Vâng ạ.\nCâu hỏi: Nữ nhân viên sau đây phải làm việc gì?"
+    },
+    {
+      "id": 11,
+      "subId": "5番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai2/11.mp3",
+      "question": "5番：<ruby>学校<rt>がっこう</rt></ruby>のダンス<ruby>部<rt>ぶ</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はまず、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。",
+      "questionVi": "Tại câu lạc bộ khiêu vũ của trường, một nam sinh và nữ tiền bối đang nói chuyện. Nam sinh trước tiên phải làm việc gì?",
+      "options": [
+        "いんさつした<ruby>紙<rt>かみ</rt></ruby>をとりに行く",
+        "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>外<rt>そと</rt></ruby>でパンフレットをくばる",
+        "<ruby>紙<rt>かみ</rt></ruby>をホチキスでとめる",
+        "ゆかをかたづける"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "いんさつした紙をとりに行く",
+          "meaning": "Đi sang phòng photocopy lấy số giấy đã in xong.",
+          "analysis": "ĐÚNG: Tiền bối nhờ nam sinh trước tiên sang phòng in lấy phần tài liệu đã in xong mang về ('その前に、残りの印刷ができてるはずだから、コピー室行って取ってきてくれない？')."
+        },
+        {
+          "option": "学校の外でパンフレットをくばる",
+          "meaning": "Ra ngoài cổng trường phát tờ rơi.",
+          "analysis": "Sai: Sau khi in và dập ghim xong toàn bộ tờ rơi thì mới cùng nhau ra ngoài phát ('全部終わったら、外に出て配ろう')."
+        },
+        {
+          "option": "紙をホチキスでとめる",
+          "meaning": "Dập ghim từng tập giấy tờ rơi.",
+          "analysis": "Sai: Việc dập ghim làm sau khi đi lấy giấy in về ('戻ったらホチキスで留めるの、手伝って')."
+        },
+        {
+          "option": "ゆかをかたづける",
+          "meaning": "Dọn dẹp giấy rơi trên sàn nhà.",
+          "analysis": "Sai: Nữ tiền bối làm rơi chồng giấy xuống sàn nên chị ấy sẽ tự ở lại dọn ('私、片付けないといけないから')."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「男：じゃあ、みんなと一緒にホチキス留めしますね。先輩：うん。あ、その前に、残りの印刷ができてるはずだから、コピー室行って取ってきてくれない？今行こうとしてたんだけど、そこの机に重ねといた紙の山、床に落としちゃって。私、片付けないといけないから、お願い。で、戻ったらホチキスで留めるの、手伝って。男：わかりました。」",
+      "explanation": "Đáp án đúng là 1 (いんさつした紙をとりに行く).\n- Nam sinh đến muộn định vào dập ghim giấy cùng mọi người ngay.\n- Tiền bối bảo: 'Trước đó, chắc phần in còn lại đã xong rồi, em sang phòng in lấy về giúp chị nhé' (その前に... コピー室行って取ってきてくれない？).\n- Tiền bối bị làm rơi chồng giấy xuống sàn nên phải ở lại dọn.\n- Vì vậy việc đầu tiên nam sinh phải làm là đi lấy giấy in ở phòng copy.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>遅<rt>おく</rt></ruby>くなってすみません。<ruby>今日<rt>きょう</rt></ruby>は<ruby>発表<rt>はっぴょう</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>のパンフレットを<ruby>印刷<rt>いんさつ</rt></ruby>して、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>外<rt>そと</rt></ruby>で<ruby>配<rt>くば</rt></ruby>るんですよね。<br><strong><ruby>先輩<rt>せんぱい</rt></ruby>：</strong> うん。もうみんな<ruby>集<rt>あつ</rt></ruby>まって<ruby>始<rt>はじ</rt></ruby>めてるから、すぐ<ruby>手伝<rt>てつだ</rt></ruby>って。えっとね、<ruby>印刷<rt>いんさつ</rt></ruby>は3<ruby>分<rt>ぶん</rt></ruby>の2くらい<ruby>終<rt>お</rt></ruby>わって、<ruby>今<rt>いま</rt></ruby>みんなで1<ruby>部<rt>ぶ</rt></ruby>ずつホチキスで<ruby>留<rt>と</rt></ruby>めてるところ。<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わったら、<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>て<ruby>配<rt>くば</rt></ruby>ろう。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> じゃあ、みんなと<ruby>一緒<rt>いっしょ</rt></ruby>にホチキス<ruby>留<rt>ど</rt></ruby>めしますね。<br><strong><ruby>先輩<rt>せんぱい</rt></ruby>：</strong> うん。<strong>あ、その<ruby>前<rt>まえ</rt></ruby>に、<ruby>残<rt>のこ</rt></ruby>りの<ruby>印刷<rt>いんさつ</rt></ruby>ができてるはずだから、コピー<ruby>室<rt>しつ</rt></ruby><ruby>行<rt>い</rt></ruby>って<ruby>取<rt>と</rt></ruby>ってきてくれない？</strong><ruby>今<rt>いま</rt></ruby><ruby>行<rt>い</rt></ruby>こうとしてたんだけど、そこの<ruby>机<rt>つくえ</rt></ruby>に<ruby>重<rt>かさ</rt></ruby>ねといた<ruby>紙<rt>かみ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>、<ruby>床<rt>ゆか</rt></ruby>に<ruby>落<rt>お</rt></ruby>としちゃって。<ruby>私<rt>わたし</rt></ruby>、<ruby>片付<rt>かたづ</rt></ruby>けないといけないから、お<ruby>願<rt>ねが</rt></ruby>い。で、<ruby>戻<rt>もど</rt></ruby>ったらホチキスで<ruby>留<rt>と</rt></ruby>めるの、<ruby>手伝<rt>てつだ</rt></ruby>って。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> わかりました。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はまず、<ruby>何<rt>なに</rt></ruby>をしなければなりませんか。</p>",
+      "scriptVi": "Nam sinh: Em xin lỗi vì đến muộn ạ. Hôm nay mình in tờ rơi giới thiệu buổi biểu diễn rồi ra ngoài trường phát phải không chị?\nTiền bối: Ừ. Mọi người tập trung làm từ nãy rồi, em vào phụ ngay nhé. In ấn thì xong khoảng 2/3 rồi, mọi người đang dập ghim từng bản một. Khi nào xong hết thì cùng ra ngoài phát.\nNam sinh: Dạ vậy em dập ghim cùng mọi người luôn nhé.\nTiền bối: Ừ. À nhưng trước đó, phần in còn lại chắc xong rồi đấy, em sang phòng photocopy lấy về giúp chị được không? Chị định đi lấy nhưng lại lỡ tay làm rơi chồng giấy xếp trên bàn xuống sàn. Chị phải dọn dẹp đã nên nhờ em nhé. Lấy về rồi thì phụ dập ghim sau.\nNam sinh: Vâng ạ.\nCâu hỏi: Nam sinh trước tiên phải làm việc gì?"
+    },
+    {
+      "id": 12,
+      "subId": "6番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai2/12.mp3",
+      "question": "6番：<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>先生<rt>せんせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>学生<rt>がくせい</rt></ruby>はこの<ruby>後<rt>あと</rt></ruby>、まず<ruby>何<rt>なに</rt></ruby>をしますか。",
+      "questionVi": "Trong giờ học tiếng Nhật, giáo viên đang nói chuyện. Học sinh sau đây trước tiên sẽ làm việc gì?",
+      "options": [
+        "<ruby>寺<rt>てら</rt></ruby>についてのビデオを<ruby>見<rt>み</rt></ruby>る",
+        "<ruby>寺<rt>てら</rt></ruby>についていろいろ<ruby>調<rt>しら</rt></ruby>べる",
+        "<ruby>寺<rt>てら</rt></ruby>について<ruby>知<rt>し</rt></ruby>っていることを<ruby>書<rt>か</rt></ruby>く",
+        "<ruby>寺<rt>てら</rt></ruby>についてとなりの<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "寺についてのビデオを見る",
+          "meaning": "Xem video giới thiệu về các ngôi chùa.",
+          "analysis": "Sai: Việc xem video thực hiện sau khi đã viết ghi chú xong ('ビデオを見る前にお寺について知っていることを... 続いてビデオを見て')."
+        },
+        {
+          "option": "寺についていろいろ調べる",
+          "meaning": "Tìm hiểu nhiều điều về chùa.",
+          "analysis": "Sai: Đây là việc giáo viên nhắc đến như kinh nghiệm trước đây của một số bạn chứ không phải nhiệm vụ trong lớp."
+        },
+        {
+          "option": "寺について知っていることを書く",
+          "meaning": "Viết ghi chú ra giấy những điều mình đã biết về chùa.",
+          "analysis": "ĐÚNG: Giáo viên phát giấy và yêu cầu trước khi xem video hãy ghi chú lại những gì mình biết về chùa trong khoảng 5 phút ('これから紙を配りますから、ビデオを見る前にお寺について知っていることを5分くらいでメモしてください')."
+        },
+        {
+          "option": "寺についてとなりの人と話し合う",
+          "meaning": "Thảo luận với bạn ngồi bên cạnh về chùa.",
+          "analysis": "Sai: Việc thảo luận cặp đôi diễn ra sau khi đã xem xong video ('その後で... 隣の人と話し合いましょう')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「先生：これから紙を配りますから、ビデオを見る前にお寺について知っていることを5分くらいでメモしてください。続いてビデオを見て、その後で最初にメモしたこと、ビデオを見て新しく発見したことについて、隣の人と話し合いましょう。」",
+      "explanation": "Đáp án đúng là 3 (寺について知っていることを書く).\n- Giáo viên phổ biến trình tự tiết học:\n  1. Phát giấy để học sinh ghi chú những điều đã biết về chùa trong 5 phút (trước khi xem video).\n  2. Xem video giới thiệu về chùa.\n  3. Thảo luận với bạn bên cạnh về những điều đã ghi chú và những phát hiện mới sau khi xem video.\n- Vì vậy việc đầu tiên học sinh làm là ghi ra giấy những điều mình đã biết về chùa.",
+      "scriptJp": "<p><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> えー、<ruby>今日<rt>きょう</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するビデオを<ruby>見<rt>み</rt></ruby>ます。<ruby>日本<rt>にほん</rt></ruby>はお<ruby>寺<rt>てら</rt></ruby>がたくさんあるので、いろいろ<ruby>調<rt>しら</rt></ruby>べたり、<ruby>行<rt>い</rt></ruby>ってみたりした<ruby>人<rt>ひと</rt></ruby>もいると<ruby>思<rt>おも</rt></ruby>います。<strong>これから<ruby>紙<rt>かみ</rt></ruby>を<ruby>配<rt>くば</rt></ruby>りますから、ビデオを<ruby>見<rt>み</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にお<ruby>寺<rt>てら</rt></ruby>について<ruby>知<rt>し</rt></ruby>っていることを5<ruby>分<rt>ふん</rt></ruby>くらいでメモしてください。</strong><ruby>続<rt>つづ</rt></ruby>いてビデオを<ruby>見<rt>み</rt></ruby>て、その<ruby>後<rt>あと</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>にメモしたこと、ビデオを<ruby>見<rt>み</rt></ruby>て<ruby>新<rt>あたら</rt></ruby>しく<ruby>発見<rt>はっけん</rt></ruby>したことについて、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いましょう。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>学生<rt>がくせい</rt></ruby>はこの<ruby>後<rt>あと</rt></ruby>、まず<ruby>何<rt>なに</rt></ruby>をしますか。</p>",
+      "scriptVi": "Giáo viên: Nào, hôm nay chúng ta sẽ xem một đoạn video giới thiệu về các ngôi chùa ở Nhật Bản. Ở Nhật có rất nhiều chùa nên chắc cũng có bạn đã tìm hiểu hoặc đã từng đi thăm rồi. Bây giờ thầy sẽ phát giấy, trước khi xem video các em hãy ghi chú lại những điều mình biết về chùa trong khoảng 5 phút nhé. Tiếp theo chúng ta sẽ xem video, sau đó các em hãy thảo luận với bạn ngồi bên cạnh về những điều mình đã ghi chú ban đầu cùng những điều mới phát hiện ra sau khi xem video nhé.\nCâu hỏi: Học sinh sau đây trước tiên sẽ làm việc gì?"
+    }
+  ]
+}

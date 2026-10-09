@@ -1,0 +1,62 @@
+{
+  "id": "dokkai-n3-doanvan-04",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 4,
+  "title": "新入社員の採用試験 (Bài thi tuyển dụng nhân viên mới)",
+  "timeLimit": 180,
+  "passage": "<p><ruby>最近<rt>さいきん</rt></ruby>、テレビで、<ruby>面白<rt>おもしろ</rt></ruby>いやり<ruby>方<rt>かた</rt></ruby>で<ruby>新入<rt>しんにゅう</rt></ruby><ruby>社員<rt>しゃいん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>紹介<rt>しょうかい</rt></ruby>されていた。その<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>手術用<rt>しゅじゅつよう</rt></ruby><ruby>機械<rt>きかい</rt></ruby>の<ruby>細<rt>こま</rt></ruby>かい<ruby>部品<rt>ぶひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っているのだが、<ruby>入社<rt>にゅうしゃ</rt></ruby><ruby>試験<rt>しけん</rt></ruby>のときに<ruby>焼<rt>や</rt></ruby>き<ruby>魚<rt>ざかな</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べさせるそうだ。<ruby>社長<rt>しゃちょう</rt></ruby>によると、はしを<ruby>上手<rt>じょうず</rt></ruby>に<ruby>使<rt>つか</rt></ruby>って、<ruby>小<rt>ちい</rt></ruby>さい<ruby>骨<rt>ほね</rt></ruby>をきれいに<ruby>取<rt>と</rt></ruby>りながら<ruby>魚<rt>さかな</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられる<ruby>人<rt>ひと</rt></ruby>には、<ruby>細<rt>こま</rt></ruby>かい<ruby>物<rt>もの</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>もきちんとできる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いのだそうだ。わたしは、チェックポイントは<ruby>食事<rt>しょくじ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のマナーや<ruby>話<rt>はなし</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>などだろうと<ruby>思<rt>おも</rt></ruby>って<ruby>見<rt>み</rt></ruby>ていたので、<ruby>意外<rt>いがい</rt></ruby>だったが、なるほどと<ruby>思<rt>おも</rt></ruby>った。</p>",
+  "fullTranslation": "Gần đây, trên tivi có giới thiệu về một công ty có cách tuyển chọn nhân viên mới rất thú vị. Công ty đó chuyên sản xuất các linh kiện nhỏ cho máy móc phẫu thuật, nhưng nghe nói trong kỳ thi tuyển dụng, họ lại cho các ứng viên ăn một suất cơm cá nướng. Theo lời vị giám đốc, những người biết dùng đũa khéo léo, vừa gỡ sạch những chiếc xương nhỏ vừa ăn cá thì thường có nhiều người làm tốt cả công việc chế tạo các chi tiết nhỏ tinh xảo. Tôi cứ ngỡ điểm cần kiểm tra sẽ là quy tắc ứng xử (manner) trong bữa ăn hay nội dung trò chuyện, nên thấy thật bất ngờ, nhưng ngẫm lại thì thấy quả đúng là như vậy.",
+  "vocabulary": [
+    { "word": "新入社員", "hiragana": "しんにゅうしゃいん", "meaning": "Nhân viên mới vào công ty" },
+    { "word": "手術用機械", "hiragana": "しゅじゅつようきかい", "meaning": "Máy móc dùng trong phẫu thuật" },
+    { "word": "細かい部品", "hiragana": "こまかいぶひん", "meaning": "Linh kiện nhỏ / Chi tiết tinh xảo" },
+    { "word": "焼き魚定食", "hiragana": "やきざかなていしょく", "meaning": "Suất cơm phần cá nướng" },
+    { "word": "骨を取る", "hiragana": "ほねをとる", "meaning": "Gỡ xương (cá)" },
+    { "word": "意外", "hiragana": "いがい", "meaning": "Bất ngờ / Ngoài dự tính" },
+    { "word": "なるほど", "hiragana": "なるほど", "meaning": "Hóa ra là vậy / Đúng là như thế" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜によると〜そうだ", "meaning": "Theo nguồn tin... nghe nói là... (truyền văn)" },
+    { "pattern": "V-させる", "meaning": "Thể sai khiến (cho phép làm / bắt làm)" },
+    { "pattern": "〜ながら", "meaning": "Vừa... vừa... (hai hành động đồng thời)" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：焼き魚定食を食べさせるのはどうしてか。",
+      "options": [
+        "手術用の機械が好きな人を選びたいから。",
+        "細かい物がうまく作れる人を選びたいから。",
+        "マナーが身についている人を選びたいから。",
+        "上手に話ができる面白い人を選びたいから。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "手術用の機械が好きな人を選びたいから。",
+          "meaning": "Vì muốn chọn những người yêu thích máy phẫu thuật.",
+          "analysis": "Sai: Việc ăn cá nướng không nhằm mục đích kiểm tra sở thích về máy móc."
+        },
+        {
+          "option": "細かい物がうまく作れる人を選びたいから。",
+          "meaning": "Vì muốn chọn những người có khả năng chế tạo khéo léo các chi tiết nhỏ tinh xảo.",
+          "analysis": "ĐÚNG: Khớp chính xác với giải thích của giám đốc: 'はしを上手に使って、小さい骨をきれいに取りながら魚が食べられる人には、細かい物を作る仕事もきちんとできる人が多い' (người dùng đũa khéo gỡ xương cá thường làm tốt công việc gia công đồ tỉ mỉ)."
+        },
+        {
+          "option": "マナーが身についている人を選びたいから。",
+          "meaning": "Vì muốn chọn những người nắm vững quy tắc ứng xử/manner trong bữa ăn.",
+          "analysis": "Sai: Đây chỉ là suy đoán ban đầu của tác giả ('食事中のマナー...だろうと思って見ていたので、意外だった'), không phải mục đích thực sự của công ty."
+        },
+        {
+          "option": "上手に話ができる面白い人を選びたいから。",
+          "meaning": "Vì muốn chọn những người nói chuyện hay và thú vị.",
+          "analysis": "Sai: Bài đọc không nhắc tới tiêu chí này."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「その会社は、手術用機械の細かい部品を作っているのだが... はしを上手に使って、小さい骨をきれいに取りながら魚が食べられる人には、細かい物を作る仕事もきちんとできる人が多いのだそうだ。」",
+      "explanation": "Đáp án 2 đúng. Công ty cho ứng viên ăn cơm cá nướng để quan sát sự khéo léo của đôi tay khi dùng đũa gỡ xương cá nhỏ, từ đó tuyển chọn những người có khả năng làm tốt công việc sản xuất các linh kiện máy phẫu thuật đòi hỏi độ tỉ mỉ, chính xác cao."
+    }
+  ]
+}

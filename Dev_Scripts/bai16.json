@@ -1,0 +1,864 @@
+﻿{
+    "name":  "Bài 16",
+    "x":  480,
+    "y":  350,
+    "comparison":  "\u003ctable class=\u0027grammar-comparison-table\u0027 style=\u0027width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00273\u0027 style=\u0027border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003eBảng Phân Biệt Các Mẫu Trợ Từ Chỉ Đối Tượng \u0026 Vai Trò (Bài 16)\u003c/th\u003e\u003c/tr\u003e\u003ctr style=\u0027background:#f0eae1;font-weight:bold;\u0027\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;\u0027\u003eCấu trúc\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:30%;color:#b30000;\u0027\u003eBản chất \u0026 Sắc thái\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;\u0027\u003eÝ nghĩa \u0026 Ví dụ tiêu biểu\u003c/td\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#ff4d4f;text-align:center;\u0027\u003e〜に対して\u003cbr\u003e〜に対するN\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;color:#d97706;\u0027\u003eHướng thái độ / hành động tới đối tượng\u003cbr\u003e\u003cspan style=\u0027color:#b30000;font-size:0.92rem;display:inline-block;margin-top:0.3rem;\u0027\u003e• \u003cb\u003eKhông dựa trên lập trường\u003c/b\u003e của danh từ\u003c/span\u003e\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003eĐối với... (vế sau là hành vi, thái độ: trách nhiệm, lễ phép, phản đối).\u003cbr\u003e\u003cem\u003eVD: 先生に対して礼儀正しくする。(Lễ phép đối với giáo viên)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;\u0027\u003e〜によって\u003cbr\u003e〜によるN\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;color:#2563eb;\u0027\u003eTác nhân tạo ra / Nguyên nhân / Phương thức\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003eBởi... (đi với bị động phát minh, sáng chế) / Do / Bằng cách.\u003cbr\u003e\u003cem\u003eVD: 電話はベルによって発明された。(Điện thoại được phát minh bởi Bell)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#16a34a;text-align:center;\u0027\u003e〜にとって\u003cbr\u003e〜にとってのN\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;color:#16a34a;\u0027\u003eLập trường / Quan điểm đánh giá\u003cbr\u003e\u003cspan style=\u0027color:#15803d;font-size:0.92rem;display:inline-block;margin-top:0.3rem;\u0027\u003e• \u003cb\u003eDựa trên lập trường\u003c/b\u003e của danh từ\u003c/span\u003e\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003eĐối với... (đứng từ góc nhìn để phán đoán, vế sau là tính từ: quan trọng, khó, cần thiết).\u003cbr\u003e\u003cem\u003eVD: 私にとって家族が一番大切だ。(Đối với tôi gia đình là quan trọng nhất)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:1rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#7c3aed;text-align:center;\u0027\u003e〜として\u003cbr\u003e〜としてのN\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;color:#7c3aed;\u0027\u003eTư cách / Danh nghĩa / Vai trò\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003eVới tư cách là / Dưới danh nghĩa là...\u003cbr\u003e\u003cem\u003eVD: 留学生として日本に来ました。(Đến Nhật với tư cách du học sinh)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003cdiv style=\u0027margin-top:1.2rem;background:linear-gradient(135deg,#fbf7ee,#f4ecdb);border:2px solid #38a169;border-radius:12px;padding:1.2rem;box-shadow:0 4px 12px rgba(0,0,0,0.15);color:#222;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cdiv style=\u0027background:#fff4e6;border:2px solid #e28743;border-radius:8px;padding:0.6rem;text-align:center;font-size:1.35rem;font-weight:800;color:#d9381e;margin-bottom:1rem;\u0027\u003e⭐ TRỌNG TÂM PHÂN BIỆT: 「Đối với」 (に対して vs にとって)\u003c/div\u003e\u003cdiv style=\u0027display:flex;gap:1rem;justify-content:space-between;flex-wrap:wrap;\u0027\u003e\u003cdiv style=\u0027flex:1;min-width:240px;background:#fff;border:2px solid #4a90e2;border-radius:10px;padding:1rem;box-shadow:0 2px 6px rgba(0,0,0,0.08);text-align:center;\u0027\u003e\u003cdiv style=\u0027background:#e8f1fc;border:1px solid #4a90e2;border-radius:6px;padding:0.5rem;font-size:1.15rem;font-weight:800;color:#1e40af;margin-bottom:0.75rem;\u0027\u003eDanh từ ＋ に対して\u003c/div\u003e\u003cdiv style=\u0027background:#e6fffa;border:1px solid #319795;border-radius:6px;padding:0.75rem;font-weight:700;color:#0d5e56;font-size:1rem;line-height:1.5;\u0027\u003e❌ \u003cb\u003eKhông dựa trên lập trường\u003c/b\u003e của danh từ\u003cbr\u003e\u003cspan style=\u0027font-weight:normal;font-size:0.9rem;color:#444;\u0027\u003e(Chỉ hành động, thái độ, cảm xúc hướng trực tiếp tới đối tượng)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027flex:1;min-width:240px;background:#fff;border:2px solid #38a169;border-radius:10px;padding:1rem;box-shadow:0 2px 6px rgba(0,0,0,0.08);text-align:center;\u0027\u003e\u003cdiv style=\u0027background:#e6f4ea;border:1px solid #38a169;border-radius:6px;padding:0.5rem;font-size:1.15rem;font-weight:800;color:#15803d;margin-bottom:0.75rem;\u0027\u003eDanh từ ＋ にとって\u003c/div\u003e\u003cdiv style=\u0027background:#f0fff4;border:1px solid #38a169;border-radius:6px;padding:0.75rem;font-weight:700;color:#166534;font-size:1rem;line-height:1.5;\u0027\u003e✅ \u003cb\u003eDựa trên lập trường\u003c/b\u003e của danh từ\u003cbr\u003e\u003cspan style=\u0027font-weight:normal;font-size:0.9rem;color:#444;\u0027\u003e(Đứng từ góc nhìn, suy nghĩ của danh từ đó để đánh giá, phán đoán)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+    "items":  [
+                  {
+                      "structure":  "〜に対して / 〜に対する",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd rowspan=\u00273\u0027 style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.5rem;font-size:1.4rem;color:#ffd700;font-weight:800;text-align:center;vertical-align:middle;width:28%;\u0027\u003eN\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.2rem;\u0027\u003eに対して\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eĐối với N... (hướng thái độ, hành động tới đối tượng)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.06);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eに対しては / にも\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eNhấn mạnh đối tượng được hướng tới\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.04);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eに対する ＋ N2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eBổ nghĩa cho danh từ N2 đứng sau\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1rem;color:#ffd700;font-weight:700;text-align:center;\u0027\u003eVTTT ＋ の\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.02);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eに対して\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eĐối với việc làm V...\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Đối với...",
+                      "usage":  "• \u003cb\u003eN + に対して\u003c/b\u003e: Biểu thị thái độ, hành động hướng trực tiếp tới một đối tượng cụ thể (người, vấn đề).\u003cbr\u003e• \u003cb\u003eN + に対する + N2\u003c/b\u003e: Dùng khi bổ nghĩa cho danh từ N2 đứng sau.\u003cbr\u003e• \u003cb\u003eVTTT + の + に対して\u003c/b\u003e: Dùng khi đi với mệnh đề động từ hóa.\u003cbr\u003e• \u003ci\u003eLưu ý quan trọng:\u003c/i\u003e \u003cb\u003eKhông dựa trên lập trường\u003c/b\u003e của danh từ mà là hành động/thái độ hướng tới danh từ đó.",
+                      "explanation":  "Dùng để biểu thị thái độ, hành vi, phản ứng hoặc sự hướng tới một đối tượng cụ thể. Vế sau thường là từ chỉ thái độ, hành vi (như chịu trách nhiệm, lịch sự, phê phán, đối xử, phản đối...).",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eったことに対して、ちゃんと\u003cruby\u003e責任\u003crt\u003eせきにん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eちなさいよ。",
+                                           "vi":  "Đối với những lời mình đã nói ra, hãy có trách nhiệm đàng hoàng đi chứ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_64.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e学生\u003crt\u003eがくせい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e授業\u003crt\u003eじゅぎょう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e対\u003crt\u003eたい\u003c/rt\u003e\u003c/ruby\u003eする\u003cruby\u003e態度\u003crt\u003eたいど\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e消極\u003crt\u003eしょうきょく\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e的\u003crt\u003eてき\u003c/rt\u003e\u003c/ruby\u003eなので、\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e困\u003crt\u003eこま\u003c/rt\u003e\u003c/ruby\u003eっている。",
+                                           "vi":  "Vì học sinh có thái độ tiêu cực đối với giờ học nên giáo viên đang gặp khó khăn.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_64.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e告白\u003crt\u003eこくはく\u003c/rt\u003e\u003c/ruby\u003eするのに対して\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eわなかった。",
+                                           "vi":  "Cô ấy không nói gì đối với lời tỏ tình của tôi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_64.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e目上\u003crt\u003eめうえ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eに対しては、\u003cruby\u003e敬語\u003crt\u003eけいご\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e使\u003crt\u003eつか\u003c/rt\u003e\u003c/ruby\u003eわなければならない。",
+                                           "vi":  "Đối với người bề trên, chúng ta bắt buộc phải sử dụng kính ngữ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_64.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e政府\u003crt\u003eせいふ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e新\u003crt\u003eあたら\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e方針\u003crt\u003eほうしん\u003c/rt\u003e\u003c/ruby\u003eに対して、\u003cruby\u003e多\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eくの\u003cruby\u003e反対\u003crt\u003eはんたい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e意見\u003crt\u003eいけん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e出\u003crt\u003eだ\u003c/rt\u003e\u003c/ruby\u003eされた。",
+                                           "vi":  "Đối với phương châm mới của chính phủ, nhiều ý kiến phản đối đã được đưa ra.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_64.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e質問\u003crt\u003eしつもん\u003c/rt\u003e\u003c/ruby\u003e（　　）、\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e答\u003crt\u003eこた\u003c/rt\u003e\u003c/ruby\u003eえられなかった。",
+                                                              "options":  [
+                                                                              "に対して",
+                                                                              "によって",
+                                                                              "にとって",
+                                                                              "として"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e客\u003crt\u003eきゃく\u003c/rt\u003e\u003c/ruby\u003e（　　）する\u003cruby\u003e態度\u003crt\u003eたいど\u003c/rt\u003e\u003c/ruby\u003eがとても\u003cruby\u003e丁寧\u003crt\u003eていねい\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                              "options":  [
+                                                                              "に対",
+                                                                              "にとっ",
+                                                                              "によっ",
+                                                                              "とし"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e親\u003crt\u003eおや\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e反対\u003crt\u003eはんたい\u003c/rt\u003e\u003c/ruby\u003e（　　）は、\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eえなかった。",
+                                                              "options":  [
+                                                                              "に対して",
+                                                                              "にとって",
+                                                                              "によって",
+                                                                              "として"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e環境\u003crt\u003eかんきょう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e問題\u003crt\u003eもんだい\u003c/rt\u003e\u003c/ruby\u003e（　　）する\u003cruby\u003e関心\u003crt\u003eかんしん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e高\u003crt\u003eたか\u003c/rt\u003e\u003c/ruby\u003eまっている。",
+                                                              "options":  [
+                                                                              "に対",
+                                                                              "によっ",
+                                                                              "にとっ",
+                                                                              "とし"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e無礼\u003crt\u003eぶれい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e発言\u003crt\u003eはつげん\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e怒\u003crt\u003eいか\u003c/rt\u003e\u003c/ruby\u003eりを\u003cruby\u003e感\u003crt\u003eかん\u003c/rt\u003e\u003c/ruby\u003eじた。",
+                                                              "options":  [
+                                                                              "に対して",
+                                                                              "によって",
+                                                                              "として",
+                                                                              "にとって"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003eお客様\u003crt\u003eおきゃくさま\u003c/rt\u003e\u003c/ruby\u003eに対して（　　）な\u003cruby\u003e言葉遣\u003crt\u003eことばづか\u003c/rt\u003e\u003c/ruby\u003eいを心がけましょう。",
+                                                          "options":  [
+                                                                          "丁寧",
+                                                                          "乱暴",
+                                                                          "失礼",
+                                                                          "適当"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eの（　　）に対して\u003cruby\u003e責任\u003crt\u003eせきにん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eつべきだ。",
+                                                          "options":  [
+                                                                          "行動",
+                                                                          "天気",
+                                                                          "季節",
+                                                                          "時刻"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e新\u003crt\u003eあたら\u003c/rt\u003e\u003c/ruby\u003eしい（　　）に対して\u003cruby\u003e住民\u003crt\u003eじゅうみん\u003c/rt\u003e\u003c/ruby\u003eから\u003cruby\u003e反対\u003crt\u003eはんたい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e意見\u003crt\u003eいけん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eた。",
+                                                          "options":  [
+                                                                          "計画",
+                                                                          "空気",
+                                                                          "太陽",
+                                                                          "過去"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e相手\u003crt\u003eあite\u003c/rt\u003e\u003c/ruby\u003eの（　　）に対して\u003cruby\u003e感謝\u003crt\u003eかんしゃ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e気持\u003crt\u003eきも\u003c/rt\u003e\u003c/ruby\u003eちを\u003cruby\u003e伝\u003crt\u003eつた\u003c/rt\u003e\u003c/ruby\u003eえた。",
+                                                          "options":  [
+                                                                          "親切",
+                                                                          "迷惑",
+                                                                          "悪意",
+                                                                          "邪魔"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eに対する（　　）が\u003cruby\u003e評価\u003crt\u003eひょうか\u003c/rt\u003e\u003c/ruby\u003eされて\u003cruby\u003e昇進\u003crt\u003eしょうしん\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                          "options":  [
+                                                                          "熱意",
+                                                                          "居眠り",
+                                                                          "遅刻",
+                                                                          "欠席"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e女性\u003crt\u003eじょせい\u003c/rt\u003e\u003c/ruby\u003e＿＿＿して、とてもレディーファーストな\u003cruby\u003e態度\u003crt\u003eたいど\u003c/rt\u003e\u003c/ruby\u003eをとる。",
+                                                                "options":  [
+                                                                                "に対",
+                                                                                "にとっ",
+                                                                                "によっ",
+                                                                                "とし"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e若者\u003crt\u003eわかもの\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e政治\u003crt\u003eせいじ\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿する\u003cruby\u003e関心\u003crt\u003eかんしん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e薄\u003crt\u003eうす\u003c/rt\u003e\u003c/ruby\u003eれている。",
+                                                                "options":  [
+                                                                                "対",
+                                                                                "とっ",
+                                                                                "よっ",
+                                                                                "し"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e反対\u003crt\u003eはんたい\u003c/rt\u003e\u003c/ruby\u003e＿＿＿に対して、しっかり\u003cruby\u003e説明\u003crt\u003eせつめい\u003c/rt\u003e\u003c/ruby\u003eする\u003cruby\u003e義務\u003crt\u003eぎむ\u003c/rt\u003e\u003c/ruby\u003eがある。",
+                                                                "options":  [
+                                                                                "意見",
+                                                                                "意見の",
+                                                                                "意見に",
+                                                                                "意見で"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿のに対して、\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eわなかった。",
+                                                                "options":  [
+                                                                                "泣いた",
+                                                                                "泣き",
+                                                                                "泣くの",
+                                                                                "泣いて"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e厳しい\u003crt\u003eきびしい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e批判\u003crt\u003eひはん\u003c/rt\u003e\u003c/ruby\u003e＿＿＿して、\u003cruby\u003e冷静\u003crt\u003eれいせい\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e対応\u003crt\u003eたいおう\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                                "options":  [
+                                                                                "に対",
+                                                                                "にとっ",
+                                                                                "によっ",
+                                                                                "とし"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Chúng ta phải luôn giữ thái độ lịch sự đối với khách hàng.",
+                                                                "jp":  "\u003cruby\u003e客\u003crt\u003eきゃく\u003c/rt\u003e\u003c/ruby\u003eに対して、いつも\u003cruby\u003e丁寧\u003crt\u003eていねい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e態度\u003crt\u003eたいど\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e取\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eらなければなりません。"
+                                                            },
+                                                            {
+                                                                "vi":  "Anh ấy luôn đối xử dịu dàng với trẻ em.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eに対していつも\u003cruby\u003e優\u003crt\u003eやさ\u003c/rt\u003e\u003c/ruby\u003eしく\u003cruby\u003e接\u003crt\u003eせっ\u003c/rt\u003e\u003c/ruby\u003eします。"
+                                                            },
+                                                            {
+                                                                "vi":  "Ý kiến phản đối đối với kế hoạch xây dựng tòa nhà này ngày càng tăng.",
+                                                                "jp":  "このビル\u003cruby\u003e建設\u003crt\u003eけんせつ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e計画\u003crt\u003eけいかく\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e対\u003crt\u003eたい\u003c/rt\u003e\u003c/ruby\u003eする\u003cruby\u003e反対\u003crt\u003eはんたい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e意見\u003crt\u003eいけん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e増\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eえている。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi muốn bày tỏ lòng biết ơn đối với những người đã giúp đỡ mình.",
+                                                                "jp":  "\u003cruby\u003e世話\u003crt\u003eせわ\u003c/rt\u003e\u003c/ruby\u003eになった\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eたちに対して、\u003cruby\u003e感謝\u003crt\u003eかんしゃ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e気持\u003crt\u003eきも\u003c/rt\u003e\u003c/ruby\u003eちを\u003cruby\u003e伝\u003crt\u003eつた\u003c/rt\u003e\u003c/ruby\u003eえたい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Bạn nên suy nghĩ nghiêm túc đối với tương lai của chính mình.",
+                                                                "jp":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e将来\u003crt\u003eしょうらい\u003c/rt\u003e\u003c/ruby\u003eに対して、\u003cruby\u003e真剣\u003crt\u003eしんけん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e考\u003crt\u003eかんが\u003c/rt\u003e\u003c/ruby\u003eえるべきだ。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜によって / 〜による",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd rowspan=\u00273\u0027 style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.5rem;font-size:1.5rem;color:#ffd700;font-weight:800;text-align:center;vertical-align:middle;width:25%;\u0027\u003eN\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.2rem;\u0027\u003eによって ＋ V-れる/られる\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eBởi N... (tác nhân phát minh, sáng tác, xây dựng...)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.06);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eによって\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eDo N / Bằng cách N / Tùy theo N\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.03);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eによる ＋ N2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eBổ nghĩa cho danh từ N2 đứng sau\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Bởi...",
+                      "usage":  "• \u003cb\u003eN + によって\u003c/b\u003e: Chỉ tác nhân thực hiện hành động (thường đi với động từ thể bị động trong câu mô tả phát minh, sáng chế, sáng tác, xây dựng).\u003cbr\u003e• \u003cb\u003eN + による + N2\u003c/b\u003e: Dùng để bổ nghĩa cho danh từ N2 đứng sau.\u003cbr\u003e• \u003ci\u003eNghĩa mở rộng:\u003c/i\u003e Còn dùng để chỉ nguyên nhân (Do...), phương thức (Bằng cách...), hoặc sự tương ứng (Tùy vào...).",
+                      "explanation":  "Khi dùng chỉ tác nhân, cấu trúc này kết hợp với động từ bị động để nhấn mạnh người/đối tượng đã phát minh, sáng tác hoặc xây dựng nên tác phẩm, thành tựu.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e電話\u003crt\u003eでんわ\u003c/rt\u003e\u003c/ruby\u003eはベル\u003cruby\u003e兄弟\u003crt\u003eきょうだい\u003c/rt\u003e\u003c/ruby\u003eによって\u003cruby\u003e発明\u003crt\u003eはつめい\u003c/rt\u003e\u003c/ruby\u003eされた。",
+                                           "vi":  "Điện thoại được phát minh bởi anh em nhà Bell.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_65.1.png"
+                                       },
+                                       {
+                                           "jp":  "この\u003cruby\u003e本\u003crt\u003eほん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e父\u003crt\u003eちち\u003c/rt\u003e\u003c/ruby\u003eによって\u003cruby\u003e書\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eかれたのです。",
+                                           "vi":  "Cuốn sách này là do bố tôi viết.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_65.2.png"
+                                       },
+                                       {
+                                           "jp":  "このバッグは\u003cruby\u003e人気\u003crt\u003eにんき\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e歌手\u003crt\u003eかしゅ\u003c/rt\u003e\u003c/ruby\u003eによってデザインされた。",
+                                           "vi":  "Chiếc túi xách này được thiết kế bởi một ca sĩ nổi tiếng.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_65.3.png"
+                                       },
+                                       {
+                                           "jp":  "この\u003cruby\u003e寺\u003crt\u003eてら\u003c/rt\u003e\u003c/ruby\u003eは100\u003cruby\u003e年\u003crt\u003eねん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e有名\u003crt\u003eゆうめい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e建築\u003crt\u003eけんちく\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e家\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eによって\u003cruby\u003e建\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eてられました。",
+                                           "vi":  "Ngôi chùa này được xây dựng bởi một kiến trúc sư nổi tiếng cách đây 100 năm.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_65.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e重力\u003crt\u003eじゅうりょく\u003c/rt\u003e\u003c/ruby\u003eはニュートンによって\u003cruby\u003e発見\u003crt\u003eはっけん\u003c/rt\u003e\u003c/ruby\u003eされました。",
+                                           "vi":  "Trọng lực được phát hiện bởi Newton.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_65.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "この\u003cruby\u003e絵\u003crt\u003eえ\u003c/rt\u003e\u003c/ruby\u003eはピカソ（　　）\u003cruby\u003e描\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eかれた。",
+                                                              "options":  [
+                                                                              "によって",
+                                                                              "に対して",
+                                                                              "にとって",
+                                                                              "として"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e台風\u003crt\u003eたいふう\u003c/rt\u003e\u003c/ruby\u003e（　　）する\u003cruby\u003e被害\u003crt\u003eひがい\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e大\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eきい。",
+                                                              "options":  [
+                                                                              "によっ",
+                                                                              "に対",
+                                                                              "にとっ",
+                                                                              "とし"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "アンケート（　　）\u003cruby\u003e調査\u003crt\u003eちょうさ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e行\u003crt\u003eおこな\u003c/rt\u003e\u003c/ruby\u003eう。",
+                                                              "options":  [
+                                                                              "によって",
+                                                                              "にとって",
+                                                                              "に対して",
+                                                                              "として"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e考\u003crt\u003eかんが\u003c/rt\u003e\u003c/ruby\u003eえ\u003cruby\u003e方\u003crt\u003eかた\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e違\u003crt\u003eちが\u003c/rt\u003e\u003c/ruby\u003eう。",
+                                                              "options":  [
+                                                                              "によって",
+                                                                              "に対して",
+                                                                              "として",
+                                                                              "にとって"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e不注意\u003crt\u003eふちゅうい\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e事故\u003crt\u003eじこ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e起\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eきた。",
+                                                              "options":  [
+                                                                              "によって",
+                                                                              "に対して",
+                                                                              "として",
+                                                                              "にとって"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e新薬\u003crt\u003eしんやく\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e優秀\u003crt\u003eゆうしゅう\u003c/rt\u003e\u003c/ruby\u003eな（　　）によって\u003cruby\u003e開発\u003crt\u003eかいはつ\u003c/rt\u003e\u003c/ruby\u003eされた。",
+                                                          "options":  [
+                                                                          "研究者",
+                                                                          "観光客",
+                                                                          "泥棒",
+                                                                          "子供"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "この\u003cruby\u003e小説\u003crt\u003eしょうせつ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e有名\u003crt\u003eゆうめい\u003c/rt\u003e\u003c/ruby\u003eな（　　）によって\u003cruby\u003e書\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eかれた。",
+                                                          "options":  [
+                                                                          "作家",
+                                                                          "運転手",
+                                                                          "患者",
+                                                                          "店員"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e地震\u003crt\u003eじしん\u003c/rt\u003e\u003c/ruby\u003eによる（　　）を\u003cruby\u003e最小限\u003crt\u003eさいしょうげん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e抑\u003crt\u003eおさ\u003c/rt\u003e\u003c/ruby\u003eえる。",
+                                                          "options":  [
+                                                                          "被害",
+                                                                          "利益",
+                                                                          "成功",
+                                                                          "合格"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "インターネットによって（　　）を\u003cruby\u003e集\u003crt\u003eあつ\u003c/rt\u003e\u003c/ruby\u003eめる。",
+                                                          "options":  [
+                                                                          "情報",
+                                                                          "睡眠",
+                                                                          "空気",
+                                                                          "体重"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e努力\u003crt\u003eどりょく\u003c/rt\u003e\u003c/ruby\u003eによって（　　）を\u003cruby\u003e乗\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eり\u003cruby\u003e越\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eえた。",
+                                                          "options":  [
+                                                                          "困難",
+                                                                          "幸福",
+                                                                          "勝利",
+                                                                          "平和"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "ダイナマイトはノーベル＿＿＿よって\u003cruby\u003e発明\u003crt\u003eはつめい\u003c/rt\u003e\u003c/ruby\u003eされた。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e不注意\u003crt\u003eふちゅうい\u003c/rt\u003e\u003c/ruby\u003e＿＿＿よる\u003cruby\u003e事故\u003crt\u003eじこ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e防\u003crt\u003eふせ\u003c/rt\u003e\u003c/ruby\u003eぐ。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "このビルは＿＿＿によって\u003cruby\u003e設計\u003crt\u003eせっけい\u003c/rt\u003e\u003c/ruby\u003eされた。",
+                                                                "options":  [
+                                                                                "彼",
+                                                                                "彼に",
+                                                                                "彼で",
+                                                                                "彼を"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e国\u003crt\u003eくに\u003c/rt\u003e\u003c/ruby\u003eによって＿＿＿が\u003cruby\u003e異\u003crt\u003eこと\u003c/rt\u003e\u003c/ruby\u003eなる。",
+                                                                "options":  [
+                                                                                "習慣",
+                                                                                "習慣に",
+                                                                                "習慣で",
+                                                                                "習慣を"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e話し合い\u003crt\u003eはなしあい\u003c/rt\u003e\u003c/ruby\u003e＿＿＿よって\u003cruby\u003e問題\u003crt\u003eもんだい\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e解決\u003crt\u003eかいけつ\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Bức tranh này được vẽ bởi một họa sĩ nổi tiếng của Nhật Bản.",
+                                                                "jp":  "この\u003cruby\u003e絵\u003crt\u003eえ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e有名\u003crt\u003eゆうめい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e画家\u003crt\u003eがか\u003c/rt\u003e\u003c/ruby\u003eによって\u003cruby\u003e描\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eかれました。"
+                                                            },
+                                                            {
+                                                                "vi":  "Phương pháp điều trị này được phát minh bởi các bác sĩ trẻ.",
+                                                                "jp":  "この\u003cruby\u003e治療\u003crt\u003eちりょう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e法\u003crt\u003eほう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e若\u003crt\u003eわか\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e医師\u003crt\u003eいし\u003c/rt\u003e\u003c/ruby\u003eたちによって\u003cruby\u003e開発\u003crt\u003eかいはつ\u003c/rt\u003e\u003c/ruby\u003eされた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cây cầu này được xây dựng bởi nhiều công nhân vào năm ngoái.",
+                                                                "jp":  "この\u003cruby\u003e橋\u003crt\u003eはし\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e去年\u003crt\u003eきょねん\u003c/rt\u003e\u003c/ruby\u003e、\u003cruby\u003e多\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eくの\u003cruby\u003e作業\u003crt\u003eさぎょう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e員\u003crt\u003eいん\u003c/rt\u003e\u003c/ruby\u003eによって\u003cruby\u003e建設\u003crt\u003eけんせつ\u003c/rt\u003e\u003c/ruby\u003eされた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Văn hóa khác nhau tùy theo từng quốc gia.",
+                                                                "jp":  "\u003cruby\u003e国\u003crt\u003eくに\u003c/rt\u003e\u003c/ruby\u003eによって\u003cruby\u003e文化\u003crt\u003eぶんか\u003c/rt\u003e\u003c/ruby\u003eや\u003cruby\u003e習慣\u003crt\u003eしゅうかん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e異\u003crt\u003eこと\u003c/rt\u003e\u003c/ruby\u003eなります。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vấn đề này đã được giải quyết thông qua thảo luận.",
+                                                                "jp":  "この\u003cruby\u003e問題\u003crt\u003eもんだい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eし\u003cruby\u003e合\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eいによって\u003cruby\u003e解決\u003crt\u003eかいけつ\u003c/rt\u003e\u003c/ruby\u003eされました。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜にとって / 〜にとっての",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.5rem;font-size:1.5rem;color:#ffd700;font-weight:800;text-align:center;vertical-align:middle;width:25%;\u0027\u003eN\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.2rem;\u0027\u003eにとって\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eĐối với N... (đứng trên lập trường, góc nhìn để đánh giá)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.06);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eにとっては\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eĐưa N lên làm chủ đề để nhấn mạnh phán đoán\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.04);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eにとっても\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eNgay cả đối với N cũng...\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.02);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eにとっての ＋ N2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eBổ nghĩa cho danh từ N2 đứng sau\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Đối với...",
+                      "usage":  "• \u003cb\u003eN + にとって\u003c/b\u003e: Nhìn nhận, đánh giá một sự việc dựa trên lập trường hoặc quan điểm của một đối tượng cụ thể (đứng từ phía đối tượng đó để phán đoán).\u003cbr\u003e• \u003cb\u003eN + にとっての + N2\u003c/b\u003e: Dùng để bổ nghĩa cho danh từ N2 đứng sau.\u003cbr\u003e• \u003ci\u003eLưu ý quan trọng:\u003c/i\u003e \u003cb\u003eDựa trên lập trường\u003c/b\u003e của danh từ để đưa ra nhận xét, đánh giá (Vế sau thường là tính từ: \u003cb\u003e大切\u003c/b\u003e, \u003cb\u003e重要\u003c/b\u003e, \u003cb\u003e難しい\u003c/b\u003e, \u003cb\u003e必要\u003c/b\u003e...).",
+                      "explanation":  "Dùng khi người nói đứng trên vị thế, hoàn cảnh của danh từ N để đưa ra nhận xét, đánh giá về mức độ quan trọng, tính chất hay cảm nhận đối với sự việc.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eにとって\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e全\u003crt\u003eすべ\u003c/rt\u003e\u003c/ruby\u003eてだ。",
+                                           "vi":  "Đối với tôi, cô ấy là tất cả.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_66.1.png"
+                                       },
+                                       {
+                                           "jp":  "ベトナム\u003cruby\u003e人\u003crt\u003eじん\u003c/rt\u003e\u003c/ruby\u003eにとって\u003cruby\u003e漢字\u003crt\u003eかんじ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e難\u003crt\u003eむずか\u003c/rt\u003e\u003c/ruby\u003eしすぎる。",
+                                           "vi":  "Đối với người Việt Nam, chữ Kanji quá khó.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_66.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e体\u003crt\u003eからだ\u003c/rt\u003e\u003c/ruby\u003eにとって\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e重要\u003crt\u003eじゅうよう\u003c/rt\u003e\u003c/ruby\u003eなものは\u003cruby\u003e水\u003crt\u003eみず\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                           "vi":  "Đối với cơ thể, thứ quan trọng nhất chính là nước.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_66.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e留学生\u003crt\u003eりゅうがくせい\u003c/rt\u003e\u003c/ruby\u003eにとって、\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eでのアルバイト\u003cruby\u003e探\u003crt\u003eさが\u003c/rt\u003e\u003c/ruby\u003eしは\u003cruby\u003e簡単\u003crt\u003eかんたん\u003c/rt\u003e\u003c/ruby\u003eではありません。",
+                                           "vi":  "Đối với du học sinh, việc tìm kiếm việc làm thêm bằng tiếng Nhật không hề dễ dàng.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_66.4.png"
+                                       },
+                                       {
+                                           "jp":  "この\u003cruby\u003e写真\u003crt\u003eしゃしん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eにとって\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e宝物\u003crt\u003eたからもの\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                           "vi":  "Bức ảnh này đối với tôi là báu vật quan trọng nhất.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_66.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e現代\u003crt\u003eげんだい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e人\u003crt\u003eじん\u003c/rt\u003e\u003c/ruby\u003e（　　）、スマホは\u003cruby\u003e手放\u003crt\u003eてばな\u003c/rt\u003e\u003c/ruby\u003eせないものだ。",
+                                                              "options":  [
+                                                                              "にとって",
+                                                                              "に対して",
+                                                                              "によって",
+                                                                              "として"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003e（　　）の\u003cruby\u003e教育\u003crt\u003eきょういく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e考\u003crt\u003eかんが\u003c/rt\u003e\u003c/ruby\u003eえる。",
+                                                              "options":  [
+                                                                              "にとって",
+                                                                              "によっ",
+                                                                              "に対",
+                                                                              "とし"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003e（　　）も、\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eなことだ。",
+                                                              "options":  [
+                                                                              "にとっても",
+                                                                              "に対しても",
+                                                                              "によっても",
+                                                                              "としても"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e初心者\u003crt\u003eしょしんしゃ\u003c/rt\u003e\u003c/ruby\u003e（　　）は、このコースは\u003cruby\u003e難\u003crt\u003eむずか\u003c/rt\u003e\u003c/ruby\u003eしすぎる。",
+                                                              "options":  [
+                                                                              "にとっては",
+                                                                              "に対しては",
+                                                                              "によっては",
+                                                                              "としては"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003e（　　）の\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e幸\u003crt\u003eしあわ\u003c/rt\u003e\u003c/ruby\u003eせは\u003cruby\u003e家族\u003crt\u003eかぞく\u003c/rt\u003e\u003c/ruby\u003eと\u003cruby\u003e過\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eごす\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                              "options":  [
+                                                                              "にとって",
+                                                                              "によっ",
+                                                                              "に対",
+                                                                              "とし"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e学生\u003crt\u003eがくせい\u003c/rt\u003e\u003c/ruby\u003eにとって（　　）が一番の仕事だ。",
+                                                          "options":  [
+                                                                          "勉強",
+                                                                          "飲酒",
+                                                                          "夜更かし",
+                                                                          "遅刻"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e人間\u003crt\u003eにんげん\u003c/rt\u003e\u003c/ruby\u003eにとって（　　）は\u003cruby\u003e生\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eきていくために\u003cruby\u003e不可欠\u003crt\u003eふかけつ\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                          "options":  [
+                                                                          "空気",
+                                                                          "タバコ",
+                                                                          "ゲーム",
+                                                                          "宝石"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e親\u003crt\u003eおや\u003c/rt\u003e\u003c/ruby\u003eにとって\u003cruby\u003e子\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eどもの（　　）は何よりの喜びだ。",
+                                                          "options":  [
+                                                                          "成長",
+                                                                          "病気",
+                                                                          "怪我",
+                                                                          "失敗"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eにとってこの（　　）は\u003cruby\u003e大\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eきなチャンスだ。",
+                                                          "options":  [
+                                                                          "機会",
+                                                                          "台風",
+                                                                          "停電",
+                                                                          "事故"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eにとってこの\u003cruby\u003e時計\u003crt\u003eとけい\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eな（　　）です。",
+                                                          "options":  [
+                                                                          "記念品",
+                                                                          "ゴミ",
+                                                                          "不要品",
+                                                                          "借金"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003e＿＿＿とって、あなたはかけがえのない\u003cruby\u003e存在\u003crt\u003eそんざい\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e高齢\u003crt\u003eこうれい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e者\u003crt\u003eしゃ\u003c/rt\u003e\u003c/ruby\u003e＿＿＿とっては、\u003cruby\u003e階段\u003crt\u003eかいだん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e昇降\u003crt\u003eしょうこう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e大変\u003crt\u003eたいへん\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003e＿＿＿とっての\u003cruby\u003e幸福\u003crt\u003eこうふく\u003c/rt\u003e\u003c/ruby\u003eとは\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eかを\u003cruby\u003e考\u003crt\u003eかんが\u003c/rt\u003e\u003c/ruby\u003eえる。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eにとっても＿＿＿なことは\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                                "options":  [
+                                                                                "大切",
+                                                                                "大切に",
+                                                                                "大切で",
+                                                                                "大切の"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e外国人\u003crt\u003eがいこくじん\u003c/rt\u003e\u003c/ruby\u003e＿＿＿とって、\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e物価\u003crt\u003eぶっか\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e高\u003crt\u003eたか\u003c/rt\u003e\u003c/ruby\u003eいですか。",
+                                                                "options":  [
+                                                                                "に",
+                                                                                "で",
+                                                                                "を",
+                                                                                "へ"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Đối với người đi làm, thời gian quý báu hơn tiền bạc.",
+                                                                "jp":  "\u003cruby\u003e社会\u003crt\u003eしゃかい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e人\u003crt\u003eじん\u003c/rt\u003e\u003c/ruby\u003eにとって、\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003eはお\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eより\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Kỳ thi này đối với tôi là một thử thách lớn.",
+                                                                "jp":  "この\u003cruby\u003e試験\u003crt\u003eしけん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eにとって\u003cruby\u003e大\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eきな\u003cruby\u003e挑戦\u003crt\u003eちょうせん\u003c/rt\u003e\u003c/ruby\u003eです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đối với trẻ con, khu vui chơi này giống như một thiên đường.",
+                                                                "jp":  "\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eたちにとって、この\u003cruby\u003e遊園\u003crt\u003eゆうえん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e地\u003crt\u003eち\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e天国\u003crt\u003eてんごく\u003c/rt\u003e\u003c/ruby\u003eのようだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đối với người già, việc leo cầu thang rất vất vả.",
+                                                                "jp":  "\u003cruby\u003e高齢\u003crt\u003eこうれい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e者\u003crt\u003eしゃ\u003c/rt\u003e\u003c/ruby\u003eにとって、\u003cruby\u003e階段\u003crt\u003eかいだん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e上\u003crt\u003eのぼ\u003c/rt\u003e\u003c/ruby\u003eるのは\u003cruby\u003e大変\u003crt\u003eたいへん\u003c/rt\u003e\u003c/ruby\u003eなことです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đối với tôi, sức khỏe của gia đình là điều quan trọng nhất.",
+                                                                "jp":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eにとって、\u003cruby\u003e家族\u003crt\u003eかぞく\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eです。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜として / 〜としての",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.5rem;font-size:1.5rem;color:#ffd700;font-weight:800;text-align:center;vertical-align:middle;width:25%;\u0027\u003eN\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.2rem;\u0027\u003eとして\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eVới tư cách là / Dưới danh nghĩa là N...\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.06);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eとしては\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eXét về mặt tư cách / vai trò N thì...\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.04);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eとしても\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eNgay cả với tư cách là N cũng...\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.02);padding:0.75rem 1rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.15rem;\u0027\u003eとしての ＋ N2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.2rem;\u0027\u003eBổ nghĩa cho danh từ N2 đứng sau\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Với tư cách là / Dưới danh nghĩa...",
+                      "usage":  "• \u003cb\u003eN + として\u003c/b\u003e: Diễn tả tư cách, vai trò, vị trí hoặc danh nghĩa của một người, sự vật.\u003cbr\u003e• \u003cb\u003eN + としての + N2\u003c/b\u003e: Dùng để bổ nghĩa cho danh từ N2 đứng sau.\u003cbr\u003e• \u003cb\u003eN + としては\u003c/b\u003e: Xét trên phương diện, tư cách N thì...\u003cbr\u003e• \u003cb\u003eN + としても\u003c/b\u003e: Ngay cả trên danh nghĩa, tư cách là N cũng...",
+                      "explanation":  "Dùng để biểu thị rõ ràng địa vị, chức danh, tư cách pháp nhân hoặc vai trò của một người, tổ chức hoặc sự vật trong một hoàn cảnh cụ thể.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e実習\u003crt\u003eじっしゅう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e生\u003crt\u003eせい\u003c/rt\u003e\u003c/ruby\u003eとして\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e来\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eました。",
+                                           "vi":  "Tôi đã đến Nhật Bản với tư cách là thực tập sinh.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_67.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eとしてちょっと\u003cruby\u003e君\u003crt\u003eきみ\u003c/rt\u003e\u003c/ruby\u003eにアドバイスしたいと\u003cruby\u003e思\u003crt\u003eおも\u003c/rt\u003e\u003c/ruby\u003eう。",
+                                           "vi":  "Với tư cách là một người bạn, tôi muốn khuyên bạn một chút.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_67.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e留学生\u003crt\u003eりゅうがくせい\u003c/rt\u003e\u003c/ruby\u003eとして\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eで4\u003cruby\u003e年間\u003crt\u003eねんかん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしている。",
+                                           "vi":  "Anh ấy đang học tập tại Nhật Bản suốt 4 năm qua với tư cách là du học sinh.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_67.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e趣味\u003crt\u003eしゅみ\u003c/rt\u003e\u003c/ruby\u003eとして、\u003cruby\u003e毎週\u003crt\u003eまいしゅう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e日曜日\u003crt\u003eにちようび\u003c/rt\u003e\u003c/ruby\u003eにカメラで\u003cruby\u003e写真\u003crt\u003eしゃしん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e撮\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eっています。",
+                                           "vi":  "Dưới danh nghĩa một sở thích, mỗi Chủ nhật tôi đều chụp ảnh bằng máy ảnh.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_67.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e京都\u003crt\u003eきょうと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e観光\u003crt\u003eかんこう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e地\u003crt\u003eち\u003c/rt\u003e\u003c/ruby\u003eとして\u003cruby\u003e世界中\u003crt\u003eせかいじゅう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e知\u003crt\u003eし\u003c/rt\u003e\u003c/ruby\u003eられている。",
+                                           "vi":  "Kyoto được biết đến trên toàn thế giới với tư cách là một địa điểm du lịch.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_67.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e代表\u003crt\u003eだいひょう\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e挨拶\u003crt\u003eあいさつ\u003c/rt\u003e\u003c/ruby\u003eをします。",
+                                                              "options":  [
+                                                                              "として",
+                                                                              "に対して",
+                                                                              "によって",
+                                                                              "にとって"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e教師\u003crt\u003eきょうし\u003c/rt\u003e\u003c/ruby\u003e（　　）の\u003cruby\u003e責任\u003crt\u003eせきにん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e果\u003crt\u003eは\u003c/rt\u003e\u003c/ruby\u003eたす。",
+                                                              "options":  [
+                                                                              "として",
+                                                                              "によっ",
+                                                                              "に対",
+                                                                              "にとっ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e趣味\u003crt\u003eしゅみ\u003c/rt\u003e\u003c/ruby\u003e（　　）ピアノを\u003cruby\u003e習\u003crt\u003eなら\u003c/rt\u003e\u003c/ruby\u003eっている。",
+                                                              "options":  [
+                                                                              "として",
+                                                                              "によって",
+                                                                              "に対して",
+                                                                              "にとって"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003e（　　）は、ベストを\u003cruby\u003e尽\u003crt\u003eつ\u003c/rt\u003e\u003c/ruby\u003eくしたつもりだ。",
+                                                              "options":  [
+                                                                              "としては",
+                                                                              "に対しては",
+                                                                              "によっては",
+                                                                              "にとっても"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e記念\u003crt\u003eきねん\u003c/rt\u003e\u003c/ruby\u003e（　　）この\u003cruby\u003e写真\u003crt\u003eしゃしん\u003c/rt\u003e\u003c/ruby\u003eをプレゼントします。",
+                                                              "options":  [
+                                                                              "として",
+                                                                              "によって",
+                                                                              "に対して",
+                                                                              "にとって"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eの（　　）として\u003cruby\u003e会議\u003crt\u003eかいぎ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e出席\u003crt\u003eしゅっせき\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                          "options":  [
+                                                                          "代表",
+                                                                          "観客",
+                                                                          "患者",
+                                                                          "犯人"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）としての\u003cruby\u003e自覚\u003crt\u003eじかく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eちなさい。",
+                                                          "options":  [
+                                                                          "社会人",
+                                                                          "天気",
+                                                                          "道具",
+                                                                          "景色"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "この\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eは（　　）として\u003cruby\u003e使\u003crt\u003eつか\u003c/rt\u003e\u003c/ruby\u003eわれています。",
+                                                          "options":  [
+                                                                          "物置",
+                                                                          "太陽",
+                                                                          "地球",
+                                                                          "道路"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "ボランティア（　　）として\u003cruby\u003e活動\u003crt\u003eかつどう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e参加\u003crt\u003eさんか\u003c/rt\u003e\u003c/ruby\u003eする。",
+                                                          "options":  [
+                                                                          "スタッフ",
+                                                                          "泥棒",
+                                                                          "敵",
+                                                                          "荷物"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e富士山\u003crt\u003eふじさん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eの（　　）として\u003cruby\u003e有名\u003crt\u003eゆうめい\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                          "options":  [
+                                                                          "シンボル",
+                                                                          "欠点",
+                                                                          "事故",
+                                                                          "失敗"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e医者\u003crt\u003eいしゃ\u003c/rt\u003e\u003c/ruby\u003e＿＿＿しての\u003cruby\u003e意見\u003crt\u003eいけん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e述\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eべる。",
+                                                                "options":  [
+                                                                                "と",
+                                                                                "に",
+                                                                                "で",
+                                                                                "を"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e親\u003crt\u003eおや\u003c/rt\u003e\u003c/ruby\u003e＿＿＿しては、\u003cruby\u003e子\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eどもの\u003cruby\u003e将来\u003crt\u003eしょうらい\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e心配\u003crt\u003eしんぱい\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                                "options":  [
+                                                                                "と",
+                                                                                "に",
+                                                                                "で",
+                                                                                "を"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは＿＿＿として\u003cruby\u003e働\u003crt\u003eはたら\u003c/rt\u003e\u003c/ruby\u003eいている。",
+                                                                "options":  [
+                                                                                "通訳",
+                                                                                "通訳に",
+                                                                                "通訳で",
+                                                                                "通訳を"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e参考\u003crt\u003eさんこう\u003c/rt\u003e\u003c/ruby\u003e＿＿＿して、この\u003cruby\u003e本\u003crt\u003eほん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e読\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eんでください。",
+                                                                "options":  [
+                                                                                "と",
+                                                                                "に",
+                                                                                "で",
+                                                                                "を"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003eリーダー\u003crt\u003eりーだー\u003c/rt\u003e\u003c/ruby\u003e＿＿＿してチームをまとめる。",
+                                                                "options":  [
+                                                                                "と",
+                                                                                "に",
+                                                                                "で",
+                                                                                "を"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Anh ấy đang làm việc chăm chỉ với tư cách là giám đốc công ty.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e社長\u003crt\u003eしゃちょう\u003c/rt\u003e\u003c/ruby\u003eとして\u003cruby\u003e一生懸命\u003crt\u003eいっしょうけんめい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e働\u003crt\u003eはたら\u003c/rt\u003e\u003c/ruby\u003eいている。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi tham gia hoạt động tình nguyện với tư cách là một người dân.",
+                                                                "jp":  "\u003cruby\u003e市民\u003crt\u003eしみん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e一人\u003crt\u003eひとり\u003c/rt\u003e\u003c/ruby\u003eとして、ボランティア\u003cruby\u003e活動\u003crt\u003eかつどう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e参加\u003crt\u003eさんか\u003c/rt\u003e\u003c/ruby\u003eします。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi tặng bạn cuốn sách này như một món quà kỷ niệm.",
+                                                                "jp":  "\u003cruby\u003e記念\u003crt\u003eきねん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e品\u003crt\u003eしな\u003c/rt\u003e\u003c/ruby\u003eとして、この\u003cruby\u003e本\u003crt\u003eほん\u003c/rt\u003e\u003c/ruby\u003eをプレゼントします。"
+                                                            },
+                                                            {
+                                                                "vi":  "Núi Phú Sĩ nổi tiếng khắp thế giới như là biểu tượng của Nhật Bản.",
+                                                                "jp":  "\u003cruby\u003e富士山\u003crt\u003eふじさん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eのシンボルとして\u003cruby\u003e世界中\u003crt\u003eせかいじゅう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e有名\u003crt\u003eゆうめい\u003c/rt\u003e\u003c/ruby\u003eだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Với tư cách là bác sĩ, tôi khuyên bạn nên đi kiểm tra sức khỏe.",
+                                                                "jp":  "\u003cruby\u003e医者\u003crt\u003eいしゃ\u003c/rt\u003e\u003c/ruby\u003eとして、\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e診断\u003crt\u003eしんだん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e受\u003crt\u003eう\u003c/rt\u003e\u003c/ruby\u003eけることをお\u003cruby\u003e勧\u003crt\u003eすす\u003c/rt\u003e\u003c/ruby\u003eめします。"
+                                                            }
+                                                        ]
+                                    }
+                  }
+              ]
+}

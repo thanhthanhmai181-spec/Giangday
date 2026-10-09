@@ -1,0 +1,62 @@
+{
+  "id": "dokkai-n3-doanvan-08",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 8,
+  "title": "言葉の変化（「夜ご飯」） (Sự thay đổi của từ ngữ)",
+  "timeLimit": 180,
+  "passage": "<p>「<ruby>夜<rt>よる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>聞<rt>き</rt></ruby>いた。<ruby>最近<rt>さいきん</rt></ruby>、「<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」の<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>われるようになってきたらしい。<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が「<ruby>晩<rt>ばん</rt></ruby>」から「<ruby>夜<rt>よる</rt></ruby>」へとだんだん<ruby>遅<rt>おそ</rt></ruby>くなり、<ruby>言葉<rt>ことば</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>変化<rt>へんか</rt></ruby>してきたそうだが、「<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>のわたしは、「<ruby>夜<rt>よる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>を<ruby>変<rt>へん</rt></ruby>だと<ruby>感<rt>かん</rt></ruby>じる。しかし、「<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」も「<ruby>夕<rt>ゆう</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」の<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>われるようになった<ruby>言葉<rt>ことば</rt></ruby>だそうだ。「<ruby>夕<rt>ゆう</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」が<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>だった<ruby>人<rt>ひと</rt></ruby>たちも、わたしと<ruby>同<rt>おな</rt></ruby>じように<ruby>感<rt>かん</rt></ruby>じたかもしれない。</p>",
+  "fullTranslation": "Lần đầu tiên tôi được nghe thấy từ 'Yogohan' (Cơm tối/Cơm đêm). Dạo gần đây, có vẻ như từ này bắt đầu được dùng để thay thế cho từ 'Bangohan' (Cơm chiều muộn). Nghe nói do thời gian dùng bữa tối ngày càng muộn dần từ 'chiều tối' (晩) sang 'đêm' (夜), nên ngôn ngữ cũng biến đổi theo cùng. Thế nhưng, đối với một người vốn coi từ 'Bangohan' là chuyện đương nhiên như tôi, thì lại cảm thấy từ 'Yogohan' thật kỳ lạ. Tuy nhiên, nghe nói bản thân từ 'Bangohan' trước đây cũng là từ xuất hiện để thay thế cho từ 'Yugohan' (Cơm chập tối). Có lẽ những người mà thời xưa vốn xem từ 'Yugohan' là đương nhiên, thì cũng từng có cảm giác y hệt như tôi bây giờ.",
+  "vocabulary": [
+    { "word": "代わりに", "hiragana": "かわりに", "meaning": "Thay vì / Thay cho" },
+    { "word": "変化", "hiragana": "へんか", "meaning": "Biến đổi / Thay đổi" },
+    { "word": "当たり前", "hiragana": "あたりまえ", "meaning": "Hiển nhiên / Đương nhiên / Lẽ dĩ nhiên" },
+    { "word": "感じる", "hiragana": "かんじる", "meaning": "Cảm thấy / Cảm nhận" },
+    { "word": "夕ご飯", "hiragana": "ゆうごはん", "meaning": "Cơm tối (thời điểm chập tối)" },
+    { "word": "晩ご飯", "hiragana": "ばんごはん", "meaning": "Cơm tối (thời điểm tối muộn)" },
+    { "word": "夜ご飯", "hiragana": "よるごはん", "meaning": "Cơm tối/Cơm đêm" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜ようになる", "meaning": "Dần trở nên... / Bắt đầu..." },
+    { "pattern": "〜らしい", "meaning": "Dường như / Nghe có vẻ là..." },
+    { "pattern": "〜かもしれない", "meaning": "Có lẽ là / Có thể là..." }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：「夕ご飯」が当たり前だった人たちも、私と同じように感じたとあるが、「夕ご飯」が当たり前だった人たちは、どのように感じたのか。",
+      "options": [
+        "「夜ご飯」という言葉は変だ。",
+        "「晩ご飯」という言葉は変だ。",
+        "「夕ご飯」という言葉は変だ。",
+        "「ご飯」という言葉は変だ。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "「夜ご飯」という言葉は変だ。",
+          "meaning": "Từ 'Yogohan' (Cơm đêm) thật kỳ lạ.",
+          "analysis": "Sai: Đây là cảm nhận của tác giả ở hiện tại khi nghe từ mới '夜ご飯', không phải cảm nhận của thế hệ trước thời chỉ dùng '夕ご飯'."
+        },
+        {
+          "option": "「晩ご飯」という言葉は変だ。",
+          "meaning": "Từ 'Bangohan' (Cơm tối muộn) thật kỳ lạ.",
+          "analysis": "ĐÚNG: Logic so sánh tương đồng: Tác giả (quen dùng '晩ご飯') thấy từ mới thay thế '夜ご飯' là kỳ lạ -> Tương tự, người thế hệ trước (quen dùng '夕ご飯') khi nghe thấy từ mới thay thế là '晩ご飯' ('「晩ご飯」も「夕ご飯」の代わりに使われるようになった') thì cũng cảm thấy từ '晩ご飯' là kỳ lạ."
+        },
+        {
+          "option": "「夕ご飯」という言葉は変だ。",
+          "meaning": "Từ 'Yugohan' thật kỳ lạ.",
+          "analysis": "Sai: Họ coi '夕ご飯' là đương nhiên ('当たり前') nên không thể thấy nó kỳ lạ."
+        },
+        {
+          "option": "「ご飯」という言葉は変だ。",
+          "meaning": "Từ 'Gohan' thật kỳ lạ.",
+          "analysis": "Sai hoàn toàn."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「「晩ご飯」という言葉が当たり前の私は、「夜ご飯」という言葉を変だと感じる。しかし、「晩ご飯」も「夕ご飯」の代わりに使われるようになった言葉だそうだ。「夕ご飯」が当たり前だった人たちも、私と同じように感じたかもしれない。」",
+      "explanation": "Đáp án 2 đúng. Tác giả liên tưởng: nếu bản thân mình (quen dùng '晩ご飯') thấy từ mới xuất hiện '夜ご飯' thật kỳ lạ, thì những người thời xưa (quen dùng '夕ご飯') khi lần đầu nghe từ mới xuất hiện là '晩ご飯' có lẽ cũng từng cảm thấy từ '晩ご飯' thật kỳ lạ y như vậy."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "choukai-n3-nghe_chude-05",
+  "level": "N3",
+  "category": "nghe_chude",
+  "categoryName": "Nghe chủ đề (ポイント理解)",
+  "lessonNumber": 5,
+  "title": "Bài 5: Luyện nghe hiểu chủ đề (ポイント理解 第5回)",
+  "description": "Dạng bài nghe hiểu chủ đề / điểm cốt lõi (ポイント理解): Lắng nghe câu hỏi và các lựa chọn trực tiếp từ file âm thanh. Bấm chọn 1, 2, 3 hoặc 4.",
+  "questions": [
+    {
+      "id": 43,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai5/43.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 読みやすく、期待した内容と同じだった。",
+          "meaning": "Dễ đọc và nội dung đúng như kỳ vọng ban đầu.",
+          "analysis": "Sai: Nam sinh nói nội dung khác xa so với tưởng tượng/kỳ vọng ban đầu ('想像してたのと違ったよ')."
+        },
+        {
+          "option": "2. 読みやすいが、期待した内容と違った。",
+          "meaning": "Dễ đọc nhưng nội dung lại khác với kỳ vọng ban đầu.",
+          "analysis": "ĐÚNG: Nam sinh nhận xét sách dùng từ ngữ đơn giản nên dễ đọc làm sách nhập môn ('簡単な言葉で書いてあるから、入門の本としてはいい'), nhưng nội dung thì toàn những kiến thức căn bản đã biết rồi chứ không đúng như kỳ vọng ban đầu ('面白そうだと思って買ったんだけど、想像してたのと違ったよ... もう知っていることばかりで')."
+        },
+        {
+          "option": "3. 読みにくいが、期待した内容と同じだった。",
+          "meaning": "Khó đọc nhưng nội dung đúng như kỳ vọng ban đầu.",
+          "analysis": "Sai: Sách dễ đọc và nội dung khác với kỳ vọng."
+        },
+        {
+          "option": "4. 読みにくく、期待した内容とも違った。",
+          "meaning": "Vừa khó đọc, nội dung lại vừa khác với kỳ vọng ban đầu.",
+          "analysis": "Sai: Sách không hề khó đọc ('簡単な言葉で書いてある')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「男：面白そうだと思って買ったんだけど、想像してたのと違ったよ。...書いてあることが、基礎的なこととかもう知っていることばかりで。...簡単な言葉で書いてあるから、入門の本としてはいいと思うよ。」",
+      "explanation": "Đáp án đúng là 2 (読みやすいが、期待した内容と違った).\n- Câu hỏi trong audio: 「男の学生はこの本について何と言っていますか。」 (Nam sinh nói gì về cuốn sách này?).\n- Nam sinh nhận xét: Cuốn sách dùng từ ngữ đơn giản, dễ đọc thích hợp cho người mới bắt đầu (読みやすい); tuy nhiên khi mua tưởng nội dung bí mật hấp dẫn nhưng đọc vào toàn kiến thức cơ bản đã biết rồi, khác hẳn tưởng tượng ban đầu (期待した内容と違った).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> この『<ruby>経済<rt>けいざい</rt></ruby><ruby>学<rt>がく</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>』っていうの、<ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>ですか。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うん、そう。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> どうですか。<ruby>私<rt>わたし</rt></ruby>が<ruby>最近<rt>さいきん</rt></ruby><ruby>読<rt>よ</rt></ruby>んだ<ruby>本<rt>ほん</rt></ruby>は、<ruby>文章<rt>ぶんしょう</rt></ruby>がわかりにくくて、<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>読<rt>よ</rt></ruby>みたくなくなっちゃったんですよね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> それは<ruby>一応<rt>いちおう</rt></ruby>ないけど、<strong><ruby>面白<rt>おもしろ</rt></ruby>そうだと<ruby>思<rt>おも</rt></ruby>って<ruby>買<rt>か</rt></ruby>ったんだけど、<ruby>想像<rt>そうぞう</rt></ruby>してたのと<ruby>違<rt>ちが</rt></ruby>ったよ。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> そうなんですか。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>書<rt>か</rt></ruby>いてあることが、<ruby>基礎<rt>きそ</rt></ruby><ruby>的<rt>てき</rt></ruby>なこととかもう<ruby>知<rt>し</rt></ruby>っていることばかりで。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>先輩<rt>せんぱい</rt></ruby>にとっては<ruby>秘密<rt>ひみつ</rt></ruby>じゃなかったんですね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong><ruby>簡単<rt>かんたん</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてあるから、<ruby>入門<rt>にゅうもん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>としてはいいと<ruby>思<rt>おも</rt></ruby>うよ。</strong><br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>はこの<ruby>本<rt>ほん</rt></ruby>について<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>っていますか。<br>1. <ruby>読<rt>よ</rt></ruby>みやすく、<ruby>期待<rt>きたい</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じだった。<br>2. <ruby>読<rt>よ</rt></ruby>みやすいが、<ruby>期待<rt>きたい</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>った。<br>3. <ruby>読<rt>よ</rt></ruby>みにくいが、<ruby>期待<rt>きたい</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じだった。<br>4. <ruby>読<rt>よ</rt></ruby>みにくく、<ruby>期待<rt>きたい</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>とも<ruby>違<rt>ちが</rt></ruby>った。</p>",
+      "scriptVi": "Nữ sinh: Cuốn 'Bí mật của Kinh tế học' này là sách của tiền bối ạ?\nNam sinh: Ừ, đúng rồi em.\nNữ sinh: Đọc thế nào hả anh? Cuốn sách dạo này em đọc văn phong khó hiểu quá làm em đọc dở chừng là chẳng muốn đọc nữa.\nNam sinh: Cuốn này thì không đến nỗi khó hiểu như thế, anh thấy có vẻ hay nên mua nhưng nội dung lại khác hẳn so với tưởng tượng ban đầu của anh.\nNữ sinh: Thế ạ anh?\nNam sinh: Những điều viết trong sách toàn là những kiến thức cơ bản mà anh đã biết từ trước cả rồi.\nNữ sinh: Ra là đối với anh thì chẳng còn là bí mật gì nữa rồi.\nNam sinh: Sách viết bằng từ ngữ rất đơn giản, nên anh nghĩ làm sách nhập môn cho người mới bắt đầu thì rất tốt.\nCâu hỏi: Nam sinh nói gì về cuốn sách này?\n1. Dễ đọc và nội dung đúng như kỳ vọng ban đầu\n2. Dễ đọc nhưng nội dung lại khác với kỳ vọng ban đầu\n3. Khó đọc nhưng nội dung đúng như kỳ vọng ban đầu\n4. Vừa khó đọc, nội dung lại vừa khác với kỳ vọng ban đầu"
+    },
+    {
+      "id": 44,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai5/44.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 壊れたカメラを直してほしい。",
+          "meaning": "Muốn nhờ sửa hộ chiếc máy ảnh bị hỏng.",
+          "analysis": "Sai: Máy ảnh của nữ sinh không kịp sửa trước cuối tuần."
+        },
+        {
+          "option": "2. カメラを貸してほしい。",
+          "meaning": "Muốn mượn máy ảnh của Kimura.",
+          "analysis": "Sai: Khi Kimura đề nghị cho mượn máy, nữ sinh đã từ chối vì không quen dùng máy của người khác ('木村君のカメラだと撮り方とかよくわからないし')."
+        },
+        {
+          "option": "3. 写真の撮り方を教えてほしい。",
+          "meaning": "Muốn nhờ hướng dẫn cách chụp ảnh đẹp.",
+          "analysis": "Sai: Nữ sinh không nhờ dạy cách chụp."
+        },
+        {
+          "option": "4. 写真の係を代わってほしい。",
+          "meaning": "Muốn nhờ Kimura đảm nhận thay nhiệm vụ chụp ảnh cho đoàn du lịch.",
+          "analysis": "ĐÚNG: Nữ sinh nhận nhiệm vụ chụp ảnh nhưng máy hỏng, biết Kimura có sở thích và kỹ năng chụp ảnh đẹp nên muốn nhờ Kimura làm chân chụp ảnh thay mình ('木村君の方が撮るのが上手だと思うから、お願いできない？')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「女：実は、私旅行で皆の写真を撮る写真の係を引き受けてるんだ。でも、昨日私のカメラ壊れちゃって... 木村君のカメラだと撮り方とかよくわからないし、木村君の方が撮るのが上手だと思うから、お願いできない？男：そう？うん、わかった。」",
+      "explanation": "Đáp án đúng là 4 (写真の係を代わってほしい).\n- Câu hỏi trong audio: 「女の学生が言いたいことは何ですか。」 (Điều nữ sinh muốn nói/nhờ vả là gì?).\n- Nữ sinh được giao nhiệm vụ chụp ảnh cho chuyến du lịch CLB nhưng máy ảnh bị hỏng. Khi Kimura định cho mượn máy, cô từ chối vì không thạo chụp máy lạ và khen Kimura chụp đẹp hơn, ngỏ ý nhờ Kimura làm chân chụp ảnh thay mình trong chuyến đi.\n- Do đó điều cô muốn là nhờ đổi người phụ trách chụp ảnh (写真の係を代わってほしい).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>、<ruby>週末<rt>しゅうまつ</rt></ruby>のクラブの<ruby>旅行<rt>りょこう</rt></ruby><ruby>行<rt>い</rt></ruby>く？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うん、<ruby>行<rt>い</rt></ruby>くよ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> ねえ、<ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>って<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>るのが<ruby>趣味<rt>しゅみ</rt></ruby>だって<ruby>言<rt>い</rt></ruby>ってたよね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そうだけど、どうして？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>実<rt>じつ</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>で<ruby>皆<rt>みな</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>る<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>係<rt>かかり</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>受<rt>う</rt></ruby>けてるんだ。でも、<ruby>昨日<rt>きのう</rt></ruby><ruby>私<rt>わたし</rt></ruby>のカメラ<ruby>壊<rt>こわ</rt></ruby>れちゃって、<ruby>週末<rt>しゅうまつ</rt></ruby>までに<ruby>直<rt>なお</rt></ruby>りそうにないんだ。それで、<ruby>悪<rt>わる</rt></ruby>いんだけど<ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>みたいと<ruby>思<rt>おも</rt></ruby>って。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> ああ、<ruby>僕<rt>ぼく</rt></ruby><ruby>使<rt>つか</rt></ruby>ってないカメラがあるから<ruby>貸<rt>か</rt></ruby>そうか？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> ありがとう。でも、<ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>のカメラだと<ruby>撮<rt>と</rt></ruby>り<ruby>方<rt>かた</rt></ruby>とかよくわからないし、<strong><ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>が<ruby>撮<rt>と</rt></ruby>るのが<ruby>上手<rt>じょうず</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>うから、お<ruby>願<rt>ねが</rt></ruby>いできない？</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そう？うん、わかった。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>が<ruby>言<rt>い</rt></ruby>いたいことは<ruby>何<rt>なん</rt></ruby>ですか。<br>1. <ruby>壊<rt>こわ</rt></ruby>れたカメラを<ruby>直<rt>なお</rt></ruby>してほしい。<br>2. カメラを<ruby>貸<rt>か</rt></ruby>してほしい。<br>3. <ruby>写真<rt>しゃしん</rt></ruby>の<ruby>撮<rt>と</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてほしい。<br>4. <ruby>写真<rt>しゃしん</rt></ruby>の<ruby>係<rt>かかり</rt></ruby>を<ruby>代<rt>か</rt></ruby>わってほしい。</p>",
+      "scriptVi": "Nữ sinh: Kimura này, cuối tuần này cậu có đi du lịch cùng CLB không?\nNam sinh: Ừ, tớ có đi chứ.\nNữ sinh: Này, trước cậu bảo sở thích của cậu là chụp ảnh đúng không nhỉ.\nNam sinh: Đúng rồi, sao thế cậu?\nNữ sinh: Thật ra tớ nhận chân phụ trách chụp ảnh cho mọi người trong chuyến đi này. Cơ mà hôm qua máy ảnh của tớ bị hỏng mất, chắc không kịp sửa trước cuối tuần. Thế nên tớ ngại quá nhưng muốn nhờ cậu một việc.\nNam sinh: À, tớ có chiếc máy ảnh không dùng đến, hay để tớ cho cậu mượn nhé?\nNữ sinh: Cảm ơn cậu nhé. Nhưng mà dùng máy ảnh của cậu thì tớ không quen chụp, với lại tớ thấy cậu chụp ảnh đẹp hơn nhiều, nên cậu nhận chân chụp ảnh thay tớ được không?\nNam sinh: Thế hả? Ừ, được thôi.\nCâu hỏi: Điều nữ sinh muốn nói/nhờ vả là gì?\n1. Muốn nhờ sửa máy ảnh bị hỏng\n2. Muốn mượn máy ảnh\n3. Muốn nhờ chỉ cách chụp ảnh\n4. Muốn nhờ nhận thay nhiệm vụ chụp ảnh"
+    },
+    {
+      "id": 45,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai5/45.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 秋に人気があるスポーツ",
+          "meaning": "Môn thể thao được ưa chuộng vào mùa thu.",
+          "analysis": "Sai: Đạp xe chỉ là hoạt động kết nối với dịch vụ của nhà trọ."
+        },
+        {
+          "option": "2. 自転車旅行に便利な旅館",
+          "meaning": "Nhà trọ truyền thống tiện lợi và lý tưởng cho người đi du lịch bằng xe đạp.",
+          "analysis": "ĐÚNG: Người phụ nữ giới thiệu nhà trọ Yamakawa với hàng loạt tiện ích cho người đi xe đạp: nằm cạnh cung đường đạp xe nổi tiếng, ngồi nguyên trên xe đạp làm thủ tục check-in ('自転車に乗ったままチェックイン'), dắt xe để vào trong phòng ('自転車も部屋の中に置ける'), nhân viên tư vấn cung đường, có suối nước nóng ngâm mình sau khi đạp xe ('温泉で汗を流す')."
+        },
+        {
+          "option": "3. サイクリングコースの選び方",
+          "meaning": "Cách lựa chọn các cung đường đạp xe ngắm cảnh.",
+          "analysis": "Sai: Bài nói không hướng dẫn tiêu chí chọn cung đường."
+        },
+        {
+          "option": "4. 美しい景色が楽しめる温泉",
+          "meaning": "Khu suối nước nóng có thể thưởng ngoạn cảnh đẹp.",
+          "analysis": "Sai: Suối nước nóng chỉ là một tiện ích bổ trợ của nhà trọ này."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「女：ここ山川旅館の近くには、人気のサイクリングコースがあり、この旅館では自転車に乗ったままチェックイン、自転車も部屋の中に置けるんです。旅館の方にサイクリングコースについて相談することもできます。」",
+      "explanation": "Đáp án đúng là 2 (自転車旅行に便利な旅館).\n- Câu hỏi trong audio: 「女の人は何について話していますか。」 (Người phụ nữ đang nói về điều gì?).\n- Bài nói giới thiệu nhà trọ Yamakawa: Gần cung đường đạp xe nổi tiếng, cho phép ngồi trên xe làm check-in, mang xe đạp vào tận phòng, tư vấn lộ trình và có suối nước nóng thư giãn sau chặng đường dài.\n- Toàn bộ nội dung giới thiệu một nhà trọ vô cùng tiện lợi cho khách du lịch bằng xe đạp (自転車旅行に便利な旅館).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>秋<rt>あき</rt></ruby>の<ruby>山<rt>やま</rt></ruby>。<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>木<rt>き</rt></ruby>の<ruby>葉<rt>は</rt></ruby>がきれいですね。そんな<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しめる<ruby>旅行<rt>りょこう</rt></ruby>はいかがですか。<strong>ここ<ruby>山川<rt>やまかわ</rt></ruby><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、<ruby>人気<rt>にんき</rt></ruby>のサイクリングコースがあり、この<ruby>旅館<rt>りょかん</rt></ruby>では<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったままチェックイン、<ruby>自転車<rt>じてんしゃ</rt></ruby>も<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>置<rt>お</rt></ruby>けるんです。<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>にサイクリングコースについて<ruby>相談<rt>そうだん</rt></ruby>することもできます。</strong><ruby>山<rt>やま</rt></ruby>を<ruby>走<rt>はし</rt></ruby>った<ruby>後<rt>あと</rt></ruby>、<ruby>温泉<rt>おんせん</rt></ruby>で<ruby>汗<rt>あせ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>すのもまた<ruby>気持<rt>きも</rt></ruby>ちがよさそうですね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか。<br>1. <ruby>秋<rt>あき</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>があるスポーツ<br>2. <ruby>自転車<rt>じてんしゃ</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>な<ruby>旅館<rt>りょかん</rt></ruby><br>3. サイクリングコースの<ruby>選<rt>えら</rt></ruby>び<ruby>方<rt>かた</rt></ruby><br>4. <ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しめる<ruby>温泉<rt>おんせん</rt></ruby></p>",
+      "scriptVi": "Người phụ nữ: Núi rừng mùa thu. Từng tán lá cây chuyển sang màu đỏ, màu vàng thật là tuyệt đẹp quý vị nhỉ. Một chuyến du lịch để thưởng ngoạn khung cảnh hữu tình ấy thì sao quý vị nhỉ? Ngay gần Nhà trọ Yamakawa này có một cung đường đạp xe rất được yêu thích, và tại nhà trọ này quý vị có thể ngồi nguyên trên xe đạp để làm thủ tục nhận phòng (check-in), xe đạp cũng có thể mang để ngay trong phòng ngủ của mình. Quý vị cũng có thể nhờ nhân viên nhà trọ tư vấn về các cung đường đạp xe ngắm cảnh. Sau khi đạp xe chinh phục cung đường đồi núi, được ngâm mình trong làn suối nước nóng để xua tan mồ hôi và mệt mỏi thì thật sảng khoái biết bao.\nCâu hỏi: Người phụ nữ đang nói về điều gì?\n1. Môn thể thao được yêu thích vào mùa thu\n2. Nhà trọ tiện lợi cho chuyến du lịch bằng xe đạp\n3. Cách lựa chọn cung đường đạp xe\n4. Khu suối nước nóng có thể ngắm phong cảnh đẹp"
+    }
+  ]
+}

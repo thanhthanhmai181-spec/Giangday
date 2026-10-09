@@ -1,0 +1,61 @@
+{
+  "id": "dokkai-n3-doanvan-12",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 12,
+  "title": "ほかとは違う絵 (Bức tranh khác biệt)",
+  "timeLimit": 180,
+  "passage": "<p>ロビーには、子どもたちが<ruby>描<rt>えが</rt></ruby>いた「<ruby>緑<rt>みどり</rt></ruby>の<ruby>丘<rt>おか</rt></ruby>から<ruby>見<rt>み</rt></ruby>た<ruby>町<rt>まち</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>」の<ruby>絵<rt>え</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>られていた。その<ruby>中<rt>なか</rt></ruby>に<ruby>一<rt>ひと</rt></ruby>つ、ほかとは<ruby>違<rt>ちが</rt></ruby>う<ruby>絵<rt>え</rt></ruby>があった。ほかの<ruby>絵<rt>え</rt></ruby>には<ruby>丘<rt>おか</rt></ruby>から<ruby>見<rt>み</rt></ruby>える<ruby>家<rt>いえ</rt></ruby>や<ruby>木<rt>き</rt></ruby>などが<ruby>描<rt>えが</rt></ruby>かれているのに、その<ruby>絵<rt>え</rt></ruby>だけは、<ruby>紙<rt>かみ</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>青<rt>あお</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>で<ruby>塗<rt>ぬ</rt></ruby>られ、あちらこちらに<ruby>白<rt>しろ</rt></ruby>いものが<ruby>描<rt>えが</rt></ruby>かれていた。たぶん、この<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いた子どもは、<ruby>丘<rt>おか</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>から<ruby>町<rt>まち</rt></ruby>を<ruby>見<rt>み</rt></ruby>ているうちに<ruby>空<rt>そら</rt></ruby>の<ruby>青<rt>あお</rt></ruby>さと<ruby>流<rt>なが</rt></ruby>れていく<ruby>雲<rt>くも</rt></ruby>に<ruby>心<rt>こころ</rt></ruby>をひかれていったのだろう。そして、その<ruby>空<rt>そら</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさを<ruby>紙<rt>かみ</rt></ruby>いっぱいに<ruby>描<rt>えが</rt></ruby>いたのではないだろうか。</p>",
+  "fullTranslation": "Tại sảnh chờ có trưng bày những bức tranh với chủ đề 'Phong cảnh thị trấn nhìn từ ngọn đồi xanh' do các em thiếu nhi vẽ. Trong số đó có một bức tranh hoàn toàn khác biệt với những bức còn lại. Trong khi những bức tranh khác đều vẽ nhà cửa và cây cối nhìn thấy từ ngọn đồi, thì riêng bức tranh đó toàn bộ mặt giấy lại được phủ một màu xanh biếc, điểm xuyết rải rác đây đó là những mảng màu trắng. Có lẽ đứa trẻ vẽ bức tranh này trong lúc ngắm nhìn thị trấn từ đỉnh đồi đã bị cuốn hút tâm hồn bởi nền trời xanh ngắt và những áng mây bồng bềnh lướt trôi. Và rồi, phải chăng em đã vẽ trọn vẹn vẻ đẹp của bầu trời ấy phủ kín khắp cả trang giấy?",
+  "vocabulary": [
+    { "word": "丘", "hiragana": "おか", "meaning": "Ngọn đồi" },
+    { "word": "飾る", "hiragana": "かざる", "meaning": "Trang trí / Trưng bày" },
+    { "word": "塗る", "hiragana": "ぬる", "meaning": "Tô (màu) / Quét (sơn)" },
+    { "word": "あちらこちら", "hiragana": "あちらこちら", "meaning": "Đây đó / Rải rác khắp nơi" },
+    { "word": "心をひかれる", "hiragana": "こころをひかれる", "meaning": "Bị cuốn hút / Bị mê hoặc tâm hồn" },
+    { "word": "紙いっぱいに", "hiragana": "かみいっぱいに", "meaning": "Tràn ngập khắp mặt giấy" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜のに", "meaning": "Thế mà / Mặc dù... nhưng..." },
+    { "pattern": "〜ているうちに", "meaning": "Trong lúc đang... thì (có sự thay đổi)" },
+    { "pattern": "〜のではないだろうか", "meaning": "Phải chăng là... / Có lẽ là... (dự đoán mang tính khẳng định nhẹ nhàng)" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：ほかとは違う絵を描いた子どもについて、この文章を書いた人はどう言っているか。",
+      "options": [
+        "ほかの子どもと同じような絵は描きたくなかったのだろう。",
+        "そのとき最も印象的だったものをそのまま描いたのだろう。",
+        "丘から見える家や木を上手に描くことができなかったのだろう。",
+        "空を描いているうちに、紙が足りなくなってしまったのだろう。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "ほかの子どもと同じような絵は描きたくなかったのだろう。",
+          "meaning": "Chắc là đứa trẻ không muốn vẽ bức tranh giống như các bạn khác.",
+          "analysis": "Sai: Tác giả không hề nói đứa trẻ cố tình muốn tạo sự khác biệt hay ghét vẽ giống bạn."
+        },
+        {
+          "option": "そのとき最も印象的だったものをそのまま描いたのだろう。",
+          "meaning": "Chắc là đứa trẻ đã vẽ đúng theo thứ để lại ấn tượng sâu đậm nhất với mình lúc đó.",
+          "analysis": "ĐÚNG: Đứa trẻ bị cuốn hút tâm trí bởi bầu trời xanh và mây trôi ('空の青さと流れていく雲に心をひかれていった'), tức là thứ gây ấn tượng nhất, và đã vẽ trọn vẹn vẻ đẹp đó ra giấy."
+        },
+        {
+          "option": "丘から見える家や木を上手に描くことができなかったのだろう。",
+          "meaning": "Chắc là đứa trẻ không thể vẽ đẹp nhà cửa và cây cối.",
+          "analysis": "Sai: Tác giả không đánh giá thấp kỹ năng vẽ của đứa trẻ."
+        },
+        {
+          "option": "空を描いているうちに、紙が足りなくなってしまったのだろう。",
+          "meaning": "Chắc là trong lúc vẽ bầu trời thì bị thiếu giấy.",
+          "analysis": "Sai hoàn toàn: '紙いっぱいに描いた' nghĩa là em chủ ý vẽ bầu trời phủ kín toàn bộ trang giấy."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「丘の上から町を見ているうちに空の青さと流れていく雲に心をひかれていったのだろう。そして、その空の美しさを紙いっぱいに描いたのではないだろうか。」",
+      "explanation": "Đáp án 2 đúng. Người viết cảm nhận rằng đứa trẻ trong lúc đứng trên đồi đã bị vẻ đẹp của bầu trời xanh biếc và những đám mây trôi làm rung động sâu sắc (thứ ấn tượng nhất), nên em đã vẽ lại trọn vẹn cảnh tượng tươi đẹp đó ngập tràn khắp trang giấy."
+    }
+  ]
+}

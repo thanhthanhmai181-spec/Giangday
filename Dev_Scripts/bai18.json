@@ -1,0 +1,1292 @@
+﻿{
+    "name":  "Bài 18",
+    "x":  570,
+    "y":  440,
+    "comparison":  "\u003ctable class=\u0027grammar-comparison-table\u0027 style=\u0027width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00273\u0027 style=\u0027border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003eBảng Phân Biệt Các Mẫu Định Nghĩa, Bày Tỏ Ý Kiến \u0026 So Sánh (Bài 18)\u003c/th\u003e\u003c/tr\u003e\u003ctr style=\u0027background:#f0eae1;font-weight:bold;\u0027\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:24%;color:#b30000;\u0027\u003eCấu trúc\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:30%;color:#b30000;\u0027\u003eBản chất \u0026 Sắc thái\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;\u0027\u003eÝ nghĩa \u0026 Ví dụ tiêu biểu\u003c/td\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;\u0027\u003e〜というのは〜だ\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eĐịnh nghĩa, giải thích ý nghĩa từ vựng, thuật ngữ\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eNghĩa là... / Cái gọi là...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 「禁煙」というのはタバコを吸ってはいけないということだ。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;\u0027\u003e〜のではないか\u003cbr\u003e〜んじゃない？\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eBày tỏ ý kiến, suy đoán nhẹ nhàng, lịch sự\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eChẳng phải là... hay sao? / Có lẽ là...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 家族が一番大切なのではないだろうか。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;\u0027\u003e〜ようだ (Ví von)\u003cbr\u003eまるで〜のようだ\u003cbr\u003e〜かのようだ\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eVí von trừu tượng, giả định (thực tế không phải)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eCứ như thể là... / Giống như...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: まるで春が来たかのようだ。(Cứ như mùa xuân đã về)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#16a34a;text-align:center;\u0027\u003e〜みたいだ\u003cbr\u003e〜みたいに／な\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eKhẩu ngữ thân mật của ようだ (N trực tiếp không の)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eGiống như / Có vẻ như...\u003c/b\u003e (Hội thoại hàng ngày)\u003cbr\u003e\u003cem\u003eVD: 彼は子供みたいです。(Anh ấy như trẻ con)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#7c3aed;text-align:center;\u0027\u003e〜ようだ (So sánh)\u003cbr\u003e〜ように／な\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eSo sánh thực tế hoặc học theo hình mẫu tiêu biểu\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eGiống như... / Noi gương theo...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 彼のように日本語が上手になりたい。(Giỏi như anh ấy)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#0891b2;text-align:center;\u0027\u003e〜ように (Mục đích / Làm theo)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eHướng tới mục tiêu (thể khả năng/V-ない) hoặc làm theo chỉ dẫn\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eĐể... / Đúng theo như...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 早く治るように薬を飲む。(Uống thuốc để nhanh khỏi)\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003cdiv style=\u0027background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;\u0027\u003e\u003cdiv style=\u0027text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;\u0027\u003e\u003ch3 style=\u0027margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e🎌 BẢNG TỔNG HỢP TOÀN BỘ CÁC CÁCH SỬ DỤNG CỦA「よう」🎌\u003c/h3\u003e\u003cspan style=\u0027font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;\u0027\u003eHệ thống 7 cách sử dụng cốt lõi của 「よう」 từ N4 đến N3\u003c/span\u003e\u003c/div\u003e\u003cdiv style=\u0027display:grid;grid-template-columns:repeat(auto-fit, minmax(320px, 1fr));gap:1.2rem;\u0027\u003e\u003cdiv style=\u0027border:2px solid #dc2626;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fee2e2;color:#991b1b;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #dc2626;\u0027\u003e1. Cứ như là... (Ví von giả định)\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#fef2f2;border:1px solid #fca5a5;border-radius:6px;padding:0.6rem;text-align:center;font-family:\"Noto Sans JP\",sans-serif;font-weight:bold;margin-bottom:0.5rem;color:#b91c1c;\u0027\u003eまるで ＋ N の よう\u003c/div\u003e\u003cdiv style=\u0027background:#f8fafc;border:1px solid #cbd5e1;border-radius:6px;padding:0.6rem;font-size:0.92rem;line-height:1.6;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eVTTT / A-い / N である / A-な である\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#dc2626;\u0027\u003e＋ かのよう\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e（ようだ・ように・ようなN）\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• So sánh 2 đối tượng có điểm tương đồng (thực tế không phải)\u003cbr\u003e• Đi kèm: \u003cb\u003eまるで / あたかも\u003c/b\u003e\u003cbr\u003e• Khẩu ngữ: \u003cb\u003e＝ みたい\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;\u0027\u003e2. Hình như, dường như (Phán đoán)\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#eff6ff;border:1px solid #93c5fd;border-radius:6px;padding:0.8rem;font-size:0.95rem;line-height:1.7;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eVTTT / A-いTTT\u003cbr\u003eN の / A-な な\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#2563eb;font-size:1.1rem;\u0027\u003e＋ ようだ。\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• Phán đoán tình huống thực tế\u003cbr\u003e• \u003cb\u003eCó cơ sở:\u003c/b\u003e Nghe thấy, nhìn thấy, cảm nhận trực tiếp\u003cbr\u003e• Khẩu ngữ: \u003cb\u003e＝ みたい\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #7c3aed;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#ede9fe;color:#5b21b6;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #7c3aed;\u0027\u003e3. Giống với, như (So sánh thực tế)\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#f5f3ff;border:1px solid #c4b5fd;border-radius:6px;padding:0.6rem;font-size:0.92rem;line-height:1.6;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eVTTT / A-い\u003cbr\u003eN の / A-な な\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#7c3aed;\u0027\u003e＋ ようだ・ように・ようなN\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• 2 đối tượng giống như nhau ngoài thực tế\u003cbr\u003e• Học tập theo hình mẫu tiêu biểu (\u003ci\u003e彼のように...\u003c/i\u003e)\u003cbr\u003e• Khẩu ngữ: \u003cb\u003e＝ みたい\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #d97706;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fef3c7;color:#92400e;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #d97706;\u0027\u003e4. Giống, theo như (Làm theo)\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#fffbeb;border:1px solid #fde68a;border-radius:6px;padding:0.8rem;font-size:0.95rem;line-height:1.7;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eVTTT / N の\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#d97706;font-size:1.1rem;\u0027\u003e＋ ように\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• Thực hiện đúng theo như những gì đã nói, đã nghĩ, đã biết, đã nghe\u003cbr\u003e• VD: \u003ci\u003eご存知のように, 教えたように\u003c/i\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #0891b2;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#cffafe;color:#155e75;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #0891b2;\u0027\u003e5. Để.... (Chỉ mục đích)\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#ecfeff;border:1px solid #a5f3fc;border-radius:6px;padding:0.8rem;font-size:0.95rem;line-height:1.7;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eV-る (Thể khả năng)\u003cbr\u003eV-ない\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#0891b2;font-size:1.1rem;\u0027\u003e＋ ように\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• Để làm gì, để có thể làm gì, để không bị... (hướng tới trạng thái/khả năng)\u003cbr\u003e• VD: \u003ci\u003e早く治るように, 忘れないように\u003c/i\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #16a34a;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dcfce7;color:#166534;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #16a34a;\u0027\u003e6. Cố gắng... Hãy cố gắng\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#f0fdf4;border:1px solid #bbf7d0;border-radius:6px;padding:0.6rem;font-size:0.92rem;line-height:1.6;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eV-る ／ V-ない\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#16a34a;\u0027\u003e＋ ようにする\u003c/b\u003e (Cố gắng làm V)\u003cbr\u003e\u003cb style=\u0027color:#16a34a;\u0027\u003e＋ ようにしている\u003c/b\u003e (Đang cố gắng/thói quen)\u003cbr\u003e\u003cb style=\u0027color:#16a34a;\u0027\u003e＋ ようにして下さい\u003c/b\u003e (Hãy cố gắng...)\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• Cố gắng thực hiện hoặc duy trì một thói quen tốt\u003cbr\u003e• Lời khuyên nhắc nhở người khác cố gắng làm\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #c026d3;border-radius:10px;overflow:hidden;background:#fff;grid-column:1 / -1;\u0027\u003e\u003cdiv style=\u0027background:#fae8ff;color:#86198f;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #c026d3;\u0027\u003e7. Đã có thể... / Trở nên... (Biến đổi trạng thái \u0026 khả năng)\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;\u0027\u003e\u003cdiv style=\u0027background:#fdf4ff;border:1px solid #f5d0fe;border-radius:6px;padding:0.8rem;text-align:center;font-size:1.05rem;line-height:1.7;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cspan style=\u0027color:#0f172a;font-weight:bold;\u0027\u003eV-る (Thể khả năng) ／ V-ない\u003c/span\u003e\u003cbr\u003e\u003cb style=\u0027color:#c026d3;font-size:1.2rem;\u0027\u003e＋ ようになりました。\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027background:#f1f5f9;border-top:1px solid #e2e8f0;padding:0.6rem 0.8rem;font-size:0.88rem;color:#334155;line-height:1.4;\u0027\u003e• \u003cb\u003eĐã có thể làm được...\u003c/b\u003e (Trước kia không làm được nhưng giờ đã rèn luyện và làm được)\u003cbr\u003e• \u003cb\u003eĐã bỏ...\u003c/b\u003e (Trước kia thường làm nhưng giờ đã từ bỏ, không làm nữa)\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+    "items":  [
+                  {
+                      "structure":  "〜というのは〜だ",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.2rem;font-size:1.2rem;color:#ffd700;font-weight:800;text-align:center;width:28%;\u0027\u003eN\u003c/td\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eというのは 〜 のことだ ／ という意味だ ／ ということだ\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.9rem;display:block;margin-top:0.3rem;\u0027\u003eĐịnh nghĩa, giải thích ý nghĩa từ vựng, thuật ngữ hoặc sự việc\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1.2rem;font-size:1.2rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eVTTT\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Nghĩa là... / Cái gọi là...",
+                      "usage":  "• Dùng để định nghĩa, giải thích ý nghĩa của một từ vựng, khái niệm, từ viết tắt hoặc một sự việc cụ thể nào đó.\u003cbr\u003e• Vế trước thường là từ cần giải thích để trong ngoặc kép 「〜」.\u003cbr\u003e• Vế sau thường kết thúc bằng: \u003cb\u003e〜のことだ\u003c/b\u003e (là chỉ sự việc...), \u003cb\u003e〜という意味だ\u003c/b\u003e (có ý nghĩa là...), \u003cb\u003e〜ということだ\u003c/b\u003e (có nghĩa là việc...).\u003cbr\u003e• Khi vế trước là mệnh đề (VTTT), có thể dùng để xác nhận tính xác thực của thông tin (\u003ci\u003e〜というのは本当ですか: Việc... có đúng là sự thật không?\u003c/i\u003e).",
+                      "explanation":  "Đưa ra chủ đề hoặc khái niệm cần làm rõ ở vế đầu với というのは, sau đó trình bày định nghĩa hoặc bản chất của nó ở vế sau.",
+                      "examples":  [
+                                       {
+                                           "jp":  "「こんにちは」というのは「Xin chào」という意味だ。",
+                                           "vi":  "\"Konnichiwa\" có nghĩa là \"Xin chào\".",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_74.1.png"
+                                       },
+                                       {
+                                           "jp":  "「マック」というのは「マクドナルド」だよ。",
+                                           "vi":  "\"Makku\" nghĩa là \"McDonald\u0027s\" đấy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_74.2.png"
+                                       },
+                                       {
+                                           "jp":  "「\u003cruby\u003e禁煙\u003crt\u003eきんえん\u003c/rt\u003e\u003c/ruby\u003e」というのは「タバコを\u003cruby\u003e吸\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eってはいけない」ということだ。",
+                                           "vi":  "\"Kinen\" nghĩa là \"không được hút thuốc\".",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_74.3.png"
+                                       },
+                                       {
+                                           "jp":  "「パソコン」というのは「パーソナルコンピューター」の\u003cruby\u003e略\u003crt\u003eりゃく\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                           "vi":  "\"Pasokon\" là từ viết tắt của \"Personal Computer\".",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_74.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e怒\u003crt\u003eおこ\u003c/rt\u003e\u003c/ruby\u003eったというのは、\u003cruby\u003e本当\u003crt\u003eほんとう\u003c/rt\u003e\u003c/ruby\u003eですか。",
+                                           "vi":  "Việc anh ấy nổi giận có đúng là sự thật không?",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_74.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "「\u003cruby\u003e節約\u003crt\u003eせつやく\u003c/rt\u003e\u003c/ruby\u003e」（　　）のは、お\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e無駄遣\u003crt\u003eむだづか\u003c/rt\u003e\u003c/ruby\u003eいしないことです。",
+                                                              "options":  [
+                                                                              "という",
+                                                                              "について",
+                                                                              "にとって",
+                                                                              "に対して"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "「リサイクル」というのは、ゴミを\u003cruby\u003e再利用\u003crt\u003eさいりよう\u003c/rt\u003e\u003c/ruby\u003eする（　　）のことです。",
+                                                              "options":  [
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "わけ",
+                                                                              "はず"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e辞\u003crt\u003eや\u003c/rt\u003e\u003c/ruby\u003eめた（　　）のは、\u003cruby\u003e本当\u003crt\u003eほんとう\u003c/rt\u003e\u003c/ruby\u003eですか。",
+                                                              "options":  [
+                                                                              "という",
+                                                                              "について",
+                                                                              "にとって",
+                                                                              "に対して"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "「\u003cruby\u003e満員\u003crt\u003eまんいん\u003c/rt\u003e\u003c/ruby\u003e」というのは、\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eがいっぱいで\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eれないという（　　）だ。",
+                                                              "options":  [
+                                                                              "意味",
+                                                                              "理由",
+                                                                              "目的",
+                                                                              "意見"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "「\u003cruby\u003e無料\u003crt\u003eむりょう\u003c/rt\u003e\u003c/ruby\u003e」（　　）のは、お\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e払\u003crt\u003eはら\u003c/rt\u003e\u003c/ruby\u003eわなくてもいいということです。",
+                                                              "options":  [
+                                                                              "という",
+                                                                              "について",
+                                                                              "にとって",
+                                                                              "に対して"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "「（　　）」というのは、\u003cruby\u003e車\u003crt\u003eくるま\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e止\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eめてはいけないという意味です。",
+                                                          "options":  [
+                                                                          "駐車禁止",
+                                                                          "立入禁止",
+                                                                          "撮影禁止",
+                                                                          "使用禁止"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "「（　　）」というのは、AIのことです。",
+                                                          "options":  [
+                                                                          "人工知能",
+                                                                          "自然科学",
+                                                                          "天気予報",
+                                                                          "交通安全"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "「\u003cruby\u003e完売\u003crt\u003eかんばい\u003c/rt\u003e\u003c/ruby\u003e」というのは、\u003cruby\u003e商品\u003crt\u003eしょうひん\u003c/rt\u003e\u003c/ruby\u003eがすべて（　　）たということです。",
+                                                          "options":  [
+                                                                          "売り切れ",
+                                                                          "壊れ",
+                                                                          "落ち",
+                                                                          "届い"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "「\u003cruby\u003e遅刻\u003crt\u003eちこく\u003c/rt\u003e\u003c/ruby\u003e」というのは、\u003cruby\u003e決\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eめられた（　　）に\u003cruby\u003e遅\u003crt\u003eおく\u003c/rt\u003e\u003c/ruby\u003eれることです。",
+                                                          "options":  [
+                                                                          "時間",
+                                                                          "距離",
+                                                                          "体重",
+                                                                          "気温"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "「（　　）」というのは、\u003cruby\u003e外国\u003crt\u003eがいこく\u003c/rt\u003e\u003c/ruby\u003eへ\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eって\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eすることです。",
+                                                          "options":  [
+                                                                          "留学",
+                                                                          "散歩",
+                                                                          "買い物",
+                                                                          "引っ越し"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "「\u003cruby\u003e独身\u003crt\u003eどくしん\u003c/rt\u003e\u003c/ruby\u003e」というのは、まだ\u003cruby\u003e結婚\u003crt\u003eけっこん\u003c/rt\u003e\u003c/ruby\u003e＿＿＿人のことです。",
+                                                                "options":  [
+                                                                                "していない",
+                                                                                "して",
+                                                                                "した",
+                                                                                "しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e来週\u003crt\u003eらいしゅう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e帰国\u003crt\u003eきこく\u003c/rt\u003e\u003c/ruby\u003e＿＿＿というのは、本当ですか。",
+                                                                "options":  [
+                                                                                "する",
+                                                                                "して",
+                                                                                "し",
+                                                                                "しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "「\u003cruby\u003e遠慮\u003crt\u003eえんりょ\u003c/rt\u003e\u003c/ruby\u003eする」というのは、\u003cruby\u003e気\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ということです。",
+                                                                "options":  [
+                                                                                "遣う",
+                                                                                "遣い",
+                                                                                "遣って",
+                                                                                "遣った"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "「\u003cruby\u003e欠席\u003crt\u003eけっせき\u003c/rt\u003e\u003c/ruby\u003e」というのは、\u003cruby\u003e授業\u003crt\u003eじゅぎょう\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿ことです。",
+                                                                "options":  [
+                                                                                "来ない",
+                                                                                "来て",
+                                                                                "来た",
+                                                                                "来よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e試験\u003crt\u003eしけん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e落\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eちたというのは、＿＿＿ですか。",
+                                                                "options":  [
+                                                                                "本当",
+                                                                                "本当に",
+                                                                                "本当な",
+                                                                                "本当の"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Cái gọi là \u0027Trọng tâm\u0027 nghĩa là điểm quan trọng nhất.",
+                                                                "jp":  "「\u003cruby\u003e重点\u003crt\u003eじゅうてん\u003c/rt\u003e\u003c/ruby\u003e」というのは\u003cruby\u003e最\u003crt\u003eもっと\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e点\u003crt\u003eてん\u003c/rt\u003e\u003c/ruby\u003eという意味です。"
+                                                            },
+                                                            {
+                                                                "vi":  "Kinh tế là thuật ngữ dùng để chỉ toàn bộ các hoạt động sản xuất và tiêu dùng.",
+                                                                "jp":  "「\u003cruby\u003e経済\u003crt\u003eけいざい\u003c/rt\u003e\u003c/ruby\u003e」というのは\u003cruby\u003e生産\u003crt\u003eせいさん\u003c/rt\u003e\u003c/ruby\u003eや\u003cruby\u003e消費\u003crt\u003eしょうひ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e活動\u003crt\u003eかつどう\u003c/rt\u003e\u003c/ruby\u003eのことです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Chuyện anh ấy giành được giải nhất có phải là sự thật không?",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e優勝\u003crt\u003eゆうしょう\u003c/rt\u003e\u003c/ruby\u003eしたというのは、\u003cruby\u003e本当\u003crt\u003eほんとう\u003c/rt\u003e\u003c/ruby\u003eのことですか。"
+                                                            },
+                                                            {
+                                                                "vi":  "Từ \u0027Smartphone\u0027 là cách gọi tắt của \u0027Smart Phone\u0027.",
+                                                                "jp":  "「スマホ」というのは「スマートフォン」の\u003cruby\u003e略\u003crt\u003eりゃく\u003c/rt\u003e\u003c/ruby\u003eです。"
+                                                            },
+                                                            {
+                                                                "vi":  "\u0027Cấm vào\u0027 nghĩa là không được phép đi vào nơi này.",
+                                                                "jp":  "「\u003cruby\u003e立入\u003crt\u003eたちいり\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e禁止\u003crt\u003eきんし\u003c/rt\u003e\u003c/ruby\u003e」というのは、ここに\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eってはいけないということです。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜のではないか / 〜んじゃない？",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:30%;\u0027\u003eVTTT\u003c/td\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.22rem;\u0027\u003eんじゃない？\u003cbr\u003eではないか。\u003cbr\u003eではないだろうか。\u003cbr\u003eではないのでしょうか。\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eChẳng phải là... hay sao? / Bày tỏ ý kiến, suy đoán nhẹ nhàng, lịch sự\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-い\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-な ＋ な\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eN ＋ な\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Chẳng phải là... hay sao? / Có lẽ là...",
+                      "usage":  "• Dùng để bày tỏ ý kiến, suy đoán hoặc khẳng định một cách nhẹ nhàng, lịch sự của bản thân về một vấn đề nào đó.\u003cbr\u003e• Thường được dùng nhiều trong các bài văn nghị luận, phát biểu, thuyết trình nhằm tránh cách nói áp đặt, thể hiện sự tôn trọng với người nghe.\u003cbr\u003e• \u003cb\u003eCác cấp độ lịch sự từ thân mật đến trang trọng:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;1. \u003ci\u003e〜んじゃない？\u003c/i\u003e (văn nói thân mật hàng ngày)\u003cbr\u003e\u0026nbsp;\u0026nbsp;2. \u003ci\u003e〜のではないか。\u003c/i\u003e (văn viết phổ thông)\u003cbr\u003e\u0026nbsp;\u0026nbsp;3. \u003ci\u003e〜のではないだろうか。\u003c/i\u003e (văn viết trang trọng / nghị luận)\u003cbr\u003e\u0026nbsp;\u0026nbsp;4. \u003ci\u003e〜のではないでしょうか。\u003c/i\u003e (lịch sự trong hội thoại / thuyết trình)",
+                      "explanation":  "Dùng hình thức câu hỏi phủ định gián tiếp để gián tiếp khẳng định quan điểm của người nói một cách mềm mỏng.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e頑張\u003crt\u003eがんば\u003c/rt\u003e\u003c/ruby\u003eれば\u003cruby\u003e合格\u003crt\u003eごうかく\u003c/rt\u003e\u003c/ruby\u003eするのではないか。",
+                                           "vi":  "Nếu cố gắng thì chẳng phải sẽ đỗ hay sao?",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_75.1.png"
+                                       },
+                                       {
+                                           "jp":  "こんなに\u003cruby\u003e塩辛\u003crt\u003eしおから\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e食品\u003crt\u003eしょくひん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e体\u003crt\u003eからだ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e良\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eくないのではないか。",
+                                           "vi":  "Thực phẩm mặn như thế này chẳng phải là không tốt cho sức khỏe hay sao?",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_75.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e家族\u003crt\u003eかぞく\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eなのではないだろうか。",
+                                           "vi":  "Gia đình chẳng phải là thứ quan trọng nhất hay sao?",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_75.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e一生\u003crt\u003eいっしょう\u003c/rt\u003e\u003c/ruby\u003eのことなのではないだろうか。",
+                                           "vi":  "Việc học chẳng phải là chuyện cả đời hay sao?",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_75.4.png"
+                                       },
+                                       {
+                                           "jp":  "この\u003cruby\u003e計画\u003crt\u003eけいかく\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e少\u003crt\u003eすこ\u003c/rt\u003e\u003c/ruby\u003eし\u003cruby\u003e無理\u003crt\u003eむり\u003c/rt\u003e\u003c/ruby\u003eがあるのではないでしょうか。",
+                                           "vi":  "Kế hoạch này chẳng phải là hơi quá sức/không khả thi hay sao?",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_75.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "この\u003cruby\u003e問題\u003crt\u003eもんだい\u003c/rt\u003e\u003c/ruby\u003eはもっと\u003cruby\u003e簡単\u003crt\u003eかんたん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e解決\u003crt\u003eかいけつ\u003c/rt\u003e\u003c/ruby\u003eできる（　　）のではないか。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "わけ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはもう\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eってしまったのではない（　　）か。",
+                                                              "options":  [
+                                                                              "だろ",
+                                                                              "でしょ",
+                                                                              "だ",
+                                                                              "なら"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003e（　　）のではないだろうか。",
+                                                              "options":  [
+                                                                              "な",
+                                                                              "の",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "これからはAIの\u003cruby\u003e時代\u003crt\u003eじだい\u003c/rt\u003e\u003c/ruby\u003e（　　）のではないだろうか。",
+                                                              "options":  [
+                                                                              "な",
+                                                                              "の",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "そのやり\u003cruby\u003e方\u003crt\u003eかた\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e危険\u003crt\u003eきけん\u003c/rt\u003e\u003c/ruby\u003e（　　）のではないでしょうか。",
+                                                              "options":  [
+                                                                              "な",
+                                                                              "の",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e最近\u003crt\u003eさいきん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e若者\u003crt\u003eわかもの\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e読書\u003crt\u003eどくしょ\u003c/rt\u003e\u003c/ruby\u003eの（　　）が\u003cruby\u003e減\u003crt\u003eへ\u003c/rt\u003e\u003c/ruby\u003eっているのではないか。",
+                                                          "options":  [
+                                                                          "時間",
+                                                                          "体重",
+                                                                          "気温",
+                                                                          "距離"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "この\u003cruby\u003e値段\u003crt\u003eねだん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e少\u003crt\u003eすこ\u003c/rt\u003e\u003c/ruby\u003eし（　　）のではないだろうか。",
+                                                          "options":  [
+                                                                          "高い",
+                                                                          "甘い",
+                                                                          "辛い",
+                                                                          "広い"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e環境\u003crt\u003eかんきょう\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e守\u003crt\u003eまも\u003c/rt\u003e\u003c/ruby\u003eることは\u003cruby\u003e人類\u003crt\u003eじんるい\u003c/rt\u003e\u003c/ruby\u003eの（　　）なのではないだろうか。",
+                                                          "options":  [
+                                                                          "義務",
+                                                                          "趣味",
+                                                                          "冗談",
+                                                                          "休暇"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e意見\u003crt\u003eいけん\u003c/rt\u003e\u003c/ruby\u003eが（　　）のではないだろうか。",
+                                                          "options":  [
+                                                                          "正しい",
+                                                                          "痛い",
+                                                                          "苦しい",
+                                                                          "眠い"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "そのニュースは（　　）なのではないでしょうか。",
+                                                          "options":  [
+                                                                          "事実",
+                                                                          "季節",
+                                                                          "道具",
+                                                                          "機械"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e無理\u003crt\u003eむり\u003c/rt\u003e\u003c/ruby\u003eをすると\u003cruby\u003e体\u003crt\u003eからだ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿のではないだろうか。",
+                                                                "options":  [
+                                                                                "壊す",
+                                                                                "壊して",
+                                                                                "壊した",
+                                                                                "壊そう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "この\u003cruby\u003e方法\u003crt\u003eほうほう\u003c/rt\u003e\u003c/ruby\u003eのほうが＿＿＿のではないか。",
+                                                                "options":  [
+                                                                                "便利な",
+                                                                                "便利だ",
+                                                                                "便利で",
+                                                                                "便利の"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e今\u003crt\u003eいま\u003c/rt\u003e\u003c/ruby\u003eからでもまだ＿＿＿のではないだろうか。",
+                                                                "options":  [
+                                                                                "間に合う",
+                                                                                "間に合って",
+                                                                                "間に合い",
+                                                                                "間に合おう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e真実\u003crt\u003eしんじつ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿のではないか。",
+                                                                "options":  [
+                                                                                "知っている",
+                                                                                "知って",
+                                                                                "知り",
+                                                                                "知った"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "もう\u003cruby\u003e少\u003crt\u003eすこ\u003c/rt\u003e\u003c/ruby\u003eし\u003cruby\u003e慎重\u003crt\u003eしんちょう\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿のではないだろうか。",
+                                                                "options":  [
+                                                                                "考えるべきな",
+                                                                                "考えるべきだ",
+                                                                                "考えるべきの",
+                                                                                "考えるべき"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Nếu cùng nhau hợp sức thì chẳng phải có thể hoàn thành sớm hay sao?",
+                                                                "jp":  "\u003cruby\u003e協力\u003crt\u003eきょうりょく\u003c/rt\u003e\u003c/ruby\u003eすれば、もっと\u003cruby\u003e早\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eく\u003cruby\u003e完成\u003crt\u003eかんせい\u003c/rt\u003e\u003c/ruby\u003eできるのではないだろうか。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tập thể dục mỗi ngày chẳng phải rất tốt cho cơ thể hay sao?",
+                                                                "jp":  "\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e運動\u003crt\u003eうんどう\u003c/rt\u003e\u003c/ruby\u003eするのは、\u003cruby\u003e体\u003crt\u003eからだ\u003c/rt\u003e\u003c/ruby\u003eにとてもいいのではないか。"
+                                                            },
+                                                            {
+                                                                "vi":  "Chiếc máy tính này giá hơi quá đắt có phải không nhỉ?",
+                                                                "jp":  "このパソコンは、\u003cruby\u003e値段\u003crt\u003eねだん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e高\u003crt\u003eたか\u003c/rt\u003e\u003c/ruby\u003eすぎるのではないでしょうか。"
+                                                            },
+                                                            {
+                                                                "vi":  "Sự chân thành chẳng phải là điều quan trọng nhất trong tình bạn hay sao?",
+                                                                "jp":  "\u003cruby\u003e友情\u003crt\u003eゆうじょう\u003c/rt\u003e\u003c/ruby\u003eにおいて、\u003cruby\u003e誠実\u003crt\u003eせいじつ\u003c/rt\u003e\u003c/ruby\u003eさが\u003cruby\u003e一番\u003crt\u003eいちばん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e大切\u003crt\u003eたいせつ\u003c/rt\u003e\u003c/ruby\u003eなのではないだろうか。"
+                                                            },
+                                                            {
+                                                                "vi":  "Có lẽ anh ấy đang gặp phải rắc rối gì đó chăng?",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eかトラブルを\u003cruby\u003e抱\u003crt\u003eかか\u003c/rt\u003e\u003c/ruby\u003eえているのではないか。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ようだ / 〜ように / 〜ような",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00273\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e① Ví von so sánh với まるで\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:24%;vertical-align:middle;\u0027\u003eまるで\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:28%;\u0027\u003eN ＋ の\u003c/td\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eようだ\u003cbr\u003eように〜\u003cbr\u003eようなN2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.3rem;\u0027\u003eCứ như thể là... / So sánh ví von trừu tượng\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.05);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eVTTT\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ff4d4f;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e② Ví von nâng cao: かのよう (Cứ như thể là...)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;width:38%;\u0027\u003eVTTT\u003c/td\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eかのようだ。\u003cbr\u003eかのように〜\u003cbr\u003eかのようなN2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.3rem;\u0027\u003eDiễn tả hành vi/trạng thái làm ra vẻ cứ như thật\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eN である\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-な である\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-い\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Cứ như thể là... / Giống như...",
+                      "usage":  "• Dùng để so sánh, ví von, diễn tả một sự việc, trạng thái trông giống như một sự việc khác (mặc dù thực tế không phải).\u003cbr\u003e• Thường đi kèm với phó từ \u003cb\u003eまるで\u003c/b\u003e đứng đầu câu (\u003ci\u003eまるで〜のようだ\u003c/i\u003e).\u003cbr\u003e• Dạng nâng cao \u003cb\u003e〜かのようだ / 〜かのように\u003c/b\u003e (cứ như thể là...) đi với \u003ci\u003eN である / A-な である / VTTT / A-い\u003c/i\u003e.\u003cbr\u003e• \u003cb\u003eBiến thể chia:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003e〜のようだ / 〜かのようだ\u003c/i\u003e (cuối câu)\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003e〜のような / 〜かのような ＋ N2\u003c/i\u003e (bổ nghĩa danh từ)\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003e〜のように / 〜かのように ＋ V / A\u003c/i\u003e (bổ nghĩa động từ/tính từ)",
+                      "explanation":  "Biểu thị sự liên tưởng hình ảnh đầy tính nghệ thuật hoặc cảm thán, nhấn mạnh nét tương đồng giữa hai sự việc hoàn toàn khác nhau.",
+                      "examples":  [
+                                       {
+                                           "jp":  "4\u003cruby\u003e月\u003crt\u003eがつ\u003c/rt\u003e\u003c/ruby\u003eなのにすごく\u003cruby\u003e寒\u003crt\u003eさむ\u003c/rt\u003e\u003c/ruby\u003eくて、まるで\u003cruby\u003e冬\u003crt\u003eふゆ\u003c/rt\u003e\u003c/ruby\u003eのようだ。",
+                                           "vi":  "Mặc dù là tháng 4 rồi mà trời vẫn rất lạnh, cứ như thể là mùa đông vậy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_76.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eはまるで\u003cruby\u003e天使\u003crt\u003eてんし\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e優\u003crt\u003eやさ\u003c/rt\u003e\u003c/ruby\u003eしかった。",
+                                           "vi":  "Cô ấy dịu dàng cứ như thể là một thiên sứ vậy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_76.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e夢\u003crt\u003eゆめ\u003c/rt\u003e\u003c/ruby\u003eのような\u003cruby\u003e世界\u003crt\u003eせかい\u003c/rt\u003e\u003c/ruby\u003e。",
+                                           "vi":  "Một thế giới giống như trong mơ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_76.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e今日\u003crt\u003eきょう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e暖\u003crt\u003eあたた\u003c/rt\u003e\u003c/ruby\u003eかくて、まるで\u003cruby\u003e春\u003crt\u003eはる\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e来\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eたかのようだ。",
+                                           "vi":  "Hôm nay trời ấm áp, cứ như thể là mùa xuân đã về vậy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_76.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはいつも\u003cruby\u003e社長\u003crt\u003eしゃちょう\u003c/rt\u003e\u003c/ruby\u003eであるかのように\u003cruby\u003e他人\u003crt\u003eたにん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e命令\u003crt\u003eめいれい\u003c/rt\u003e\u003c/ruby\u003eする。",
+                                           "vi":  "Anh ta lúc nào cũng ra lệnh cho người khác cứ như thể mình là giám đốc vậy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_76.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはまるで\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e知\u003crt\u003eし\u003c/rt\u003e\u003c/ruby\u003eらない（　　）のような\u003cruby\u003e顔\u003crt\u003eかお\u003c/rt\u003e\u003c/ruby\u003eをしている。",
+                                                              "options":  [
+                                                                              "か",
+                                                                              "の",
+                                                                              "に",
+                                                                              "で"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "まるで\u003cruby\u003e映画\u003crt\u003eえいが\u003c/rt\u003e\u003c/ruby\u003e（　　）ような\u003cruby\u003e劇的\u003crt\u003eげきてき\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e出来事\u003crt\u003eできごと\u003c/rt\u003e\u003c/ruby\u003eだった。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eはまるで\u003cruby\u003e鳥\u003crt\u003eとり\u003c/rt\u003e\u003c/ruby\u003eの（　　）\u003cruby\u003e軽\u003crt\u003eかる\u003c/rt\u003e\u003c/ruby\u003eやかに\u003cruby\u003e踊\u003crt\u003eおど\u003c/rt\u003e\u003c/ruby\u003eった。",
+                                                              "options":  [
+                                                                              "ように",
+                                                                              "ような",
+                                                                              "ようで",
+                                                                              "ようだ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "まるで\u003cruby\u003e真昼\u003crt\u003eまひる\u003c/rt\u003e\u003c/ruby\u003e（　　）ように\u003cruby\u003e街\u003crt\u003eまち\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e明\u003crt\u003eあか\u003c/rt\u003e\u003c/ruby\u003eるい。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "で"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "まるで\u003cruby\u003e絵\u003crt\u003eえ\u003c/rt\u003e\u003c/ruby\u003e（　　）ような\u003cruby\u003e美\u003crt\u003eうつく\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e風景\u003crt\u003eふうけい\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "まるで（　　）のような\u003cruby\u003e静\u003crt\u003eしず\u003c/rt\u003e\u003c/ruby\u003eけさだ。",
+                                                          "options":  [
+                                                                          "深夜",
+                                                                          "正午",
+                                                                          "祭り",
+                                                                          "渋滞"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはまるで（　　）であるかのように\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eでも\u003cruby\u003e知\u003crt\u003eし\u003c/rt\u003e\u003c/ruby\u003eっている。",
+                                                          "options":  [
+                                                                          "学者",
+                                                                          "赤ちゃん",
+                                                                          "泥棒",
+                                                                          "犯人"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）のように\u003cruby\u003e白\u003crt\u003eしろ\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e肌\u003crt\u003eはだ\u003c/rt\u003e\u003c/ruby\u003eをしている。",
+                                                          "options":  [
+                                                                          "雪",
+                                                                          "炭",
+                                                                          "土",
+                                                                          "鉄"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "まるで\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003eが（　　）かのように\u003cruby\u003e静\u003crt\u003eしず\u003c/rt\u003e\u003c/ruby\u003eかだった。",
+                                                          "options":  [
+                                                                          "止まった",
+                                                                          "走った",
+                                                                          "飛んだ",
+                                                                          "落ちた"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）のようにつらい\u003cruby\u003e日々\u003crt\u003eひび\u003c/rt\u003e\u003c/ruby\u003eからようやく\u003cruby\u003e抜\u003crt\u003eぬ\u003c/rt\u003e\u003c/ruby\u003eけ\u003cruby\u003e出\u003crt\u003eだ\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                          "options":  [
+                                                                          "地獄",
+                                                                          "天国",
+                                                                          "休日",
+                                                                          "散歩"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "まるで\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿かのように\u003cruby\u003e自慢\u003crt\u003eじまん\u003c/rt\u003e\u003c/ruby\u003eげに\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eす。",
+                                                                "options":  [
+                                                                                "やった",
+                                                                                "やって",
+                                                                                "やり",
+                                                                                "やろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "まるで\u003cruby\u003e氷\u003crt\u003eこおり\u003c/rt\u003e\u003c/ruby\u003eの＿＿＿\u003cruby\u003e冷\u003crt\u003eつめ\u003c/rt\u003e\u003c/ruby\u003eたい\u003cruby\u003e手\u003crt\u003eて\u003c/rt\u003e\u003c/ruby\u003eをしている。",
+                                                                "options":  [
+                                                                                "ように",
+                                                                                "ような",
+                                                                                "ようで",
+                                                                                "ようだ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "まるで\u003cruby\u003e夢\u003crt\u003eゆめ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ような\u003cruby\u003e気持\u003crt\u003eきも\u003c/rt\u003e\u003c/ruby\u003eちだ。",
+                                                                "options":  [
+                                                                                "見ている",
+                                                                                "見て",
+                                                                                "見た",
+                                                                                "見よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "まるで\u003cruby\u003e魔法\u003crt\u003eまほう\u003c/rt\u003e\u003c/ruby\u003eの＿＿＿\u003cruby\u003e不思議\u003crt\u003eふしぎ\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e力\u003crt\u003eちから\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                                "options":  [
+                                                                                "ような",
+                                                                                "ように",
+                                                                                "ようで",
+                                                                                "ようだ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "まるで\u003cruby\u003e太陽\u003crt\u003eたいよう\u003c/rt\u003e\u003c/ruby\u003eの＿＿＿\u003cruby\u003e明\u003crt\u003eあか\u003c/rt\u003e\u003c/ruby\u003eるい\u003cruby\u003e笑顔\u003crt\u003eえがお\u003c/rt\u003e\u003c/ruby\u003eだ。",
+                                                                "options":  [
+                                                                                "ような",
+                                                                                "ように",
+                                                                                "ようで",
+                                                                                "ようだ"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Cảnh đêm nơi này sáng rực rỡ cứ như thể ban ngày vậy.",
+                                                                "jp":  "ここの\u003cruby\u003e夜景\u003crt\u003eやけい\u003c/rt\u003e\u003c/ruby\u003eはまるで\u003cruby\u003e昼間\u003crt\u003eひるま\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e明\u003crt\u003eあか\u003c/rt\u003e\u003c/ruby\u003eるい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Anh ấy nói chuyện trôi chảy cứ như thể bản thân đã tận mắt nhìn thấy vậy.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはまるで\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eてきたかのように\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eす。"
+                                                            },
+                                                            {
+                                                                "vi":  "Một kỳ nghỉ tuyệt vời giống như trong câu chuyện cổ tích.",
+                                                                "jp":  "\u003cruby\u003e童話\u003crt\u003eどうわ\u003c/rt\u003e\u003c/ruby\u003eのような\u003cruby\u003e素晴\u003crt\u003eすばら\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e休暇\u003crt\u003eきゅうか\u003c/rt\u003e\u003c/ruby\u003eでした。"
+                                                            },
+                                                            {
+                                                                "vi":  "Mặt nước hồ phẳng lặng cứ như một tấm gương.",
+                                                                "jp":  "\u003cruby\u003e湖\u003crt\u003eみずうみ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e水面\u003crt\u003eみなも\u003c/rt\u003e\u003c/ruby\u003eはまるで\u003cruby\u003e鏡\u003crt\u003eかがみ\u003c/rt\u003e\u003c/ruby\u003eのようだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Trái tim tôi lạnh buốt cứ như thể đang rơi xuống hố băng vậy.",
+                                                                "jp":  "まるで\u003cruby\u003e氷\u003crt\u003eこおり\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e穴\u003crt\u003eあな\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e落\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eちたかのように\u003cruby\u003e心\u003crt\u003eこころ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e冷\u003crt\u003eつめ\u003c/rt\u003e\u003c/ruby\u003eたくなった。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜みたいだ / 〜みたいに / 〜みたいな",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:30%;\u0027\u003eN\u003c/td\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eみたいだ\u003cbr\u003eみたいに〜\u003cbr\u003eみたいなN2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eGiống như / Có vẻ như... (Văn nói thân mật, N và A-な trực tiếp)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eVTTT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-い\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-な\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Giống như / Có vẻ như...",
+                      "usage":  "• Cách nói suồng sã, thân mật hơn của \u003cb\u003e〜ようだ\u003c/b\u003e, dùng nhiều trong đàm thoại hàng ngày.\u003cbr\u003e• Dùng để: (1) Ví von so sánh, (2) Đưa ra suy đoán dựa trên cảm giác, (3) Nêu ví dụ tiêu biểu.\u003cbr\u003e• ⚠️ \u003ci\u003eĐiểm đặc biệt:\u003c/i\u003e Danh từ (N) và Tính từ đuôi na (A-な) đi trực tiếp với みたい mà \u003cb\u003ekhông cần の hay な\u003c/b\u003e (VD: \u003ci\u003e子供みたいだ, 元気みたいだ\u003c/i\u003e).\u003cbr\u003e• \u003cb\u003eBiến thể chia:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003e〜みたいだ / 〜みたいです\u003c/i\u003e (cuối câu)\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003e〜みたいな ＋ N2\u003c/i\u003e (bổ nghĩa danh từ)\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003e〜みたいに ＋ V / A\u003c/i\u003e (bổ nghĩa động từ/tính từ)",
+                      "explanation":  "Được dùng rất phổ biến trong đời sống hàng ngày của người Nhật vì cấu trúc nối đơn giản, không cần trợ từ の.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eみたいです。",
+                                           "vi":  "Anh ấy giống như một đứa trẻ vậy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_77.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e疲\u003crt\u003eつか\u003c/rt\u003e\u003c/ruby\u003eれているみたいです。",
+                                           "vi":  "Cô ấy có vẻ như đang mệt mỏi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_77.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eみたいな\u003cruby\u003e強\u003crt\u003eつよ\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e好\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eきだ。",
+                                           "vi":  "Tôi thích những người mạnh mẽ giống như anh ấy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_77.3.png"
+                                       },
+                                       {
+                                           "jp":  "あの\u003cruby\u003e雲\u003crt\u003eくも\u003c/rt\u003e\u003c/ruby\u003eは、パンみたいな\u003cruby\u003e形\u003crt\u003eかたち\u003c/rt\u003e\u003c/ruby\u003eをしていますね。",
+                                           "vi":  "Đám mây kia có hình dáng giống như một chiếc bánh mì nhỉ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_77.4.png"
+                                       },
+                                       {
+                                           "jp":  "リンちゃんみたいに\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e上手\u003crt\u003eじょうず\u003c/rt\u003e\u003c/ruby\u003eになりたいです。",
+                                           "vi":  "Tôi muốn giỏi tiếng Nhật giống như bạn Linh.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_77.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "あの\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eはモデル（　　）スタイルが\u003cruby\u003e良\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                                              "options":  [
+                                                                              "みたいに",
+                                                                              "ように",
+                                                                              "らしい",
+                                                                              "そうに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e今日\u003crt\u003eきょう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e夏\u003crt\u003eなつ\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e暑\u003crt\u003eあつ\u003c/rt\u003e\u003c/ruby\u003eいですね。",
+                                                              "options":  [
+                                                                              "みたいに",
+                                                                              "らしい",
+                                                                              "そうに",
+                                                                              "っぽい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e田中\u003crt\u003eたなか\u003c/rt\u003e\u003c/ruby\u003eさん（　　）\u003cruby\u003e親切\u003crt\u003eしんせつ\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eになりたい。",
+                                                              "options":  [
+                                                                              "みたいな",
+                                                                              "のような",
+                                                                              "らしい",
+                                                                              "そうな"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eってきた（　　）だよ。",
+                                                              "options":  [
+                                                                              "みたい",
+                                                                              "よう",
+                                                                              "そう",
+                                                                              "らしい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "お\u003cruby\u003e人形\u003crt\u003eにんぎょう\u003c/rt\u003e\u003c/ruby\u003e（　　）\u003cruby\u003e可愛\u003crt\u003eかわい\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e顔\u003crt\u003eかお\u003c/rt\u003e\u003c/ruby\u003eをしている。",
+                                                              "options":  [
+                                                                              "みたいな",
+                                                                              "らしい",
+                                                                              "そうな",
+                                                                              "っぽい"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは（　　）みたいに\u003cruby\u003e走\u003crt\u003eはし\u003c/rt\u003e\u003c/ruby\u003eるのが\u003cruby\u003e速\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                                          "options":  [
+                                                                          "チーター",
+                                                                          "カメ",
+                                                                          "カエル",
+                                                                          "魚"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e隣\u003crt\u003eとなり\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eから（　　）がするみたいだ。",
+                                                          "options":  [
+                                                                          "声",
+                                                                          "色",
+                                                                          "匂い",
+                                                                          "味"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "このお\u003cruby\u003e菓子\u003crt\u003eかし\u003c/rt\u003e\u003c/ruby\u003eは（　　）みたいな\u003cruby\u003e形\u003crt\u003eかたち\u003c/rt\u003e\u003c/ruby\u003eをしている。",
+                                                          "options":  [
+                                                                          "星",
+                                                                          "季節",
+                                                                          "法律",
+                                                                          "経済"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e風邪\u003crt\u003eかぜ\u003c/rt\u003e\u003c/ruby\u003eをひいたみたいで、（　　）が\u003cruby\u003e痛\u003crt\u003eいた\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                                          "options":  [
+                                                                          "喉",
+                                                                          "靴",
+                                                                          "傘",
+                                                                          "鍵"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）みたいな\u003cruby\u003e綺麗\u003crt\u003eきれい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e海\u003crt\u003eうみ\u003c/rt\u003e\u003c/ruby\u003eで泳ぎたい。",
+                                                          "options":  [
+                                                                          "南国",
+                                                                          "砂漠",
+                                                                          "工場",
+                                                                          "都会"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはもう＿＿＿みたいですね。",
+                                                                "options":  [
+                                                                                "帰った",
+                                                                                "帰って",
+                                                                                "帰り",
+                                                                                "帰ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "この\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eは＿＿＿みたいで、あまり\u003cruby\u003e美味\u003crt\u003eおい\u003c/rt\u003e\u003c/ruby\u003eしくない。",
+                                                                "options":  [
+                                                                                "甘すぎる",
+                                                                                "甘すぎて",
+                                                                                "甘すぎ",
+                                                                                "甘すぎた"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e山田\u003crt\u003eやまだ\u003c/rt\u003e\u003c/ruby\u003eさんは＿＿＿みたいです。",
+                                                                "options":  [
+                                                                                "元気",
+                                                                                "元気な",
+                                                                                "元気で",
+                                                                                "元気に"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e外\u003crt\u003eそと\u003c/rt\u003e\u003c/ruby\u003eはかなり＿＿＿みたいですよ。",
+                                                                "options":  [
+                                                                                "寒い",
+                                                                                "寒く",
+                                                                                "寒くて",
+                                                                                "寒かった"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "どうやら\u003cruby\u003e電車\u003crt\u003eでんしゃ\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿みたいだ。",
+                                                                "options":  [
+                                                                                "遅れている",
+                                                                                "遅れて",
+                                                                                "遅れ",
+                                                                                "遅れた"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Căn phòng này ấm áp giống như mùa xuân vậy.",
+                                                                "jp":  "この\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e春\u003crt\u003eはる\u003c/rt\u003e\u003c/ruby\u003eみたいに\u003cruby\u003e暖\u003crt\u003eあたた\u003c/rt\u003e\u003c/ruby\u003eかいです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Hình như ngày mai trời sẽ mưa đấy.",
+                                                                "jp":  "\u003cruby\u003e明日\u003crt\u003eあした\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eるみたいですね。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi cũng muốn mua một chiếc ô tô đẹp giống như chiếc kia.",
+                                                                "jp":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eもあんなかっこいい\u003cruby\u003e車\u003crt\u003eくるま\u003c/rt\u003e\u003c/ruby\u003eみたいなのが\u003cruby\u003e欲\u003crt\u003eほ\u003c/rt\u003e\u003c/ruby\u003eしい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cô ấy trông có vẻ đang rất vui mừng.",
+                                                                "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eはとても\u003cruby\u003e嬉\u003crt\u003eうれ\u003c/rt\u003e\u003c/ruby\u003eしそうにしているみたいだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cậu bé đó bơi giỏi hệt như một chú cá con.",
+                                                                "jp":  "その\u003cruby\u003e男\u003crt\u003eおとこ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e子\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e魚\u003crt\u003eさかな\u003c/rt\u003e\u003c/ruby\u003eみたいに\u003cruby\u003e泳\u003crt\u003eおよ\u003c/rt\u003e\u003c/ruby\u003eぐのが\u003cruby\u003e上手\u003crt\u003eじょうず\u003c/rt\u003e\u003c/ruby\u003eだ。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ように / 〜ような (Như/Theo như...)",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.2rem;font-size:1.2rem;color:#ffd700;font-weight:800;text-align:center;width:30%;\u0027\u003eN ＋ の\u003c/td\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eように〜 ＋ V/A\u003cbr\u003eような ＋ N2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eGiống như... / Học tập theo hình mẫu tiêu biểu\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1.2rem;font-size:1.2rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eVTTT\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Giống như / Giống với...",
+                      "usage":  "• Dùng để so sánh hai đối tượng có điểm tương đồng thực tế, hoặc lấy một đối tượng tiêu biểu làm chuẩn/mẫu mực để học tập, thể hiện mong muốn.\u003cbr\u003e• Nêu ví dụ đại diện mang tính tương đồng để giải thích cụ thể cho một danh từ đi sau.\u003cbr\u003e• \u003cb\u003eBiến thể chia:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003eN のように ＋ V / A\u003c/i\u003e (hành động / tính chất giống như N)\u003cbr\u003e\u0026nbsp;\u0026nbsp;- \u003ci\u003eN のような ＋ N2\u003c/i\u003e (loại N2 giống như N)",
+                      "explanation":  "Khác với Mẫu 76 (ví von trừu tượng \u0027cứ như thể là... dù thực tế không phải\u0027), Mẫu 78 dùng để so sánh các đặc tính có thật, lấy người hoặc vật thực tế làm hình mẫu để noi theo.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e上手\u003crt\u003eじょうず\u003c/rt\u003e\u003c/ruby\u003eになりたい。",
+                                           "vi":  "Tôi muốn giỏi tiếng Nhật giống như anh ấy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_78.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eっているような\u003cruby\u003e靴\u003crt\u003eくつ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e欲\u003crt\u003eほ\u003c/rt\u003e\u003c/ruby\u003eしいです。",
+                                           "vi":  "Tôi muốn có một đôi giày giống như đôi mà anh ấy đang sở hữu.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_78.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e優\u003crt\u003eやさ\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eと\u003cruby\u003e結婚\u003crt\u003eけっこん\u003c/rt\u003e\u003c/ruby\u003eしたい。",
+                                           "vi":  "Tôi muốn kết hôn với một người dịu dàng giống như cô ấy.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_78.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eもハノイのような\u003cruby\u003e賑\u003crt\u003eにぎ\u003c/rt\u003e\u003c/ruby\u003eやかな\u003cruby\u003e都市\u003crt\u003eとし\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e住\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eみたい。",
+                                           "vi":  "Tôi cũng muốn sống ở một đô thị nhộn nhịp giống như Hà Nội.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_78.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e日本人\u003crt\u003eにほんじん\u003c/rt\u003e\u003c/ruby\u003eのようにペラペラ\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eせるようになりたい。",
+                                           "vi":  "Tôi muốn có thể nói tiếng Nhật trôi chảy giống như người Nhật.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_78.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e父\u003crt\u003eちち\u003c/rt\u003e\u003c/ruby\u003e（　　）ように、\u003cruby\u003e立派\u003crt\u003eりっぱ\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e医者\u003crt\u003eいしゃ\u003c/rt\u003e\u003c/ruby\u003eになりたい。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "トヨタ（　　）ような\u003cruby\u003e大企業\u003crt\u003eだいきぎょう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e働\u003crt\u003eはたら\u003c/rt\u003e\u003c/ruby\u003eくのが\u003cruby\u003e夢\u003crt\u003eゆめ\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "プロ（　　）ように\u003cruby\u003e上等\u003crt\u003eじょうとう\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e作\u003crt\u003eつく\u003c/rt\u003e\u003c/ruby\u003eりたい。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e富士山\u003crt\u003eふじさん\u003c/rt\u003e\u003c/ruby\u003e（　　）ような\u003cruby\u003e高\u003crt\u003eたか\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e山\u003crt\u003eやま\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e登\u003crt\u003eのぼ\u003c/rt\u003e\u003c/ruby\u003eってみたい。",
+                                                              "options":  [
+                                                                              "の",
+                                                                              "な",
+                                                                              "だ",
+                                                                              "に"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eった（　　）に\u003cruby\u003e練習\u003crt\u003eれんしゅう\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e重\u003crt\u003eかさ\u003c/rt\u003e\u003c/ruby\u003eねた。",
+                                                              "options":  [
+                                                                              "よう",
+                                                                              "そう",
+                                                                              "らしい",
+                                                                              "みたい"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e京都\u003crt\u003eきょうと\u003c/rt\u003e\u003c/ruby\u003eのような（　　）ある\u003cruby\u003e町\u003crt\u003eまち\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e旅行\u003crt\u003eりょこう\u003c/rt\u003e\u003c/ruby\u003eしたい。",
+                                                          "options":  [
+                                                                          "歴史",
+                                                                          "体重",
+                                                                          "速度",
+                                                                          "気温"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）のように\u003cruby\u003e素早\u003crt\u003eすばや\u003c/rt\u003e\u003c/ruby\u003eく\u003cruby\u003e行動\u003crt\u003eこうどう\u003c/rt\u003e\u003c/ruby\u003eする。",
+                                                          "options":  [
+                                                                          "風",
+                                                                          "荷物",
+                                                                          "机",
+                                                                          "椅子"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e母\u003crt\u003eはは\u003c/rt\u003e\u003c/ruby\u003eのように（　　）\u003cruby\u003e手料理\u003crt\u003eてりょうり\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e作\u003crt\u003eつく\u003c/rt\u003e\u003c/ruby\u003eれるようになりたい。",
+                                                          "options":  [
+                                                                          "美味しい",
+                                                                          "痛い",
+                                                                          "苦い",
+                                                                          "狭い"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）のような\u003cruby\u003e綺麗\u003crt\u003eきれい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e花\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e庭\u003crt\u003eにわ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e植\u003crt\u003eう\u003c/rt\u003e\u003c/ruby\u003eえた。",
+                                                          "options":  [
+                                                                          "バラ",
+                                                                          "石",
+                                                                          "泥",
+                                                                          "砂"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eのような（　　）な\u003cruby\u003e若者\u003crt\u003eわかもの\u003c/rt\u003e\u003c/ruby\u003eがこれからの\u003cruby\u003e社会\u003crt\u003eしゃかい\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e支\u003crt\u003eささ\u003c/rt\u003e\u003c/ruby\u003eえる。",
+                                                          "options":  [
+                                                                          "優秀",
+                                                                          "危険",
+                                                                          "邪魔",
+                                                                          "失礼"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e兄\u003crt\u003eあに\u003c/rt\u003e\u003c/ruby\u003eの＿＿＿\u003cruby\u003e英語\u003crt\u003eえいご\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e流暢\u003crt\u003eりゅうちょう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eしたい。",
+                                                                "options":  [
+                                                                                "ように",
+                                                                                "ような",
+                                                                                "ようで",
+                                                                                "ようだ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e憧\u003crt\u003eあこが\u003c/rt\u003e\u003c/ruby\u003eれの\u003cruby\u003e先輩\u003crt\u003eせんぱい\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿ような\u003cruby\u003e時計\u003crt\u003eとけい\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e探\u003crt\u003eさが\u003c/rt\u003e\u003c/ruby\u003eしている。",
+                                                                "options":  [
+                                                                                "つけている",
+                                                                                "つけて",
+                                                                                "つけ",
+                                                                                "つけた"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e鳥\u003crt\u003eとり\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e空\u003crt\u003eそら\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿ように、\u003cruby\u003e自由\u003crt\u003eじゆう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e飛\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eびたい。",
+                                                                "options":  [
+                                                                                "飛ぶ",
+                                                                                "飛び",
+                                                                                "飛んで",
+                                                                                "飛んだ"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e指示\u003crt\u003eしじ\u003c/rt\u003e\u003c/ruby\u003eされた＿＿＿に\u003cruby\u003e書類\u003crt\u003eしょるい\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e提出\u003crt\u003eていしゅつ\u003c/rt\u003e\u003c/ruby\u003eしてください。",
+                                                                "options":  [
+                                                                                "よう",
+                                                                                "とおり",
+                                                                                "そう",
+                                                                                "らしい"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eの＿＿＿\u003cruby\u003e強\u003crt\u003eつよ\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e意志\u003crt\u003eいし\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e持\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eちたい。",
+                                                                "options":  [
+                                                                                "ような",
+                                                                                "ように",
+                                                                                "ようで",
+                                                                                "ようだ"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Tôi muốn có thể bơi giỏi như giáo viên thể dục.",
+                                                                "jp":  "\u003cruby\u003e体育\u003crt\u003eたいいく\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e泳\u003crt\u003eおよ\u003c/rt\u003e\u003c/ruby\u003eげるようになりたい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi muốn sống ở một nơi yên bình và nhiều cây xanh giống như Đà Lạt.",
+                                                                "jp":  "ダラットのような\u003cruby\u003e静\u003crt\u003eしず\u003c/rt\u003e\u003c/ruby\u003eかで\u003cruby\u003e緑\u003crt\u003eみどり\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e豊\u003crt\u003eゆた\u003c/rt\u003e\u003c/ruby\u003eかな\u003cruby\u003e場所\u003crt\u003eばしょ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e住\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eみたい。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi muốn mua một chiếc máy ảnh hiện đại giống chiếc mà anh Nam đang dùng.",
+                                                                "jp":  "ナムさんが\u003cruby\u003e使\u003crt\u003eつか\u003c/rt\u003e\u003c/ruby\u003eっているような\u003cruby\u003e最新\u003crt\u003eさいしん\u003c/rt\u003e\u003c/ruby\u003eのカメラを\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eいたいです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Hãy cố gắng chăm chỉ học hành giống như anh trai nhé.",
+                                                                "jp":  "\u003cruby\u003e兄\u003crt\u003eあに\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e一生懸命\u003crt\u003eいっしょうけんめい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしてくださいね。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi muốn vẽ được những bức tranh đẹp giống như họa sĩ chuyên nghiệp.",
+                                                                "jp":  "プロの\u003cruby\u003e画家\u003crt\u003eがか\u003c/rt\u003e\u003c/ruby\u003eのように\u003cruby\u003e美\u003crt\u003eうつく\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e絵\u003crt\u003eえ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e描\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eけるようになりたい。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ように (Hãy/Để...)",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e① Mục đích: Cố gắng để... (hướng tới trạng thái/khả năng)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:36%;\u0027\u003eV-れる\u003cbr\u003e\u003cspan style=\u0027font-size:0.8rem;color:#aaa;\u0027\u003e(Thể khả năng)\u003c/span\u003e\u003c/td\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eように ＋ V2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.3rem;\u0027\u003eĐể... / Cố gắng để đạt được trạng thái V1\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-ない\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ff4d4f;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e② Làm theo đúng như... / Như thông tin đã biết\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:36%;\u0027\u003eN ＋ の\u003c/td\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eように ＋ V2\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.3rem;\u0027\u003eThực hiện đúng theo như N / V đã nói, đã biết\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);padding:0.6rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-た\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Đúng theo như... / Cố gắng để...",
+                      "usage":  "• \u003cb\u003eÝ nghĩa 1 (Chỉ mục đích - Để mà...):\u003c/b\u003e Vế trước đi với động từ thể khả năng (\u003ci\u003e聞こえる, 見える, 話せる\u003c/i\u003e), tự động từ trạng thái (\u003ci\u003e治る, 届く\u003c/i\u003e) hoặc thể phủ định \u003cb\u003eV-ない\u003c/b\u003e (\u003ci\u003e忘れない, 遅刻しない\u003c/i\u003e). Thể hiện mục đích hướng tới việc đạt được trạng thái đó.\u003cbr\u003e• \u003cb\u003eÝ nghĩa 2 (Làm theo đúng như...):\u003c/b\u003e Diễn tả hành động thực hiện theo đúng những gì đã được truyền đạt, đã biết, đã nghe (\u003ci\u003eご存知のように, 教えてもらったように, 前に話したように...\u003c/i\u003e).",
+                      "explanation":  "Khác với 〜ために (chỉ mục đích có ý chí chủ quan rõ ràng đi với tha động từ), 〜ように tập trung vào việc tạo ra điều kiện hoặc trạng thái tự nhiên cho sự việc diễn ra thuận lợi.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e教\u003crt\u003eおし\u003c/rt\u003e\u003c/ruby\u003eえてもらったようにやってみたけど、うまくいかなかったよ。",
+                                           "vi":  "Tôi đã thử làm theo đúng như những gì được chỉ dạy nhưng không suôn sẻ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_79.1.png"
+                                       },
+                                       {
+                                           "jp":  "ご\u003cruby\u003e存知\u003crt\u003eぞんじ\u003c/rt\u003e\u003c/ruby\u003eのように、\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e台風\u003crt\u003eたいふう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e多\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e国\u003crt\u003eくに\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                           "vi":  "Như quý vị đã biết, Nhật Bản là quốc gia có nhiều bão.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_79.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e皆\u003crt\u003eみな\u003c/rt\u003e\u003c/ruby\u003eさん、よく\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eこえるように\u003cruby\u003e大\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eきな\u003cruby\u003e声\u003crt\u003eこえ\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eしてください。",
+                                           "vi":  "Mọi người ơi, xin hãy nói to lên để mọi người có thể nghe rõ nhé.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_79.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e風邪\u003crt\u003eかぜ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e早\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eく\u003cruby\u003e治\u003crt\u003eなお\u003c/rt\u003e\u003c/ruby\u003eるように、\u003cruby\u003e温\u003crt\u003eあたた\u003c/rt\u003e\u003c/ruby\u003eかいお\u003cruby\u003e湯\u003crt\u003eゆ\u003c/rt\u003e\u003c/ruby\u003eをたくさん\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eんでいます。",
+                                           "vi":  "Để nhanh khỏi cúm, tôi đang uống rất nhiều nước ấm.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_79.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e明日\u003crt\u003eあした\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e遅刻\u003crt\u003eちこく\u003c/rt\u003e\u003c/ruby\u003eしないように、\u003cruby\u003e目覚\u003crt\u003eめざ\u003c/rt\u003e\u003c/ruby\u003eまし\u003cruby\u003e時計\u003crt\u003eどけい\u003c/rt\u003e\u003c/ruby\u003eをセットしておきます。",
+                                           "vi":  "Để ngày mai không bị muộn, tôi sẽ đặt sẵn chuông báo thức.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_79.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e忘\u003crt\u003eわす\u003c/rt\u003e\u003c/ruby\u003eれない（　　）、メモを\u003cruby\u003e取\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eっておきましょう。",
+                                                              "options":  [
+                                                                              "ように",
+                                                                              "そうに",
+                                                                              "ために",
+                                                                              "らしい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e説明\u003crt\u003eせつめい\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e書\u003crt\u003eしょ\u003c/rt\u003e\u003c/ruby\u003eの（　　）に\u003cruby\u003e組\u003crt\u003eく\u003c/rt\u003e\u003c/ruby\u003eみ\u003cruby\u003e立\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eててください。",
+                                                              "options":  [
+                                                                              "よう",
+                                                                              "とおり",
+                                                                              "そう",
+                                                                              "らしい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e試験\u003crt\u003eしけん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e合格\u003crt\u003eごうかく\u003c/rt\u003e\u003c/ruby\u003eできる（　　）\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e復習\u003crt\u003eふくしゅう\u003c/rt\u003e\u003c/ruby\u003eしています。",
+                                                              "options":  [
+                                                                              "ように",
+                                                                              "ために",
+                                                                              "そうに",
+                                                                              "らしい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eした（　　）、\u003cruby\u003e来月\u003crt\u003eらいげつ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e引\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eっ\u003cruby\u003e越\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eします。",
+                                                              "options":  [
+                                                                              "ように",
+                                                                              "ために",
+                                                                              "そうに",
+                                                                              "らしい"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eの手が\u003cruby\u003e届\u003crt\u003eとど\u003c/rt\u003e\u003c/ruby\u003eかない（　　）\u003cruby\u003e高\u003crt\u003eたか\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e所\u003crt\u003eところ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e置\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eく。",
+                                                              "options":  [
+                                                                              "ように",
+                                                                              "ために",
+                                                                              "そうに",
+                                                                              "らしい"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "（　　）がよく\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eえるように、\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e席\u003crt\u003eせき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e座\u003crt\u003eすわ\u003c/rt\u003e\u003c/ruby\u003eった。",
+                                                          "options":  [
+                                                                          "黒板",
+                                                                          "借金",
+                                                                          "冗談",
+                                                                          "悪口"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e皆\u003crt\u003eみな\u003c/rt\u003e\u003c/ruby\u003e様ご（　　）のように、この\u003cruby\u003e計画\u003crt\u003eけいかく\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e成功\u003crt\u003eせいこう\u003c/rt\u003e\u003c/ruby\u003eしました。",
+                                                          "options":  [
+                                                                          "承知",
+                                                                          "遠慮",
+                                                                          "迷惑",
+                                                                          "失敗"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e健康\u003crt\u003eけんこう\u003c/rt\u003e\u003c/ruby\u003eのために、（　　）を\u003cruby\u003e引\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eかないように\u003cruby\u003e気\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eをつけている。",
+                                                          "options":  [
+                                                                          "風邪",
+                                                                          "車",
+                                                                          "荷物",
+                                                                          "糸"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e図\u003crt\u003eず\u003c/rt\u003e\u003c/ruby\u003eの（　　）に\u003cruby\u003e紙\u003crt\u003eかみ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e折\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eってください。",
+                                                          "options":  [
+                                                                          "ように",
+                                                                          "ために",
+                                                                          "そうに",
+                                                                          "らしい"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）に\u003cruby\u003e間\u003crt\u003eま\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e合\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eうように、タクシーに\u003cruby\u003e乗\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eった。",
+                                                          "options":  [
+                                                                          "約束の時間",
+                                                                          "昨日の夜",
+                                                                          "先週の日",
+                                                                          "過去"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿ように、ドラマをたくさん\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eています。",
+                                                                "options":  [
+                                                                                "話せる",
+                                                                                "話して",
+                                                                                "話した",
+                                                                                "話そう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e約束\u003crt\u003eやくそく\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿ように、\u003cruby\u003e早\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eめに\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eた。",
+                                                                "options":  [
+                                                                                "遅れない",
+                                                                                "遅れなくて",
+                                                                                "遅れず",
+                                                                                "遅れないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eにでも＿＿＿ように、わかりやすく\u003cruby\u003e説明\u003crt\u003eせつめい\u003c/rt\u003e\u003c/ruby\u003eする。",
+                                                                "options":  [
+                                                                                "わかる",
+                                                                                "わかって",
+                                                                                "わかった",
+                                                                                "わかろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e写真\u003crt\u003eしゃしん\u003c/rt\u003e\u003c/ruby\u003eで＿＿＿ように、この\u003cruby\u003e町\u003crt\u003eまち\u003c/rt\u003e\u003c/ruby\u003eはとても\u003cruby\u003e綺麗\u003crt\u003eきれい\u003c/rt\u003e\u003c/ruby\u003eです。",
+                                                                "options":  [
+                                                                                "見た",
+                                                                                "見て",
+                                                                                "見る",
+                                                                                "見よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e事故\u003crt\u003eじこ\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿ように、シートベルトをしめる。",
+                                                                "options":  [
+                                                                                "起きない",
+                                                                                "起きなくて",
+                                                                                "起きず",
+                                                                                "起きないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Xin hãy viết to ra để mọi người ngồi đằng sau cũng có thể nhìn thấy.",
+                                                                "jp":  "\u003cruby\u003e後\u003crt\u003eうし\u003c/rt\u003e\u003c/ruby\u003eろの\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eにも\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eえるように、\u003cruby\u003e大\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eきく\u003cruby\u003e書\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eいてください。"
+                                                            },
+                                                            {
+                                                                "vi":  "Như tôi đã giải thích trước đó, thứ sáu tuần này được nghỉ.",
+                                                                "jp":  "\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e説明\u003crt\u003eせつめい\u003c/rt\u003e\u003c/ruby\u003eしたように、\u003cruby\u003e今週\u003crt\u003eこんしゅう\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e金曜日\u003crt\u003eきんようび\u003c/rt\u003e\u003c/ruby\u003eはお\u003cruby\u003e休\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eみです。"
+                                                            },
+                                                            {
+                                                                "vi":  "Để không bị béo lên, tôi hạn chế ăn nhiều đồ ngọt.",
+                                                                "jp":  "\u003cruby\u003e太\u003crt\u003eふと\u003c/rt\u003e\u003c/ruby\u003eらないように、\u003cruby\u003e甘\u003crt\u003eあま\u003c/rt\u003e\u003c/ruby\u003eいものを\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべすぎないようにしています。"
+                                                            },
+                                                            {
+                                                                "vi":  "Hãy kiểm tra kỹ tài liệu để không xảy ra sai sót nhé.",
+                                                                "jp":  "ミスが\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eないように、\u003cruby\u003e書類\u003crt\u003eしょるい\u003c/rt\u003e\u003c/ruby\u003eをしっかりチェックしてください。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tôi đang tiết kiệm tiền để có thể mua được một căn nhà của riêng mình.",
+                                                                "jp":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eえるように、お\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e貯\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eめています。"
+                                                            }
+                                                        ]
+                                    }
+                  }
+              ]
+}

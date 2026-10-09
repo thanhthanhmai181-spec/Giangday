@@ -1,0 +1,1060 @@
+{
+    "name": "Bài 25",
+    "x": 810,
+    "y": 600,
+    "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Các Phó Từ Suy Đoán, So Sánh & Thỉnh Cầu (Bài 25)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:34%;color:#b30000;'>Bản chất & Cụm từ đi kèm</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;'>もしかしたら<br>もしかすると</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Khả năng không chắc chắn (30-50%):</b><br><code>〜かもしれない</code><br><code>〜のではないか</code><br><code>〜のではないだろうか</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Có lẽ, biết đâu chừng...</b><br><em>VD: もしかすると雨が降るかもしれない。<br>VD: もしかしたら彼は来るのではないか。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#059669;text-align:center;'>おそらく</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Xác suất rất cao (80-90%):</b><br><code>〜だろう</code> / <code>〜と思う</code><br><code>〜のではないか / 〜のではないだろうか</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Có lẽ, chắc là...</b><br><em>VD: おそらく彼は来るだろう。<br>VD: おそらく間違いだと思う。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;'>どうも</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Cảm nhận trực quan, mập mờ:</b><br><code>〜ようだ</code> / <code>〜らしい</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Hình như, có vẻ...</b><br><em>VD: どうも彼は来ないようだ。<br>VD: どうも計算が間違っているようだ。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;'>いまにも〜そうだ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Sắp xảy ra tức thì trong tích tắc:</b><br><code>V-ます ＋ そうだ</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Sắp... đến nơi rồi</b><br><em>VD: 今にも雨が降りそうだ。<br>VD: 今にも倒れそうだ。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#7c3aed;text-align:center;'>まるで 〜 ようだ<br>まるで 〜 みたいだ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Ví von, so sánh ẩn dụ:</b><br><code>〜ようだ</code> / <code>〜みたいだ</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Cứ như thể là...</b><br><em>VD: まるで夢のようだ。<br>VD: まるで子供のように遊んでいる。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#0891b2;text-align:center;'>ちょうど 〜 ようだ<br>ちょうど 〜 みたいだ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Khớp vừa vặn / Đúng thời điểm:</b><br><code>〜ようだ</code> / <code>〜みたいだ</code> / <code>〜ところだ</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Vừa vặn, vừa đúng lúc...</b><br><em>VD: ちょうどいいサイズだ。<br>VD: ちょうど雨が降り出したみたいだ。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#b45309;text-align:center;'>ぜひ<br>なんとかして</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Mong ước / Quyết tâm bằng mọi giá:</b><br><code>〜たい</code><br><code>〜てください</code><br><code>〜てほしい</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Nhất định / Bằng mọi giá, nhất định</b><br><em>VD: ぜひ私に電話してください。<br>VD: 何とかしてこの人を探して欲しい。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#be123c;text-align:center;'>どうか</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Cầu khẩn, van xin, cầu chúc:</b><br><code>〜てください / ないで下さい</code><br><code>〜てほしい</code> / <code>〜ますように</code></td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Làm ơn, mong rằng...</b><br><em>VD: どうか失敗を許してください。<br>VD: どうか合格しますように。</em></td></tr></tbody></table><div style='background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;'><div style='text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;'><h3 style='margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;'>🎌 BẢNG TỔNG HỢP CẶP PHÓ TỪ ĐỐI ỨNG (BÀI 25) 🎌</h3><span style='font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;'>So sánh cặp sắc thái: Mức độ suy đoán ➔ So sánh ví von ➔ Thỉnh cầu tha thiết</span></div><div style='display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:1.2rem;'><div style='border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;'>Cặp Suy Đoán Xác Suất</div><div style='padding:0.8rem;background:#eff6ff;text-align:center;'><b style='color:#2563eb;'>もしかしたら (30-50%) vs おそらく (80-90%)</b><br><span style='font-size:0.85rem;color:#64748b;'>Biết đâu chừng (chưa chắc) vs Có lẽ chắc là (rất khả thi)</span></div></div><div style='border:2px solid #7c3aed;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#ede9fe;color:#5b21b6;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #7c3aed;'>Cặp Ẩn Dụ & Khớp Đúng</div><div style='padding:0.8rem;background:#f5f3ff;text-align:center;'><b style='color:#7c3aed;'>まるで (Cứ như là) vs ちょうど (Vừa vặn đúng lúc)</b><br><span style='font-size:0.85rem;color:#64748b;'>Ví von hình ảnh tương đồng vs Khớp đúng thời điểm/kích thước</span></div></div><div style='border:2px solid #be123c;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#ffe4e6;color:#9f1239;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #be123c;'>Cặp Nguyện Vọng & Van Xin</div><div style='padding:0.8rem;background:#fff1f2;text-align:center;'><b style='color:#be123c;'>ぜひ / なんとかして vs どうか</b><br><span style='font-size:0.85rem;color:#64748b;'>Ước muốn, bằng mọi giá vs Cầu khẩn, mong ước tha thiết</span></div></div></div></div>",
+    "items": [
+        {
+            "structure": "もしかしたら / もしかすると ... 〜かもしれない / 〜のではないか / 〜のではないだろうか",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>もしかしたら ／ もしかすると (Có lẽ, biết đâu sẽ...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:42%;vertical-align:middle;'>もしかしたら<br><span style='display:inline-block;margin-top:0.4rem;'>もしかすると</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜かもしれない</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜のではないか</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜のではないだろうか</span></td></tr></tbody></table></div>",
+            "meaning": "Có lẽ, biết đâu sẽ, không chừng, có thể",
+            "usage": "• <b>Ý nghĩa:</b> Thường đi kèm với các mẫu phỏng đoán như <code>〜かもしれない</code>, <code>〜のではないか</code>, <code>〜のではないだろうか</code> để diễn tả một khả năng hoặc suy đoán không chắc chắn (30-50%).<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ <code>もしかしたら</code> thân mật hơn trong hội thoại hàng ngày, <code>もしかすると</code> có sắc thái lịch sự/trang trọng hơn.<br>&nbsp;&nbsp;+ Biểu thị xác suất xảy ra vừa phải hoặc khả năng ngẫu nhiên.<br>• <b>Kết hợp:</b> <code>もしかしたら / もしかすると ＋ 〜かもしれない / 〜のではないか / 〜のではないだろうか</code>.",
+            "explanation": "Dùng khi người nói đưa ra một giả thuyết hoặc dự đoán dựa trên một linh cảm hoặc dấu hiệu mơ hồ, chưa có gì chắc chắn.",
+            "examples": [
+                {
+                    "jp": "<ruby>空<rt>そら</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>くなってきた。もしかすると<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るかもしれない。",
+                    "vi": "Trời bắt đầu tối sầm lại rồi. Biết đâu chừng trời sẽ mưa cũng nên.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_107.1.png"
+                },
+                {
+                    "jp": "<ruby>天気<rt>てんき</rt></ruby>がいいから、もしかしたら<ruby>彼<rt>かれ</rt></ruby>は<ruby>来<rt>く</rt></ruby>るのではないか。",
+                    "vi": "Thời tiết đẹp thế này, biết đâu anh ấy sẽ đến chẳng phải sao?",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_107.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "もしかしたら<ruby>彼<rt>かれ</rt></ruby>は<ruby>道<rt>みち</rt></ruby>（　　）<ruby>迷<rt>まよ</rt></ruby>ったのかもしれない。",
+                        "options": ["に", "で", "を", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかすると<ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>に（　　）かもしれない。",
+                        "options": ["<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない", "<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う", "<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせる", "<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>い"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかしたら<ruby>病気<rt>びょうき</rt></ruby>（　　）のではないだろうか。",
+                        "options": ["な", "だ", "に", "の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかすると<ruby>合格<rt>ごうかく</rt></ruby>できる（　　）もしれない。",
+                        "options": ["かも", "でも", "とも", "ども"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかしたら<ruby>鍵<rt>かぎ</rt></ruby>を（　　）忘れたかもしれない。",
+                        "options": ["かけ", "かける", "かけた", "かけよう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "もしかしたら（　　）に財布を忘れたかもしれない。",
+                        "options": ["<ruby>電車<rt>でんしゃ</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかすると<ruby>彼<rt>かれ</rt></ruby>の（　　）が正しいのかもしれない。",
+                        "options": ["<ruby>意見<rt>いけん</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかしたら（　　）で会議が中止になるかもしれない。",
+                        "options": ["<ruby>台風<rt>たいふう</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかすると（　　）を間違えたのではないか。",
+                        "options": ["<ruby>場所<rt>ばしょ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかしたら（　　）が遅れているだけかもしれない。",
+                        "options": ["<ruby>返事<rt>へんじ</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "もしかしたら<ruby>明日<rt>あした</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>が（　　）かもしれない。",
+                        "options": ["<ruby>降<rt>ふ</rt></ruby>る", "<ruby>降<rt>ふ</rt></ruby>り", "<ruby>降<rt>ふ</rt></ruby>った", "<ruby>降<rt>ふ</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかするとこの<ruby>噂<rt>うわさ</rt></ruby>は（　　）かもしれない。",
+                        "options": ["本当", "本当だ", "本当な", "本当の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかしたら<ruby>計画<rt>けいかく</rt></ruby>が（　　）のではないか。",
+                        "options": ["<ruby>変<rt>か</rt></ruby>わった", "<ruby>変<rt>か</rt></ruby>わる", "<ruby>変<rt>か</rt></ruby>わり", "<ruby>変<rt>か</rt></ruby>えよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかすると<ruby>彼<rt>かれ</rt></ruby>は（　　）ないのかもしれない。",
+                        "options": ["<ruby>行<rt>い</rt></ruby>きたく", "<ruby>行<rt>い</rt></ruby>きたい", "<ruby>行<rt>い</rt></ruby>きたさ", "<ruby>行<rt>い</rt></ruby>きたければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "もしかしたら<ruby>手紙<rt>てがみ</rt></ruby>が（　　）かもしれない。",
+                        "options": ["<ruby>届<rt>とど</rt></ruby>いた", "<ruby>届<rt>とど</rt></ruby>く", "<ruby>届<rt>とど</rt></ruby>け", "<ruby>届<rt>とど</rt></ruby>こう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Biết đâu chừng chuyến bay ngày mai sẽ bị hoãn cũng nên.",
+                        "jp": "もしかしたら<ruby>明日<rt>あした</rt></ruby>のフライトは<ruby>遅<rt>おく</rt></ruby>れるかもしれない。"
+                    },
+                    {
+                        "vi": "Có lẽ anh ấy đang gặp phải rắc rối gì đó chăng?",
+                        "jp": "もしかすると<ruby>彼<rt>かれ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>かトラブルに<ruby>巻<rt>ま</rt></ruby>き<ruby>込<rt>こ</rt></ruby>まれたのではないか。"
+                    },
+                    {
+                        "vi": "Biết đâu món đồ này lại là một tác phẩm vô cùng quý giá.",
+                        "jp": "もしかしたらこれはとても<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>品<rt>しな</rt></ruby>なのかもしれない。"
+                    },
+                    {
+                        "vi": "Có thể cuộc họp sẽ kết thúc sớm hơn dự kiến một chút.",
+                        "jp": "もしかすると<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>予定<rt>よてい</rt></ruby>より<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わるかもしれない。"
+                    },
+                    {
+                        "vi": "Biết đâu cô ấy đã biết toàn bộ sự thật rồi cũng nên.",
+                        "jp": "もしかしたら<ruby>彼女<rt>かのじょ</rt></ruby>はすでにすべてを<ruby>知<rt>し</rt></ruby>っているのかもしれない。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "おそらく ... 〜だろう / 〜と思う / 〜のではないか / 〜のではないだろうか",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>おそらく (Có lẽ, chắc là...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>おそらく<br><span style='font-size:0.85rem;color:#aaa;'>(恐らく)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜だろう</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜と思う</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜のではないか</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜のではないだろうか</span></td></tr></tbody></table></div>",
+            "meaning": "Có lẽ, chắc là",
+            "usage": "• <b>Ý nghĩa:</b> Thường đi kèm với <code>〜だろう</code>, <code>〜と思う</code>, <code>〜のではないか / のではないだろうか</code> để diễn tả một khả năng xảy ra rất cao (80-90%) dựa trên phán đoán khách quan.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Mang sắc thái phỏng đoán có độ tin cậy và căn cứ logic cao.<br>&nbsp;&nbsp;+ Thường dùng trong văn viết, báo cáo hoặc phát biểu trang trọng.<br>• <b>Kết hợp:</b> <code>おそらく ＋ 〜だろう / 〜と思う / 〜のではないか / 〜のではないだろうか</code>.",
+            "explanation": "Dùng khi người nói dựa trên các dữ liệu, chứng cứ hoặc tình hình thực tế để đưa ra một suy đoán có xác suất trúng rất cao.",
+            "examples": [
+                {
+                    "jp": "<ruby>天気<rt>てんき</rt></ruby>がいいから、おそらく<ruby>彼<rt>かれ</rt></ruby>は<ruby>来<rt>く</rt></ruby>るだろう。",
+                    "vi": "Thời tiết đẹp thế này, có lẽ là anh ấy sẽ đến thôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_108.1.png"
+                },
+                {
+                    "jp": "このデータは<ruby>古<rt>ふる</rt></ruby>いから、おそらくそれは<ruby>間違<rt>まちが</rt></ruby>いだと<ruby>思<rt>おも</rt></ruby>う。",
+                    "vi": "Số liệu này cũ rồi, có lẽ tôi nghĩ nó có sai sót mất rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_108.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "おそらく<ruby>明日<rt>あした</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れ（　　）だろう。",
+                        "options": ["だ", "な", "に", "の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく<ruby>彼<rt>かれ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する（　　）に違いない。",
+                        "options": ["はず", "わけ", "こと", "もの"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらくこの<ruby>計画<rt>けいかく</rt></ruby>は（　　）と<ruby>思<rt>おも</rt></ruby>う。",
+                        "options": ["<ruby>成功<rt>せいこう</rt></ruby>する", "<ruby>成功<rt>せいこう</rt></ruby>して", "<ruby>成功<rt>せいこう</rt></ruby>し", "<ruby>成功<rt>せいこう</rt></ruby>しよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく<ruby>原因<rt>げんいん</rt></ruby>はこれ（　　）ではないだろうか。",
+                        "options": ["な", "だ", "に", "の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく<ruby>彼<rt>かれ</rt></ruby>はすでに<ruby>知<rt>し</rt></ruby>って（　　）だろう。",
+                        "options": ["いる", "いた", "いよう", "いれば"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "おそらく（　　）が渋滞しているのだろう。",
+                        "options": ["<ruby>道路<rt>どうろ</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく（　　）の<ruby>影響<rt>えいきょう</rt></ruby>で遅延したと思われる。",
+                        "options": ["<ruby>事故<rt>じこ</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく（　　）には間に合うはずだ。",
+                        "options": ["<ruby>締切<rt>しめきり</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく（　　）は満席になるだろう。",
+                        "options": ["<ruby>会場<rt>かいじょう</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく（　　）が低下しているのが原因だ。",
+                        "options": ["<ruby>売上<rt>うりあげ</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "おそらく<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>長引<rt>ながび</rt></ruby>（　　）だろう。",
+                        "options": ["くだろう", "くだ", "くなら", "くから"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく<ruby>彼女<rt>かのじょ</rt></ruby>は（　　）はずがない。",
+                        "options": ["<ruby>知<rt>し</rt></ruby>らない", "<ruby>知<rt>し</rt></ruby>る", "<ruby>知<rt>し</rt></ruby>って", "<ruby>知<rt>し</rt></ruby>り"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく<ruby>今夜<rt>こんや</rt></ruby>は（　　）だろう。",
+                        "options": ["<ruby>寒<rt>さむ</rt></ruby>くなる", "<ruby>寒<rt>さむ</rt></ruby>いになる", "<ruby>寒<rt>さむ</rt></ruby>さになる", "<ruby>寒<rt>さむ</rt></ruby>ければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらく<ruby>問題<rt>もんだい</rt></ruby>は（　　）と思う。",
+                        "options": ["ない", "なかった", "なく", "なければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "おそらくこの<ruby>薬<rt>くすり</rt></ruby>は（　　）だろう。",
+                        "options": ["<ruby>効<rt>き</rt></ruby>く", "<ruby>効<rt>き</rt></ruby>き", "<ruby>効<rt>き</rt></ruby>いた", "<ruby>効<rt>き</rt></ruby>こう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Dựa vào tình hình hiện tại, chắc có lẽ cuộc họp sẽ bị hủy.",
+                        "jp": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>からすると、おそらく<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>になるだろう。"
+                    },
+                    {
+                        "vi": "Có lẽ anh ấy sẽ đỗ vào trường đại học đó với điểm số cao.",
+                        "jp": "おそらく<ruby>彼<rt>かれ</rt></ruby>は<ruby>高得点<rt>こうとくてん</rt></ruby>であの<ruby>大学<rt>だいがく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するだろう。"
+                    },
+                    {
+                        "vi": "Sản phẩm mới này chắc chắn sẽ bán rất chạy trên thị trường.",
+                        "jp": "この<ruby>新商品<rt>しんしょうひん</rt></ruby>はおそらく<ruby>市場<rt>しじょう</rt></ruby>でよく<ruby>売<rt>う</rt></ruby>れると<ruby>思<rt>おも</rt></ruby>う。"
+                    },
+                    {
+                        "vi": "Chắc có lẽ chi phí sửa chữa sẽ tốn kém hơn nhiều so với dự tính.",
+                        "jp": "おそらく<ruby>修理費<rt>しゅうりひ</rt></ruby>は<ruby>予想<rt>よそう</rt></ruby>よりずっと<ruby>高<rt>たか</rt></ruby>くなるだろう。"
+                    },
+                    {
+                        "vi": "Có lẽ thủ phạm đã trốn ra nước ngoài rồi.",
+                        "jp": "おそらく<ruby>犯人<rt>はんにん</rt></ruby>はすでに<ruby>海外<rt>かいがい</rt></ruby>へ<ruby>逃亡<rt>とうぼう</rt></ruby>したに違いない。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "どうも ... 〜ようだ / 〜らしい",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>どうも (Hình như, có vẻ...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>どうも</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ようだ</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜らしい</span></td></tr></tbody></table></div>",
+            "meaning": "Hình như, có vẻ",
+            "usage": "• <b>Ý nghĩa:</b> Thường đi kèm với <code>〜ようだ</code>, <code>〜らしい</code> để diễn tả một suy đoán không rõ ràng, mập mờ dựa trên một số dấu hiệu hoặc cảm nhận của bản thân.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Người nói không hoàn toàn chắc chắn 100%, chỉ cảm thấy có điều gì đó bất thường hoặc đúng như vậy.<br>&nbsp;&nbsp;+ Hay dùng khi phát hiện điều bất thường (máy hỏng, người khác mệt, quên đồ...).<br>• <b>Kết hợp:</b> <code>どうも ＋ 〜ようだ / 〜らしい / 〜気がする</code>.",
+            "explanation": "Dùng khi trực giác hoặc các tín hiệu bề ngoài khiến người nói nảy sinh phỏng đoán nhưng chưa đủ dữ kiện để khẳng định chắc chắn.",
+            "examples": [
+                {
+                    "jp": "<ruby>電話<rt>でんわ</rt></ruby>もないし、どうも<ruby>彼<rt>かれ</rt></ruby>は<ruby>来<rt>こ</rt></ruby>ないようだ。",
+                    "vi": "Không thấy điện thoại gì cả, hình như có vẻ anh ấy không đến rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_109.1.png"
+                },
+                {
+                    "jp": "どうも<ruby>計算<rt>けいさん</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>っているようだ。",
+                    "vi": "Hình như tính toán bị sai sót ở đâu đó rồi thì phải.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_109.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "どうも<ruby>彼<rt>かれ</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>（　　）おかしいようだ。",
+                        "options": ["が", "を", "に", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも<ruby>風邪<rt>かぜ</rt></ruby>を（　　）らしい。",
+                        "options": ["ひいた", "ひく", "ひき", "ひこう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうもこのパソコンは（　　）ようだ。",
+                        "options": ["<ruby>故障<rt>こしょう</rt></ruby>している", "<ruby>故障<rt>こしょう</rt></ruby>する", "<ruby>故障<rt>こしょう</rt></ruby>した", "<ruby>故障<rt>こしょう</rt></ruby>しよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも<ruby>道<rt>みち</rt></ruby>を（　　）気がする。",
+                        "options": ["<ruby>間違<rt>まちが</rt></ruby>えた", "<ruby>間違<rt>まちが</rt></ruby>える", "<ruby>間違<rt>まちが</rt></ruby>い", "<ruby>間違<rt>まちが</rt></ruby>えよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも<ruby>話<rt>はなし</rt></ruby>が（　　）合わないようだ。",
+                        "options": ["かみ", "かむ", "かんだ", "かもう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "どうも（　　）の調子が悪いようだ。",
+                        "options": ["<ruby>胃<rt>い</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも（　　）が伝わっていないらしい。",
+                        "options": ["<ruby>連絡<rt>れんらく</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも（　　）が降ってきたようだ。",
+                        "options": ["<ruby>雨<rt>あめ</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも（　　）が合わないと思ったら、サイズが違っていた。",
+                        "options": ["<ruby>靴<rt>くつ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうもあの<ruby>人<rt>ひと</rt></ruby>の（　　）に見覚えがある。",
+                        "options": ["<ruby>顔<rt>かお</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "どうも<ruby>最近<rt>さいきん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れが（　　）やすいようだ。",
+                        "options": ["たまり", "たまつ", "たまる", "たまろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも<ruby>彼<rt>かれ</rt></ruby>は<ruby>納得<rt>なっとく</rt></ruby>（　　）いないようだ。",
+                        "options": ["して", "する", "した", "しよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも<ruby>鍵<rt>かぎ</rt></ruby>が（　　）ないようだ。",
+                        "options": ["<ruby>開<rt>あ</rt></ruby>か", "<ruby>開<rt>あ</rt></ruby>き", "<ruby>開<rt>あ</rt></ruby>く", "<ruby>開<rt>あ</rt></ruby>け"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうも<ruby>事態<rt>じたい</rt></ruby>は（　　）らしい。",
+                        "options": ["<ruby>深刻<rt>しんこく</rt></ruby>な", "<ruby>深刻<rt>しんこく</rt></ruby>だ", "<ruby>深刻<rt>しんこく</rt></ruby>に", "<ruby>深刻<rt>しんこく</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうもこの<ruby>味<rt>あじ</rt></ruby>は（　　）ようだ。",
+                        "options": ["<ruby>薄<rt>うす</rt></ruby>い", "<ruby>薄<rt>うす</rt></ruby>く", "<ruby>薄<rt>うす</rt></ruby>さ", "<ruby>薄<rt>うす</rt></ruby>ければ"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Hình như máy điều hòa nhiệt độ có vẻ đang gặp trục trặc.",
+                        "jp": "どうもエアコンの<ruby>調子<rt>ちょうし</rt></ruby>がおかしいようだ。"
+                    },
+                    {
+                        "vi": "Có vẻ như tôi đã để quên chìa khóa xe ở công ty mất rồi.",
+                        "jp": "どうも<ruby>車<rt>くるま</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>置<rt>お</rt></ruby>き<ruby>忘<rt>わす</rt></ruby>れてきたようだ。"
+                    },
+                    {
+                        "vi": "Hình như anh ấy không mấy hào hứng với đề xuất này.",
+                        "jp": "どうも<ruby>彼<rt>かれ</rt></ruby>はこの<ruby>提案<rt>ていあん</rt></ruby>にあまり<ruby>気<rt>き</rt></ruby>が<ruby>進<rt>すす</rt></ruby>まないらしい。"
+                    },
+                    {
+                        "vi": "Dạo này người tôi cứ uể oải, hình như sắp bị cảm rồi thì phải.",
+                        "jp": "<ruby>最近<rt>さいきん</rt></ruby><ruby>体<rt>からだ</rt></ruby>がだるくて、どうも<ruby>風邪<rt>かぜ</rt></ruby>をひきかけたようだ。"
+                    },
+                    {
+                        "vi": "Có vẻ như cuộc đàm phán không diễn ra suôn sẻ cho lắm.",
+                        "jp": "どうも<ruby>交渉<rt>こうしょう</rt></ruby>はあまりうまく<ruby>進<rt>すす</rt></ruby>んでいないようだ。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "いまにも 〜 そうだ",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>いまにも〜そうだ (Sắp sửa... đến nơi rồi)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>いまにも<br><span style='font-size:0.85rem;color:#aaa;'>(今にも)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>V-ます ＋ そうだ</span><br><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Trạng thái sắp sửa xảy ra ngay lập tức trong chốc lát</span></td></tr></tbody></table></div>",
+            "meaning": "Sắp, bất cứ lúc nào / Sắp sửa...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả một hành động hoặc sự kiện sắp sửa xảy ra ngay lập tức trong tích tắc.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ <code>今にも</code> luôn kết hợp với mẫu hình thái <code>V-ます + そうだ</code>.<br>&nbsp;&nbsp;+ Tình huống cận kề, mắt thấy tai nghe dấu hiệu sắp biến chuyển.<br>• <b>Kết hợp:</b> <code>今にも ＋ V-ます-そうだ</code>.",
+            "explanation": "Dùng để miêu tả khoảnh khắc nguy cấp hoặc khoảnh khắc cận kề ngay trước khi một sự việc nào đó xảy ra.",
+            "examples": [
+                {
+                    "jp": "<ruby>空<rt>そら</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>くなってきた。<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りそうだ。",
+                    "vi": "Trời tối sầm lại rồi. Cứ như là sắp mưa đến nơi rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_110.1.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れていて、<ruby>今<rt>いま</rt></ruby>にも<ruby>倒<rt>たお</rt></ruby>れそうだ。",
+                    "vi": "Anh ấy đang rất mệt mỏi, trông như sắp đổ gục đến nơi rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_110.2.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>花<rt>はな</rt></ruby>が今にも（　　）そうだ。",
+                        "options": ["<ruby>咲<rt>さ</rt></ruby>き", "<ruby>咲<rt>さ</rt></ruby>く", "<ruby>咲<rt>さ</rt></ruby>いた", "<ruby>咲<rt>さ</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>が今にも（　　）そうな顔をしている。",
+                        "options": ["<ruby>泣<rt>な</rt></ruby>き", "<ruby>泣<rt>な</rt></ruby>く", "<ruby>泣<rt>な</rt></ruby>いた", "<ruby>泣<rt>な</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "コップの<ruby>水<rt>みず</rt></ruby>が今にも（　　）そうだ。",
+                        "options": ["こぼれ", "こぼれる", "こぼれた", "こぼれよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>荷物<rt>にもつ</rt></ruby>が今にも（　　）そうになっている。",
+                        "options": ["<ruby>落<rt>お</rt></ruby>ち", "<ruby>落<rt>お</rt></ruby>ちる", "<ruby>落<rt>お</rt></ruby>ちた", "<ruby>落<rt>お</rt></ruby>ちよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ロープが今にも（　　）そうだ。",
+                        "options": ["<ruby>切<rt>き</rt></ruby>れ", "<ruby>切<rt>き</rt></ruby>れる", "<ruby>切<rt>き</rt></ruby>れた", "<ruby>切<rt>き</rt></ruby>れよう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "今にも（　　）が割れそうで危険だ。",
+                        "options": ["ガラス", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今にも（　　）が爆発しそうな雰囲気だ。",
+                        "options": ["<ruby>怒<rt>いか</rt></ruby>り", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今にも（　　）が崩れそうになっている。",
+                        "options": ["<ruby>壁<rt>かべ</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今にも（　　）が切れそうでドキドキする。",
+                        "options": ["<ruby>息<rt>いき</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "今にも（　　）が消えそうに揺れている。",
+                        "options": ["<ruby>火<rt>ひ</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "<ruby>船<rt>ふね</rt></ruby>が今にも（　　）そうだ。",
+                        "options": ["<ruby>沈<rt>しず</rt></ruby>み", "<ruby>沈<rt>しず</rt></ruby>む", "<ruby>沈<rt>しず</rt></ruby>んだ", "<ruby>沈<rt>しず</rt></ruby>もう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>涙<rt>なみだ</rt></ruby>が今にも（　　）そうになった。",
+                        "options": ["こぼれ", "こぼれる", "こぼれた", "こぼれよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ボタンが今にも（　　）そうだ。",
+                        "options": ["<ruby>取<rt>と</rt></ruby>れ", "<ruby>取<rt>と</rt></ruby>れる", "<ruby>取<rt>と</rt></ruby>れた", "<ruby>取<rt>と</rt></ruby>れよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>古<rt>ふる</rt></ruby>い<ruby>橋<rt>はし</rt></ruby>が今にも（　　）そうだ。",
+                        "options": ["<ruby>壊<rt>こわ</rt></ruby>れ", "<ruby>壊<rt>こわ</rt></ruby>れる", "<ruby>壊<rt>こわ</rt></ruby>れた", "<ruby>壊<rt>こわ</rt></ruby>れよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>は今にも<ruby>怒<rt>おこ</rt></ruby>り（　　）な顔をしている。",
+                        "options": ["出し", "出す", "出した", "出そう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Cành cây trĩu nặng tuyết trông như sắp gãy đến nơi rồi.",
+                        "jp": "<ruby>雪<rt>ゆき</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みで<ruby>枝<rt>えだ</rt></ruby>が今にも<ruby>折<rt>お</rt></ruby>れそうだ。"
+                    },
+                    {
+                        "vi": "Cô ấy trông xúc động như sắp khóc òa lên đến nơi rồi.",
+                        "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>感動<rt>かんどう</rt></ruby>して今にも<ruby>泣<rt>な</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しそうだ。"
+                    },
+                    {
+                        "vi": "Cửa sổ rung lên bần bật như sắp vỡ bất cứ lúc nào.",
+                        "jp": "<ruby>窓<rt>まど</rt></ruby>ガラスがガタガタ<ruby>揺<rt>ゆ</rt></ruby>れて、今にも<ruby>割<rt>わ</rt></ruby>れそうだ。"
+                    },
+                    {
+                        "vi": "Quả bóng bay căng phồng như sắp nổ tung đến nơi.",
+                        "jp": "<ruby>風船<rt>ふうせん</rt></ruby>がふくらんで、今にも<ruby>破裂<rt>はれつ</rt></ruby>しそうだ。"
+                    },
+                    {
+                        "vi": "Ngọn nến leo lét trong gió như sắp tắt đến nơi rồi.",
+                        "jp": "<ruby>風<rt>かぜ</rt></ruby>でろうそくの<ruby>火<rt>ひ</rt></ruby>が今にも<ruby>消<rt>き</rt></ruby>えそうだ。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "まるで 〜 ようだ / 〜 みたいだ",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>まるで 〜 ようだ ／ 〜 みたいだ (Giống như, cứ như thể là...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>まるで</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ようだ</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜みたいだ</span></td></tr></tbody></table></div>",
+            "meaning": "Giống như, cứ như thể là...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả sự giống nhau hoặc tương tự giữa hai sự vật, hiện tượng (thường đi kèm phó từ <code>まるで</code> để nhấn mạnh tính chất tương đồng kỳ lạ/ấn tượng).<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ <code>まるで 〜 のようだ</code> dùng trong văn viết/trang trọng; <code>まるで 〜 みたいだ</code> dùng trong văn nói thân mật.<br>&nbsp;&nbsp;+ Bản chất thực tế không phải là sự vật đó, chỉ là sự so sánh ví von ấn tượng.<br>• <b>Kết hợp:</b> <code>まるで ＋ N の / V-thể ngắn ＋ ようだ / みたいだ</code>.",
+            "explanation": "Dùng để tạo hình ảnh ví von sinh động, so sánh đặc điểm nổi bật của sự vật này với một hình tượng khác.",
+            "examples": [
+                {
+                    "jp": "その<ruby>景色<rt>けしき</rt></ruby>はまるで<ruby>夢<rt>ゆめ</rt></ruby>のようだ。",
+                    "vi": "Cảnh sắc đó cứ như thể là trong mơ vậy.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_111.1.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>はまるで<ruby>子供<rt>こども</rt></ruby>のように<ruby>遊<rt>あそ</rt></ruby>んでいる。",
+                    "vi": "Anh ấy đang chơi đùa cứ như thể là một đứa trẻ vậy.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_111.2.png"
+                },
+                {
+                    "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>はまるで<ruby>天使<rt>てんし</rt></ruby>のように<ruby>優<rt>やさ</rt></ruby>しい。",
+                    "vi": "Cô ấy dịu dàng cứ như thể là một thiên sứ vậy.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_111.3.png"
+                },
+                {
+                    "jp": "まるで<ruby>合格<rt>ごうかく</rt></ruby>したかのように<ruby>喜<rt>よろこ</rt></ruby>んでいる。",
+                    "vi": "Anh ấy vui mừng cứ như thể là đã thi đỗ vậy.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_111.4.png"
+                },
+                {
+                    "jp": "この<ruby>人形<rt>にんぎょう</rt></ruby>はまるで<ruby>生<rt>い</rt></ruby>きているみたいだ。",
+                    "vi": "Con búp bê này trông cứ như là đang sống vậy.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_111.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "<ruby>今日<rt>きょう</rt></ruby>はまるで<ruby>春<rt>はる</rt></ruby>（　　）ような<ruby>暖<rt>あたた</rt></ruby>かさだ。",
+                        "options": ["の", "な", "に", "で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼<rt>かれ</rt></ruby>はまるで<ruby>何<rt>なに</rt></ruby>も（　　）かのように振る舞っている。",
+                        "options": ["<ruby>知<rt>し</rt></ruby>らない", "<ruby>知<rt>し</rt></ruby>る", "<ruby>知<rt>し</rt></ruby>った", "<ruby>知<rt>し</rt></ruby>り"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この<ruby>絵<rt>え</rt></ruby>はまるで<ruby>写真<rt>しゃしん</rt></ruby>（　　）みたいだ。",
+                        "options": ["の", "な", "に", "で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "まるで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の（　　）くつろいでいる。",
+                        "options": ["ように", "ような", "ようで", "ようさ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>はまるで<ruby>雪<rt>ゆき</rt></ruby>（　　）ように<ruby>白<rt>しろ</rt></ruby>い。",
+                        "options": ["の", "な", "に", "だ"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "まるで（　　）の<ruby>世界<rt>せかい</rt></ruby>に迷い込んだようだ。",
+                        "options": ["おとぎ<ruby>話<rt>ばなし</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この<ruby>布<rt>ぬの</rt></ruby>はまるで（　　）のように滑らかだ。",
+                        "options": ["シルク", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "まるで（　　）のように<ruby>速<rt>はや</rt></ruby>く走る。",
+                        "options": ["<ruby>風<rt>かぜ</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この<ruby>部屋<rt>へや</rt></ruby>はまるで（　　）のように寒い。",
+                        "options": ["<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "まるで（　　）のように輝いている。",
+                        "options": ["<ruby>星<rt>ほし</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "まるで<ruby>昨日<rt>きのう</rt></ruby>の（　　）によく覚えている。",
+                        "options": ["こと", "ことだ", "ことの", "ことに"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "まるで<ruby>鳥<rt>とり</rt></ruby>が（　　）ように自由に歌う。",
+                        "options": ["<ruby>飛<rt>と</rt></ruby>ぶ", "<ruby>飛<rt>と</rt></ruby>び", "<ruby>飛<rt>と</rt></ruby>んだ", "<ruby>飛<rt>と</rt></ruby>ぼう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "まるで<ruby>魔法<rt>まほう</rt></ruby>を（　　）かのように消えてしまった。",
+                        "options": ["かけられた", "かける", "かけ", "かけよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "このスープはまるでプロが（　　）ような味だ。",
+                        "options": ["<ruby>作<rt>つく</rt></ruby>った", "<ruby>作<rt>つく</rt></ruby>る", "<ruby>作<rt>つく</rt></ruby>り", "<ruby>作<rt>つく</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "まるで<ruby>時間<rt>じかん</rt></ruby>が（　　）かのように静かだ。",
+                        "options": ["<ruby>止<rt>と</rt></ruby>まった", "<ruby>止<rt>と</rt></ruby>まる", "<ruby>止<rt>と</rt></ruby>まり", "<ruby>止<rt>と</rt></ruby>めよう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Hòn đảo đó đẹp cứ như thể là một thiên đường vậy.",
+                        "jp": "その<ruby>島<rt>しま</rt></ruby>はまるで<ruby>天国<rt>てんごく</rt></ruby>のようだ。"
+                    },
+                    {
+                        "vi": "Anh ấy nói tiếng Nhật trôi chảy cứ như người bản xứ vậy.",
+                        "jp": "<ruby>彼<rt>かれ</rt></ruby>はまるで<ruby>日本人<rt>にほんじん</rt></ruby>のようにペラペラと<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>す。"
+                    },
+                    {
+                        "vi": "Căn phòng này yên tĩnh cứ như không có ai ở vậy.",
+                        "jp": "この<ruby>部屋<rt>へや</rt></ruby>はまるで<ruby>誰<rt>だれ</rt></ruby>もいないかのように<ruby>静<rt>しず</rt></ruby>かだ。"
+                    },
+                    {
+                        "vi": "Chiếc bánh ngọt này ngon cứ như được làm từ tiệm bánh cao cấp.",
+                        "jp": "このケーキはまるで<ruby>高級店<rt>こうきゅうてん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>られたみたいにおいしい。"
+                    },
+                    {
+                        "vi": "Thời gian trôi nhanh cứ như một cái chớp mắt vậy.",
+                        "jp": "<ruby>時間<rt>じかん</rt></ruby>はまるで<ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に<ruby>過<rt>す</rt></ruby>ぎ去ったようだ。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "ちょうど 〜 ようだ / 〜 みたいだ",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>ちょうど 〜 ようだ ／ 〜 みたいだ (Vừa vặn, vừa đúng lúc...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>ちょうど</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ようだ</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜みたいだ</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ところだ / いい</span></td></tr></tbody></table></div>",
+            "meaning": "Vừa vặn, vừa hay, vừa đúng...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả sự vừa vặn, khớp nhau hoặc đúng thời điểm của một trạng thái, hành động.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Dùng khi một yếu tố (kích thước, nhiệt độ, thời gian, cơ hội) đạt mức lý tưởng hoặc trùng khớp hoàn hảo.<br>&nbsp;&nbsp;+ Thường đi với <code>ちょうどいい</code>, <code>ちょうど〜ところだ</code>, <code>ちょうど〜ようだ / みたいだ</code>.<br>• <b>Kết hợp:</b> <code>ちょうど ＋ A-い / V-ところ / 〜ようだ / 〜みたいだ</code>.",
+            "explanation": "Dùng để nhấn mạnh sự phù hợp, không thừa không thiếu, hoặc sự trùng khớp đúng vào thời khắc cần thiết.",
+            "examples": [
+                {
+                    "jp": "このシャツはちょうどいいサイズだ。",
+                    "vi": "Chiếc áo sơ mi này có kích cỡ vừa vặn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_112.1.png"
+                },
+                {
+                    "jp": "ちょうどいい<ruby>時間<rt>じかん</rt></ruby>みたいだから、<ruby>今<rt>いま</rt></ruby><ruby>出発<rt>しゅっぱつ</rt></ruby>しましょう。",
+                    "vi": "Có vẻ như đã đến đúng thời điểm rồi, chúng ta hãy xuất phát bây giờ thôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_112.2.png"
+                },
+                {
+                    "jp": "ちょうど<ruby>今<rt>いま</rt></ruby>から、やるところだ。",
+                    "vi": "Đúng lúc tôi chuẩn bị làm bây giờ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_112.3.png"
+                },
+                {
+                    "jp": "ちょうど<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>したみたいだ。",
+                    "vi": "Có vẻ như trời vừa đúng lúc bắt đầu đổ mưa.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_112.4.png"
+                },
+                {
+                    "jp": "お<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>はちょうどいいようだ。",
+                    "vi": "Nhiệt độ của nước bồn tắm có vẻ vừa vặn/vừa đủ ấm.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_112.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "この<ruby>靴<rt>くつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>足<rt>あし</rt></ruby>（　　）ちょうどいい。",
+                        "options": ["に", "で", "を", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど<ruby>電車<rt>でんしゃ</rt></ruby>が（　　）ところだ。",
+                        "options": ["<ruby>来<rt>き</rt></ruby>た", "<ruby>来<rt>く</rt></ruby>る", "<ruby>来<rt>こ</rt></ruby>", "<ruby>来<rt>こ</rt></ruby>よう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうどいい（　　）で<ruby>話<rt>はなし</rt></ruby>を<ruby>切<rt>き</rt></ruby>り上げた。",
+                        "options": ["タイミング", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど<ruby>昼<rt>ひる</rt></ruby>ご飯を（　　）ところだった。",
+                        "options": ["<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わった", "<ruby>食<rt>た</rt></ruby>べる", "<ruby>食<rt>た</rt></ruby>べ", "<ruby>食<rt>た</rt></ruby>べよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>味付<rt>あじつ</rt></ruby>けはちょうどいい（　　）だ。",
+                        "options": ["よう", "そう", "らしい", "みたい"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "この部屋の（　　）はちょうどいい。",
+                        "options": ["<ruby>広<rt>ひろ</rt></ruby>さ", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど（　　）が空いたので、旅行に行こう。",
+                        "options": ["<ruby>時間<rt>じかん</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうどいい（　　）のバスがあって助かった。",
+                        "options": ["<ruby>便<rt>びん</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど（　　）が切れたところだった。",
+                        "options": ["<ruby>電池<rt>でんち</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "お茶の（　　）がちょうどいい温度になった。",
+                        "options": ["<ruby>湯加減<rt>ゆかげん</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "ちょうど<ruby>家<rt>いえ</rt></ruby>を（　　）ときに電話が鳴った。",
+                        "options": ["<ruby>出<rt>で</rt></ruby>ようとした", "<ruby>出<rt>で</rt></ruby>る", "<ruby>出<rt>で</rt></ruby>た", "<ruby>出<rt>で</rt></ruby>て"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "このズボンは<ruby>丈<rt>たけ</rt></ruby>がちょうど（　　）。",
+                        "options": ["いい", "よく", "よかった", "よければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど<ruby>席<rt>せき</rt></ruby>が（　　）みたいだ。",
+                        "options": ["<ruby>空<rt>あ</rt></ruby>いた", "<ruby>空<rt>あ</rt></ruby>く", "<ruby>空<rt>あ</rt></ruby>き", "<ruby>空<rt>あ</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど<ruby>話<rt>はなし</rt></ruby>が（　　）ところです。",
+                        "options": ["まとまった", "まとまる", "まとまり", "まとめよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ちょうど<ruby>見頃<rt>みごろ</rt></ruby>を（　　）ようだ。",
+                        "options": ["<ruby>迎<rt>むか</rt></ruby>えた", "<ruby>迎<rt>むか</rt></ruby>える", "<ruby>迎<rt>むか</rt></ruby>え", "<ruby>迎<rt>むか</rt></ruby>えよう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Đúng lúc tôi đang định gọi điện cho anh thì anh lại gọi đến.",
+                        "jp": "ちょうどあなたに<ruby>電話<rt>でんわ</rt></ruby>しようとしていたところでした。"
+                    },
+                    {
+                        "vi": "Ánh sáng của căn phòng này có vẻ vừa vặn để đọc sách.",
+                        "jp": "この<ruby>部屋<rt>へや</rt></ruby>の<ruby>明<rt>あか</rt></ruby>るさは<ruby>読書<rt>どくしょ</rt></ruby>にちょうどいいようだ。"
+                    },
+                    {
+                        "vi": "Chiếc bàn này có độ cao vừa đúng chuẩn rất dễ làm việc.",
+                        "jp": "このテーブルは<ruby>高<rt>たか</rt></ruby>さがちょうどよくて<ruby>作業<rt>さぎょう</rt></ruby>しやすい。"
+                    },
+                    {
+                        "vi": "Có vẻ như hoa anh đào trong công viên vừa đúng độ nở rộ nhất.",
+                        "jp": "<ruby>公園<rt>こうえん</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>はちょうど<ruby>満開<rt>まんかい</rt></ruby>になったみたいだ。"
+                    },
+                    {
+                        "vi": "Chúng ta vừa vặn kịp chuyến tàu cuối cùng.",
+                        "jp": "ちょうど<ruby>終電<rt>しゅうでん</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "ぜひ / なんとかして ... 〜たい / 〜てください / 〜てほしい",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>ぜひ ／ なんとかして (Nhất định ／ Bằng mọi giá, nhất định)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.85rem 1rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:42%;'>ぜひ<br><span style='font-size:0.85rem;color:#fff;font-weight:normal;'>(Nhất định)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;' rowspan='2'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜たい</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜てください</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜てほしい</span></td></tr><tr><td style='background:rgba(255,215,0,0.08);border-right:1px solid rgba(255,255,255,0.15);padding:0.85rem 1rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;'>なんとかして<br><span style='font-size:0.85rem;color:#fff;font-weight:normal;'>(Bằng mọi giá, nhất định)</span></td></tr></tbody></table></div>",
+            "meaning": "Nhất định / Bằng mọi giá, nhất định",
+            "usage": "• <b>Ý nghĩa:</b><br>&nbsp;&nbsp;+ <code>ぜひ</code>: Thể hiện nguyện vọng tha thiết của bản thân hoặc lời mời mọc nồng nhiệt đối với người khác (Nhất định...).<br>&nbsp;&nbsp;+ <code>なんとかして</code>: Thể hiện quyết tâm bằng mọi giá, bằng mọi cách thức phải làm cho bằng được hoặc mong người khác giúp giải quyết (Bằng mọi giá, nhất định...).<br>• <b>Đặc điểm:</b> Cả hai phó từ đều đi cùng các mẫu câu thể hiện ước muốn hoặc thỉnh cầu.<br>• <b>Kết hợp:</b> <code>ぜひ / なんとかして ＋ 〜たい / 〜てください / 〜てほしい</code>.",
+            "explanation": "Dùng để thể hiện ý chí mãnh liệt, quyết tâm vượt bậc hoặc nguyện vọng khẩn thiết muốn bản thân thực hiện hay đối phương trợ giúp.",
+            "examples": [
+                {
+                    "jp": "ぜひ<ruby>私<rt>わたし</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>してください。",
+                    "vi": "Nhất định hãy gọi điện thoại cho tôi nhé.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_113.1.png"
+                },
+                {
+                    "jp": "<ruby>何<rt>なん</rt></ruby>とかしてこの<ruby>人<rt>ひと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>欲<rt>ほ</rt></ruby>しい。",
+                    "vi": "Bằng mọi cách tôi rất muốn tìm được người này.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_113.2.png"
+                },
+                {
+                    "jp": "<ruby>日本<rt>にほん</rt></ruby>へぜひ<ruby>行<rt>い</rt></ruby>きたいです。",
+                    "vi": "Tôi nhất định muốn đi Nhật Bản.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_113.3.png"
+                },
+                {
+                    "jp": "ぜひ<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>てください。",
+                    "vi": "Nhất định hãy đến nhà tôi chơi nhé.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_113.4.png"
+                },
+                {
+                    "jp": "ぜひ<ruby>一度<rt>いちど</rt></ruby>その<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみたいです。",
+                    "vi": "Tôi nhất định muốn xem thử bộ phim đó một lần.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_113.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "ぜひ<ruby>京都<rt>きょうと</rt></ruby>（　　）<ruby>案内<rt>あんない</rt></ruby>してください。",
+                        "options": ["を", "に", "で", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひ<ruby>参加<rt>さんか</rt></ruby>（　　）たいと<ruby>思<rt>おも</rt></ruby>います。",
+                        "options": ["し", "する", "して", "した"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひ<ruby>感想<rt>かんそう</rt></ruby>を（　　）ほしいです。",
+                        "options": ["<ruby>聞<rt>き</rt></ruby>かせて", "<ruby>聞<rt>き</rt></ruby>く", "<ruby>聞<rt>き</rt></ruby>いた", "<ruby>聞<rt>き</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>今度<rt>こんど</rt></ruby>のイベントにはぜひ（　　）ください。",
+                        "options": ["お<ruby>越<rt>こ</rt></ruby>し", "<ruby>越<rt>こ</rt></ruby>す", "<ruby>越<rt>こ</rt></ruby>して", "<ruby>越<rt>こ</rt></ruby>そう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひこの<ruby>本<rt>ほん</rt></ruby>を（　　）みたい。",
+                        "options": ["<ruby>読<rt>よ</rt></ruby>んで", "<ruby>読<rt>よ</rt></ruby>む", "<ruby>読<rt>よ</rt></ruby>み", "<ruby>読<rt>よ</rt></ruby>もう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "ぜひ（　　）を<ruby>食<rt>た</rt></ruby>べてみてください。",
+                        "options": ["<ruby>郷土料理<rt>きょうどりょうり</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひ（　　）をお<ruby>聞<rt>き</rt></ruby>かせください。",
+                        "options": ["ご<ruby>意見<rt>いけん</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "なんとかして（　　）を<ruby>達成<rt>たっせい</rt></ruby>したい。",
+                        "options": ["<ruby>目標<rt>もくひょう</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひ（　　）で<ruby>話<rt>はな</rt></ruby>し合いましょう。",
+                        "options": ["<ruby>直接<rt>ちょくせつ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "なんとかして（　　）に<ruby>合格<rt>ごうかく</rt></ruby>したい。",
+                        "options": ["<ruby>資格試験<rt>しかくしけん</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "なんとかしてこの<ruby>企画<rt>きかく</rt></ruby>を（　　）させたい。",
+                        "options": ["<ruby>成功<rt>せいこう</rt></ruby>", "<ruby>成功<rt>せいこう</rt></ruby>だ", "<ruby>成功<rt>せいこう</rt></ruby>な", "<ruby>成功<rt>せいこう</rt></ruby>に"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひ<ruby>力<rt>ちから</rt></ruby>を（　　）ください。",
+                        "options": ["<ruby>貸<rt>か</rt></ruby>して", "<ruby>貸<rt>か</rt></ruby>す", "<ruby>貸<rt>か</rt></ruby>した", "<ruby>貸<rt>か</rt></ruby>そう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "<ruby>先生<rt>せんせい</rt></ruby>にぜひ（　　）いただきたいです。",
+                        "options": ["ご<ruby>指導<rt>しどう</rt></ruby>", "ご<ruby>指導<rt>しどう</rt></ruby>だ", "ご<ruby>指導<rt>しどう</rt></ruby>な", "ご<ruby>指導<rt>しどう</rt></ruby>の"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ぜひ<ruby>一緒<rt>いっしょ</rt></ruby>に（　　）ましょう。",
+                        "options": ["<ruby>行<rt>い</rt></ruby>き", "<ruby>行<rt>い</rt></ruby>く", "<ruby>行<rt>い</rt></ruby>った", "<ruby>行<rt>い</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "なんとかしてその<ruby>真実<rt>しんじつ</rt></ruby>を（　　）たい。",
+                        "options": ["<ruby>知<rt>し</rt></ruby>り", "<ruby>知<rt>し</rt></ruby>る", "<ruby>知<rt>し</rt></ruby>って", "<ruby>知<rt>し</rt></ruby>ろう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Nếu bạn đến Tokyo, nhất định hãy liên lạc với tôi nhé.",
+                        "jp": "<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>際<rt>さい</rt></ruby>には、ぜひご<ruby>連絡<rt>れんらく</rt></ruby>ください。"
+                    },
+                    {
+                        "vi": "Tôi nhất định muốn thử sức mình ở một môi trường mới.",
+                        "jp": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>でぜひ<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみたい。"
+                    },
+                    {
+                        "vi": "Bằng mọi giá tôi rất muốn bạn tham gia vào dự án lần này.",
+                        "jp": "<ruby>今度<rt>こんど</rt></ruby>のプロジェクトにはぜひあなたに<ruby>参加<rt>さんか</rt></ruby>してほしい。"
+                    },
+                    {
+                        "vi": "Bằng mọi giá tôi muốn tìm được cách giải quyết vấn đề này.",
+                        "jp": "なんとかしてこの<ruby>問題<rt>もんだい</rt></ruby>の<ruby>解決策<rt>かいけつさく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけたい。"
+                    },
+                    {
+                        "vi": "Bằng mọi cách tôi rất muốn hoàn thành công việc này trước ngày mai.",
+                        "jp": "なんとかして<ruby>明日<rt>あした</rt></ruby>までにこの<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>お</rt></ruby>わらせてほしい。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "どうか ... 〜てください / 〜ないでください / 〜てほしい",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>どうか (Làm ơn, mong rằng...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.3rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>どうか</td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜てください ／ ないで下さい</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜てほしい</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.2rem;'>〜ますように</span></td></tr></tbody></table></div>",
+            "meaning": "Làm ơn, mong rằng...",
+            "usage": "• <b>Ý nghĩa:</b> Dùng để cầu khẩn, van xin hoặc thể hiện mong mỏi tha thiết một cách chân thành, lịch sự (Làm ơn, mong rằng...).<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Mang sắc thái khiêm nhường, thành tâm cầu xin hoặc lời nguyện cầu (<code>〜ますように</code>).<br>&nbsp;&nbsp;+ Dùng khi tha thiết mong đối phương rủ lòng thương hoặc đáp ứng nguyện vọng của mình.<br>• <b>Kết hợp:</b> <code>どうか ＋ 〜てください / 〜ないでください / 〜てほしい / 〜ますように</code>.",
+            "explanation": "Dùng trong các tình huống khẩn thiết khi cần sự trợ giúp, tha thứ hoặc gửi gắm ước nguyện sâu sắc từ tận đáy lòng.",
+            "examples": [
+                {
+                    "jp": "どうか<ruby>私<rt>わたし</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>してください。",
+                    "vi": "Làm ơn/Xin hãy tha thứ cho lỗi lầm/thất bại của tôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_114.1.png"
+                },
+                {
+                    "jp": "いい<ruby>方法<rt>ほうほう</rt></ruby>があるなら、どうか<ruby>教<rt>おし</rt></ruby>えて<ruby>欲<rt>ほ</rt></ruby>しい。",
+                    "vi": "Nếu có phương pháp nào tốt, xin làm ơn hãy chỉ cho tôi với.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_114.2.png"
+                },
+                {
+                    "jp": "どうか<ruby>合格<rt>ごうかく</rt></ruby>しますように。",
+                    "vi": "Cầu mong sao cho tôi sẽ thi đỗ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_114.3.png"
+                },
+                {
+                    "jp": "どうか<ruby>怒<rt>おこ</rt></ruby>らないでください。",
+                    "vi": "Làm ơn xin đừng nổi giận.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_114.4.png"
+                },
+                {
+                    "jp": "どうか<ruby>私<rt>わたし</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いてください。",
+                    "vi": "Làm ơn hãy lắng nghe câu chuyện của tôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_114.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "どうか<ruby>無事<rt>ぶじ</rt></ruby>で（　　）ますように。",
+                        "options": ["あり", "ある", "あって", "あった"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうかこの<ruby>願<rt>ねが</rt></ruby>い（　　）<ruby>叶<rt>かな</rt></ruby>えてください。",
+                        "options": ["を", "に", "で", "へ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか<ruby>気<rt>き</rt></ruby>を（　　）ないでください。",
+                        "options": ["<ruby>落<rt>お</rt></ruby>とさ", "<ruby>落<rt>お</rt></ruby>とし", "<ruby>落<rt>お</rt></ruby>とす", "<ruby>落<rt>お</rt></ruby>とせ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうかお<ruby>体<rt>からだ</rt></ruby>を（　　）になさってください。",
+                        "options": ["お<ruby>大事<rt>だいじ</rt></ruby>", "<ruby>大事<rt>だいじ</rt></ruby>だ", "<ruby>大事<rt>だいじ</rt></ruby>の", "<ruby>大事<rt>だいじ</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか<ruby>本当<rt>ほんとう</rt></ruby>のことを（　　）てください。",
+                        "options": ["<ruby>話<rt>はな</rt></ruby>し", "<ruby>話<rt>はな</rt></ruby>す", "<ruby>話<rt>はな</rt></ruby>せ", "<ruby>話<rt>はな</rt></ruby>そう"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "どうか（　　）をお<ruby>貸<rt>か</rt></ruby>しください。",
+                        "options": ["お<ruby>力<rt>ちから</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>書類<rt>しょるい</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか（　　）が回復しますように。",
+                        "options": ["<ruby>体調<rt>たいちょう</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか（　　）なさらないでください。",
+                        "options": ["ご<ruby>遠慮<rt>えんりょ</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか（　　）にご<ruby>協力<rt>きょうりょく</rt></ruby>をお願いします。",
+                        "options": ["<ruby>調査<rt>ちょうさ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか（　　）をお許しください。",
+                        "options": ["ご<ruby>無礼<rt>ぶれい</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "どうか<ruby>見捨<rt>みす</rt></ruby>て（　　）でください。",
+                        "options": ["ない", "ず", "なくて", "ぬ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか<ruby>夢<rt>ゆめ</rt></ruby>が（　　）ますように。",
+                        "options": ["<ruby>叶<rt>かな</rt></ruby>い", "<ruby>叶<rt>かな</rt></ruby>う", "<ruby>叶<rt>かな</rt></ruby>って", "<ruby>叶<rt>かな</rt></ruby>った"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか<ruby>秘密<rt>ひみつ</rt></ruby>を（　　）ください。",
+                        "options": ["<ruby>守<rt>まも</rt></ruby>って", "<ruby>守<rt>まも</rt></ruby>る", "<ruby>守<rt>まも</rt></ruby>り", "<ruby>守<rt>まも</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうかご<ruby>理解<rt>りかい</rt></ruby>（　　）ください。",
+                        "options": ["くだされ", "ください", "くだされば", "くださる"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "どうか<ruby>手術<rt>しゅじゅつ</rt></ruby>が（　　）しますように。",
+                        "options": ["<ruby>成功<rt>せいこう</rt></ruby>", "<ruby>成功<rt>せいこう</rt></ruby>だ", "<ruby>成功<rt>せいこう</rt></ruby>な", "<ruby>成功<rt>せいこう</rt></ruby>に"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Cầu mong cho ca phẫu thuật của mẹ tôi diễn ra thành công tốt đẹp.",
+                        "jp": "どうか<ruby>母<rt>はは</rt></ruby>の<ruby>手術<rt>しゅじゅつ</rt></ruby>がうまく<ruby>行<rt>い</rt></ruby>きますように。"
+                    },
+                    {
+                        "vi": "Làm ơn xin hãy hiểu và thông cảm cho hoàn cảnh của tôi.",
+                        "jp": "どうか<ruby>私<rt>わたし</rt></ruby>の<ruby>事情<rt>じじょう</rt></ruby>をご<ruby>理解<rt>りかい</rt></ruby>ください。"
+                    },
+                    {
+                        "vi": "Nếu có thể được, xin làm ơn cho tôi thêm một cơ hội nữa.",
+                        "jp": "できることなら、どうかもう<ruby>一度<rt>いちど</rt></ruby>チャンスをください。"
+                    },
+                    {
+                        "vi": "Làm ơn đừng nói chuyện này cho bất kỳ ai biết nhé.",
+                        "jp": "どうかこのことは<ruby>誰<rt>だれ</rt></ruby>にも<ruby>言<rt>い</rt></ruby>わないでください。"
+                    },
+                    {
+                        "vi": "Cầu chúc cho tất cả mọi người luôn được bình an và hạnh phúc.",
+                        "jp": "どうかみなさんが<ruby>幸<rt>しあわ</rt></ruby>せでありますように。"
+                    }
+                ]
+            }
+        }
+    ]
+}

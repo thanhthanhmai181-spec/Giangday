@@ -1,0 +1,151 @@
+{
+  "id": "choukai-n3-nghe_hoi-04",
+  "level": "N3",
+  "category": "nghe_hoi",
+  "categoryName": "Nghe hỏi (発話表現)",
+  "lessonNumber": 4,
+  "title": "Bài 4: Luyện nghe hiểu phát ngôn theo tranh (発話表現 第4回)",
+  "description": "Dạng bài nghe hiểu phát ngôn tình huống theo hình ảnh minh họa (発話表現): Nhìn tranh, lắng nghe tình huống và câu hỏi trong file âm thanh. Bấm chọn câu đối đáp phù hợp nhất: 1, 2 hoặc 3.",
+  "questions": [
+    {
+      "id": 58,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai4/58.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai4/16.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. あの、空いているとこありませんか？",
+          "meaning": "Xin lỗi, có còn chỗ nào trống không ạ?",
+          "analysis": "ĐÚNG: Bãi xe đông đúc, muốn hỏi nhân viên phụ trách xem còn vị trí trống nào để đỗ xe không."
+        },
+        {
+          "option": "2. あの、ここに車を置くことにしませんか？",
+          "meaning": "Xin lỗi, hay là tụi mình đỗ xe ở chỗ này nhé?",
+          "analysis": "Sai: Dùng mẫu rủ rê '〜ことにしませんか' với người đi cùng chứ không dùng để hỏi nhân viên bãi xe."
+        },
+        {
+          "option": "3. あの、ちょっと止まってもらえませんか？",
+          "meaning": "Xin lỗi, anh có thể dừng xe lại một lát giúp tôi được không?",
+          "analysis": "Sai: Dùng để yêu cầu người khác dừng xe lại."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「駐車場がとても混んでいます。車が止められるかどうか分かりません。係の人に何と言いますか？→ 1. あの、空いているとこありませんか？」",
+      "explanation": "Đáp án đúng là 1 (あの、空いているとこありませんか？).\n- Tình huống: Bãi đỗ xe đông đúc, muốn hỏi nhân viên xem còn chỗ đỗ xe trống không.\n- Câu hỏi tìm chỗ trống tự nhiên và lịch sự: 「あの、空いているとこありませんか？」 (Xin lỗi, có còn chỗ trống nào không ạ?).",
+      "scriptJp": "<p><ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>がとても<ruby>混<rt>こ</rt></ruby>んでいます。<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>められるかどうか<ruby>分<rt>わ</rt></ruby>かりません。<ruby>係<rt>かかり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br><strong>1. あの、<ruby>空<rt>あ</rt></ruby>いているとこありませんか？</strong><br>2. あの、ここに<ruby>車<rt>くるま</rt></ruby>を<ruby>置<rt>お</rt></ruby>くことにしませんか？<br>3. あの、ちょっと<ruby>止<rt>と</rt></ruby>まってもらえませんか？</p>",
+      "scriptVi": "Tình huống: Bãi đỗ xe đang rất đông đúc. Bạn không biết liệu có còn chỗ đỗ xe được không. Bạn sẽ hỏi nhân viên phụ trách bãi xe như thế nào?\n1. Xin lỗi, có còn chỗ nào trống không ạ?\n2. Xin lỗi, mình quyết định để xe ở đây nhé?\n3. Xin lỗi, anh có thể dừng lại một lát giúp tôi được không?"
+    },
+    {
+      "id": 59,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai4/59.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai4/17.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. ねえ、これもらいたいんだけど。",
+          "meaning": "Này, tớ muốn xin chiếc này được không?",
+          "analysis": "Sai: 'もらう' là xin luôn món đồ mang về chứ không phải mượn chơi thử."
+        },
+        {
+          "option": "2. ねえ、ゲームやるんじゃない？",
+          "meaning": "Này, chẳng phải là chơi game sao?",
+          "analysis": "Sai: Dùng để phỏng đoán hành động của bạn."
+        },
+        {
+          "option": "3. ねえ、このゲームやってみたい。",
+          "meaning": "Này, trò game này tớ muốn chơi thử quá (cho tớ chơi thử nhé).",
+          "analysis": "ĐÚNG: Dùng mẫu '〜てみたい' để bày tỏ sự hào hứng và ngỏ ý xin phép mượn bạn chơi thử trò game mới lạ."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「友達のうちに見たことがないゲームがあります。今借りてやりたいです。何と言いますか？→ 3. ねえ、このゲームやってみたい。」",
+      "explanation": "Đáp án đúng là 3 (ねえ、このゲームやってみたい).\n- Tình huống: Ở nhà bạn có bộ trò chơi mới lạ, muốn mượn bạn chơi thử ngay lúc đó.\n- Bày tỏ mong muốn chơi thử với bạn bè thân thiết: 「ねえ、このゲームやってみたい。」 (Này, trò này tớ muốn chơi thử quá!).",
+      "scriptJp": "<p><ruby>友達<rt>ともだち</rt></ruby>のうちに<ruby>見<rt>み</rt></ruby>たことがないゲームがあります。<ruby>今<rt>いま</rt></ruby><ruby>借<rt>か</rt></ruby>りてやりたいです。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br>1. ねえ、これもらいたいんだけど。<br>2. ねえ、ゲームやるんじゃない？<br><strong>3. ねえ、このゲームやってみたい。</strong></p>",
+      "scriptVi": "Tình huống: Ở nhà bạn có một trò chơi điện tử mà bạn chưa từng thấy bao giờ. Bạn muốn mượn chơi thử bây giờ. Bạn sẽ nói gì?\n1. Này, tớ muốn xin cái này được không?\n2. Này, chẳng phải là chơi game sao?\n3. Này, trò này tớ muốn chơi thử quá."
+    },
+    {
+      "id": 60,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai4/60.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai4/18.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. どうやって予約するのか教えましょうか？",
+          "meaning": "Để tôi chỉ cho anh/chị cách đặt vé nhé?",
+          "analysis": "Sai: Đây là câu đề nghị mình chỉ cách làm cho nhân viên."
+        },
+        {
+          "option": "2. 予約はどうすればいいんですか？",
+          "meaning": "Việc đặt vé thì tôi phải thao tác / làm thế nào ạ?",
+          "analysis": "ĐÚNG: Khách hàng không biết thao tác máy nên dùng mẫu '〜はどうすればいいんですか' để nhờ nhân viên cửa hàng hướng dẫn cách đặt vé."
+        },
+        {
+          "option": "3. チケットを予約したらどうでしょうか？",
+          "meaning": "Nếu đặt vé thì thế nào ạ?",
+          "analysis": "Sai: Đây là câu đưa ra lời khuyên cho đối phương."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「コンビニの機械でコンサートのチケットを予約します。使い方が分かりません。店員に何と言いますか？→ 2. 予約はどうすればいいんですか？」",
+      "explanation": "Đáp án đúng là 2 (予約はどうすればいいんですか？).\n- Tình huống: Muốn đặt vé xem ca nhạc tại máy tự động của cửa hàng tiện lợi nhưng không biết cách sử dụng.\n- Để hỏi nhân viên cách thức thực hiện thao tác: 「予約はどうすればいいんですか？」 (Đặt vé thì tôi phải làm thế nào ạ?).",
+      "scriptJp": "<p>コンビニの<ruby>機械<rt>きかい</rt></ruby>でコンサートのチケットを<ruby>予約<rt>よやく</rt></ruby>します。<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。<ruby>店員<rt>てんいん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br>1. どうやって<ruby>予約<rt>よやく</rt></ruby>するのか<ruby>教<rt>おし</rt></ruby>えましょうか？<br><strong>2. <ruby>予約<rt>よやく</rt></ruby>はどうすればいいんですか？</strong><br>3. チケットを<ruby>予約<rt>よやく</rt></ruby>したらどうでしょうか？</p>",
+      "scriptVi": "Tình huống: Bạn muốn đặt vé buổi hòa nhạc bằng máy tự động ở cửa hàng tiện lợi. Bạn không biết cách sử dụng máy. Bạn sẽ nói gì với nhân viên?\n1. Để tôi chỉ cho anh/chị cách đặt vé nhé?\n2. Việc đặt vé thì tôi phải làm thế nào ạ?\n3. Nếu đặt vé thì thế nào ạ?"
+    },
+    {
+      "id": 61,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_hoi/bai4/61.mp3",
+      "imageSrc": "assets/images/choukai/n3/nghe_hoi/bai4/19.jpg",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 悪いんだけど、昨日のノートコピーさせて？",
+          "meaning": "Ngại quá nhưng mà, cậu cho tớ photo cuốn vở hôm qua nhé?",
+          "analysis": "ĐÚNG: Dùng thể sai khiến xin phép thân mật '〜させて' kết hợp từ ngữ mở lời lịch sự '悪いんだけど' để xin mượn photo vở bạn."
+        },
+        {
+          "option": "2. あの、実はノートコピーするんだって。",
+          "meaning": "À, thật ra nghe nói đi photo vở đấy.",
+          "analysis": "Sai: Dùng mẫu truyền đạt '〜んだって' không phù hợp với việc xin mượn đồ."
+        },
+        {
+          "option": "3. ねえ、このノートコピーしたかったらいいよ。",
+          "meaning": "Này, nếu cậu muốn photo cuốn vở này thì cứ tự nhiên nhé.",
+          "analysis": "Sai: Đây là câu cho phép bạn mượn photo vở của mình."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「昨日授業を休んだので、友達のノートをコピーしたいです。何と言いますか？→ 1. 悪いんだけど、昨日のノートコピーさせて？」",
+      "explanation": "Đáp án đúng là 1 (悪いんだけど、昨日のノートコピーさせて？).\n- Tình huống: Nghỉ học hôm qua nên muốn xin mượn vở của bạn để photo lại bài.\n- Mẫu xin phép bạn bè thân thiết: 「悪いんだけど、昨日のノートコピーさせて？」 (Ngại quá nhưng cậu cho tớ photo nhờ vở hôm qua nhé?).",
+      "scriptJp": "<p><ruby>昨日<rt>きのう</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだので、<ruby>友達<rt>ともだち</rt></ruby>のノートをコピーしたいです。<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>いますか？<br><strong>1. <ruby>悪<rt>わる</rt></ruby>いんだけど、<ruby>昨日<rt>きのう</rt></ruby>のノートコピーさせて？</strong><br>2. あの、<ruby>実<rt>じつ</rt></ruby>はノートコピーするんだって。<br>3. ねえ、このノートコピーしたかったらいいよ。</p>",
+      "scriptVi": "Tình huống: Hôm qua bạn nghỉ học nên muốn mượn vở của bạn để đi photo. Bạn sẽ xin phép như thế nào?\n1. Ngại quá nhưng mà, cậu cho tớ photo cuốn vở hôm qua nhé?\n2. À, thật ra nghe bảo đi photo vở đấy.\n3. Này, nếu cậu muốn photo cuốn vở này thì cứ tự nhiên nhé."
+    }
+  ]
+}

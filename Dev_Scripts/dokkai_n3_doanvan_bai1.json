@@ -1,0 +1,62 @@
+{
+  "id": "dokkai-n3-doanvan-01",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 1,
+  "title": "テニスクラブのメール (Email gửi CLB Tennis)",
+  "timeLimit": 180,
+  "passage": "<p>これはテニスクラブのメンバーに<ruby>届<rt>とど</rt></ruby>いたメールである。</p><p>メンバーの<ruby>中山<rt>なかやま</rt></ruby><ruby>夏子<rt>なつこ</rt></ruby>さんが、<ruby>市<rt>し</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>して<ruby>県<rt>けん</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ることになりました。<ruby>三<rt>さん</rt></ruby><ruby>位<rt>い</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったら、<ruby>次<rt>つぎ</rt></ruby>は<ruby>全国<rt>ぜんこく</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>です。<ruby>全国<rt>ぜんこく</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>られるように、みんなで<ruby>応援<rt>おうえん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。</p><p><ruby>県<rt>けん</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>は１９<ruby>日<rt>にち</rt></ruby>(<ruby>日<rt>にち</rt></ruby>)、<ruby>午前<rt>ごぜん</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>から<ruby>県<rt>けん</rt></ruby>の<ruby>運動<rt>うんどう</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われます。</p><p><ruby>当日<rt>とうじつ</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>から、<ruby>食事会<rt>しょくじかい</rt></ruby>をしたいと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>参加<rt>さんか</rt></ruby>を<ruby>希望<rt>きぼう</rt></ruby>する<ruby>方<rt>かた</rt></ruby>は、１７<ruby>日<rt>にち</rt></ruby>までにメールをください。</p><p><ruby>試合<rt>しあい</rt></ruby>について<ruby>詳<rt>くわ</rt></ruby>しいことがわかったら、またお<ruby>知<rt>し</rt></ruby>らせします。</p>",
+  "fullTranslation": "Đây là email gửi tới các thành viên của câu lạc bộ tennis.\n\nThành viên Nakayama Natsuko đã vô địch giải đấu cấp thành phố và sẽ tham gia thi đấu tại giải cấp tỉnh. Nếu lọt vào top 3, tiếp theo sẽ là giải vô địch toàn quốc. Để cổ vũ cho bạn ấy có thể tiến vào giải toàn quốc, mọi người hãy cùng nhau đi cổ vũ nhé.\n\nGiải đấu cấp tỉnh sẽ được tổ chức vào Chủ Nhật ngày 19, từ 10 giờ sáng tại Công viên Thể thao của tỉnh.\n\nVào ngày hôm đó, chúng tôi dự định sẽ tổ chức một buổi liên hoan ăn uống từ 5 giờ chiều. Những ai mong muốn tham gia xin vui lòng gửi email đăng ký trước ngày 17.\n\nKhi có thông tin chi tiết hơn về trận đấu, chúng tôi sẽ thông báo lại sau.",
+  "vocabulary": [
+    { "word": "優勝", "hiragana": "ゆうしょう", "meaning": "Vô địch / Đoạt giải nhất" },
+    { "word": "県大会", "hiragana": "けんたいかい", "meaning": "Giải đấu cấp tỉnh" },
+    { "word": "三位以内", "hiragana": "さんいいない", "meaning": "Trong top 3 / Từ hạng 3 trở lên" },
+    { "word": "全国大会", "hiragana": "ぜんこくたいかい", "meaning": "Giải đấu toàn quốc" },
+    { "word": "応援", "hiragana": "おうえん", "meaning": "Cổ vũ / Động viên" },
+    { "word": "食事会", "hiragana": "しょくじかい", "meaning": "Buổi liên hoan ăn uống" },
+    { "word": "呼びかける", "hiragana": "よびかける", "meaning": "Kêu gọi / Vận động" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜ことになる", "meaning": "Được quyết định là / Trở thành..." },
+    { "pattern": "〜ように", "meaning": "Để mà (chỉ mục đích)" },
+    { "pattern": "〜までに", "meaning": "Trước thời hạn nào đó" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：田村さんはこのメールで、テニスクラブのメンバーにどんなことを呼びかけているか。",
+      "options": [
+        "市の大会に中山さんの応援に行き、その後で食事会をしましょう。",
+        "県大会に中山さんの応援に行き、その後で食事会をしましょう。",
+        "県大会の前に食事会をし、中山さんが全国大会に出られるように応援しましょう。",
+        "全国大会の前に食事会をし、中山さんが全国大会で優勝できるように応援しましょう。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "市の大会に中山さんの応援に行き、その後で食事会をしましょう。",
+          "meaning": "Hãy đi cổ vũ bạn Nakayama ở giải thành phố, và sau đó cùng nhau liên hoan ăn uống.",
+          "analysis": "Sai: Nakayama đã vô địch giải thành phố rồi ('市の大会で優勝して'), giải đấu sắp tới là giải cấp tỉnh."
+        },
+        {
+          "option": "県大会に中山さんの応援に行き、その後で食事会をしましょう。",
+          "meaning": "Hãy đi cổ vũ bạn Nakayama ở giải cấp tỉnh, và sau đó cùng nhau liên hoan ăn uống.",
+          "analysis": "ĐÚNG: Khớp hoàn toàn với nội dung kêu gọi đi cổ vũ giải tỉnh lúc 10h sáng ngày 19 ('県大会は19日... みんなで応援に行きましょう') và liên hoan vào 5h chiều cùng ngày ('当日は午後5時から、食事会をしたい')."
+        },
+        {
+          "option": "県大会の前に食事会をし、中山さんが全国大会に出られるように応援しましょう。",
+          "meaning": "Hãy tổ chức ăn uống trước giải tỉnh và cổ vũ để Nakayama có thể vào giải toàn quốc.",
+          "analysis": "Sai thời điểm: Buổi ăn uống diễn ra vào lúc 5h chiều cùng ngày sau trận đấu, không phải trước giải tỉnh."
+        },
+        {
+          "option": "全国大会の前に食事会をし、中山さんが全国大会で優勝できるように応援しましょう。",
+          "meaning": "Hãy tổ chức ăn uống trước giải toàn quốc...",
+          "analysis": "Sai: Hiện tại Nakayama mới chuẩn bị thi đấu giải cấp tỉnh để tranh vé vào giải toàn quốc."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「県大会に出ることになりました。...みんなで応援に行きましょう。県大会は19日(日)、午前10時から県の運動公園で行われます。当日は午後5時から、食事会をしたいと考えています。」",
+      "explanation": "Đáp án 2 đúng. Người viết email kêu gọi mọi người cùng đến Công viên Thể thao của tỉnh vào ngày 19 để cổ vũ Nakayama ở giải cấp tỉnh, sau đó tham gia buổi liên hoan ăn uống vào lúc 5 giờ chiều cùng ngày."
+    }
+  ]
+}

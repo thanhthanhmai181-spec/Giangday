@@ -1,0 +1,62 @@
+{
+  "id": "dokkai-n3-doanvan-10",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 10,
+  "title": "すし一番の大会 (Cuộc thi Sushi Ichiban)",
+  "timeLimit": 180,
+  "passage": "<p>これはある<ruby>国<rt>くに</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われた、すしの<ruby>大会<rt>たいかい</rt></ruby>についての<ruby>記事<rt>きじ</rt></ruby>である。</p><p><ruby>先日<rt>せんじつ</rt></ruby>、「すし<ruby>一番<rt>いちばん</rt></ruby>」という<ruby>大会<rt>たいかい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われ、<ruby>各地<rt>かくち</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>まった１５<ruby>人<rt>にん</rt></ruby>のすし<ruby>屋<rt>や</rt></ruby>が、すしを<ruby>作<rt>つく</rt></ruby>るはやさと、<ruby>皿<rt>さら</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べたすしの<ruby>全体的<rt>ぜんたいてき</rt></ruby>な<ruby>美<rt>うつく</rt></ruby>しさを<ruby>競争<rt>きょうそう</rt></ruby>した。<br><ruby>参加者<rt>さんかしゃ</rt></ruby>のほとんどは、１０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>たちだったが、<ruby>今年<rt>ことし</rt></ruby>の<ruby>優勝者<rt>ゆうしょうしゃ</rt></ruby>は、すし<ruby>屋<rt>や</rt></ruby>になって５<ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby>の２７<ruby>歳<rt>さい</rt></ruby>の<ruby>若者<rt>わかもの</rt></ruby>だった。<br><ruby>優勝者<rt>ゆうしょうしゃ</rt></ruby>には<ruby>日本<rt>にほん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>がプレゼントされ、<ruby>旅行<rt>りょこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>には、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしたり、<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っているところを<ruby>見学<rt>けんがく</rt></ruby>したりすることになっている。<ruby>優勝者<rt>ゆうしょうしゃ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<ruby>行<rt>い</rt></ruby>くので、とてもうれしいと<ruby>語<rt>かた</rt></ruby>った。</p>",
+  "fullTranslation": "Đây là bài báo viết về một cuộc thi làm sushi được tổ chức tại một quốc gia:\n\nVừa qua, cuộc thi mang tên 'Sushi Ichiban' đã diễn ra, với sự góp mặt của 15 đầu bếp sushi đến từ khắp các địa phương, cùng nhau tranh tài về tốc độ nắm sushi cũng như vẻ đẹp tổng thể của đĩa sushi khi bày biện.\nHầu hết các thí sinh tham gia đều là những người có trên 10 năm kinh nghiệm trong nghề, nhưng người giành chức vô địch năm nay lại là một chàng trai trẻ 27 tuổi mới vào nghề sushi được 5 năm.\nQuán quân cuộc thi được tặng một chuyến du lịch Nhật Bản. Trong chuyến đi, người này sẽ được thưởng thức ẩm thực tại các nhà hàng Nhật Bản nổi tiếng và tham quan trực tiếp quy trình chế biến món ăn. Vị quán quân chia sẻ rằng đây là lần đầu tiên được đến Nhật Bản nên cảm thấy vô cùng vui sướng.",
+  "vocabulary": [
+    { "word": "記事", "hiragana": "きじ", "meaning": "Bài báo / Phóng sự" },
+    { "word": "各地", "hiragana": "かくち", "meaning": "Các nơi / Khắp các địa phương" },
+    { "word": "全体的", "hiragana": "ぜんたいてき", "meaning": "Tính tổng thể / Nhìn chung" },
+    { "word": "競争", "hiragana": "きょうそう", "meaning": "Cạnh tranh / Thi đấu" },
+    { "word": "若者", "hiragana": "わかもの", "meaning": "Người trẻ tuổi / Thanh niên" },
+    { "word": "見学", "hiragana": "けんがく", "meaning": "Tham quan học tập" },
+    { "word": "語る", "hiragana": "かたる", "meaning": "Kể / Chia sẻ / Tâm sự" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜だけでなく / 〜だけでは", "meaning": "Không chỉ riêng... / Chỉ... thì không..." },
+    { "pattern": "〜ことになっている", "meaning": "Được quy định / Lên lịch trình làm gì" },
+    { "pattern": "〜目 (〜め)", "meaning": "Thứ... / Năm thứ..." }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：この記事から、「すし一番」という大会についてどんなことがわかるか。",
+      "options": [
+        "すしをはやく作るだけでは、優勝することができない。",
+        "参加するには、すし屋として10年以上の経験が必要だ。",
+        "優勝者は、日本の有名なすし屋で働くことができる。",
+        "参加できるのは、日本に行ったことがない人だけである。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "すしをはやく作るだけでは、優勝することができない。",
+          "meaning": "Chỉ làm sushi nhanh thôi thì không thể giành chiến thắng.",
+          "analysis": "ĐÚNG: Cuộc thi chấm cả hai yếu tố: tốc độ làm ('すしを作るはやさ') VÀ độ thẩm mỹ khi bày ra đĩa ('皿に並べたすしの全体的な美しさ'), do đó chỉ nhanh thôi là không đủ để vô địch."
+        },
+        {
+          "option": "参加するには、すし屋として10年以上の経験が必要だ。",
+          "meaning": "Để tham gia cần phải có trên 10 năm kinh nghiệm.",
+          "analysis": "Sai: Người vô địch năm nay mới chỉ làm nghề được 5 năm ('すし屋になって5年目')."
+        },
+        {
+          "option": "優勝者は、日本の有名なすし屋で働くことができる。",
+          "meaning": "Người vô địch có thể làm việc tại quán sushi nổi tiếng ở Nhật.",
+          "analysis": "Sai: Quán quân được đi du lịch, ăn uống và tham quan ('食事をしたり、料理を作っているところを見学したりする'), không phải được vào làm việc."
+        },
+        {
+          "option": "参加できるのは、日本に行ったことがない人だけである。",
+          "meaning": "Chỉ những ai chưa từng đến Nhật mới được tham gia.",
+          "analysis": "Sai: Bài viết không đưa ra điều kiện này; việc người vô địch lần đầu đi Nhật chỉ là trường hợp cá nhân của anh ấy."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「15人のすし屋が、すしを作るはやさと、皿に並べたすしの全体的な美しさを競争した。」",
+      "explanation": "Đáp án 1 đúng. Tiêu chí của cuộc thi là đánh giá đồng thời cả tốc độ làm sushi lẫn tính thẩm mỹ tổng thể của đĩa thức ăn, do đó thí sinh chỉ làm nhanh mà không đẹp thì không thể vô địch."
+    }
+  ]
+}

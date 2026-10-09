@@ -1,0 +1,650 @@
+﻿{
+    "name":  "Bài 19",
+    "x":  600,
+    "y":  480,
+    "comparison":  "\u003ctable class=\u0027grammar-comparison-table\u0027 style=\u0027width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00273\u0027 style=\u0027border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003eBảng Phân Biệt Các Mẫu Với わけ (Bài 19)\u003c/th\u003e\u003c/tr\u003e\u003ctr style=\u0027background:#f0eae1;font-weight:bold;\u0027\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:26%;color:#b30000;\u0027\u003eCấu trúc\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:32%;color:#b30000;\u0027\u003eBản chất \u0026 Sắc thái\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;\u0027\u003eÝ nghĩa \u0026 Ví dụ tiêu biểu\u003c/td\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;\u0027\u003e〜わけだ\u003cbr\u003e〜というわけだ\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eRút ra kết luận tất yếu, hiển nhiên từ hoàn cảnh thực tế\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eThảo nào / Hèn chi / Thành ra là...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: どうりで嬉しそうだったわけね。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;\u0027\u003e〜わけにはいかない\u003cbr\u003e(V-る ＋ ...)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eKhông thể làm vì đạo đức, quy tắc xã hội, trách nhiệm\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eKhông thể làm...\u003c/b\u003e (dù muốn làm)\u003cbr\u003e\u003cem\u003eVD: 車の運転があるので、お酒を飲むわけにはいかない。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#16a34a;text-align:center;\u0027\u003e〜ないわけにはいかない\u003cbr\u003e(V-ない ＋ ...)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003eBắt buộc phải làm vì trách nhiệm, nghĩa vụ, phép tắc\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eKhông thể không làm... / Phải làm...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 席を譲らないわけにはいかない。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003cdiv style=\u0027background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;\u0027\u003e\u003cdiv style=\u0027text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;\u0027\u003e\u003ch3 style=\u0027margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e🎌 BẢNG TỔNG HỢP TOÀN BỘ CÁC CẤU TRÚC VỚI「わけ」🎌\u003c/h3\u003e\u003cspan style=\u0027font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;\u0027\u003eHệ thống 6 cấu trúc trọng tâm của わけ trong chương trình JLPT N3\u003c/span\u003e\u003c/div\u003e\u003cdiv style=\u0027display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:1.2rem;\u0027\u003e\u003cdiv style=\u0027border:2px solid #dc2626;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fee2e2;color:#991b1b;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #dc2626;\u0027\u003eわけがない\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fef2f2;text-align:center;\u0027\u003e\u003cb style=\u0027color:#dc2626;font-size:1.05rem;\u0027\u003eChắc chắn không...\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Phủ định tuyệt đối logic — N3 Bài 8)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #d97706;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fef3c7;color:#92400e;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #d97706;\u0027\u003e〜わけだ\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fffbeb;text-align:center;\u0027\u003e\u003cb style=\u0027color:#d97706;font-size:1.05rem;\u0027\u003eNên là / Hèn chi / Vậy là / Thành ra / Nghĩa là\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Kết luận tất yếu từ thực tế — N3 Bài 19)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #b45309;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fef3c7;color:#78350f;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #b45309;\u0027\u003e〜というわけだ\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fffbeb;text-align:center;\u0027\u003e\u003cb style=\u0027color:#b45309;font-size:1.05rem;\u0027\u003eNên là / Hèn chi / Thành ra / Nghĩa là\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Dạng nhấn mạnh của 〜わけだ — N3 Bài 19)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;\u0027\u003eV-るわけにはいかない\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#eff6ff;text-align:center;\u0027\u003e\u003cb style=\u0027color:#2563eb;font-size:1.05rem;\u0027\u003eKhông thể làm\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Vì lý do đạo đức, nghĩa vụ xã hội — N3 Bài 19)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #16a34a;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dcfce7;color:#166534;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #16a34a;\u0027\u003eV-ないわけにはいかない\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#f0fdf4;text-align:center;\u0027\u003e\u003cb style=\u0027color:#16a34a;font-size:1.05rem;\u0027\u003eKhông thể không làm (Phải làm)\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Bắt buộc phải làm do trách nhiệm — N3 Bài 19)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #7c3aed;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#ede9fe;color:#5b21b6;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #7c3aed;\u0027\u003eわけではない・というわけではない\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#f5f3ff;text-align:center;\u0027\u003e\u003cb style=\u0027color:#7c3aed;font-size:1.05rem;\u0027\u003eKhông hẳn là, không có nghĩa là...\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Phủ định một phần — N3 Bài 8)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+    "items":  [
+                  {
+                      "structure":  "〜わけだ / 〜というわけだ",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e① Cấu trúc cơ bản: 〜わけだ\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eN ＋ の\u003c/td\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eわけだ\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eThảo nào, hèn chi, thành ra là... (Kết luận tất yếu)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-な ＋ な\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-いTTT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eVTTT\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ff4d4f;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e② Dạng nhấn mạnh: 〜というわけだ (Cách nói nhấn mạnh của わけだ)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eN ＋ だ\u003c/td\u003e\u003ctd rowspan=\u00274\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:0.85rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eというわけだ\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eChính là vì vậy, nghĩa là như thế... (Nhấn mạnh kết luận)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.09);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-な ＋ だ\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eA-いTTT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.55rem 1rem;font-size:1.1rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eVTTT\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Hèn chi / Thảo nào / Thành ra / Nghĩa là...",
+                      "usage":  "• \u003cb\u003eÝ nghĩa:\u003c/b\u003e Dùng khi nhận ra lý do/bản chất của một sự việc và hiểu ra tại sao lại có kết quả như vậy (rút ra kết luận tất yếu từ thực tế khách quan).\u003cbr\u003e• \u003cb\u003eTừ đi kèm thường gặp:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eだから、なるほど、どうりで 〜 わけだ。\u003c/b\u003e \u003ci\u003e(Thảo nào, hèn chi...)\u003c/i\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eつまり、〜から／〜ので 〜 というわけだ。\u003c/b\u003e \u003ci\u003e(Tóm lại, thành ra là / nghĩa là...)\u003c/i\u003e\u003cbr\u003e• \u003cb\u003ePhân biệt kết hợp:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003e〜わけだ:\u003c/b\u003e Đi trực tiếp với thể bổ nghĩa danh từ (`N の`, `A-な な`, `A-いTTT`, `VTTT`).\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003e〜というわけだ:\u003c/b\u003e Đi với thể thông thường TTT, trong đó `N だ` và `A-な だ` giữ nguyên `だ` (dạng nhấn mạnh của 〜わけだ).",
+                      "explanation":  "Biểu thị sự thấu hiểu mang tính logic (\u0027À, hóa ra là như thế, thảo nào dẫn tới kết quả này\u0027).",
+                      "examples":  [
+                                       {
+                                           "jp":  "どうりで\u003cruby\u003e嬉\u003crt\u003eうれ\u003c/rt\u003e\u003c/ruby\u003eしそうだったわけね。",
+                                           "vi":  "Hèn chi trông cô ấy có vẻ vui thế nhỉ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_80.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eのお\u003cruby\u003e父\u003crt\u003eとう\u003c/rt\u003e\u003c/ruby\u003eさんは\u003cruby\u003e漫画家\u003crt\u003eまんがか\u003c/rt\u003e\u003c/ruby\u003eですか。それで、\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e絵\u003crt\u003eえ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e上手\u003crt\u003eじょうず\u003c/rt\u003e\u003c/ruby\u003eだというわけなんですね。",
+                                           "vi":  "Bố của cô ấy là họa sĩ truyện tranh à? Thảo nào cô ấy vẽ tranh cũng đẹp thế.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_80.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e夜中\u003crt\u003eよなか\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e雪\u003crt\u003eゆき\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eったんですね。それで、\u003cruby\u003e昨日\u003crt\u003eきのう\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e夜\u003crt\u003eよる\u003c/rt\u003e\u003c/ruby\u003eあんなに\u003cruby\u003e寒\u003crt\u003eさむ\u003c/rt\u003e\u003c/ruby\u003eかったわけですね。",
+                                           "vi":  "Hóa ra nửa đêm tuyết rơi à. Thảo nào đêm qua lại lạnh đến thế.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_80.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e今年\u003crt\u003eことし\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e台風\u003crt\u003eたいふう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e多\u003crt\u003eおお\u003c/rt\u003e\u003c/ruby\u003eいですから、\u003cruby\u003e野菜\u003crt\u003eやさい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e値段\u003crt\u003eねだん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e上\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eがっているわけだ。",
+                                           "vi":  "Năm nay bão nhiều nên thảo nào giá rau quả tăng lên.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_80.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e東京\u003crt\u003eとうきょう\u003c/rt\u003e\u003c/ruby\u003eは24\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e動\u003crt\u003eうご\u003c/rt\u003e\u003c/ruby\u003eいている。つまり、\u003cruby\u003e夜\u003crt\u003eよる\u003c/rt\u003e\u003c/ruby\u003eでも\u003cruby\u003e店\u003crt\u003eみせ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eいているわけだ。",
+                                           "vi":  "Tokyo hoạt động 24 giờ. Tóm lại, nghĩa là ngay cả ban đêm các cửa hàng vẫn mở cửa.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_80.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは10\u003cruby\u003e年\u003crt\u003eねん\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e日本\u003crt\u003eにほん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e住\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eんでいるから、\u003cruby\u003e日本語\u003crt\u003eにほんご\u003c/rt\u003e\u003c/ruby\u003eがペラペラな（　　）だ。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "ところ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "どうりで\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e暑\u003crt\u003eあつ\u003c/rt\u003e\u003c/ruby\u003eい（　　）だ。\u003cruby\u003e暖房\u003crt\u003eだんぼう\u003c/rt\u003e\u003c/ruby\u003eがついたままだ。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "はず",
+                                                                              "ほど",
+                                                                              "つもり"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "50%オフ（　　）いうことは、\u003cruby\u003e半額\u003crt\u003eはんがく\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eえる（　　）わけですね。",
+                                                              "options":  [
+                                                                              "と、という",
+                                                                              "に、という",
+                                                                              "と、の",
+                                                                              "に、の"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e昨日\u003crt\u003eきのう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e徹夜\u003crt\u003eてつや\u003c/rt\u003e\u003c/ruby\u003eしたらしい。それで\u003cruby\u003e眠\u003crt\u003eねむ\u003c/rt\u003e\u003c/ruby\u003eそうな（　　）だ。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "ほう"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e給料\u003crt\u003eきゅうりょう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e上\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eがったから、\u003cruby\u003e新\u003crt\u003eあたら\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e車\u003crt\u003eくるま\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eった（　　）だ。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "はず",
+                                                                              "ため",
+                                                                              "よう"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "（　　）\u003cruby\u003e頭\u003crt\u003eあたま\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e良\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eいわけだ。\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003e8\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしているそうだ。",
+                                                          "options":  [
+                                                                          "どうりで",
+                                                                          "決して",
+                                                                          "まるで",
+                                                                          "めったに"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e消費\u003crt\u003eしょうひ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e税\u003crt\u003eぜい\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e増\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eえたから、（　　）が\u003cruby\u003e苦\u003crt\u003eくる\u003c/rt\u003e\u003c/ruby\u003eしくなるわけだ。",
+                                                          "options":  [
+                                                                          "生活",
+                                                                          "冗談",
+                                                                          "景色",
+                                                                          "趣味"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e昨日\u003crt\u003eきのう\u003c/rt\u003e\u003c/ruby\u003eから\u003cruby\u003e何\u003crt\u003eなに\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべていないのか。お（　　）がすくわけだ。",
+                                                          "options":  [
+                                                                          "腹",
+                                                                          "手",
+                                                                          "足",
+                                                                          "目"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）、\u003cruby\u003e来週\u003crt\u003eらいしゅう\u003c/rt\u003e\u003c/ruby\u003eまでにこの\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e終\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eらせなければならないというわけですね。",
+                                                          "options":  [
+                                                                          "つまり",
+                                                                          "たとえ",
+                                                                          "まさか",
+                                                                          "もしかして"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e元\u003crt\u003eもと\u003c/rt\u003e\u003c/ruby\u003eサッカー（　　）だったのか。どうりでボールの\u003cruby\u003e扱\u003crt\u003eあつか\u003c/rt\u003e\u003c/ruby\u003eいがうまいわけだ。",
+                                                          "options":  [
+                                                                          "選手",
+                                                                          "医者",
+                                                                          "警察",
+                                                                          "歌手"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003eエアコン\u003crt\u003eえあこん\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿わけだ。\u003cruby\u003e窓\u003crt\u003eまど\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eいていた。",
+                                                                "options":  [
+                                                                                "効かない",
+                                                                                "効かなくて",
+                                                                                "効かず",
+                                                                                "効かないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eはプロのピアニストだから、ピアノが＿＿＿わけだ。",
+                                                                "options":  [
+                                                                                "上手な",
+                                                                                "上手だ",
+                                                                                "上手で",
+                                                                                "上手に"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e朝\u003crt\u003eあさ\u003c/rt\u003e\u003c/ruby\u003eから\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿わけだ。\u003cruby\u003e道\u003crt\u003eみち\u003c/rt\u003e\u003c/ruby\u003eがこんなにぬれている。",
+                                                                "options":  [
+                                                                                "降った",
+                                                                                "降って",
+                                                                                "降り",
+                                                                                "降ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "こんなに\u003cruby\u003e美味\u003crt\u003eおい\u003c/rt\u003e\u003c/ruby\u003eしい\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eなら、\u003cruby\u003e店\u003crt\u003eみせ\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿わけだ。",
+                                                                "options":  [
+                                                                                "混む",
+                                                                                "混んで",
+                                                                                "混み",
+                                                                                "混もう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "1\u003cruby\u003e年\u003crt\u003eねん\u003c/rt\u003e\u003c/ruby\u003eで10キロも＿＿＿わけだ。\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003eジムに\u003cruby\u003e通\u003crt\u003eかよ\u003c/rt\u003e\u003c/ruby\u003eっていたそうだ。",
+                                                                "options":  [
+                                                                                "痩せた",
+                                                                                "痩せて",
+                                                                                "痩せ",
+                                                                                "痩せよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Thảo nào hôm nay đường lại đông đúc thế, hóa ra là đang có lễ hội.",
+                                                                "jp":  "どうりで\u003cruby\u003e今日\u003crt\u003eきょう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e道\u003crt\u003eみち\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e混\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eんでいるわけだ。\u003cruby\u003e祭\u003crt\u003eまつ\u003c/rt\u003e\u003c/ruby\u003eりをやっているんだね。"
+                                                            },
+                                                            {
+                                                                "vi":  "Tóm lại, nếu không nộp trước 5 giờ chiều nay nghĩa là sẽ không được tính hợp lệ.",
+                                                                "jp":  "つまり、\u003cruby\u003e今日\u003crt\u003eきょう\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e午後\u003crt\u003eごご\u003c/rt\u003e\u003c/ruby\u003e5\u003cruby\u003e時\u003crt\u003eじ\u003c/rt\u003e\u003c/ruby\u003eまでに\u003cruby\u003e出\u003crt\u003eだ\u003c/rt\u003e\u003c/ruby\u003eさなければ\u003cruby\u003e無効\u003crt\u003eむこう\u003c/rt\u003e\u003c/ruby\u003eになるというわけですね。"
+                                                            },
+                                                            {
+                                                                "vi":  "Anh ấy đã luyện tập không nghỉ ngày nào, hèn chi lại giành giải quán quân.",
+                                                                "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは1\u003cruby\u003e日\u003crt\u003eにち\u003c/rt\u003e\u003c/ruby\u003eも\u003cruby\u003e休\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eまずに\u003cruby\u003e練習\u003crt\u003eれんしゅう\u003c/rt\u003e\u003c/ruby\u003eしたんだから、\u003cruby\u003e優勝\u003crt\u003eゆうしょう\u003c/rt\u003e\u003c/ruby\u003eしたわけだ。"
+                                                            },
+                                                            {
+                                                                "vi":  "Được người bản xứ dạy kèm mỗi ngày hèn chi phát âm của bạn tốt đến thế.",
+                                                                "jp":  "\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003eネイティブに\u003cruby\u003e教\u003crt\u003eおし\u003c/rt\u003e\u003c/ruby\u003eわっているなら、\u003cruby\u003e発音\u003crt\u003eはつおん\u003c/rt\u003e\u003c/ruby\u003eがいいわけですね。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vì giá vé máy bay giảm mạnh nên khách du lịch mới tăng lên nhiều như vậy.",
+                                                                "jp":  "\u003cruby\u003e航空券\u003crt\u003eこうくうけん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e安\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eくなったから、\u003cruby\u003e観光客\u003crt\u003eかんこうきゃく\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e増\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eえたわけだ。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜わけにはいかない",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:30%;\u0027\u003eV-る\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eわけにはいかない\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eKhông thể làm... (Vì lý do đạo đức, tâm lý, trách nhiệm xã hội)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Không thể làm...",
+                      "usage":  "• Dùng khi người nói muốn làm một việc gì đó (hoặc có khả năng làm được), nhưng vì \u003cb\u003etrách nhiệm, đạo đức, quy tắc xã hội, thể diện\u003c/b\u003e nên không thể làm.\u003cbr\u003e• Chủ ngữ thường là ngôi thứ nhất (tôi) hoặc nhóm của người nói.\u003cbr\u003e• ⚠️ \u003ci\u003ePhân biệt với 〜ことができない:\u003c/i\u003e `〜ことができない` chỉ việc thiếu năng lực hoặc điều kiện khách quan (không biết bơi, chân gãy không đi được), còn `〜わけにはいかない` là có đủ năng lực nhưng bị rào cản đạo đức/trách nhiệm ngăn cấm.",
+                      "explanation":  "Diễn tả sự kiềm chế hành vi do ý thức về trách nhiệm xã hội hoặc chuẩn mực đạo đức.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e今日\u003crt\u003eきょう\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e大事\u003crt\u003eだいじ\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e会議\u003crt\u003eかいぎ\u003c/rt\u003e\u003c/ruby\u003eがあるので、\u003cruby\u003e風邪\u003crt\u003eかぜ\u003c/rt\u003e\u003c/ruby\u003eをひいても\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e休\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eむわけにはいかない。",
+                                           "vi":  "Vì hôm nay có cuộc họp quan trọng nên dù bị cảm cúm tôi cũng không thể nghỉ làm.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_81.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e上司\u003crt\u003eじょうし\u003c/rt\u003e\u003c/ruby\u003eはまだ\u003cruby\u003e残業\u003crt\u003eざんぎょう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e中\u003crt\u003eちゅう\u003c/rt\u003e\u003c/ruby\u003eだ。\u003cruby\u003e部下\u003crt\u003eぶか\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e先\u003crt\u003eさき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eるわけにはいかない。",
+                                           "vi":  "Sếp vẫn đang làm thêm giờ. Là cấp dưới, tôi không thể về trước được.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_81.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e車\u003crt\u003eくるま\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e運転\u003crt\u003eうんてん\u003c/rt\u003e\u003c/ruby\u003eがあるので、お\u003cruby\u003e酒\u003crt\u003eさけ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eむわけにはいかない。",
+                                           "vi":  "Vì phải lái xe nên tôi không thể uống rượu được.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_81.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e明日\u003crt\u003eあした\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e試験\u003crt\u003eしけん\u003c/rt\u003e\u003c/ruby\u003eがあるから、\u003cruby\u003e今夜\u003crt\u003eこんや\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e遊\u003crt\u003eあそ\u003c/rt\u003e\u003c/ruby\u003eぶわけにはいかない。",
+                                           "vi":  "Vì ngày mai có kỳ thi nên tối nay tôi không thể đi chơi được.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_81.4.png"
+                                       },
+                                       {
+                                           "jp":  "これは\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e秘密\u003crt\u003eひみつ\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e他\u003crt\u003eほか\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e教\u003crt\u003eおし\u003c/rt\u003e\u003c/ruby\u003eえるわけにはいかない。",
+                                           "vi":  "Đây là bí mật của công ty nên tôi không thể chỉ cho người khác được.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_81.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "お\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e払\u003crt\u003eはら\u003c/rt\u003e\u003c/ruby\u003eわずに\u003cruby\u003e店\u003crt\u003eみせ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eる（　　）にはいかない。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "ところ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eのミスのせいで、\u003cruby\u003e他人\u003crt\u003eたにん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e責\u003crt\u003eせ\u003c/rt\u003e\u003c/ruby\u003eめるわけ（　　）はいかない。",
+                                                              "options":  [
+                                                                              "に",
+                                                                              "で",
+                                                                              "を",
+                                                                              "から"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e警察官\u003crt\u003eけいさつかん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e法律\u003crt\u003eほうりつ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e破\u003crt\u003eやぶ\u003c/rt\u003e\u003c/ruby\u003eる（　　）にはいかない。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "はず",
+                                                                              "ため",
+                                                                              "ほう"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "いくら\u003cruby\u003e嫌\u003crt\u003eいや\u003c/rt\u003e\u003c/ruby\u003eでも、\u003cruby\u003e途中\u003crt\u003eとちゅう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e諦\u003crt\u003eあきら\u003c/rt\u003e\u003c/ruby\u003eめるわけには（　　）。",
+                                                              "options":  [
+                                                                              "いかない",
+                                                                              "ならない",
+                                                                              "させない",
+                                                                              "こない"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e約束\u003crt\u003eやくそく\u003c/rt\u003e\u003c/ruby\u003eした以上、\u003cruby\u003e嘘\u003crt\u003eうそ\u003c/rt\u003e\u003c/ruby\u003eをつく（　　）にはいかない。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "よう"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e病院\u003crt\u003eびょういん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e中\u003crt\u003eなか\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e大声\u003crt\u003eおおごえ\u003c/rt\u003e\u003c/ruby\u003eで（　　）わけにはいかない。",
+                                                          "options":  [
+                                                                          "騒ぐ",
+                                                                          "眠る",
+                                                                          "治る",
+                                                                          "祈る"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e大事\u003crt\u003eだいじ\u003c/rt\u003e\u003c/ruby\u003eな（　　）だから、\u003cruby\u003e遅刻\u003crt\u003eちこく\u003c/rt\u003e\u003c/ruby\u003eするわけにはいかない。",
+                                                          "options":  [
+                                                                          "面接",
+                                                                          "散歩",
+                                                                          "昼寝",
+                                                                          "買い物"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eの（　　）を\u003cruby\u003e勝手\u003crt\u003eかって\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e読\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eむわけにはいかない。",
+                                                          "options":  [
+                                                                          "日記",
+                                                                          "靴",
+                                                                          "傘",
+                                                                          "机"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eの（　　）を\u003cruby\u003e他社\u003crt\u003eたしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e漏\u003crt\u003eも\u003c/rt\u003e\u003c/ruby\u003eらすわけにはいかない。",
+                                                          "options":  [
+                                                                          "情報",
+                                                                          "道具",
+                                                                          "季節",
+                                                                          "趣味"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e親\u003crt\u003eおや\u003c/rt\u003e\u003c/ruby\u003eにこれ\u003cruby\u003e以上\u003crt\u003eいじょう\u003c/rt\u003e\u003c/ruby\u003e（　　）をかけるわけにはいかない。",
+                                                          "options":  [
+                                                                          "迷惑",
+                                                                          "遠慮",
+                                                                          "挨拶",
+                                                                          "感謝"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e給料\u003crt\u003eきゅうりょう\u003c/rt\u003e\u003c/ruby\u003eをもらっているのだから、\u003cruby\u003e手\u003crt\u003eて\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "抜く",
+                                                                                "抜いて",
+                                                                                "抜き",
+                                                                                "抜こう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e全員\u003crt\u003eぜんいん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e泣\u003crt\u003eな\u003c/rt\u003e\u003c/ruby\u003eく＿＿＿にはいかない。",
+                                                                "options":  [
+                                                                                "わけ",
+                                                                                "こと",
+                                                                                "もの",
+                                                                                "よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "まだ\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e残\u003crt\u003eのこ\u003c/rt\u003e\u003c/ruby\u003eっているので、＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "寝る",
+                                                                                "寝て",
+                                                                                "寝た",
+                                                                                "寝よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "ここで\u003cruby\u003e逃\u003crt\u003eに\u003c/rt\u003e\u003c/ruby\u003eげ＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "だす",
+                                                                                "だして",
+                                                                                "だし",
+                                                                                "だそう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e高\u003crt\u003eたか\u003c/rt\u003e\u003c/ruby\u003eいお\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e払\u003crt\u003eはら\u003c/rt\u003e\u003c/ruby\u003eったのだから、\u003cruby\u003e捨\u003crt\u003eす\u003c/rt\u003e\u003c/ruby\u003eて＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "る",
+                                                                                "て",
+                                                                                "た",
+                                                                                "よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Vì là bác sĩ nên tôi không thể bỏ mặc bệnh nhân được.",
+                                                                "jp":  "\u003cruby\u003e医者\u003crt\u003eいしゃ\u003c/rt\u003e\u003c/ruby\u003eなのだから、\u003cruby\u003e患者\u003crt\u003eかんじゃ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e放\u003crt\u003eほう\u003c/rt\u003e\u003c/ruby\u003eっておくわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Dù công việc có vất vả thế nào đi nữa, tôi cũng không thể bỏ cuộc giữa chừng.",
+                                                                "jp":  "どんなに\u003cruby\u003e大変\u003crt\u003eたいへん\u003c/rt\u003e\u003c/ruby\u003eでも、\u003cruby\u003e途中\u003crt\u003eとちゅう\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e諦\u003crt\u003eあきら\u003c/rt\u003e\u003c/ruby\u003eめるわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đã hứa với khách hàng rồi nên tôi không thể hủy lịch hẹn được.",
+                                                                "jp":  "\u003cruby\u003e客\u003crt\u003eきゃく\u003c/rt\u003e\u003c/ruby\u003eと\u003cruby\u003e約束\u003crt\u003eやくそく\u003c/rt\u003e\u003c/ruby\u003eした以上、キャンセルするわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đây là tiền mồ hôi nước mắt của bố mẹ, tôi không thể tiêu xài phung phí được.",
+                                                                "jp":  "\u003cruby\u003e親\u003crt\u003eおや\u003c/rt\u003e\u003c/ruby\u003eのお\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e無駄遣\u003crt\u003eむだづか\u003c/rt\u003e\u003c/ruby\u003eいするわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Ngày mai là ngày nộp báo cáo tốt nghiệp, hôm nay tôi không thể ngủ sớm được.",
+                                                                "jp":  "\u003cruby\u003e明日\u003crt\u003eあした\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e卒論\u003crt\u003eそつろん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e提出日\u003crt\u003eていしゅつび\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e早\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eく\u003cruby\u003e寝\u003crt\u003eね\u003c/rt\u003e\u003c/ruby\u003eるわけにはいかない。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ないわけにはいかない",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:520px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:30%;\u0027\u003eV-ない\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.25rem;\u0027\u003eわけにはいかない\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eKhông thể không làm... / Bắt buộc phải làm (Vì nghĩa vụ, trách nhiệm xã hội)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Không thể không làm... / Phải làm...",
+                      "usage":  "• Dùng dạng phủ định kép (\u003ci\u003ekhông thể không làm\u003c/i\u003e) để diễn tả ý bắt buộc phải làm một việc gì đó do \u003cb\u003eáp lực đạo đức, nghĩa vụ xã hội hoặc phép lịch sự\u003c/b\u003e, dù bản thân có thể không thực sự muốn làm.\u003cbr\u003e• ⚠️ \u003ci\u003ePhân biệt với 〜なければならない:\u003c/i\u003e `〜なければならない` chỉ nghĩa vụ pháp lý/quy định hiển nhiên (phải đội mũ bảo hiểm), còn `〜ないわけにはいかない` mang nặng yếu tố tình cảm xã hội, mối quan hệ con người hoặc sự đền đáp ơn nghĩa.",
+                      "explanation":  "Khẳng định mạnh mẽ sự cần thiết phải hành động dưới góc nhìn của chuẩn mực ứng xử xã hội.",
+                      "examples":  [
+                                       {
+                                           "jp":  "お\u003cruby\u003e年寄\u003crt\u003eとしより\u003c/rt\u003e\u003c/ruby\u003eりが\u003cruby\u003e電車\u003crt\u003eでんしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e乗\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eってきたら、\u003cruby\u003e席\u003crt\u003eせき\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e譲\u003crt\u003eゆず\u003c/rt\u003e\u003c/ruby\u003eらないわけにはいかない。",
+                                           "vi":  "Nếu người già lên tàu điện, tôi không thể không nhường ghế.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_82.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e作\u003crt\u003eつく\u003c/rt\u003e\u003c/ruby\u003eってくれた\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eなのだから、\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべないわけにはいかない。",
+                                           "vi":  "Vì là món ăn cô ấy đã cất công nấu cho nên tôi không thể không ăn.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_82.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e明日\u003crt\u003eあした\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e大事\u003crt\u003eだいじ\u003c/rt\u003e\u003c/ruby\u003eなテストがあるので、\u003cruby\u003e今夜\u003crt\u003eこんや\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしないわけにはいかない。",
+                                           "vi":  "Vì ngày mai có bài kiểm tra quan trọng nên tối nay tôi không thể không học bài.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_82.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e虫歯\u003crt\u003eむしば\u003c/rt\u003e\u003c/ruby\u003eがとても\u003cruby\u003e痛\u003crt\u003eいた\u003c/rt\u003e\u003c/ruby\u003eいので、\u003cruby\u003e歯医者\u003crt\u003eはいしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eかないわけにはいかない。",
+                                           "vi":  "Vì răng sâu rất đau nên tôi không thể không đi nha sĩ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_82.4.png"
+                                       },
+                                       {
+                                           "jp":  "お\u003cruby\u003e世話\u003crt\u003eせわ\u003c/rt\u003e\u003c/ruby\u003eになった\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e送別会\u003crt\u003eそうべつかい\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e参加\u003crt\u003eさんか\u003c/rt\u003e\u003c/ruby\u003eしないわけにはいかない。",
+                                           "vi":  "Vì là tiệc chia tay của người thầy đã giúp đỡ mình nên tôi không thể không tham gia.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_82.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e親友\u003crt\u003eしんゆう\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e結婚式\u003crt\u003eけっこんしき\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eかない（　　）にはいかない。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "こと",
+                                                                              "もの",
+                                                                              "ところ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e借\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eりたお\u003cruby\u003e金\u003crt\u003eかね\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e返\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eさないわけ（　　）はいかない。",
+                                                              "options":  [
+                                                                              "に",
+                                                                              "で",
+                                                                              "を",
+                                                                              "から"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e頼\u003crt\u003eたの\u003c/rt\u003e\u003c/ruby\u003eまれた\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e引\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eき\u003cruby\u003e受\u003crt\u003eう\u003c/rt\u003e\u003c/ruby\u003eけないわけには（　　）。",
+                                                              "options":  [
+                                                                              "いかない",
+                                                                              "ならない",
+                                                                              "させない",
+                                                                              "こない"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e税金\u003crt\u003eぜいきん\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e国民\u003crt\u003eこくみん\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e義務\u003crt\u003eぎむ\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e払\u003crt\u003eはら\u003c/rt\u003e\u003c/ruby\u003eわない（　　）にはいかない。",
+                                                              "options":  [
+                                                                              "わけ",
+                                                                              "はず",
+                                                                              "よう",
+                                                                              "ため"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e壊\u003crt\u003eこわ\u003c/rt\u003e\u003c/ruby\u003eしてしまったのだから、\u003cruby\u003e弁償\u003crt\u003eべんしょう\u003c/rt\u003e\u003c/ruby\u003eしないわけ（　　）はいかない。",
+                                                              "options":  [
+                                                                              "に",
+                                                                              "で",
+                                                                              "を",
+                                                                              "と"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e熱\u003crt\u003eねつ\u003c/rt\u003e\u003c/ruby\u003eが39\u003cruby\u003e度\u003crt\u003eど\u003c/rt\u003e\u003c/ruby\u003eもあるから、（　　）を\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eまないわけにはいかない。",
+                                                          "options":  [
+                                                                          "薬",
+                                                                          "お茶",
+                                                                          "水",
+                                                                          "ジュース"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "お\u003cruby\u003e世話\u003crt\u003eせわ\u003c/rt\u003e\u003c/ruby\u003eになった\u003cruby\u003e先輩\u003crt\u003eせんぱい\u003c/rt\u003e\u003c/ruby\u003eに、（　　）を言わないわけにはいかない。",
+                                                          "options":  [
+                                                                          "お礼",
+                                                                          "悪口",
+                                                                          "冗談",
+                                                                          "文句"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e自分\u003crt\u003eじぶん\u003c/rt\u003e\u003c/ruby\u003eの（　　）だから、ちゃんと\u003cruby\u003e責任\u003crt\u003eせきにん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e取\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eらないわけにはいかない。",
+                                                          "options":  [
+                                                                          "ミス",
+                                                                          "趣味",
+                                                                          "成功",
+                                                                          "荷物"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e台風\u003crt\u003eたいふう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e近\u003crt\u003eちか\u003c/rt\u003e\u003c/ruby\u003eづいているので、\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eの（　　）をしないわけにはいかない。",
+                                                          "options":  [
+                                                                          "準備",
+                                                                          "旅行",
+                                                                          "散歩",
+                                                                          "買い物"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e親\u003crt\u003eおや\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e心配\u003crt\u003eしんぱい\u003c/rt\u003e\u003c/ruby\u003eをかけないよう、\u003cruby\u003e無事\u003crt\u003eぶじ\u003c/rt\u003e\u003c/ruby\u003eを（　　）しないわけにはいかない。",
+                                                          "options":  [
+                                                                          "連絡",
+                                                                          "遠慮",
+                                                                          "邪魔",
+                                                                          "延期"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e迷惑\u003crt\u003eめいわく\u003c/rt\u003e\u003c/ruby\u003eをかけたのだから、＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "謝らない",
+                                                                                "謝らなくて",
+                                                                                "謝らず",
+                                                                                "謝らないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e部長\u003crt\u003eぶちょう\u003c/rt\u003e\u003c/ruby\u003eからのお\u003cruby\u003e誘\u003crt\u003eさそ\u003c/rt\u003e\u003c/ruby\u003eいは＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "断らない",
+                                                                                "断らなくて",
+                                                                                "断らず",
+                                                                                "断らないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e約束\u003crt\u003eやくそく\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e期日\u003crt\u003eきじつ\u003c/rt\u003e\u003c/ruby\u003eだから、\u003cruby\u003e書類\u003crt\u003eしょるい\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "出さない",
+                                                                                "出さなくて",
+                                                                                "出さず",
+                                                                                "出さないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e契約\u003crt\u003eけいやく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e結\u003crt\u003eむす\u003c/rt\u003e\u003c/ruby\u003eぶ\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eに、\u003cruby\u003e条件\u003crt\u003eじょうけん\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "確認しない",
+                                                                                "確認しなくて",
+                                                                                "確認せず",
+                                                                                "確認しないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "これだけ\u003cruby\u003e助\u003crt\u003eたす\u003c/rt\u003e\u003c/ruby\u003eけてもらったのだから、\u003cruby\u003e恩\u003crt\u003eおん\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿わけにはいかない。",
+                                                                "options":  [
+                                                                                "返さない",
+                                                                                "返さなくて",
+                                                                                "返さず",
+                                                                                "返さないで"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Vì đã trót làm hỏng đồ của bạn nên tôi không thể không đền bù được.",
+                                                                "jp":  "\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eの物を\u003cruby\u003e壊\u003crt\u003eこわ\u003c/rt\u003e\u003c/ruby\u003eしてしまった以上、\u003cruby\u003e弁償\u003crt\u003eべんしょう\u003c/rt\u003e\u003c/ruby\u003eしないわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Là đội trưởng nên tôi không thể không đứng ra gánh vác trách nhiệm.",
+                                                                "jp":  "キャプテンとして、\u003cruby\u003e責任\u003crt\u003eせきにん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e取\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eらないわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Được mời đến bữa tiệc gia đình thân mật như vậy nên tôi không thể không đến.",
+                                                                "jp":  "あんなに\u003cruby\u003e温\u003crt\u003eあたた\u003c/rt\u003e\u003c/ruby\u003eかい\u003cruby\u003e招待\u003crt\u003eしょうたい\u003c/rt\u003e\u003c/ruby\u003eをされたら、\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eかないわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Sốt cao thế này thì bắt buộc phải uống thuốc và nghỉ ngơi thôi.",
+                                                                "jp":  "こんなに\u003cruby\u003e高熱\u003crt\u003eこうねつ\u003c/rt\u003e\u003c/ruby\u003eが出ているなら、\u003cruby\u003e薬\u003crt\u003eくすり\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eんで\u003cruby\u003e休\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eまないわけにはいかない。"
+                                                            },
+                                                            {
+                                                                "vi":  "Biết sự thật nghiêm trọng như thế này, tôi không thể không báo cáo cho cảnh sát.",
+                                                                "jp":  "こんな\u003cruby\u003e重大\u003crt\u003eじゅうだい\u003c/rt\u003e\u003c/ruby\u003eな\u003cruby\u003e事実\u003crt\u003eじじつ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e知\u003crt\u003eし\u003c/rt\u003e\u003c/ruby\u003eってしまったら、\u003cruby\u003e警察\u003crt\u003eけいさつ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e知\u003crt\u003eし\u003c/rt\u003e\u003c/ruby\u003eらせないわけにはいかない。"
+                                                            }
+                                                        ]
+                                    }
+                  }
+              ]
+}

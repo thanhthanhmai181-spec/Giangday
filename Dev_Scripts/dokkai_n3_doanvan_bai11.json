@@ -1,0 +1,61 @@
+{
+  "id": "dokkai-n3-doanvan-11",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 11,
+  "title": "図書館からのお知らせ (Thông báo từ thư viện Fuji)",
+  "timeLimit": 180,
+  "passage": "<p>これは<ruby>図書館<rt>としょかん</rt></ruby>からのお<ruby>知<rt>し</rt></ruby>らせである。</p><p>ふじ<ruby>図書館<rt>としょかん</rt></ruby>をご<ruby>利用<rt>りよう</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby>へ<br>いつもふじ<ruby>図書館<rt>としょかん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>していただき、ありがとうございます。<br><ruby>本<rt>ほん</rt></ruby>、ＣＤの<ruby>整理<rt>せいり</rt></ruby>を<ruby>以下<rt>いか</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>います。この<ruby>整理<rt>せいり</rt></ruby><ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は、<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>休館<rt>きゅうかん</rt></ruby>いたします。ご<ruby>注意<rt>ちゅうい</rt></ruby>ください。<br>１２<ruby>月<rt>がつ</rt></ruby>９<ruby>日<rt>にち</rt></ruby>(<ruby>月<rt>げつ</rt></ruby>)～１２<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>(<ruby>木<rt>もく</rt></ruby>)<br><ruby>休館<rt>きゅうかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>窓口<rt>まどぐち</rt></ruby>での<ruby>返却<rt>へんきゃく</rt></ruby>はできません。<ruby>本<rt>ほん</rt></ruby>は<ruby>入口<rt>いりぐち</rt></ruby><ruby>横<rt>よこ</rt></ruby>にある<ruby>返却用<rt>へんきゃくよう</rt></ruby>の<ruby>図書館<rt>としょかん</rt></ruby>ポストに<ruby>入<rt>い</rt></ruby>れてください。ＣＤについては、ポストの<ruby>利用<rt>りよう</rt></ruby>はできませんので、１２<ruby>月<rt>がつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>窓口<rt>まどぐち</rt></ruby>にお<ruby>返<rt>かえ</rt></ruby>しください。<br>ご<ruby>協力<rt>きょうりょく</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いいたします。<br>１１<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>　ふじ<ruby>図書館<rt>としょかん</rt></ruby></p>",
+  "fullTranslation": "Đây là thông báo từ thư viện:\n\nKính gửi quý bạn đọc sử dụng Thư viện Fuji,\nXin chân thành cảm ơn quý khách đã luôn sử dụng Thư viện Fuji.\nChúng tôi sẽ tiến hành sắp xếp lại sách và đĩa CD theo lịch trình dưới đây. Trong suốt thời gian sắp xếp này, thư viện sẽ tạm đóng cửa (nghỉ phục vụ). Xin quý vị lưu ý.\nThời gian: Từ Thứ Hai ngày 9/12 đến Thứ Năm ngày 12/12\nTrong thời gian đóng cửa, quý khách không thể trả sách tại quầy giao dịch. Đối với SÁCH, xin vui lòng bỏ vào hòm trả sách của thư viện đặt bên cạnh lối vào. Đối với ĐĨA CD, quý khách không được bỏ vào hòm thư, mà xin vui lòng trả trực tiếp tại quầy giao dịch từ ngày 13/12 trở đi.\nRất mong nhận được sự hợp tác của quý bạn đọc.\nNgày 29 tháng 11 - Thư viện Fuji",
+  "vocabulary": [
+    { "word": "整理", "hiragana": "せいり", "meaning": "Sắp xếp / Chỉnh lý" },
+    { "word": "日程", "hiragana": "にってい", "meaning": "Lịch trình / Thời gian biểu" },
+    { "word": "休館", "hiragana": "きゅうかん", "meaning": "Đóng cửa (bảo tàng, thư viện)" },
+    { "word": "窓口", "hiragana": "まどぐち", "meaning": "Quầy giao dịch" },
+    { "word": "返却", "hiragana": "へんきゃく", "meaning": "Trả lại (sách, đồ mượn)" },
+    { "word": "ポスト", "hiragana": "ぽすと", "meaning": "Hòm thư / Hòm trả sách" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜期間中 (きかんちゅう)", "meaning": "Trong suốt khoảng thời gian..." },
+    { "pattern": "〜については", "meaning": "Về phần... / Đối với..." },
+    { "pattern": "〜以降 (いこう)", "meaning": "Từ sau ngày đó trở đi" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：このお知らせでは、利用者にどうするように言っているか。",
+      "options": [
+        "本もCDも整理期間が終わってから窓口に返す。",
+        "本もCDも整理期間中は図書館ポストに入れる。",
+        "整理期間中、本は窓口に返し、CDは整理期間が終わってから窓口に返す。",
+        "整理期間中、本は図書館ポストに入れ、CDは整理期間が終わってから窓口に返す。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "本もCDも整理期間が終わってから窓口に返す。",
+          "meaning": "Cả sách và đĩa CD đều đợi hết thời gian sắp xếp rồi mới trả ở quầy.",
+          "analysis": "Sai: Sách có thể trả bất cứ lúc nào trong thời gian đóng cửa bằng cách bỏ vào hòm thư ('本は...図書館ポストに入れてください')."
+        },
+        {
+          "option": "本もCDも整理期間中は図書館ポストに入れる。",
+          "meaning": "Cả sách và CD đều bỏ vào hòm thư viện trong thời gian sắp xếp.",
+          "analysis": "Sai: Đĩa CD bị cấm bỏ vào hòm thư ('CDについては、ポストの利用はできません')."
+        },
+        {
+          "option": "整理期間中、本は窓口に返し、CDは整理期間が終わってから窓口に返す。",
+          "meaning": "Trong thời gian sắp xếp, sách trả ở quầy, CD trả ở quầy sau khi kết thúc.",
+          "analysis": "Sai: Trong thời gian đóng cửa, quầy giao dịch không nhận sách ('休館中は窓口での返却はできません')."
+        },
+        {
+          "option": "整理期間中、本は図書館ポストに入れ、CDは整理期間が終わってから窓口に返す。",
+          "meaning": "Trong thời gian sắp xếp, sách bỏ vào hòm thư viện, còn đĩa CD trả tại quầy sau khi thời gian sắp xếp kết thúc.",
+          "analysis": "ĐÚNG: Khớp chính xác với cả 2 quy định: sách bỏ hòm trả sách cạnh cửa ra vào, đĩa CD đợi ngày 13/12 (sau khi hết đợt nghỉ 9-12/12) trả tại quầy."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「本は入口横にある返却用の図書館ポストに入れてください。CDについては、ポストの利用はできませんので、12月13日以降、窓口にお返しください。」",
+      "explanation": "Đáp án 4 đúng. Trong 4 ngày đóng cửa chỉnh lý (9/12-12/12), người đọc trả sách vào hòm thư bên cạnh lối vào, riêng đĩa CD dễ vỡ nên không được bỏ hòm thư mà phải đợi ngày mở cửa lại (13/12) trả trực tiếp tại quầy."
+    }
+  ]
+}

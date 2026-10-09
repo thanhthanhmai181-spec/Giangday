@@ -1,0 +1,864 @@
+﻿{
+    "name":  "Bài 22",
+    "x":  690,
+    "y":  600,
+    "comparison":  "\u003ctable class=\u0027grammar-comparison-table\u0027 style=\u0027width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00273\u0027 style=\u0027border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003eBảng Phân Biệt Các Mẫu Với と \u0026 たら (Bài 22)\u003c/th\u003e\u003c/tr\u003e\u003ctr style=\u0027background:#f0eae1;font-weight:bold;\u0027\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;\u0027\u003eCấu trúc\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;width:32%;color:#b30000;\u0027\u003eBản chất \u0026 Sắc thái\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;\u0027\u003eÝ nghĩa \u0026 Ví dụ tiêu biểu\u003c/td\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;\u0027\u003e〜と ／ 〜たら\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003e\u003cb\u003ePhát hiện bất ngờ:\u003c/b\u003e Sau khi làm V1 thì vô tình phát hiện ra sự thật/tình huống V2 (khác chủ ngữ)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eBất ngờ nhận ra / thấy rằng...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 会議室に入ると、社長もいた。\u003cbr\u003eVD: 窓を開けると、雪が降っていた。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;\u0027\u003e〜ると ／ 〜たら\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003e\u003cb\u003eHệ quả tất yếu:\u003c/b\u003e Sau khi làm A sẽ tất yếu kéo theo kết quả B (quy luật, máy móc, chỉ đường)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eCứ làm... thì sẽ... / Hễ... là...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: ボタンを押すと、切符が出ます。\u003cbr\u003eVD: この道をまっすぐ行くと、郵便局があります。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;\u0027\u003e〜ていると...た\u003cbr\u003e〜ていたら...た\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003e\u003cb\u003eBị chen ngang:\u003c/b\u003e Đúng lúc đang tiến hành V1 thì bất ngờ xảy ra sự việc V2 (chia quá khứ 〜た) cắt ngang\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eĐang lúc... thì bất ngờ xảy ra...\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 道を歩いていると、突然雨が降り出した。\u003cbr\u003eVD: 本を読んでいると、友達から電話がきた。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#16a34a;text-align:center;\u0027\u003e〜ると...た\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;\u0027\u003e\u003cb\u003eHành động tức thì:\u003c/b\u003e Sau khi hoàn thành A là lập tức thực hiện tiếp B (cùng 1 chủ ngữ, hay có すぐ)\u003c/td\u003e\u003ctd style=\u0027border:1px solid #333;padding:0.8rem 1rem;\u0027\u003e\u003cb\u003eVừa xong A là lập tức làm B ngay\u003c/b\u003e\u003cbr\u003e\u003cem\u003eVD: 家に帰ると、すぐにシャワーを浴びた。\u003cbr\u003eVD: 彼は仕事が終わるとすぐ恋人に電話した。\u003c/em\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003cdiv style=\u0027background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;\u0027\u003e\u003cdiv style=\u0027text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;\u0027\u003e\u003ch3 style=\u0027margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e🎌 BẢNG TỔNG HỢP 4 SẮC THÁI CỐT LÕI CỦA「〜と」\u0026「〜たら」🎌\u003c/h3\u003e\u003cspan style=\u0027font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;\u0027\u003eHệ thống phân biệt giữa Phát hiện bất ngờ, Hệ quả tất yếu, Chen ngang tiến trình \u0026 Nối tiếp tức thì\u003c/span\u003e\u003c/div\u003e\u003cdiv style=\u0027display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:1.2rem;\u0027\u003e\u003cdiv style=\u0027border:2px solid #d97706;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fef3c7;color:#92400e;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #d97706;\u0027\u003e〜と / 〜たら\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fffbeb;text-align:center;\u0027\u003e\u003cb style=\u0027color:#d97706;font-size:1.05rem;\u0027\u003ePhát hiện bất ngờ\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Làm V1 xong thì nhận ra sự thật V2 — Khác chủ ngữ)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;\u0027\u003e〜ると / 〜たら\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#eff6ff;text-align:center;\u0027\u003e\u003cb style=\u0027color:#2563eb;font-size:1.05rem;\u0027\u003eHệ quả tất yếu\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Cứ làm A là kéo theo B — Quy luật, máy móc, chỉ đường)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #dc2626;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#fee2e2;color:#991b1b;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #dc2626;\u0027\u003e〜ていると...た / 〜ていたら...た\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#fef2f2;text-align:center;\u0027\u003e\u003cb style=\u0027color:#dc2626;font-size:1.05rem;\u0027\u003eBị chen ngang tiến trình\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Đang lúc làm V1 thì sự việc bất ngờ V2 〜た xảy ra)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv style=\u0027border:2px solid #16a34a;border-radius:10px;overflow:hidden;background:#fff;\u0027\u003e\u003cdiv style=\u0027background:#dcfce7;color:#166534;font-weight:800;font-size:1.15rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #16a34a;\u0027\u003e〜ると...た\u003c/div\u003e\u003cdiv style=\u0027padding:0.8rem;background:#f0fdf4;text-align:center;\u0027\u003e\u003cb style=\u0027color:#16a34a;font-size:1.05rem;\u0027\u003eHành động nối tiếp tức thì\u003c/b\u003e\u003cbr\u003e\u003cspan style=\u0027font-size:0.85rem;color:#64748b;\u0027\u003e(Vừa xong A là làm ngay B — Cùng 1 chủ ngữ)\u003c/span\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+    "items":  [
+                  {
+                      "structure":  "〜と / 〜たら (Bất ngờ nhận ra)",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e〜と ／ 〜たら (Sau khi làm... thì bất ngờ nhận ra...)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eV-る\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.2rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eと\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eVừa làm V1 xong thì nhận ra sự việc V2\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-た\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:0.75rem 1.2rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eら\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eSau khi làm V1 thì phát hiện ra tình huống V2\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Sau khi làm... thì bất ngờ nhận ra...",
+                      "usage":  "• \u003cb\u003eÝ nghĩa:\u003c/b\u003e Diễn tả sau khi thực hiện hành động vế trước thì người nói vô tình phát hiện ra một sự thật, một tình huống bất ngờ ở vế sau.\u003cbr\u003e• \u003cb\u003eĐặc điểm:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Vế sau thường chia ở thể quá khứ (`た`) hoặc trạng thái tiếp diễn (`ていた`).\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Vế sau diễn ra ngoài dự kiến, không dùng câu biểu thị ý chí, mệnh lệnh hay nhờ vả.\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Chủ ngữ của hai vế thường là khác nhau.\u003cbr\u003e• \u003cb\u003eKết hợp:\u003c/b\u003e Động từ thể từ điển `V-る ＋ と` hoặc thể quá khứ `V-た ＋ ら`.",
+                      "explanation":  "Nhấn mạnh cảm giác ngỡ ngàng, bất ngờ khi vô tình chứng kiến hoặc phát hiện một sự việc ngoài dự tính sau khi hoàn tất một hành động.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e会議室\u003crt\u003eかいぎしつ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eると、\u003cruby\u003e社長\u003crt\u003eしゃちょう\u003c/rt\u003e\u003c/ruby\u003eもいた。",
+                                           "vi":  "Khi bước vào phòng họp, tôi bất ngờ phát hiện ra có cả giám đốc cũng ở đó.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_90.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eいたら、\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eはもう\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eったと\u003cruby\u003e言\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eわれた。",
+                                           "vi":  "Khi hỏi người bạn, tôi được cho biết là cô ấy đã về mất rồi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_90.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e窓\u003crt\u003eまど\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eけると、\u003cruby\u003e雪\u003crt\u003eゆき\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eっていた。",
+                                           "vi":  "Vừa mở cửa sổ ra, tôi vô cùng bất ngờ khi thấy tuyết đang rơi dày.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_90.3.png"
+                                       },
+                                       {
+                                           "jp":  "デパートに\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eったら、\u003cruby\u003e休\u003crt\u003eやす\u003c/rt\u003e\u003c/ruby\u003eみだった。",
+                                           "vi":  "Khi đến trung tâm thương mại, tôi mới ngỡ ngàng nhận ra hôm đó họ đóng cửa nghỉ.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_90.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eると、\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eもいなかった。",
+                                           "vi":  "Vừa bước chân về đến nhà, tôi mới nhận ra là chẳng có ai ở nhà cả.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_90.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e朝\u003crt\u003eあさ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e起\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eきる（　　）、外は一面の銀世界だった。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "から",
+                                                                              "ので",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "ポストを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003e（　　）、\u003cruby\u003e手紙\u003crt\u003eてがみ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e届\u003crt\u003eとど\u003c/rt\u003e\u003c/ruby\u003eいていた。",
+                                                              "options":  [
+                                                                              "たら",
+                                                                              "ても",
+                                                                              "ながら",
+                                                                              "つつ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "カーテンを\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eける（　　）、\u003cruby\u003e富士山\u003crt\u003eふじさん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e綺麗\u003crt\u003eきれい\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eえた。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "でも",
+                                                                              "なら",
+                                                                              "けど"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e冷蔵庫\u003crt\u003eれいぞうこ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eけ（　　）、ケーキがなくなっていた。",
+                                                              "options":  [
+                                                                              "たら",
+                                                                              "ても",
+                                                                              "ながら",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e駅\u003crt\u003eえき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e着\u003crt\u003eつ\u003c/rt\u003e\u003c/ruby\u003eく（　　）、すでに\u003cruby\u003e電車\u003crt\u003eでんしゃ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e出発\u003crt\u003eしゅっぱつ\u003c/rt\u003e\u003c/ruby\u003eしていた。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "ので",
+                                                                              "から",
+                                                                              "ため"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "（　　）を\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eけると、\u003cruby\u003e爽\u003crt\u003eさわ\u003c/rt\u003e\u003c/ruby\u003eやかな\u003cruby\u003e風\u003crt\u003eかぜ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eってきた。",
+                                                          "options":  [
+                                                                          "窓",
+                                                                          "財布",
+                                                                          "冗談",
+                                                                          "景色"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "カバンを\u003cruby\u003e探\u003crt\u003eさが\u003c/rt\u003e\u003c/ruby\u003eしたら、\u003cruby\u003e鍵\u003crt\u003eかぎ\u003c/rt\u003e\u003c/ruby\u003eが（　　）あった。",
+                                                          "options":  [
+                                                                          "底に",
+                                                                          "空に",
+                                                                          "海に",
+                                                                          "雲に"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eったら、（　　）で\u003cruby\u003e不在\u003crt\u003eふざい\u003c/rt\u003e\u003c/ruby\u003eだった。",
+                                                          "options":  [
+                                                                          "出張",
+                                                                          "散歩",
+                                                                          "料理",
+                                                                          "睡眠"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "テレビを\u003cruby\u003e点\u003crt\u003eつ\u003c/rt\u003e\u003c/ruby\u003eけると、ちょうど\u003cruby\u003e大好\u003crt\u003eだいす\u003c/rt\u003e\u003c/ruby\u003eきな（　　）が\u003cruby\u003e始\u003crt\u003eはじ\u003c/rt\u003e\u003c/ruby\u003eまったところだった。",
+                                                          "options":  [
+                                                                          "番組",
+                                                                          "道具",
+                                                                          "荷物",
+                                                                          "季節"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e引\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eき\u003cruby\u003e出\u003crt\u003eだ\u003c/rt\u003e\u003c/ruby\u003eしを\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eけたら、\u003cruby\u003e昔\u003crt\u003eむかし\u003c/rt\u003e\u003c/ruby\u003eの（　　）が\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eてきた。",
+                                                          "options":  [
+                                                                          "写真",
+                                                                          "挨拶",
+                                                                          "迷惑",
+                                                                          "邪魔"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e箱\u003crt\u003eはこ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿と、\u003cruby\u003e中\u003crt\u003eなか\u003c/rt\u003e\u003c/ruby\u003eから子猫が\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eてきた。",
+                                                                "options":  [
+                                                                                "開ける",
+                                                                                "開けて",
+                                                                                "開けた",
+                                                                                "開けよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e店\u003crt\u003eみせ\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿たら、すでに\u003cruby\u003e閉店\u003crt\u003eへいてん\u003c/rt\u003e\u003c/ruby\u003eしていた。",
+                                                                "options":  [
+                                                                                "行っ",
+                                                                                "行く",
+                                                                                "行って",
+                                                                                "行こう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e電話\u003crt\u003eでんわ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿と、\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eし\u003cruby\u003e中\u003crt\u003eちゅう\u003c/rt\u003e\u003c/ruby\u003eだった。",
+                                                                "options":  [
+                                                                                "かける",
+                                                                                "かけて",
+                                                                                "かけた",
+                                                                                "かけよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿たら、\u003cruby\u003e誰\u003crt\u003eだれ\u003c/rt\u003e\u003c/ruby\u003eかが\u003cruby\u003e本\u003crt\u003eほん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e読\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eんでいた。",
+                                                                "options":  [
+                                                                                "入っ",
+                                                                                "入る",
+                                                                                "入って",
+                                                                                "入ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e外\u003crt\u003eそと\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿と、\u003cruby\u003e虹\u003crt\u003eにじ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eていた。",
+                                                                "options":  [
+                                                                                "見る",
+                                                                                "見て",
+                                                                                "見た",
+                                                                                "見よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Vừa mở cửa ra, tôi bất ngờ thấy một chú mèo con đang đứng trước nhà.",
+                                                                "jp":  "ドアを\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eけると、\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e前\u003crt\u003eまえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e子猫\u003crt\u003eこねこ\u003c/rt\u003e\u003c/ruby\u003eがいた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Khi đến nhà ga, tôi mới nhận ra là mình đã để quên ví ở nhà.",
+                                                                "jp":  "\u003cruby\u003e駅\u003crt\u003eえき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eったら、\u003cruby\u003e財布\u003crt\u003eさいふ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e忘\u003crt\u003eわす\u003c/rt\u003e\u003c/ruby\u003eれてきたことに\u003cruby\u003e気\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eづいた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vừa thức dậy nhìn ra ngoài cửa sổ, tôi ngỡ ngàng thấy tuyết đã phủ trắng xóa.",
+                                                                "jp":  "\u003cruby\u003e朝\u003crt\u003eあさ\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e起\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eきて\u003cruby\u003e窓\u003crt\u003eまど\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e外\u003crt\u003eそと\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eると、\u003cruby\u003e雪\u003crt\u003eゆき\u003c/rt\u003e\u003c/ruby\u003eで\u003cruby\u003e真\u003crt\u003eま\u003c/rt\u003e\u003c/ruby\u003eっ\u003cruby\u003e白\u003crt\u003eしろ\u003c/rt\u003e\u003c/ruby\u003eになっていた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Sau khi hỏi giáo viên, tôi mới biết là bài kiểm tra đã được hoãn lại.",
+                                                                "jp":  "\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eいたら、テストが\u003cruby\u003e延期\u003crt\u003eえんき\u003c/rt\u003e\u003c/ruby\u003eされたことが\u003cruby\u003e分\u003crt\u003eわ\u003c/rt\u003e\u003c/ruby\u003eかった。"
+                                                            },
+                                                            {
+                                                                "vi":  "Bước vào phòng học, tôi bất ngờ thấy mọi người đang chuẩn bị tiệc sinh nhật cho mình.",
+                                                                "jp":  "\u003cruby\u003e教室\u003crt\u003eきょうしつ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eると、みんなが\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e誕生日\u003crt\u003eたんじょうび\u003c/rt\u003e\u003c/ruby\u003eパーティーを\u003cruby\u003e準備\u003crt\u003eじゅんび\u003c/rt\u003e\u003c/ruby\u003eしてくれていた。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ると / 〜たら (Sau khi / Cứ...)",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e〜ると ／ 〜たら (Sau khi... thì... / Cứ... thì...)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eV-る\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1.2rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eと\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eCứ làm V1 là tất yếu dẫn tới kết quả V2 (quy luật, chỉ đường)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-た\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:0.75rem 1.2rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eら\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eSau khi thực hiện hành động A thì nhận được phản hồi/kết quả B\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Sau khi... thì... / Cứ... thì...",
+                      "usage":  "• \u003cb\u003eÝ nghĩa:\u003c/b\u003e Diễn tả sau khi thực hiện hành động A sẽ tất yếu kéo theo hoặc dẫn tới hành động/kết quả B (mang tính quy luật tự nhiên, vận hành máy móc hoặc chỉ dẫn đường đi).\u003cbr\u003e• \u003cb\u003eCách dùng tiêu biểu:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eChỉ đường:\u003c/b\u003e \u003ci\u003eこの道をまっすぐ行くと、右側に郵便局があります。\u003c/i\u003e (Cứ đi thẳng là có...)\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eVận hành máy móc:\u003c/b\u003e \u003ci\u003eボタンを押すと、切符が出ます。\u003c/i\u003e (Cứ bấm nút là vé ra)\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eQuy luật tự nhiên:\u003c/b\u003e \u003ci\u003eお酒を飲むと、顔が赤くなります。\u003c/i\u003e (Cứ uống rượu là đỏ mặt)\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eThử nghiệm / Hỏi thăm:\u003c/b\u003e \u003ci\u003e駅員に聞いたら、「次の電車は30分後」と答えた。\u003c/i\u003e\u003cbr\u003e• \u003cb\u003eKết hợp:\u003c/b\u003e `V-る ＋ と` hoặc `V-た ＋ ら`.",
+                      "explanation":  "Biểu thị quan hệ hệ quả tất yếu, tự nhiên hoặc diễn biến tiếp nối thông thường sau một thao tác hay hành động.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e覚\u003crt\u003eおぼ\u003c/rt\u003e\u003c/ruby\u003eえ\u003cruby\u003e方\u003crt\u003eかた\u003c/rt\u003e\u003c/ruby\u003eをしてみると、すぐ\u003cruby\u003e効果\u003crt\u003eこうか\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eる。",
+                                           "vi":  "Nếu làm theo phương pháp ghi nhớ của giáo viên thì sẽ thấy ngay hiệu quả.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_91.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e駅員\u003crt\u003eえきいん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eいたら、「\u003cruby\u003e次\u003crt\u003eつぎ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e電車\u003crt\u003eでんしゃ\u003c/rt\u003e\u003c/ruby\u003eが30\u003cruby\u003e分後\u003crt\u003eぷんご\u003c/rt\u003e\u003c/ruby\u003e」と\u003cruby\u003e答\u003crt\u003eこた\u003c/rt\u003e\u003c/ruby\u003eえた。",
+                                           "vi":  "Sau khi hỏi nhân viên nhà ga thì họ trả lời là \u0027chuyến tàu tiếp theo phải 30 phút nữa\u0027.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_91.2.png"
+                                       },
+                                       {
+                                           "jp":  "ボタンを\u003cruby\u003e押\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eすと、\u003cruby\u003e切符\u003crt\u003eきっぷ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eます。",
+                                           "vi":  "Cứ nhấn nút là vé sẽ ra.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_91.3.png"
+                                       },
+                                       {
+                                           "jp":  "この\u003cruby\u003e道\u003crt\u003eみち\u003c/rt\u003e\u003c/ruby\u003eをまっすぐ\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eくと、\u003cruby\u003e右側\u003crt\u003eみぎがわ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e郵便局\u003crt\u003eゆうびんきょく\u003c/rt\u003e\u003c/ruby\u003eがあります。",
+                                           "vi":  "Cứ đi thẳng con đường này thì bưu điện sẽ ở phía bên phải.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_91.4.png"
+                                       },
+                                       {
+                                           "jp":  "お\u003cruby\u003e酒\u003crt\u003eさけ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eむと、\u003cruby\u003e顔\u003crt\u003eかお\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e赤\u003crt\u003eあか\u003c/rt\u003e\u003c/ruby\u003eくなります。",
+                                           "vi":  "Cứ uống rượu là mặt lại đỏ lên.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_91.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e春\u003crt\u003eはる\u003c/rt\u003e\u003c/ruby\u003eになる（　　）、\u003cruby\u003e桜\u003crt\u003eさくら\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e花\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e咲\u003crt\u003eさ\u003c/rt\u003e\u003c/ruby\u003eきます。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "でも",
+                                                                              "なら",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "このレバーを\u003cruby\u003e引\u003crt\u003eひ\u003c/rt\u003e\u003c/ruby\u003eく（　　）、\u003cruby\u003e水\u003crt\u003eみず\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e流\u003crt\u003eなが\u003c/rt\u003e\u003c/ruby\u003eれます。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "から",
+                                                                              "ので",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e薬\u003crt\u003eくすり\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eん（　　）、\u003cruby\u003e頭痛\u003crt\u003eずつう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e治\u003crt\u003eなお\u003c/rt\u003e\u003c/ruby\u003eまった。",
+                                                              "options":  [
+                                                                              "だら",
+                                                                              "でも",
+                                                                              "ながら",
+                                                                              "つつ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "交差点を\u003cruby\u003e右\u003crt\u003eみぎ\u003c/rt\u003e\u003c/ruby\u003eへ\u003cruby\u003e曲\u003crt\u003eま\u003c/rt\u003e\u003c/ruby\u003eがる（　　）、\u003cruby\u003e銀行\u003crt\u003eぎんこう\u003c/rt\u003e\u003c/ruby\u003eがあります。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "のに",
+                                                                              "ても",
+                                                                              "から"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "インターネットで\u003cruby\u003e調\u003crt\u003eしら\u003c/rt\u003e\u003c/ruby\u003eべ（　　）、すぐにやり\u003cruby\u003e方\u003crt\u003eかた\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e分\u003crt\u003eわ\u003c/rt\u003e\u003c/ruby\u003eかった。",
+                                                              "options":  [
+                                                                              "たら",
+                                                                              "ても",
+                                                                              "ながら",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "このつまみを（　　）へ回すと、音が大きくなります。",
+                                                          "options":  [
+                                                                          "右",
+                                                                          "空",
+                                                                          "海",
+                                                                          "雲"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e冷\u003crt\u003eつめ\u003c/rt\u003e\u003c/ruby\u003eたいものを\u003cruby\u003e一気\u003crt\u003eいっき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべると、（　　）が痛くなる。",
+                                                          "options":  [
+                                                                          "頭",
+                                                                          "靴",
+                                                                          "傘",
+                                                                          "本"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e案内所\u003crt\u003eあんないじょ\u003c/rt\u003e\u003c/ruby\u003eで（　　）たら、親切に地図をくれた。",
+                                                          "options":  [
+                                                                          "聞いた",
+                                                                          "歩いた",
+                                                                          "泳いだ",
+                                                                          "走った"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "カードを（　　）にタッチすると、改札が開きます。",
+                                                          "options":  [
+                                                                          "機械",
+                                                                          "景色",
+                                                                          "冗談",
+                                                                          "挨拶"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e毎日\u003crt\u003eまいにち\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e運動\u003crt\u003eうんどう\u003c/rt\u003e\u003c/ruby\u003eすると、（　　）が良くなります。",
+                                                          "options":  [
+                                                                          "体調",
+                                                                          "迷惑",
+                                                                          "邪魔",
+                                                                          "延期"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e角\u003crt\u003eかど\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿と、コンビニがあります。",
+                                                                "options":  [
+                                                                                "曲がる",
+                                                                                "曲がって",
+                                                                                "曲がった",
+                                                                                "曲がろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e実際\u003crt\u003eじっさい\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿たら、思ったより簡単だった。",
+                                                                "options":  [
+                                                                                "やっ",
+                                                                                "やる",
+                                                                                "やって",
+                                                                                "やろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "このボタンを＿＿＿と、電気がつきます。",
+                                                                "options":  [
+                                                                                "押す",
+                                                                                "押して",
+                                                                                "押した",
+                                                                                "押そう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e辞書\u003crt\u003eじしょ\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿たら、すぐに意味が分かった。",
+                                                                "options":  [
+                                                                                "引い",
+                                                                                "引く",
+                                                                                "引いて",
+                                                                                "引こう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e砂糖\u003crt\u003eさとう\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿と、甘くなります。",
+                                                                "options":  [
+                                                                                "入れる",
+                                                                                "入れて",
+                                                                                "入れた",
+                                                                                "入れよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Cứ đi thẳng con đường này là sẽ thấy siêu thị ở bên tay trái.",
+                                                                "jp":  "この\u003cruby\u003e道\u003crt\u003eみち\u003c/rt\u003e\u003c/ruby\u003eをまっすぐ\u003cruby\u003e行\u003crt\u003eい\u003c/rt\u003e\u003c/ruby\u003eくと、\u003cruby\u003e左側\u003crt\u003eひだりがわ\u003c/rt\u003e\u003c/ruby\u003eにスーパーがあります。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cứ nhấn vào nút màu xanh này là máy sẽ tự động khởi động.",
+                                                                "jp":  "この\u003cruby\u003e青\u003crt\u003eあお\u003c/rt\u003e\u003c/ruby\u003eいボタンを\u003cruby\u003e押\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eすと、\u003cruby\u003e機械\u003crt\u003eきかい\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e自動的\u003crt\u003eじどうてき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e起動\u003crt\u003eきどう\u003c/rt\u003e\u003c/ruby\u003eします。"
+                                                            },
+                                                            {
+                                                                "vi":  "Hỏi thử người dân địa phương thì họ đã nhiệt tình chỉ đường cho tôi.",
+                                                                "jp":  "\u003cruby\u003e地元\u003crt\u003eじもと\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e人\u003crt\u003eひと\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eいたら、\u003cruby\u003e親切\u003crt\u003eしんせつ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e道\u003crt\u003eみち\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e教\u003crt\u003eおし\u003c/rt\u003e\u003c/ruby\u003eえてくれた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Cứ ăn nhiều đồ cay là tôi lại toát mồ hôi đầm đìa.",
+                                                                "jp":  "\u003cruby\u003e辛\u003crt\u003eから\u003c/rt\u003e\u003c/ruby\u003eいものをたくさん\u003cruby\u003e食\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eべると、\u003cruby\u003e汗\u003crt\u003eあせ\u003c/rt\u003e\u003c/ruby\u003eがたくさん\u003cruby\u003e出\u003crt\u003eで\u003c/rt\u003e\u003c/ruby\u003eます。"
+                                                            },
+                                                            {
+                                                                "vi":  "Thử làm theo sách hướng dẫn thì tôi đã sửa được máy tính một cách dễ dàng.",
+                                                                "jp":  "\u003cruby\u003e説明書\u003crt\u003eせつめいしょ\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e通\u003crt\u003eとお\u003c/rt\u003e\u003c/ruby\u003eりにやってみたら、\u003cruby\u003e簡単\u003crt\u003eかんたん\u003c/rt\u003e\u003c/ruby\u003eにパソコンを\u003cruby\u003e直\u003crt\u003eなお\u003c/rt\u003e\u003c/ruby\u003eせた。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ていると...た / 〜ていたら...た",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e〜ていると...た ／ 〜ていたら...た (Đang lúc... thì bất ngờ xảy ra...)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:45%;\u0027\u003eV-ていると〜\u003c/td\u003e\u003ctd rowspan=\u00272\u0027 style=\u0027background:rgba(255,77,79,0.08);padding:1rem 1.2rem;vertical-align:middle;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.4rem;\u0027\u003e〜た\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eVế sau diễn tả sự việc bất ngờ xảy ra chen ngang (chia ở thể quá khứ \u003cb\u003e〜た\u003c/b\u003e)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.06);border-right:1px solid rgba(255,255,255,0.15);padding:0.65rem 1rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;\u0027\u003eV-ていたら〜\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Đúng lúc đang... thì bất ngờ xảy ra...",
+                      "usage":  "• \u003cb\u003eÝ nghĩa:\u003c/b\u003e Diễn tả một hành động hoặc sự việc không bao hàm ý chí, mang tính chất bất ngờ chen ngang đúng lúc người nói đang thực hiện một hành động khác.\u003cbr\u003e• \u003cb\u003eĐặc điểm:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Vế 1 diễn tả một hành động/trạng thái đang liên tục diễn ra (`V-ていると / V-ていたら`).\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eVế 2 bắt buộc chia ở thể quá khứ (`〜た`):\u003c/b\u003e Diễn tả sự việc bất ngờ ập đến ngoài dự tính làm gián đoạn hoặc chen ngang hành động ở vế 1.\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Vế 2 tuyệt đối không dùng câu mệnh lệnh, nhờ vả hay ý chí chủ quan.\u003cbr\u003e• \u003cb\u003eKết hợp:\u003c/b\u003e `V-ていると ＋ [V-た]` hoặc `V-ていたら ＋ [V-た]`.",
+                      "explanation":  "Nhấn mạnh tính gián đoạn khi một sự việc bất ngờ ngoài ý muốn xảy ra cắt ngang giữa chừng một hoạt động đang diễn ra (vế sau chia quá khứ 〜た).",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e昨日\u003crt\u003eきのう\u003c/rt\u003e\u003c/ruby\u003eデートしていると、\u003cruby\u003e地震\u003crt\u003eじしん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e起\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eきた。",
+                                           "vi":  "Hôm qua đúng lúc đang hẹn hò thì động đất xảy ra.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_93.1.png"
+                                       },
+                                       {
+                                           "jp":  "テスト\u003cruby\u003e中\u003crt\u003eちゅう\u003c/rt\u003e\u003c/ruby\u003e、カンニングしていたら、\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eられちゃった。",
+                                           "vi":  "Đúng lúc đang quay cóp trong giờ kiểm tra thì bị giáo viên bắt gặp mất tiêu.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_93.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e道\u003crt\u003eみち\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e歩\u003crt\u003eある\u003c/rt\u003e\u003c/ruby\u003eいていると、\u003cruby\u003e突然\u003crt\u003eとつぜん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eり\u003cruby\u003e出\u003crt\u003eだ\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                           "vi":  "Đang đi bộ trên đường thì đột nhiên trời đổ mưa.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_93.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e本\u003crt\u003eほん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e読\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eんでいると、\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eから\u003cruby\u003e電話\u003crt\u003eでんわ\u003c/rt\u003e\u003c/ruby\u003eがかかってきた。",
+                                           "vi":  "Đúng lúc đang đọc sách thì bạn gọi điện đến.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_93.4.png"
+                                       },
+                                       {
+                                           "jp":  "テレビを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eていると、いつの\u003cruby\u003e間\u003crt\u003eま\u003c/rt\u003e\u003c/ruby\u003eにか\u003cruby\u003e寝\u003crt\u003eね\u003c/rt\u003e\u003c/ruby\u003eてしまった。",
+                                           "vi":  "Đang xem tivi thì tôi đã ngủ thiếp đi từ lúc nào không biết.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_93.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e散歩\u003crt\u003eさんぽ\u003c/rt\u003e\u003c/ruby\u003eしている（　　）、\u003cruby\u003e昔\u003crt\u003eむかし\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e偶然\u003crt\u003eぐうぜん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e会\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eった。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "でも",
+                                                                              "なら",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eを作ってい（　　）、\u003cruby\u003e指\u003crt\u003eゆび\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e切\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eってしまった。",
+                                                              "options":  [
+                                                                              "たら",
+                                                                              "ても",
+                                                                              "ながら",
+                                                                              "つつ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e電車\u003crt\u003eでんしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e乗\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eっている（　　）、\u003cruby\u003e突然\u003crt\u003eとつぜん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e停電\u003crt\u003eていでん\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "から",
+                                                                              "ので",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e音楽\u003crt\u003eおんがく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e聴\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eいてい（　　）、\u003cruby\u003e急\u003crt\u003eきゅう\u003c/rt\u003e\u003c/ruby\u003eにイヤホンが\u003cruby\u003e壊\u003crt\u003eこわ\u003c/rt\u003e\u003c/ruby\u003eれた。",
+                                                              "options":  [
+                                                                              "たら",
+                                                                              "ても",
+                                                                              "ながら",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e勉強\u003crt\u003eべんきょう\u003c/rt\u003e\u003c/ruby\u003eしている（　　）、\u003cruby\u003e眠\u003crt\u003eねむ\u003c/rt\u003e\u003c/ruby\u003eくなってしまった。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "ので",
+                                                                              "から",
+                                                                              "ため"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e公園\u003crt\u003eこうえん\u003c/rt\u003e\u003c/ruby\u003eを（　　）していると、きれいな鳥を見つけた。",
+                                                          "options":  [
+                                                                          "ジョギング",
+                                                                          "喧嘩",
+                                                                          "延期",
+                                                                          "邪魔"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eの（　　）をしていると、無くした指輪が出てきた。",
+                                                          "options":  [
+                                                                          "掃除",
+                                                                          "料理",
+                                                                          "運転",
+                                                                          "睡眠"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "お\u003cruby\u003e風呂\u003crt\u003eふろ\u003c/rt\u003e\u003c/ruby\u003eに（　　）ていると、インターホンが鳴った。",
+                                                          "options":  [
+                                                                          "入っ",
+                                                                          "泳い",
+                                                                          "走っ",
+                                                                          "歩い"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e車\u003crt\u003eくるま\u003c/rt\u003e\u003c/ruby\u003eを（　　）していると、急に猫が飛び出してきた。",
+                                                          "options":  [
+                                                                          "運転",
+                                                                          "散歩",
+                                                                          "料理",
+                                                                          "掃除"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "（　　）を待っていると、突然大雨が降ってきた。",
+                                                          "options":  [
+                                                                          "バス",
+                                                                          "景色",
+                                                                          "冗談",
+                                                                          "挨拶"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e外\u003crt\u003eそと\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿と、\u003cruby\u003e雪\u003crt\u003eゆき\u003c/rt\u003e\u003c/ruby\u003eがちらついてきた。",
+                                                                "options":  [
+                                                                                "歩いている",
+                                                                                "歩いて",
+                                                                                "歩いた",
+                                                                                "歩こう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e宿題\u003crt\u003eしゅくだい\u003c/rt\u003e\u003c/ruby\u003eを＿＿＿たら、お母さんがおやつを持ってきた。",
+                                                                "options":  [
+                                                                                "してい",
+                                                                                "する",
+                                                                                "して",
+                                                                                "しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "ゲームを＿＿＿と、あっという間に夜中になっていた。",
+                                                                "options":  [
+                                                                                "している",
+                                                                                "して",
+                                                                                "した",
+                                                                                "しよう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e走\u003crt\u003eはし\u003c/rt\u003e\u003c/ruby\u003eっ＿＿＿たら、靴紐がほどけてしまった。",
+                                                                "options":  [
+                                                                                "てい",
+                                                                                "て",
+                                                                                "た",
+                                                                                "よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eと＿＿＿と、\u003cruby\u003e時間\u003crt\u003eじかん\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e経\u003crt\u003eた\u003c/rt\u003e\u003c/ruby\u003eつのが\u003cruby\u003e早\u003crt\u003eはや\u003c/rt\u003e\u003c/ruby\u003eい。",
+                                                                "options":  [
+                                                                                "話している",
+                                                                                "話して",
+                                                                                "話した",
+                                                                                "話そう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Đang đi bộ trong công viên thì đột nhiên có một chú cún chạy lại gần tôi.",
+                                                                "jp":  "\u003cruby\u003e公園\u003crt\u003eこうえん\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e歩\u003crt\u003eある\u003c/rt\u003e\u003c/ruby\u003eいていると、\u003cruby\u003e突然\u003crt\u003eとつぜん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e子犬\u003crt\u003eこいぬ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e走\u003crt\u003eはし\u003c/rt\u003e\u003c/ruby\u003eり\u003cruby\u003e寄\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eってきた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đúng lúc đang nấu ăn thì chuông điện thoại reo lên liên hồi.",
+                                                                "jp":  "\u003cruby\u003e料理\u003crt\u003eりょうり\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e作\u003crt\u003eつく\u003c/rt\u003e\u003c/ruby\u003eっていると、\u003cruby\u003e電話\u003crt\u003eでんわ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e鳴\u003crt\u003eな\u003c/rt\u003e\u003c/ruby\u003eり\u003cruby\u003e響\u003crt\u003eひび\u003c/rt\u003e\u003c/ruby\u003eいた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đang chăm chú xem phim thì đột nhiên nhà bị mất điện.",
+                                                                "jp":  "\u003cruby\u003e映画\u003crt\u003eえいが\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eていると、\u003cruby\u003e突然\u003crt\u003eとつぜん\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e停電\u003crt\u003eていでん\u003c/rt\u003e\u003c/ruby\u003eになった。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đang lúc trò chuyện vui vẻ với bạn thì trời bỗng đổ mưa rào.",
+                                                                "jp":  "\u003cruby\u003e友達\u003crt\u003eともだち\u003c/rt\u003e\u003c/ruby\u003eと\u003cruby\u003e楽\u003crt\u003eたの\u003c/rt\u003e\u003c/ruby\u003eしく\u003cruby\u003e話\u003crt\u003eはな\u003c/rt\u003e\u003c/ruby\u003eしていると、\u003cruby\u003e急\u003crt\u003eきゅう\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e雨\u003crt\u003eあめ\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e降\u003crt\u003eふ\u003c/rt\u003e\u003c/ruby\u003eり\u003cruby\u003e出\u003crt\u003eだ\u003c/rt\u003e\u003c/ruby\u003eした。"
+                                                            },
+                                                            {
+                                                                "vi":  "Đúng lúc tôi đang tìm kính thì phát hiện ra mình đang đeo nó trên đầu.",
+                                                                "jp":  "めがねを\u003cruby\u003e探\u003crt\u003eさが\u003c/rt\u003e\u003c/ruby\u003eしていると、\u003cruby\u003e頭\u003crt\u003eあたま\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e上\u003crt\u003eうえ\u003c/rt\u003e\u003c/ruby\u003eにかけてあることに\u003cruby\u003e気\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eづいた。"
+                                                            }
+                                                        ]
+                                    }
+                  },
+                  {
+                      "structure":  "〜ると...た",
+                      "detailedStructure":  "\u003cdiv style=\u0027display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:540px;margin:0 auto;\u0027\u003e\u003ctable style=\u0027width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;\u0027\u003e\u003cthead\u003e\u003ctr\u003e\u003cth colspan=\u00272\u0027 style=\u0027background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);\u0027\u003e〜ると...た (Vừa làm xong A là lập tức làm B ngay)\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\u0027background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:0.8rem 1rem;font-size:1.2rem;color:#ffd700;font-weight:800;text-align:center;width:34%;\u0027\u003eV-る\u003c/td\u003e\u003ctd style=\u0027background:rgba(255,77,79,0.08);padding:0.9rem 1.2rem;\u0027\u003e\u003cspan style=\u0027color:#ff4d4f;font-weight:800;font-size:1.3rem;\u0027\u003eと ＋ [V-た]\u003c/span\u003e\u003cspan style=\u0027color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;\u0027\u003eVừa dứt hành động A là chủ ngữ lập tức thực hiện ngay hành động B (thường đi kèm すぐ / すぐに)\u003c/span\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+                      "meaning":  "Sau hành động A thì lập tức làm B",
+                      "usage":  "• \u003cb\u003eÝ nghĩa:\u003c/b\u003e Diễn tả chuỗi hành động xảy ra liên tiếp và gần như lập tức: vừa hoàn thành hành động A là người đó lập tức thực hiện ngay hành động B.\u003cbr\u003e• \u003cb\u003eĐặc điểm cốt lõi:\u003c/b\u003e\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ \u003cb\u003eCùng chủ ngữ:\u003c/b\u003e Chủ thể thực hiện hành động ở cả 2 vế trước và sau là cùng một người.\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Vế sau chia ở thể quá khứ (`V-た`) và thường đi kèm với phó từ `すぐ / すぐに` (ngay lập tức).\u003cbr\u003e\u0026nbsp;\u0026nbsp;+ Diễn tả chuỗi hành động thực tế đã diễn ra trong quá khứ.\u003cbr\u003e• \u003cb\u003eKết hợp:\u003c/b\u003e `V-る ＋ と ＋ [Hành động V-た]`.",
+                      "explanation":  "Nhấn mạnh tốc độ chuyển tiếp tức thì giữa 2 hành động nối tiếp nhau do cùng một chủ thể thực hiện trong quá khứ.",
+                      "examples":  [
+                                       {
+                                           "jp":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e終\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eわるとすぐ\u003cruby\u003e恋人\u003crt\u003eこいびと\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e電話\u003crt\u003eでんわ\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                           "vi":  "Anh ấy vừa xong việc là lập tức gọi điện cho người yêu.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_94.1.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e社長\u003crt\u003eしゃちょう\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e来\u003crt\u003eく\u003c/rt\u003e\u003c/ruby\u003eると、\u003cruby\u003e会議\u003crt\u003eかいぎ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e始\u003crt\u003eはじ\u003c/rt\u003e\u003c/ruby\u003eめた。",
+                                           "vi":  "Giám đốc vừa đến công ty là lập tức bắt đầu cuộc họp.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_94.2.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eると、すぐにシャワーを\u003cruby\u003e浴\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eびた。",
+                                           "vi":  "Vừa về đến nhà là tôi lập tức đi tắm ngay.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_94.3.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e子供\u003crt\u003eこども\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e学校\u003crt\u003eがっこう\u003c/rt\u003e\u003c/ruby\u003eから\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eると、すぐにゲームを\u003cruby\u003e始\u003crt\u003eはじ\u003c/rt\u003e\u003c/ruby\u003eめた。",
+                                           "vi":  "Đứa trẻ vừa đi học về là lập tức chơi game ngay.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_94.4.png"
+                                       },
+                                       {
+                                           "jp":  "\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e私\u003crt\u003eわたし\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e顔\u003crt\u003eかお\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e見\u003crt\u003eみ\u003c/rt\u003e\u003c/ruby\u003eると、すぐに\u003cruby\u003e走\u003crt\u003eはし\u003c/rt\u003e\u003c/ruby\u003eり\u003cruby\u003e去\u003crt\u003eさ\u003c/rt\u003e\u003c/ruby\u003eった。",
+                                           "vi":  "Cô ấy vừa nhìn thấy mặt tôi là lập tức chạy vụt đi.",
+                                           "img":  "Ngữ pháp N3/N3_Ngữ pháp_94.5.png"
+                                       }
+                                   ],
+                      "exercises":  {
+                                        "particles":  [
+                                                          {
+                                                              "question":  "\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eは\u003cruby\u003e起\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eきる（　　）すぐに、スマホをチェックした。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "でも",
+                                                                              "なら",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e席\u003crt\u003eせき\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e着\u003crt\u003eつ\u003c/rt\u003e\u003c/ruby\u003eく（　　）、すぐ\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e始\u003crt\u003eはじ\u003c/rt\u003e\u003c/ruby\u003eめた。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "から",
+                                                                              "ので",
+                                                                              "のに"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e手紙\u003crt\u003eてがみ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e読\u003crt\u003eよ\u003c/rt\u003e\u003c/ruby\u003eむ（　　）すぐに、\u003cruby\u003e返事\u003crt\u003eへんじ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e書\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eいた。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "ても",
+                                                                              "ながら",
+                                                                              "つつ"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e先生\u003crt\u003eせんせい\u003c/rt\u003e\u003c/ruby\u003eの\u003cruby\u003e指示\u003crt\u003eしじ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e聞\u003crt\u003eき\u003c/rt\u003e\u003c/ruby\u003eく（　　）、すぐに\u003cruby\u003e作業\u003crt\u003eさぎょう\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e開始\u003crt\u003eかいし\u003c/rt\u003e\u003c/ruby\u003eした。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "のに",
+                                                                              "ても",
+                                                                              "から"
+                                                                          ],
+                                                              "answer":  0
+                                                          },
+                                                          {
+                                                              "question":  "\u003cruby\u003e薬\u003crt\u003eくすり\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e飲\u003crt\u003eの\u003c/rt\u003e\u003c/ruby\u003eむ（　　）、すぐにベッドに\u003cruby\u003e入\u003crt\u003eはい\u003c/rt\u003e\u003c/ruby\u003eった。",
+                                                              "options":  [
+                                                                              "と",
+                                                                              "ので",
+                                                                              "から",
+                                                                              "ため"
+                                                                          ],
+                                                              "answer":  0
+                                                          }
+                                                      ],
+                                        "vocab":  [
+                                                      {
+                                                          "question":  "\u003cruby\u003e試験\u003crt\u003eしけん\u003c/rt\u003e\u003c/ruby\u003eが（　　）と、すぐに友達と遊びに行った。",
+                                                          "options":  [
+                                                                          "終わる",
+                                                                          "始まる",
+                                                                          "続く",
+                                                                          "休む"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e電話\u003crt\u003eでんわ\u003c/rt\u003e\u003c/ruby\u003eを（　　）と、すぐにメモを取った。",
+                                                          "options":  [
+                                                                          "切る",
+                                                                          "開ける",
+                                                                          "閉める",
+                                                                          "飲む"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "ご\u003cruby\u003e飯\u003crt\u003eはん\u003c/rt\u003e\u003c/ruby\u003eを（　　）と、すぐに歯を磨いた。",
+                                                          "options":  [
+                                                                          "食べ終わる",
+                                                                          "作り始める",
+                                                                          "買いに行く",
+                                                                          "片付ける"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e駅\u003crt\u003eえき\u003c/rt\u003e\u003c/ruby\u003eに（　　）と、すぐに家族に連絡した。",
+                                                          "options":  [
+                                                                          "着く",
+                                                                          "歩く",
+                                                                          "走る",
+                                                                          "止まる"
+                                                                      ],
+                                                          "answer":  0
+                                                      },
+                                                      {
+                                                          "question":  "\u003cruby\u003e荷物\u003crt\u003eにもつ\u003c/rt\u003e\u003c/ruby\u003eを（　　）と、すぐに中身を確認した。",
+                                                          "options":  [
+                                                                          "受け取る",
+                                                                          "捨てる",
+                                                                          "忘れる",
+                                                                          "落とす"
+                                                                      ],
+                                                          "answer":  0
+                                                      }
+                                                  ],
+                                        "conjugation":  [
+                                                            {
+                                                                "question":  "\u003cruby\u003e部屋\u003crt\u003eへや\u003c/rt\u003e\u003c/ruby\u003eに＿＿＿と、すぐにエアコンをつけた。",
+                                                                "options":  [
+                                                                                "入る",
+                                                                                "入って",
+                                                                                "入った",
+                                                                                "入ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "ベルが＿＿＿と、すぐに生徒たちは教室を出た。",
+                                                                "options":  [
+                                                                                "鳴る",
+                                                                                "鳴って",
+                                                                                "鳴った",
+                                                                                "鳴ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "ニュースを＿＿＿と、すぐに家族に電話をかけた。",
+                                                                "options":  [
+                                                                                "見る",
+                                                                                "見て",
+                                                                                "見た",
+                                                                                "見よう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e買\u003crt\u003eか\u003c/rt\u003e\u003c/ruby\u003eい\u003cruby\u003e物\u003crt\u003eもの\u003c/rt\u003e\u003c/ruby\u003eから＿＿＿と、すぐに料理を作り始めた。",
+                                                                "options":  [
+                                                                                "帰る",
+                                                                                "帰って",
+                                                                                "帰った",
+                                                                                "帰ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            },
+                                                            {
+                                                                "question":  "\u003cruby\u003e給料\u003crt\u003eきゅうりょう\u003c/rt\u003e\u003c/ruby\u003eが＿＿＿と、すぐに貯金した。",
+                                                                "options":  [
+                                                                                "入る",
+                                                                                "入って",
+                                                                                "入った",
+                                                                                "入ろう"
+                                                                            ],
+                                                                "answer":  0
+                                                            }
+                                                        ],
+                                        "translation":  [
+                                                            {
+                                                                "vi":  "Vừa hoàn thành công việc là anh ấy lập tức thu dọn đồ đạc ra về ngay.",
+                                                                "jp":  "\u003cruby\u003e仕事\u003crt\u003eしごと\u003c/rt\u003e\u003c/ruby\u003eが\u003cruby\u003e終\u003crt\u003eお\u003c/rt\u003e\u003c/ruby\u003eわると、\u003cruby\u003e彼\u003crt\u003eかれ\u003c/rt\u003e\u003c/ruby\u003eはすぐに\u003cruby\u003e荷物\u003crt\u003eにもつ\u003c/rt\u003e\u003c/ruby\u003eをまとめて\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eった。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vừa mở quà ra là đứa bé lập tức reo lên vì vui sướng.",
+                                                                "jp":  "プレゼントを\u003cruby\u003e開\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eけると、\u003cruby\u003e子\u003crt\u003eこ\u003c/rt\u003e\u003c/ruby\u003eどもはすぐに\u003cruby\u003e喜\u003crt\u003eよろこ\u003c/rt\u003e\u003c/ruby\u003eびの\u003cruby\u003e声\u003crt\u003eこえ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e上\u003crt\u003eあ\u003c/rt\u003e\u003c/ruby\u003eげた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vừa về tới nhà là tôi lập tức cởi giày và thay quần áo ngay.",
+                                                                "jp":  "\u003cruby\u003e家\u003crt\u003eいえ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e帰\u003crt\u003eかえ\u003c/rt\u003e\u003c/ruby\u003eると、すぐに\u003cruby\u003e靴\u003crt\u003eくつ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e脱\u003crt\u003eぬ\u003c/rt\u003e\u003c/ruby\u003eいで\u003cruby\u003e服\u003crt\u003eふく\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e着替\u003crt\u003eきが\u003c/rt\u003e\u003c/ruby\u003eえた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vừa nhận được thông báo đỗ đại học là cô ấy lập tức khoe với bố mẹ.",
+                                                                "jp":  "\u003cruby\u003e合格\u003crt\u003eごうかく\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e通知\u003crt\u003eつうち\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e受\u003crt\u003eう\u003c/rt\u003e\u003c/ruby\u003eけ\u003cruby\u003e取\u003crt\u003eと\u003c/rt\u003e\u003c/ruby\u003eると、\u003cruby\u003e彼女\u003crt\u003eかのじょ\u003c/rt\u003e\u003c/ruby\u003eはすぐに\u003cruby\u003e両親\u003crt\u003eりょうしん\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e伝\u003crt\u003eつた\u003c/rt\u003e\u003c/ruby\u003eえた。"
+                                                            },
+                                                            {
+                                                                "vi":  "Vừa tới công ty là giám đốc lập tức triệu tập cuộc họp khẩn cấp.",
+                                                                "jp":  "\u003cruby\u003e会社\u003crt\u003eかいしゃ\u003c/rt\u003e\u003c/ruby\u003eに\u003cruby\u003e着\u003crt\u003eつ\u003c/rt\u003e\u003c/ruby\u003eくと、\u003cruby\u003e社長\u003crt\u003eしゃちょう\u003c/rt\u003e\u003c/ruby\u003eはすぐに\u003cruby\u003e緊急\u003crt\u003eきんきゅう\u003c/rt\u003e\u003c/ruby\u003e\u003cruby\u003e会議\u003crt\u003eかいぎ\u003c/rt\u003e\u003c/ruby\u003eを\u003cruby\u003e開\u003crt\u003eひら\u003c/rt\u003e\u003c/ruby\u003eいた。"
+                                                            }
+                                                        ]
+                                    }
+                  }
+              ]
+}

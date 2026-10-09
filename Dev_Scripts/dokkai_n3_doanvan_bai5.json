@@ -1,0 +1,61 @@
+{
+  "id": "dokkai-n3-doanvan-05",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 5,
+  "title": "たかしへのメモ (Mảnh giấy nhắn gửi Takashi)",
+  "timeLimit": 180,
+  "passage": "<p>たかしさんの<ruby>家<rt>いえ</rt></ruby>のテーブルの<ruby>上<rt>うえ</rt></ruby>に、このメモがある。</p><p>たかしへ<br><ruby>急<rt>きゅう</rt></ruby>な<ruby>用事<rt>ようじ</rt></ruby>で、ちょっとおじいちゃんの<ruby>所<rt>ところ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>かなければならなくなりました。７<ruby>時<rt>じ</rt></ruby>までには<ruby>帰<rt>かえ</rt></ruby>れると<ruby>思<rt>おも</rt></ruby>うけど、おなかがすいて<ruby>待<rt>ま</rt></ruby>てなかったら、<ruby>昨日<rt>きのう</rt></ruby>のカレーの<ruby>残<rt>のこ</rt></ruby>りを<ruby>温<rt>あたた</rt></ruby>めて<ruby>食<rt>た</rt></ruby>べてください。<br>それから、<ruby>洗濯物<rt>せんたくもの</rt></ruby>が<ruby>干<rt>ほ</rt></ruby>したままになっているから、<ruby>取<rt>と</rt></ruby>り<ruby>込<rt>こ</rt></ruby>んでおいてね。<ruby>時間<rt>じかん</rt></ruby>があったら、たたんでおいてください。おいしいケーキでも<ruby>買<rt>か</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>るね。</p>",
+  "fullTranslation": "Trên bàn ở nhà của bạn Takashi có mảnh giấy nhắn này:\n\nGửi Takashi,\nVì có việc gấp nên mẹ phải đến chỗ của ông một lát. Mẹ nghĩ là khoảng trước 7 giờ mẹ sẽ về được, nhưng nếu con đói bụng không chờ được thì hãy hâm nóng chỗ cà ri còn thừa từ hôm qua rồi ăn nhé.\nThêm nữa, quần áo giặt vẫn đang phơi ở ngoài, nên con hãy cất/thu quần áo vào nhà giúp mẹ nhé. Nếu có thời gian thì con gấp lại luôn giúp mẹ. Mẹ sẽ mua bánh ngọt ngon về cho con nhé.",
+  "vocabulary": [
+    { "word": "急な用事", "hiragana": "きゅうなようじ", "meaning": "Việc bận đột xuất / Việc gấp" },
+    { "word": "温める", "hiragana": "あたためる", "meaning": "Hâm nóng / Làm ấm" },
+    { "word": "洗濯物", "hiragana": "せんたくもの", "meaning": "Quần áo giặt" },
+    { "word": "干す", "hiragana": "ほす", "meaning": "Phơi (quần áo)" },
+    { "word": "取り込む", "hiragana": "とりこむ", "meaning": "Thu gom vào / Cất (quần áo phơi) vào nhà" },
+    { "word": "たたむ", "hiragana": "たたむ", "meaning": "Gấp (quần áo, chăn màn)" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜なければならなくなる", "meaning": "Trở nên buộc phải làm gì (do hoàn cảnh đưa đẩy)" },
+    { "pattern": "〜たまま", "meaning": "Giữ nguyên trạng thái..." },
+    { "pattern": "〜ておく", "meaning": "Làm sẵn việc gì đó trước" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：このメモを読んで、たかしさんがしなければならないことは何か。",
+      "options": [
+        "おじいちゃんの所へ行く。",
+        "昨日のカレーの残りを温めて食べる。",
+        "洗濯物を取り込む。",
+        "ケーキを買って帰る。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "おじいちゃんの所へ行く。",
+          "meaning": "Đi đến chỗ của ông.",
+          "analysis": "Sai: Người đi đến chỗ của ông là mẹ ('ちょっとおじいちゃんの所へ行かなければならなくなりました')."
+        },
+        {
+          "option": "昨日のカレーの残りを温めて食べる。",
+          "meaning": "Hâm nóng phần cà ri thừa hôm qua để ăn.",
+          "analysis": "Sai: Đây là hành động tùy chọn kèm điều kiện ('おなかがすいて待てなかったら' - nếu đói bụng không đợi được), không phải việc bắt buộc."
+        },
+        {
+          "option": "洗濯物を取り込む。",
+          "meaning": "Thu cất quần áo phơi vào nhà.",
+          "analysis": "ĐÚNG: Khớp với lời nhờ vả trực tiếp: '洗濯物が干したままになっているから、取り込んでおいてね' (Quần áo đang phơi ngoài đó nên con cất vào nhà nhé). Việc gấp quần áo chỉ làm nếu có thời gian rảnh."
+        },
+        {
+          "option": "ケーキを買って帰る。",
+          "meaning": "Mua bánh ngọt mang về nhà.",
+          "analysis": "Sai: Người mua bánh ngọt mang về là mẹ ('おいしいケーキでも買って帰るね')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「それから、洗濯物が干したままになっているから、取り込んでおいてね。時間があったら、たたんでおいてください。」",
+      "explanation": "Đáp án 3 đúng. Trong mảnh giấy nhắn, việc mẹ dặn dò Takashi bắt buộc phải làm trước là thu cất quần áo phơi ngoài trời vào nhà ('取り込んでおいてね'). Việc ăn cơm chỉ là tùy chọn nếu đói, còn việc gấp quần áo chỉ làm khi có thời gian rảnh."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Redundant backup folders (contains hundreds of megabytes of duplicate code)
+backups/
+
+# System and temporary files
+.gemini/
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+~$*.docx
+
+# OS specific files
+.DS_Store

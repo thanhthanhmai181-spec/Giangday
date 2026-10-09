@@ -1,0 +1,131 @@
+{
+  "id": "choukai-n3-nghe_chude-02",
+  "level": "N3",
+  "category": "nghe_chude",
+  "categoryName": "Nghe chủ đề (ポイント理解)",
+  "lessonNumber": 2,
+  "title": "Bài 2: Luyện nghe hiểu chủ đề (ポイント理解 第2回)",
+  "description": "Dạng bài nghe hiểu chủ đề / điểm cốt lõi (ポイント理解): Lắng nghe câu hỏi và các lựa chọn trực tiếp từ file âm thanh. Bấm chọn 1, 2, 3 hoặc 4.",
+  "questions": [
+    {
+      "id": 34,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai2/34.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 動物園のお客さんの様子",
+          "meaning": "Tình hình và dáng vẻ của khách tham quan vườn thú.",
+          "analysis": "Sai: Chỉ nhắc mở đầu là có đông khách đến chứ bài nói không miêu tả hành vi hay thái độ của khách tham quan."
+        },
+        {
+          "option": "2. この動物園が人気のある理由",
+          "meaning": "Lý do vì sao vườn thú này lại được yêu thích và thu hút nhiều khách.",
+          "analysis": "ĐÚNG: Phát thanh viên nêu bật các điểm hấp dẫn: khoảng cách với thú rất gần ngắm rõ mọi chuyển động ('動物との距離がとても近く... 近くでよく観察することができる'), được tự tay cho voi, ngựa ăn ('直接エサをやることもできる'), có sư tử con, và kết luận 'Thảo nào khách lại tụ tập đông đến vậy' ('お客さんが集まるのも納得ですね')."
+        },
+        {
+          "option": "3. 動物の可愛らしさ",
+          "meaning": "Sự đáng yêu của các con thú.",
+          "analysis": "Sai: Bài nói giới thiệu các trải nghiệm thực tế tại vườn thú chứ không chỉ nói về sự đáng yêu."
+        },
+        {
+          "option": "4. 今、特に人気のある動物",
+          "meaning": "Con thú đặc biệt được yêu thích nhất hiện nay.",
+          "analysis": "Sai: Có nhắc đến ngựa, voi, sư tử con nhưng không phân tích con nào hot nhất."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「アナウンサー：青葉動物園は動物との距離がとても近く、動物の顔や体、動きなど、近くでよく観察することができるんです。...馬やゾウなどいろいろな動物に直接エサをやることもできるんですよ。お客さんが集まるのも納得ですね。」",
+      "explanation": "Đáp án đúng là 2 (この動物園が人気のある理由).\n- Câu hỏi trong audio: 「アナウンサーは何について話していますか。」 (Phát thanh viên đang nói về điều gì?).\n- Phát thanh viên giới thiệu những điểm đặc sắc của vườn thú Aoba: Khoảng cách với thú rất gần, có thể trực tiếp cho động vật ăn, ngắm sư tử con. Cuối cùng kết luận việc khách đến đông là điều hoàn toàn dễ hiểu (お客さんが集まるのも納得ですね).\n- Do đó nội dung là lý do vườn thú này được yêu thích (この動物園が人気のある理由).",
+      "scriptJp": "<p><strong>アナウンサー：</strong> <ruby>今日<rt>きょう</rt></ruby>は<ruby>青葉<rt>あおば</rt></ruby><ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>からお<ruby>伝<rt>つた</rt></ruby>えします。<ruby>多<rt>おお</rt></ruby>くのお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>来<rt>き</rt></ruby>ています。<ruby>青葉<rt>あおば</rt></ruby><ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>は<strong><ruby>動物<rt>どうぶつ</rt></ruby>との<ruby>距離<rt>きょり</rt></ruby>がとても<ruby>近<rt>ちか</rt></ruby>く、<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>、<ruby>動<rt>うご</rt></ruby>きなど、<ruby>近<rt>ちか</rt></ruby>くでよく<ruby>観察<rt>かんさつ</rt></ruby>することができるんです。</strong><ruby>予約<rt>よやく</rt></ruby>をすれば<ruby>係<rt>かかり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>案内<rt>あんない</rt></ruby>してくれて、<strong><ruby>馬<rt>うま</rt></ruby>やゾウなどいろいろな<ruby>動物<rt>どうぶつ</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby>エサをやることもできるんですよ。お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>集<rt>あつ</rt></ruby>まるのも<ruby>納得<rt>なっとく</rt></ruby>ですね。</strong><ruby>今<rt>いま</rt></ruby>ならライオンの<ruby>赤<rt>あか</rt></ruby>ちゃんも<ruby>見<rt>み</rt></ruby>られるそうです。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> アナウンサーは<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか。<br>1. <ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんの<ruby>様子<rt>ようす</rt></ruby><br>2. この<ruby>動物<rt>どうぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>が<ruby>人気<rt>にんき</rt></ruby>のある<ruby>理由<rt>りゆう</rt></ruby><br>3. <ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>可愛<rt>かわい</rt></ruby>らしさ<br>4. <ruby>今<rt>いま</rt></ruby>、<ruby>特<rt>とく</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>のある<ruby>動物<rt>どうぶつ</rt></ruby></p>",
+      "scriptVi": "Phát thanh viên: Hôm nay chúng tôi xin phát sóng từ Vườn thú Aoba. Đang có rất đông khách tham quan ghé thăm. Tại Vườn thú Aoba, khoảng cách với các loài động vật rất gần, quý vị có thể quan sát thật kỹ khuôn mặt, cơ thể và từng chuyển động của chúng ở cự ly gần. Nếu đặt hẹn trước, nhân viên hướng dẫn sẽ dẫn đường và quý vị có thể tự tay cho nhiều loài động vật như ngựa hay voi ăn trực tiếp. Thảo nào mà khách tham quan lại đổ về đây đông đến vậy. Hiện tại nghe nói quý vị còn có thể ngắm cả những chú sư tử con mới sinh nữa.\nCâu hỏi: Phát thanh viên đang nói về điều gì?\n1. Tình hình của khách tham quan vườn thú\n2. Lý do vườn thú này được yêu thích\n3. Sự đáng yêu của các con thú\n4. Con thú đặc biệt được yêu thích nhất hiện nay"
+    },
+    {
+      "id": 35,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai2/35.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 授業で見る映画のストーリー",
+          "meaning": "Cốt truyện của bộ phim sẽ xem trong tiết học.",
+          "analysis": "Sai: Chỉ nhắc tên phim là 'Cho đến ngày tái ngộ' chứ không tóm tắt cốt truyện."
+        },
+        {
+          "option": "2. 日本映画の特徴",
+          "meaning": "Đặc điểm chung của nền điện ảnh Nhật Bản.",
+          "analysis": "Sai: Không phân tích đặc trưng của phim Nhật."
+        },
+        {
+          "option": "3. 映画に出てくる日本の習慣",
+          "meaning": "Các phong tục tập quán Nhật Bản xuất hiện trong phim.",
+          "analysis": "Sai: Việc học phong tục tập quán chỉ là một trong các lợi ích được nêu ra."
+        },
+        {
+          "option": "4. 授業で映画を使う目的",
+          "meaning": "Mục đích của việc sử dụng phim ảnh trong giảng dạy trên lớp.",
+          "analysis": "ĐÚNG: Thầy giáo giải thích lý do cho xem phim: giúp học sinh cải thiện kỹ năng nghe tiếng Nhật đời thực ('映画は聞き取りの力を伸ばすのに大きな効果があります'), có thể lấy câu thoại để luyện đàm thoại, và học thêm văn hóa tập quán ('会話練習もできますし、その国の習慣や文化を学ぶこともできる')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「先生：教科書に出てる日本語は分かるけど、実際の生活の中での日本語は聞き取りが難しいという声を学生の皆さんから聞きます。映画は聞き取りの力を伸ばすのに大きな効果があります。映画に出てきた会話を使って会話練習もできますし、その国の習慣や文化を学ぶこともできるんです。」",
+      "explanation": "Đáp án đúng là 4 (授業で映画を使う目的).\n- Câu hỏi trong audio: 「先生は何について話していますか。」 (Thầy giáo đang nói về điều gì?).\n- Thầy giáo thông báo tiết sau sẽ xem phim Nhật và giải thích các lợi ích: Nâng cao kỹ năng nghe hiểu tiếng Nhật thực tế, luyện tập giao tiếp qua các câu thoại trong phim, học hỏi văn hóa tập quán.\n- Toàn bộ nội dung nhằm nêu rõ mục đích của việc xem phim trong giờ học (授業で映画を使う目的).",
+      "scriptJp": "<p><strong><ruby>先生<rt>せんせい</rt></ruby>：</strong> <ruby>来週<rt>らいしゅう</rt></ruby>のこの<ruby>授業<rt>じゅぎょう</rt></ruby>では、<ruby>日本<rt>にほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>「また<ruby>会<rt>あ</rt></ruby>う<ruby>日<rt>ひ</rt></ruby>まで」を<ruby>見<rt>み</rt></ruby>ます。えー、<ruby>時々<rt>ときどき</rt></ruby>、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>出<rt>で</rt></ruby>てる<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>分<rt>わ</rt></ruby>かるけど、<strong><ruby>実際<rt>じっさい</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>での<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>りが<ruby>難<rt>むずか</rt></ruby>しい</strong>という<ruby>声<rt>こえ</rt></ruby>を<ruby>学生<rt>がくせい</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんから<ruby>聞<rt>き</rt></ruby>きます。<strong><ruby>映画<rt>えいが</rt></ruby>は<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>りの<ruby>力<rt>ちから</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばすのに<ruby>大<rt>おお</rt></ruby>きな<ruby>効果<rt>こうか</rt></ruby>があります。<ruby>映画<rt>えいが</rt></ruby>に<ruby>出<rt>で</rt></ruby>てきた<ruby>会話<rt>かいわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>会話<rt>かいわ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>もできますし、その<ruby>国<rt>くに</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶこともできるんです。</strong><br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>先生<rt>せんせい</rt></ruby>は<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか。<br>1. <ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>見<rt>み</rt></ruby>る<ruby>映画<rt>えいが</rt></ruby>のストーリー<br>2. <ruby>日本<rt>にほん</rt></ruby><ruby>映画<rt>えいが</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby><br>3. <ruby>映画<rt>えいが</rt></ruby>に<ruby>出<rt>で</rt></ruby>てくる<ruby>日本<rt>にほん</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby><br>4. <ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>目的<rt>もくてき</rt></ruby></p>",
+      "scriptVi": "Thầy giáo: Trong tiết học này vào tuần tới, chúng ta sẽ xem bộ phim Nhật Bản có tựa đề 'Cho đến ngày tái ngộ'. Thầy thỉnh thoảng có nghe nhiều bạn học sinh chia sẻ rằng tiếng Nhật trong sách giáo khoa thì các em hiểu, nhưng tiếng Nhật trong đời sống thực tế thì nghe lại rất khó. Phim ảnh mang lại hiệu quả to lớn trong việc nâng cao kỹ năng nghe hiểu của các em. Chúng ta vừa có thể sử dụng các đoạn đối thoại trong phim để luyện giao tiếp, lại vừa có thể học hỏi thêm về văn hóa cũng như phong tục tập quán của đất nước đó nữa.\nCâu hỏi: Thầy giáo đang nói về điều gì?\n1. Cốt truyện của bộ phim sẽ xem trong giờ học\n2. Đặc điểm của điện ảnh Nhật Bản\n3. Các phong tục Nhật Bản xuất hiện trong phim\n4. Mục đích của việc sử dụng phim ảnh trong giờ học"
+    },
+    {
+      "id": 36,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_chude/bai2/36.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. ゴミを減らす工夫",
+          "meaning": "Các mẹo và giải pháp sáng tạo để giảm thiểu lượng rác thải.",
+          "analysis": "ĐÚNG: Cả hai trao đổi về cách giảm lượng rác thải sinh hoạt: tự pha trà mang theo thay vì mua chai/lon nước ngoài đường ('買わないでお茶とか自分で作るようにしたら、随分減らせたんですよ'), tự nấu ăn để giảm hộp xốp ('僕も料理すればお弁当の容器とか... なくなる'), rửa sạch rau củ nấu luôn cả vỏ để bớt rác hữu cơ ('野菜もよく洗って、皮も一緒に料理すればもっとゴミ少なくできますよ')."
+        },
+        {
+          "option": "2. ゴミの種類多さ",
+          "meaning": "Sự đa dạng và nhiều chủng loại của rác thải.",
+          "analysis": "Sai: Không nói về việc có bao nhiêu loại rác."
+        },
+        {
+          "option": "3. ゴミを出すときのルール",
+          "meaning": "Các quy định và luật lệ khi mang rác đi vứt.",
+          "analysis": "Sai: Hai người gặp nhau ở nơi vứt rác nhưng không bàn về quy định ngày giờ đổ rác."
+        },
+        {
+          "option": "4. ゴミのリサイクル方法",
+          "meaning": "Quy trình và cách thức tái chế rác thải.",
+          "analysis": "Sai: Không bàn về việc tái chế rác trong nhà máy."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「女：買わないでお茶とか自分で作るようにしたら、随分減らせたんですよ。男：あー、僕も料理すればお弁当の容器とか、ゴミで出すこともなくなるんですよね。女：料理するなら、野菜もよく洗って、皮も一緒に料理すればもっとゴミ少なくできますよ。」",
+      "explanation": "Đáp án đúng là 1 (ゴミを減らす工夫).\n- Câu hỏi trong audio: 「二人は何について話していますか。」 (Hai người đang nói về điều gì?).\n- Cuộc đối thoại xoay quanh các phương pháp giảm lượng rác thải sinh hoạt hàng ngày: Tự pha trà uống để giảm chai lon, tự nấu ăn để giảm hộp cơm dùng một lần, nấu ăn dùng cả vỏ rau củ để giảm rác hữu cơ.\n- Toàn bộ nội dung là các mẹo giảm thiểu rác thải (ゴミを減らす工夫).",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>山田<rt>やまだ</rt></ruby>さん、おはようございます。あれ？<ruby>山田<rt>やまだ</rt></ruby>さん、<ruby>出<rt>だ</rt></ruby>すゴミ<ruby>少<rt>すく</rt></ruby>ないですね。<ruby>僕<rt>ぼく</rt></ruby>はコンビニのお<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>容器<rt>ようき</rt></ruby>とか、パンの<ruby>袋<rt>ふくろ</rt></ruby>とか、すぐ<ruby>溜<rt>た</rt></ruby>まっちゃって。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>私<rt>わたし</rt></ruby>も<ruby>前<rt>まえ</rt></ruby>はよく<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby><ruby>買<rt>か</rt></ruby>ってて、ペットボトルとか<ruby>缶<rt>かん</rt></ruby>のゴミが<ruby>結構<rt>けっこう</rt></ruby>あったんです。でも、<strong><ruby>買<rt>か</rt></ruby>わないでお<ruby>茶<rt>ちゃ</rt></ruby>とか<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>るようにしたら、<ruby>随分<rt>ずいぶん</rt></ruby><ruby>減<rt>へ</rt></ruby>らせたんですよ。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あー、<strong><ruby>僕<rt>ぼく</rt></ruby>も<ruby>料理<rt>りょうり</rt></ruby>すればお<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>容器<rt>ようき</rt></ruby>とか、ゴミで<ruby>出<rt>だ</rt></ruby>すこともなくなるんですよね。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <strong><ruby>料理<rt>りょうり</rt></ruby>するなら、<ruby>野菜<rt>やさい</rt></ruby>もよく<ruby>洗<rt>あら</rt></ruby>って、<ruby>皮<rt>かわ</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>料理<rt>りょうり</rt></ruby>すればもっとゴミ<ruby>少<rt>すく</rt></ruby>なくできますよ。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> なるほど。<ruby>僕<rt>ぼく</rt></ruby>も<ruby>頑張<rt>がんば</rt></ruby>ってみよう。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>二<rt>ふた</rt></ruby><ruby>人<rt>り</rt></ruby>は<ruby>何<rt>なに</rt></ruby>について<ruby>話<rt>はな</rt></ruby>していますか。<br>1. ゴミを<ruby>減<rt>へ</rt></ruby>らす<ruby>工夫<rt>くふう</rt></ruby><br>2. ゴミの<ruby>種類<rt>しゅるい</rt></ruby><ruby>多<rt>おお</rt></ruby>さ<br>3. ゴミを<ruby>出<rt>だ</rt></ruby>すときのルール<br>4. ゴミのリサイクル<ruby>方法<rt>ほうほう</rt></ruby></p>",
+      "scriptVi": "Nam: Chào buổi sáng chị Yamada. Ơ kìa? Chị Yamada mang ít rác đi vứt ghê nhỉ. Em thì nào là hộp cơm tiện lợi, túi đựng bánh mì, tích lại cái là đầy ngay.\nNữ: Trước đây tôi cũng hay mua nước uống ngoài nên rác chai nhựa với vỏ lon nhiều lắm. Nhưng mà từ khi không mua ngoài nữa mà tự nấu trà mang theo thì lượng rác giảm hẳn đấy anh.\nNam: À, nếu em cũng tự nấu ăn thì mấy cái hộp đựng cơm hộp các thứ cũng chẳng còn để mà vứt đi nữa chị nhỉ.\nNữ: Nếu anh tự nấu ăn, rau củ rửa sạch rồi nấu luôn cả vỏ thì lượng rác còn giảm được nhiều hơn nữa đấy.\nNam: Ra là vậy. Để em cũng cố gắng thử xem sao.\nCâu hỏi: Hai người đang nói về điều gì?\n1. Các mẹo để giảm lượng rác thải\n2. Sự đa dạng của các loại rác\n3. Quy tắc khi mang rác đi đổ\n4. Phương pháp tái chế rác thải"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "choukai-n3-nghe_traloi-04",
+  "level": "N3",
+  "category": "nghe_traloi",
+  "categoryName": "Nghe trả lời (課題理解)",
+  "lessonNumber": 4,
+  "title": "Bài 4: Luyện nghe hiểu trả lời (課題理解 第4回)",
+  "description": "Dạng bài nghe hiểu yêu cầu hành động và nắm bắt nguyên nhân, mục đích (課題理解): Lắng nghe câu hỏi, phân tích lý do, mục đích và lựa chọn đáp án chính xác nhất.",
+  "questions": [
+    {
+      "id": 19,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai4/19.mp3",
+      "question": "1番：<ruby>大学<rt>だいがく</rt></ruby>の<ruby>事務所<rt>じむしょ</rt></ruby>で<ruby>事務所<rt>じむしょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>学生<rt>がくせい</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>事務所<rt>じむしょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこの<ruby>学生<rt>がくせい</rt></ruby>のことでどんなことを<ruby>心配<rt>しんぱい</rt></ruby>していますか。",
+      "questionVi": "Tại văn phòng trường đại học, một nhân viên văn phòng và một sinh viên đang nói chuyện. Nhân viên văn phòng lo lắng điều gì về bạn sinh viên này?",
+      "options": [
+        "レポートがよくできていなかったこと",
+        "アルバイトをしすぎていること",
+        "<ruby>奨学金<rt>しょうがくきん</rt></ruby>のおうぼに<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないこと",
+        "<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>がわるそうなこと"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "レポートがよくできていなかったこと",
+          "meaning": "Việc bài báo cáo làm chưa tốt.",
+          "analysis": "Sai: Nhân viên nói rõ nỗi lo không phải là về bài báo cáo ('私の心配はレポートのことじゃなくてね')."
+        },
+        {
+          "option": "アルバイトをしすぎていること",
+          "meaning": "Việc đi làm thêm quá nhiều / quá sức.",
+          "analysis": "ĐÚNG: Nhân viên lo lắng sinh viên đi làm thêm quá nhiều dẫn đến quá bận rộn, đi học muộn, vắng tiết và dễ kiệt sức ('ちょっと忙しすぎるんじゃない？上田さんからはアルバイトのせいだって聞いてるけど... 体を壊したら大変だから、無理しないように')."
+        },
+        {
+          "option": "奨学金のおうぼに間に合わないこと",
+          "meaning": "Việc không kịp nộp hồ sơ xin học bổng.",
+          "analysis": "Sai: Sinh viên đã thi học bổng nhưng bị trượt chứ không phải không kịp hạn nộp."
+        },
+        {
+          "option": "体の調子がわるそうなこと",
+          "meaning": "Việc trông tình trạng sức khỏe hiện tại có vẻ xấu.",
+          "analysis": "Sai: Nhân viên nhắc nhở chung là đừng làm quá sức kẻo hại sức khỏe trong tương lai, còn nguyên nhân cốt lõi lo lắng là do em làm thêm quá nhiều."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「職員：私の心配はレポートのことじゃなくてね。学生：あ、はい。職員：ちょっと忙しすぎるんじゃない？上田さんからはアルバイトのせいだって聞いてるけど。学生：ああ、はい。実はそうなんです。先日の奨学金の試験、落ちてしまいましたので。職員：そう。でも、体を壊したら大変だから、無理しないように。」",
+      "explanation": "Đáp án đúng là 2 (アルバイトをしすぎていること).\n- Nhân viên văn phòng nhận thấy sinh viên gần đây hay đi muộn, vắng mặt trên lớp.\n- Nhân viên giải thích mối lo thực sự của mình là sinh viên quá bận rộn do làm thêm quá nhiều (アルバイトのせい / 忙しすぎる) sau khi thi trượt học bổng, đồng thời dặn dò đừng làm quá sức ảnh hưởng sức khỏe.",
+      "scriptJp": "<p><strong><ruby>職員<rt>しょくいん</rt></ruby>：</strong> <ruby>加藤<rt>かとう</rt></ruby>さん、<ruby>最近<rt>さいきん</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>遅刻<rt>ちこく</rt></ruby>や<ruby>欠席<rt>けっせき</rt></ruby>することがあるみたいだけど。レポートも<ruby>上田<rt>うえだ</rt></ruby>さんに<ruby>出<rt>だ</rt></ruby>してもらったみたいだし。<br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> あ、はい。でも、レポートはしっかり<ruby>自分<rt>じぶん</rt></ruby>で<ruby>書<rt>か</rt></ruby>きました。<br><strong><ruby>職員<rt>しょくいん</rt></ruby>：</strong> <strong><ruby>私<rt>わたし</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>はレポートのことじゃなくてね。</strong><br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> あ、はい。<br><strong><ruby>職員<rt>しょくいん</rt></ruby>：</strong> <strong>ちょっと<ruby>忙<rt>いそが</rt></ruby>しすぎるんじゃない？<ruby>上田<rt>うえだ</rt></ruby>さんからはアルバイトのせいだって<ruby>聞<rt>き</rt></ruby>いてるけど。</strong><br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> ああ、はい。<ruby>実<rt>じつ</rt></ruby>はそうなんです。<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>、<ruby>落<rt>お</rt></ruby>ちてしまいましたので。<br><strong><ruby>職員<rt>しょくいん</rt></ruby>：</strong> そう。でも、<strong><ruby>体<rt>からだ</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>したら<ruby>大変<rt>たいへん</rt></ruby>だから、<ruby>無理<rt>むり</rt></ruby>しないように。</strong><br><strong><ruby>学生<rt>がくせい</rt></ruby>：</strong> <ruby>分<rt>わ</rt></ruby>かりました。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>事務所<rt>じむしょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はこの<ruby>学生<rt>がくせい</rt></ruby>のことでどんなことを<ruby>心配<rt>しんぱい</rt></ruby>していますか。</p>",
+      "scriptVi": "Nhân viên: Kato này, gần đây em có vẻ hay đi học muộn và nghỉ học nhỉ. Báo cáo cũng thấy nhờ bạn Ueda nộp hộ nữa.\nSinh viên: Dạ vâng, nhưng báo cáo là do chính em tự tay viết nghiêm túc đấy ạ.\nNhân viên: Điều tôi lo lắng không phải là chuyện bài báo cáo.\nSinh viên: Dạ vâng.\nNhân viên: Em có đang quá bận rộn không? Tôi nghe Ueda nói là do em đi làm thêm nhiều.\nSinh viên: Dạ vâng, thật ra đúng là như vậy ạ. Do đợt rồi em thi trượt học bổng nên phải đi làm thêm.\nNhân viên: Ra là vậy. Nhưng mà nếu làm kiệt sức tổn hại cơ thể thì khổ lắm, đừng gắng gượng quá nhé.\nSinh viên: Vâng, em hiểu rồi ạ.\nCâu hỏi: Nhân viên văn phòng lo lắng điều gì về bạn sinh viên này?"
+    },
+    {
+      "id": 20,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai4/20.mp3",
+      "question": "2番：テレビでアナウンサーがある<ruby>旅館<rt>りょかん</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しています。この<ruby>旅館<rt>りょかん</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>からの<ruby>客<rt>きゃく</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたのはどうしてだと<ruby>言<rt>い</rt></ruby>っていますか。",
+      "questionVi": "Trên truyền hình, phát thanh viên đang nói về một quán trọ truyền thống (ryokan). Quán trọ này lượng khách nước ngoài tăng lên là vì lý do gì?",
+      "options": [
+        "<ruby>外国<rt>がいこく</rt></ruby><ruby>語<rt>ご</rt></ruby>のパンフレットをおいたから",
+        "ようしきのベッドをへやに<ruby>入<rt>い</rt></ruby>れたから",
+        "<ruby>全部<rt>ぜんぶ</rt></ruby>のへやをたたみにかえたから",
+        "<ruby>日本<rt>にほん</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>の<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めたから"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "外国語のパンフレットをおいたから",
+          "meaning": "Vì đặt tờ rơi bằng tiếng nước ngoài.",
+          "analysis": "Sai: Đây là xu hướng chung ở nhiều điểm du lịch được MC nhắc đến ('外国語のパンフレットを置いている観光地も多いですよね')."
+        },
+        {
+          "option": "ようしきのベッドをへやに入れたから",
+          "meaning": "Vì đổi sang phòng kiểu Tây và kê thêm giường.",
+          "analysis": "Sai: Ryokan này làm ngược lại hoàn toàn so với các nơi khác làm phòng kiểu Tây."
+        },
+        {
+          "option": "全部のへやをたたみにかえたから",
+          "meaning": "Vì đã chuyển đổi toàn bộ phòng sang trải chiếu Tatami kiểu Nhật.",
+          "analysis": "ĐÚNG: Năm ngoái ryokan này đã đổi tất cả các phòng thành phòng trải chiếu Tatami, thu hút rất đông khách nước ngoài muốn trải nghiệm văn hóa truyền thống Nhật Bản ('こちらでは去年、すべての部屋を畳にしました。すると、日本文化に興味を持つ外国の方にお客さんが増加しました')."
+        },
+        {
+          "option": "日本料理の教室を始めたから",
+          "meaning": "Vì đã mở lớp dạy nấu món ăn Nhật.",
+          "analysis": "Sai: Lớp học nấu ăn Nhật Bản là kế hoạch dự định tổ chức trong thời gian tới chứ chưa diễn ra ('今後は日本料理の教室も開かれるそうです')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「アナウンサー：最近では外国の方が泊まりやすいよう、部屋を洋式にしてベッドを置くところがある一方、こちらでは去年、すべての部屋を畳にしました。すると、日本文化に興味を持つ外国の方が多く、お客さんが増加しました。」",
+      "explanation": "Đáp án đúng là 3 (全部のへやをたたみにかえたから).\n- Trong khi nhiều nơi đổi sang phòng kiểu phương Tây để khách dễ ở, quán trọ 'Akai Ryokan' đã đổi toàn bộ các phòng sang trải chiếu Tatami truyền thống (すべての部屋を畳にしました).\n- Nhờ vậy quán thu hút nhiều khách nước ngoài yêu thích văn hóa Nhật Bản và lượng khách tăng lên đáng kể.",
+      "scriptJp": "<p><strong>アナウンサー：</strong> <ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>では<ruby>海外<rt>かいがい</rt></ruby>からの<ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>外国<rt>がいこく</rt></ruby><ruby>語<rt>ご</rt></ruby>のパンフレットを<ruby>置<rt>お</rt></ruby>いている<ruby>観光<rt>かんこう</rt></ruby><ruby>地<rt>ち</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いですよね。<ruby>今日<rt>きょう</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>の<ruby>方<rt>かた</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>の「<ruby>赤<rt>あか</rt></ruby>い<ruby>旅館<rt>りょかん</rt></ruby>」に<ruby>来<rt>き</rt></ruby>ています。<ruby>最近<rt>さいきん</rt></ruby>では<ruby>外国<rt>がいこく</rt></ruby>の<ruby>方<rt>かた</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まりやすいよう、<ruby>部屋<rt>へや</rt></ruby>を<ruby>洋式<rt>ようしき</rt></ruby>にしてベッドを<ruby>置<rt>お</rt></ruby>くところがある<ruby>一方<rt>いっぽう</rt></ruby>、<strong>こちらでは<ruby>去年<rt>きょねん</rt></ruby>、すべての<ruby>部屋<rt>へや</rt></ruby>を<ruby>畳<rt>たたみ</rt></ruby>にしました。すると、<ruby>日本<rt>にほん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>外国<rt>がいこく</rt></ruby>の<ruby>方<rt>かた</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>増加<rt>ぞうか</rt></ruby>しました。</strong><ruby>今後<rt>こんご</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>の<ruby>教室<rt>きょうしつ</rt></ruby>も<ruby>開<rt>ひら</rt></ruby>かれるそうです。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> この<ruby>旅館<rt>りょかん</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>からの<ruby>客<rt>きゃく</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたのはどうしてだと<ruby>言<rt>い</rt></ruby>っていますか。</p>",
+      "scriptVi": "Phát thanh viên: Hiện nay tại Nhật Bản lượng khách du lịch nước ngoài đang tăng cao. Nhiều điểm du lịch đã đặt sẵn các tờ rơi bằng tiếng nước ngoài. Hôm nay chúng tôi có mặt tại 'Akai Ryokan', một quán trọ rất được du khách nước ngoài ưa chuộng. Gần đây, trong khi có những nơi cải tạo phòng theo phong cách phương Tây và kê thêm giường để khách nước ngoài dễ ở, thì tại đây năm ngoái đã đổi toàn bộ các phòng sang trải chiếu Tatami. Kết quả là có rất nhiều du khách nước ngoài yêu thích văn hóa Nhật Bản đã đến nghỉ ngơi và lượng khách đã tăng lên rõ rệt. Trong thời gian tới, nghe nói quán trọ còn mở thêm các lớp học nấu món ăn Nhật nữa.\nCâu hỏi: Quán trọ này lượng khách nước ngoài tăng lên là vì lý do gì?"
+    },
+    {
+      "id": 21,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai4/21.mp3",
+      "question": "3番：ラジオで<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>生<rt>なま</rt></ruby>ゴミの<ruby>匂<rt>にお</rt></ruby>いを<ruby>防<rt>ふせ</rt></ruby>ぐためにどうしていますか。",
+      "questionVi": "Trên đài phát thanh, một người phụ nữ đang nói chuyện. Người phụ nữ làm cách nào để khử/ngăn mùi rác thực phẩm tươi?",
+      "options": [
+        "ごみをかわかす",
+        "ごみをこおらせる",
+        "ごみにすをかける",
+        "ごみをにわにうめる"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "ごみをかわかす",
+          "meaning": "Làm khô rác thực phẩm (bọc báo phơi ngoài ban công).",
+          "analysis": "ĐÚNG: Người phụ nữ gói rác vào giấy báo và đem ra ban công phơi khô để ngăn mùi ('新聞紙に包んでベランダで乾かすようにしています')."
+        },
+        {
+          "option": "ごみをこおらせる",
+          "meaning": "Đóng băng rác trong tủ đông.",
+          "analysis": "Sai: Người phụ nữ ngại để rác chung với thực phẩm trong ngăn đá ('生ゴミを食べ物と一緒に冷凍庫に入れるのはちょっと……と思ってしまうので')."
+        },
+        {
+          "option": "ごみにすをかける",
+          "meaning": "Rưới giấm ăn lên rác.",
+          "analysis": "Sai: Người phụ nữ không thích mùi chua của giấm ('私は酢の酸っぱい匂いが苦手だし')."
+        },
+        {
+          "option": "ごみをにわにうめる",
+          "meaning": "Chôn rác trong sân vườn.",
+          "analysis": "Sai: Người phụ nữ sống ở căn hộ chung cư nên không có sân vườn để chôn rác ('私のようにアパートに住んでると、それは無理ですからね')."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「女：私は酢の酸っぱい匂いが苦手だし、生ゴミを食べ物と一緒に冷凍庫に入れるのはちょっと……と思ってしまうので、新聞紙に包んでベランダで乾かすようにしています。」",
+      "explanation": "Đáp án đúng là 1 (ごみをかわかす).\n- Người phụ nữ phân tích các phương pháp: không thích mùi giấm chua, ngại để rác vào ngăn đá cùng đồ ăn, sống ở chung cư không có sân vườn để chôn rác.\n- Do đó phương pháp cô lựa chọn thực hiện là gói rác vào báo và phơi khô ngoài ban công (新聞紙に包んでベランダで乾かす).",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>料理<rt>りょうり</rt></ruby>の<ruby>時<rt>とき</rt></ruby>や<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>りで<ruby>出<rt>で</rt></ruby>る<ruby>生<rt>なま</rt></ruby>ゴミ。<ruby>夏<rt>なつ</rt></ruby>は<ruby>匂<rt>にお</rt></ruby>いが<ruby>気<rt>き</rt></ruby>になりますね。<ruby>匂<rt>にお</rt></ruby>いを<ruby>防<rt>ふせ</rt></ruby>ぐには、<ruby>生<rt>なま</rt></ruby>ゴミをよく<ruby>乾<rt>かわ</rt></ruby>かす、<ruby>凍<rt>こお</rt></ruby>らせる、<ruby>調味<rt>ちょうみ</rt></ruby><ruby>料<rt>りょう</rt></ruby>の<ruby>酢<rt>す</rt></ruby>をかけて<ruby>匂<rt>にお</rt></ruby>いを<ruby>消<rt>け</rt></ruby>すなどの<ruby>方法<rt>ほうほう</rt></ruby>があります。<strong><ruby>私<rt>わたし</rt></ruby>は<ruby>酢<rt>す</rt></ruby>の<ruby>酸<rt>す</rt></ruby>っぱい<ruby>匂<rt>にお</rt></ruby>いが<ruby>苦手<rt>にがて</rt></ruby>だし、<ruby>生<rt>なま</rt></ruby>ゴミを<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>冷凍<rt>れいとう</rt></ruby><ruby>庫<rt>こ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるのはちょっと……と<ruby>思<rt>おも</rt></ruby>ってしまうので、<ruby>新聞<rt>しんぶん</rt></ruby><ruby>紙<rt>し</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>んでベランダで<ruby>乾<rt>かわ</rt></ruby>かすようにしています。</strong><ruby>家<rt>いえ</rt></ruby>に<ruby>庭<rt>にわ</rt></ruby>があれば、<ruby>庭<rt>にわ</rt></ruby>に<ruby>埋<rt>う</rt></ruby>めてしまうっていうのが<ruby>簡単<rt>かんたん</rt></ruby>だし、リサイクルにもなっていいんですが、<ruby>私<rt>わたし</rt></ruby>のようにアパートに<ruby>住<rt>す</rt></ruby>んでると、それは<ruby>無理<rt>むり</rt></ruby>ですからね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>生<rt>なま</rt></ruby>ゴミの<ruby>匂<rt>にお</rt></ruby>いを<ruby>防<rt>ふせ</rt></ruby>ぐためにどうしていますか。</p>",
+      "scriptVi": "Người phụ nữ: Rác hữu cơ sinh hoạt phát sinh khi nấu ăn hoặc từ thức ăn thừa vào mùa hè rất dễ bốc mùi khó chịu. Để khử mùi hôi, có các cách như phơi thật khô rác, làm đông đá trong tủ đông, hoặc rưới giấm ăn lên để khử mùi. Với tôi thì tôi không chịu được mùi chua của giấm, còn việc bỏ rác vào chung tủ đông với đồ ăn thì thấy hơi ngại, vì vậy tôi thường gói rác vào giấy báo rồi đem ra ban công phơi khô. Nếu nhà có sân vườn thì chôn rác xuống đất vừa nhanh vừa tái chế tốt, nhưng với người ở chung cư như tôi thì không thể làm cách đó được.\nCâu hỏi: Người phụ nữ làm cách nào để khử/ngăn mùi rác thực phẩm tươi?"
+    },
+    {
+      "id": 22,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai4/22.mp3",
+      "question": "4番：ラジオでアナウンサーと<ruby>作家<rt>さっか</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>最近<rt>さいきん</rt></ruby><ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>っている<ruby>一番<rt>いちばん</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+      "questionVi": "Trên đài phát thanh, phát thanh viên và một nam nhà văn đang nói chuyện. Mục đích chính gần đây khi leo núi của người đàn ông này là gì?",
+      "options": [
+        "<ruby>花<rt>はな</rt></ruby>をかんさつするため",
+        "<ruby>小説<rt>しょうせつ</rt></ruby>のアイデアを<ruby>考<rt>かんが</rt></ruby>えるため",
+        "<ruby>息子<rt>むすこ</rt></ruby>にじしんをつけさせるため",
+        "<ruby>家族<rt>かぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>をふやすため"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "花をかんさつするため",
+          "meaning": "Để quan sát hoa cỏ trên núi.",
+          "analysis": "Sai: Đây là sở thích trước đây khi ông leo núi một mình ('以前から1人で山にはよく登っていたんですよ。花を観察したりしながら')."
+        },
+        {
+          "option": "小説のアイデアを考えるため",
+          "meaning": "Để tìm cảm hứng / ý tưởng viết tiểu thuyết.",
+          "analysis": "Sai: Đây cũng là mục đích trước đây khi ông đi một mình ('自然の中にいると、小説のアイデアがどんどん湧いてきましてね... 私が山に登る目的は変わりましたが')."
+        },
+        {
+          "option": "息子にじしんをつけさせるため",
+          "meaning": "Để giúp con trai xây dựng sự tự tin qua trải nghiệm leo núi.",
+          "analysis": "ĐÚNG: Khoảng nửa năm trước, ông nghe nói trải nghiệm kiên trì leo núi tới cùng rất tốt cho việc giáo dục con và muốn tạo cơ hội cho con trai có thêm tự tin nên đã rủ con cùng leo núi ('最後まで諦めないで山に登るという経験を繰り返すことが、子供の教育にいい... 前から何か自信になるような経験を与えてやりたいと思っていたので')."
+        },
+        {
+          "option": "家族との会話をふやすため",
+          "meaning": "Để tăng tương tác trò chuyện với gia đình.",
+          "analysis": "Sai: Đây là hiệu quả vui mừng đạt được thêm sau các chuyến đi chứ không phải mục đích chính ban đầu ('以前より家族の会話も増えたような気がしますよ')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「作家：でも、半年くらい前に、最後まで諦めないで山に登るという経験を繰り返すことが、子供の教育にいいということを聞きましてね。それで、息子を誘ってみたんです。前から何か自信になるような経験を与えてやりたいと思っていたので。今では山に行く時はいつも一緒です。私が山に登る目的は変わりましたが……」",
+      "explanation": "Đáp án đúng là 3 (息子にじしんをつけさせるため).\n- Trước đây: Nhà văn leo núi một mình để ngắm hoa và tìm ý tưởng viết tiểu thuyết.\n- Gần đây (từ nửa năm trước): Ông chuyển mục đích leo núi sang việc rèn luyện sự tự tin cho cậu con trai bằng trải nghiệm kiên trì leo núi tới cùng (自信になるような経験を与えてやりたい).\n- Do đó mục đích chính gần đây là giúp con trai có thêm sự tự tin.",
+      "scriptJp": "<p><strong>アナウンサー：</strong> <ruby>皆<rt>みな</rt></ruby>さんこんにちは。<ruby>今日<rt>きょう</rt></ruby>お<ruby>話<rt>はな</rt></ruby>ししてくださるのは、<ruby>作家<rt>さっか</rt></ruby>の<ruby>山本<rt>やまもと</rt></ruby><ruby>大介<rt>だいすけ</rt></ruby>さんです。<ruby>早速<rt>さっそく</rt></ruby>ですが<ruby>山本<rt>やまもと</rt></ruby>さん、<ruby>休日<rt>きゅうじつ</rt></ruby>はどのように<ruby>過<rt>す</rt></ruby>ごしていらっしゃるんですか？<br><strong><ruby>作家<rt>さっか</rt></ruby>：</strong> <ruby>最近<rt>さいきん</rt></ruby>は、よく<ruby>息子<rt>むすこ</rt></ruby>と<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>りますね。<br><strong>アナウンサー：</strong> <ruby>山<rt>やま</rt></ruby>に？<br><strong><ruby>作家<rt>さっか</rt></ruby>：</strong> ええ。<ruby>以前<rt>いぜん</rt></ruby>から1<ruby>人<rt>り</rt></ruby>で<ruby>山<rt>やま</rt></ruby>にはよく<ruby>登<rt>のぼ</rt></ruby>っていたんですよ。<ruby>花<rt>はな</rt></ruby>を<ruby>観察<rt>かんさつ</rt></ruby>したりしながら、1<ruby>人<rt>り</rt></ruby>で<ruby>山道<rt>やまみち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていると<ruby>飽<rt>あ</rt></ruby>きなくて。<ruby>自然<rt>しぜん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にいると、<ruby>小説<rt>しょうせつ</rt></ruby>のアイデアがどんどん<ruby>湧<rt>わ</rt></ruby>いてきましてね。<br><strong>アナウンサー：</strong> なるほど。<br><strong><ruby>作家<rt>さっか</rt></ruby>：</strong> でも、<ruby>半年<rt>はんとし</rt></ruby>くらい<ruby>前<rt>まえ</rt></ruby>に、<strong><ruby>最後<rt>さいご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めないで<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るという<ruby>経験<rt>けいけん</rt></ruby>を<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>すことが、<ruby>子供<rt>こども</rt></ruby>の<ruby>教育<rt>きょういく</rt></ruby>にいいということを<ruby>聞<rt>き</rt></ruby>きましてね。それで、<ruby>息子<rt>むすこ</rt></ruby>を<ruby>誘<rt>さそ</rt></ruby>ってみたんです。<ruby>前<rt>まえ</rt></ruby>から<ruby>何<rt>なに</rt></ruby>か<ruby>自信<rt>じしん</rt></ruby>になるような<ruby>経験<rt>けいけん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてやりたいと<ruby>思<rt>おも</rt></ruby>っていたので。</strong><ruby>今<rt>いま</rt></ruby>では<ruby>山<rt>やま</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>時<rt>とき</rt></ruby>はいつも<ruby>一緒<rt>いっしょ</rt></ruby>です。<strong><ruby>私<rt>わたし</rt></ruby>が<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>目的<rt>もくてき</rt></ruby>は<ruby>変<rt>か</rt></ruby>わりましたが</strong>、やっぱり<ruby>山<rt>やま</rt></ruby>はいいなと<ruby>思<rt>おも</rt></ruby>います。うちに<ruby>帰<rt>かえ</rt></ruby>って<ruby>山<rt>やま</rt></ruby>の<ruby>話<rt>はな</rt></ruby>をしていると、<ruby>妻<rt>つま</rt></ruby>も<ruby>入<rt>はい</rt></ruby>ってきてね。<ruby>以前<rt>いぜん</rt></ruby>より<ruby>家族<rt>かぞく</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えたような<ruby>気<rt>き</rt></ruby>がしますよ。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>最近<rt>さいきん</rt></ruby><ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>っている<ruby>一番<rt>いちばん</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。</p>",
+      "scriptVi": "Phát thanh viên: Xin chào quý vị và các bạn. Khách mời trò chuyện với chúng ta hôm nay là nhà văn Yamamoto Daisuke. Không để quý vị chờ lâu, thưa anh Yamamoto, ngày nghỉ anh thường trải qua như thế nào ạ?\nNhà văn: Dạo gần đây tôi thường cùng con trai đi leo núi.\nPhát thanh viên: Đi leo núi ạ?\nNhà văn: Vâng. Trước đây tôi cũng hay leo núi một mình. Vừa đi vừa ngắm hoa cỏ, đi bộ trên đường mòn một mình không hề biết chán. Ở giữa thiên nhiên, ý tưởng viết tiểu thuyết cứ tuôn trào dồi dào.\nPhát thanh viên: Ra là vậy.\nNhà văn: Nhưng khoảng nửa năm trước, tôi nghe nói trải nghiệm kiên trì leo núi tới cùng mà không bỏ cuộc rất tốt cho việc giáo dục con trẻ. Thế là tôi rủ con trai cùng đi. Bởi từ trước tôi đã luôn muốn cho cháu trải nghiệm điều gì đó giúp cháu xây dựng sự tự tin. Giờ đây hễ đi leo núi là hai bố con lại đi cùng nhau. Mục đích leo núi của tôi giờ đã thay đổi, nhưng tôi vẫn thấy leo núi thật tuyệt vời. Về nhà kể chuyện leo núi thì vợ tôi cũng tham gia cùng, tôi cảm thấy không khí trò chuyện gia đình cũng vui vẻ và nhiều hơn trước kia.\nCâu hỏi: Mục đích chính gần đây khi leo núi của người đàn ông này là gì?"
+    },
+    {
+      "id": 23,
+      "subId": "5番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai4/23.mp3",
+      "question": "5番：<ruby>電話<rt>でんわ</rt></ruby>で<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。2<ruby>人<rt>ふたり</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>をどうしますか。",
+      "questionVi": "Qua điện thoại, hai vợ chồng đang nói chuyện. Hai người sẽ giải quyết bữa tối hôm nay như thế nào?",
+      "options": [
+        "レストランに<ruby>行<rt>い</rt></ruby>ってピザを<ruby>食<rt>た</rt></ruby>べる",
+        "<ruby>家<rt>いえ</rt></ruby>でピザを<ruby>作<rt>つく</rt></ruby>って<ruby>食<rt>た</rt></ruby>べる",
+        "ピザ<ruby>屋<rt>や</rt></ruby>のはいたつのピザを<ruby>食<rt>た</rt></ruby>べる",
+        "レストランの<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りのピザを<ruby>食<rt>た</rt></ruby>べる"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "レストランに行ってピザを食べる",
+          "meaning": "Đến ăn trực tiếp tại nhà hàng.",
+          "analysis": "Sai: Người vợ từ chối vì hôm nay thứ Sáu quán đông và cô muốn được nghỉ ngơi thoải mái ở nhà ('金曜日だし混んでるんじゃない？それに、今日はうちでゆっくりしたい気分')."
+        },
+        {
+          "option": "家でピザを作って食べる",
+          "meaning": "Tự làm pizza ăn tại nhà.",
+          "analysis": "Sai: Người vợ thấy làm pizza khó và phải đi mua nguyên liệu phiền phức nên gạt bỏ phương án này."
+        },
+        {
+          "option": "ピザ屋のはいたつのピザを食べる",
+          "meaning": "Gọi tiệm pizza giao hàng tận nơi.",
+          "analysis": "Sai: Ban đầu người vợ định gọi giao hàng, nhưng sau đó nhớ ra nhà hàng mới có bán mang về nên đổi ý."
+        },
+        {
+          "option": "レストランの持ち帰りのピザを食べる",
+          "meaning": "Mua pizza mang về (take-out) từ nhà hàng mới mở để ăn tại nhà.",
+          "analysis": "ĐÚNG: Người vợ đề xuất đặt pizza mang về ở nhà hàng mới rồi nhờ chồng ghé lấy trên đường đi làm về, ăn thử ở nhà trước ('確かあの新しいレストラン、持ち帰りもできるはず。帰りに取りに寄ってくれるなら... まずはうちで食べてみて... 男：うん、わかった')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「女：確かあの新しいレストラン、持ち帰りもできるはず。帰りに取りに寄ってくれるなら、私注文しとくけど、どう？男：うーん、取りに行くのはいいんだけど、せっかく新しくできたレストランだし、それなら店で食べない？女：まずはうちで食べてみて、美味しかったら次、食べに行こうよ。男：うん、わかった。」",
+      "explanation": "Đáp án đúng là 4 (レストランの持ち帰りのピザを食べる).\n- Chồng rủ ra tiệm ăn -> Vợ muốn ở nhà ăn pizza cho thoải mái.\n- Chồng bảo tự làm pizza -> Vợ ngại khó và phiền.\n- Cuối cùng vợ đề xuất đặt món mang về (持ち帰り) từ nhà hàng pizza mới mở, chồng tiện đường đi làm về ghé lấy về ăn tại nhà -> Cả hai đồng ý phương án này.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> もしもし、<ruby>今日<rt>きょう</rt></ruby><ruby>仕事<rt>しごと</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わるから、<ruby>外<rt>そと</rt></ruby>で<ruby>夕飯<rt>ゆうはん</rt></ruby><ruby>食<rt>た</rt></ruby>べない？<ruby>近所<rt>きんじょ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しくできたレストラン、ピザが<ruby>美味<rt>おい</rt></ruby>しいらしいって<ruby>言<rt>い</rt></ruby>ってたろ？<ruby>行<rt>い</rt></ruby>ってみようよ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うーん、ピザはいいんだけど、<ruby>金曜日<rt>きんようび</rt></ruby>だし<ruby>混<rt>こ</rt></ruby>んでるんじゃない？それに、<ruby>今日<rt>きょう</rt></ruby>はうちでゆっくりしたい<ruby>気分<rt>きぶん</rt></ruby>。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> そっか。なんかピザが<ruby>食<rt>た</rt></ruby>べたくなっちゃったから、うちで<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>ろうよ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> ピザって<ruby>作<rt>つく</rt></ruby>るの<ruby>難<rt>むずか</rt></ruby>しくない？<ruby>材料<rt>ざいりょう</rt></ruby>も<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>かなきゃいけないし。<ruby>面倒<rt>めんどう</rt></ruby>くさいから、どこかピザ<ruby>屋<rt>や</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>して<ruby>配達<rt>はいたつ</rt></ruby>してもらおうよ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> わかった。じゃあ<ruby>注文<rt>ちゅうもん</rt></ruby>しといてね。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <strong>あ、ちょっと<ruby>待<rt>ま</rt></ruby>って。<ruby>確<rt>たし</rt></ruby>かあの<ruby>新<rt>あたら</rt></ruby>しいレストラン、<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りもできるはず。<ruby>帰<rt>かえ</rt></ruby>りに<ruby>取<rt>と</rt></ruby>りに<ruby>寄<rt>よ</rt></ruby>ってくれるなら、<ruby>私<rt>わたし</rt></ruby><ruby>注文<rt>ちゅうもん</rt></ruby>しとくけど、どう？</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うーん、<ruby>取<rt>と</rt></ruby>りに<ruby>行<rt>い</rt></ruby>くのはいいんだけど、せっかく<ruby>新<rt>あたら</rt></ruby>しくできたレストランだし、それなら<ruby>店<rt>みせ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べない？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <strong>まずはうちで<ruby>食<rt>た</rt></ruby>べてみて、<ruby>美味<rt>おい</rt></ruby>しかったら<ruby>次<rt>つぎ</rt></ruby>、<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>こうよ。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong>うん、わかった。</strong><br><strong><ruby>問<rt>と</rt></ruby>い：</strong> 2<ruby>人<rt>ふたり</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>をどうしますか。</p>",
+      "scriptVi": "Chồng: Alo em à, hôm nay anh xong việc sớm, hay tụi mình đi ăn tối ở ngoài nhé? Nhà hàng mới mở gần nhà mình nghe nói pizza ngon lắm em từng bảo đúng không? Đi thử đi em.\nVợ: Ưm, pizza thì được đấy nhưng hôm nay là thứ Sáu chắc đông lắm. Với lại hôm nay em chỉ muốn ở nhà nghỉ ngơi thoải mái thôi.\nChồng: Thế à. Tự nhiên anh lại thèm pizza quá, hay tụi mình cùng làm ở nhà ăn đi.\nVợ: Pizza tự làm khó lắm anh ơi, lại phải đi mua nguyên liệu nữa. Phiền lắm, hay là đặt tiệm pizza nào đó ship về đi anh.\nChồng: Ừ thế cũng được, vậy em đặt nhé.\nVợ: À đợi chút đã anh. Hình như nhà hàng mới mở đó có cho mua mang về đấy. Nếu trên đường về anh ghé qua lấy được thì để em gọi điện đặt trước, anh thấy sao?\nChồng: Ừm, ghé lấy thì được thôi, nhưng mất công nhà hàng mới mở, hay là vào tiệm ăn luôn đi em?\nVợ: Cứ ăn thử ở nhà trước đã anh, nếu ngon thì lần sau tụi mình ra tiệm ăn sau.\nChồng: Ừ, thế cũng được.\nCâu hỏi: Hai người sẽ giải quyết bữa tối hôm nay như thế nào?"
+    },
+    {
+      "id": 24,
+      "subId": "6番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai4/24.mp3",
+      "question": "6番：<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>女<rt>おんな</rt></ruby>の<ruby>社員<rt>しゃいん</rt></ruby>と<ruby>課長<rt>かちょう</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>課長<rt>かちょう</rt></ruby>はどうして<ruby>朝日<rt>あさひ</rt></ruby><ruby>電器<rt>でんき</rt></ruby>のプリンターを<ruby>買<rt>か</rt></ruby>うことにしましたか。",
+      "questionVi": "Tại công ty, một nữ nhân viên và trưởng phòng đang nói chuyện. Tại sao trưởng phòng lại quyết định chọn mua máy in của hãng Điện khí Asahi?",
+      "options": [
+        "<ruby>小<rt>ちい</rt></ruby>さくてどこにでもおけるから",
+        "きれいにいんさつできるから",
+        "インクだいが<ruby>安<rt>やす</rt></ruby>いから",
+        "<ruby>紙<rt>かみ</rt></ruby>を<ruby>一度<rt>いちど</rt></ruby>にたくさん<ruby>入<rt>い</rt></ruby>れておけるから"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "小さくてどこにでもおけるから",
+          "meaning": "Vì kích thước nhỏ gọn, đặt ở vị trí nào cũng vừa.",
+          "analysis": "Sai: Đây là ưu điểm của máy in Kawada chứ không phải máy Asahi ('川田のは、前のプリンターより小さいので、ほかの場所にも置ける')."
+        },
+        {
+          "option": "きれいにいんさつできるから",
+          "meaning": "Vì in ấn đẹp, chất lượng sắc nét.",
+          "analysis": "ĐÚNG: Trưởng phòng quyết định chọn Asahi vì máy in ấn rất đẹp dù tiền mực có đắt hơn đôi chút ('インク代が少しくらい高くても、印刷が綺麗なのにしよう。朝日の方')."
+        },
+        {
+          "option": "インクだいが安いから",
+          "meaning": "Vì chi phí mực in rẻ.",
+          "analysis": "Sai: Máy in Asahi tiền mực in đắt hơn máy thông thường ('その代わりインク代は少し高くなりそうですが')."
+        },
+        {
+          "option": "紙を一度にたくさん入れておけるから",
+          "meaning": "Vì có thể nạp được nhiều giấy cùng lúc.",
+          "analysis": "Sai: Cả hai máy đều có khay giấy tương đương máy cũ, không nạp được nhiều hơn ('どちらも前のプリンターと同じくらいです')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「課長：インク代が少しくらい高くても、印刷が綺麗なのにしよう。朝日の方。...じゃあ、朝日の頼むよ。女：はい。」",
+      "explanation": "Đáp án đúng là 2 (きれいにいんさつできるから).\n- Giữa 2 hãng: Kawada (nhỏ gọn) và Asahi (to hơn 1 chút, mực đắt hơn nhưng in rất đẹp).\n- Trưởng phòng kết luận: 'Dù tiền mực có hơi đắt một chút nhưng hãy chọn loại in đẹp. Lấy loại của hãng Asahi nhé'.",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>課長<rt>かちょう</rt></ruby>、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しく<ruby>買<rt>か</rt></ruby>うプリンターのことなんですが。<br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> うん。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>川田<rt>かわだ</rt></ruby><ruby>電器<rt>でんき</rt></ruby>と<ruby>朝日<rt>あさひ</rt></ruby><ruby>電器<rt>でんき</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>にいいのが1<ruby>台<rt>だい</rt></ruby>ずつありましたので、どちらか<ruby>選<rt>えら</rt></ruby>んでください。<br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> うん。どっちも<ruby>前<rt>まえ</rt></ruby>のプリンター<ruby>置<rt>お</rt></ruby>いてたとこに<ruby>置<rt>お</rt></ruby>けるサイズなんだよね？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい、どちらも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>川田<rt>かわだ</rt></ruby>のは、<ruby>前<rt>まえ</rt></ruby>のプリンターより<ruby>小<rt>ちい</rt></ruby>さいので、ほかの<ruby>場所<rt>ばしょ</rt></ruby>にも<ruby>置<rt>お</rt></ruby>けると<ruby>思<rt>おも</rt></ruby>います。<ruby>朝日<rt>あさひ</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>は、<ruby>川田<rt>かわだ</rt></ruby>のよりひと<ruby>回<rt>まわ</rt></ruby>り<ruby>大<rt>おお</rt></ruby>きいんですけど、<strong><ruby>綺麗<rt>きれい</rt></ruby>に<ruby>印刷<rt>いんさつ</rt></ruby>できるのが<ruby>特徴<rt>とくちょう</rt></ruby>です。</strong>その<ruby>代<rt>か</rt></ruby>わりインク<ruby>代<rt>だい</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>くなりそうですが。<br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> <strong>インク<ruby>代<rt>だい</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しくらい<ruby>高<rt>たか</rt></ruby>くても、<ruby>印刷<rt>いんさつ</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>なのにしよう。<ruby>朝日<rt>あさひ</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>。</strong>あ、1<ruby>度<rt>ど</rt></ruby>に<ruby>入<rt>い</rt></ruby>れておける<ruby>紙<rt>かみ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>はどうなの？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> どちらも<ruby>前<rt>まえ</rt></ruby>のプリンターと<ruby>同<rt>おな</rt></ruby>じくらいです。<br><strong><ruby>課長<rt>かちょう</rt></ruby>：</strong> じゃあ、あまりたくさん<ruby>入<rt>はい</rt></ruby>らないんだね。<ruby>もっと<rt>もっと</rt></ruby><ruby>入<rt>はい</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>が<ruby>実用的<rt>じつようてき</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ってたけど、そういうのはサイズも<ruby>大<rt>おお</rt></ruby>きくなっちゃうんだろうな。<strong>じゃあ、<ruby>朝日<rt>あさひ</rt></ruby>のを<ruby>頼<rt>たの</rt></ruby>むよ。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> はい。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>課長<rt>かちょう</rt></ruby>はどうして<ruby>朝日<rt>あさひ</rt></ruby><ruby>電器<rt>でんき</rt></ruby>のプリンターを<ruby>買<rt>か</rt></ruby>うことにしましたか。</p>",
+      "scriptVi": "Nữ: Trưởng phòng, về chiếc máy in mới định mua cho phòng kinh doanh ạ.\nTrưởng phòng: Ừ.\nNữ: Có 2 mẫu rất tốt của hãng Điện khí Kawada và Điện khí Asahi, nhờ trưởng phòng chọn giúp 1 chiếc ạ.\nTrưởng phòng: Ừ. Cả 2 máy kích thước đều đặt vừa chỗ kê máy in cũ đúng không cô?\nNữ: Dạ vâng, cả hai đều vừa ạ. Mẫu của Kawada nhỏ hơn máy cũ nên có thể kê chỗ khác nữa. Còn mẫu của Asahi thì to hơn của Kawada một chút, nhưng có ưu điểm nổi bật là in rất đẹp và sắc nét ạ. Bù lại thì tiền mực in sẽ hơi đắt hơn một chút.\nTrưởng phòng: Dù tiền mực có hơi đắt một chút thì mình vẫn nên chọn loại in đẹp. Lấy mẫu của Asahi đi nhé. À, lượng giấy nạp một lần thì thế nào cô?\nNữ: Cả 2 mẫu đều tương đương máy cũ thôi ạ.\nTrưởng phòng: Vậy là không nạp được nhiều giấy lắm nhỉ. Tôi nghĩ nạp được nhiều giấy hơn thì tiện hơn, nhưng loại đó chắc kích thước máy cũng to lên. Vậy cô đặt mua mẫu của Asahi giúp tôi nhé.\nNữ: Vâng ạ.\nCâu hỏi: Tại sao trưởng phòng lại quyết định chọn mua máy in của hãng Điện khí Asahi?"
+    }
+  ]
+}

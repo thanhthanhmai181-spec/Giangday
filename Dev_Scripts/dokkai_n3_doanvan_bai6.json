@@ -1,0 +1,62 @@
+{
+  "id": "dokkai-n3-doanvan-06",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 6,
+  "title": "美術館のパスポートカード (Thẻ Passport Bảo tàng Mỹ thuật)",
+  "timeLimit": 180,
+  "passage": "<p><ruby>美術館<rt>びじゅつかん</rt></ruby>のチケット<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>に、この<ruby>案内<rt>あんない</rt></ruby>がはってある。</p><p><ruby>山森<rt>やまもり</rt></ruby><ruby>市<rt>し</rt></ruby><ruby>美術館<rt>びじゅつかん</rt></ruby>では、１<ruby>年<rt>ねん</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>でも<ruby>入館<rt>にゅうかん</rt></ruby>できる「パスポートカード」を<ruby>用意<rt>ようい</rt></ruby>しています。<br><ruby>価格<rt>かかく</rt></ruby>： <ruby>大人<rt>おとな</rt></ruby>5,000<ruby>円<rt>えん</rt></ruby>　<ruby>高校生<rt>こうこうせい</rt></ruby>3,000<ruby>円<rt>えん</rt></ruby>　<ruby>小中学生<rt>しょうちゅうがくせい</rt></ruby>1,000<ruby>円<rt>えん</rt></ruby><br><ruby>期限<rt>きげん</rt></ruby>： お<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み<ruby>当日<rt>とうじつ</rt></ruby>から１<ruby>年間<rt>ねんかん</rt></ruby><br><ruby>必要<rt>ひつよう</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>： <ruby>顔<rt>かお</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>、<ruby>申込書<rt>もうしこみしょ</rt></ruby><br>※カードができるまで<ruby>多少<rt>たしょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>がかかりますので、カードはお<ruby>帰<rt>かえ</rt></ruby>りの<ruby>時<rt>とき</rt></ruby>にお<ruby>渡<rt>わた</rt></ruby>しします。１６<ruby>時<rt>じ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれた<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>翌日<rt>よくじつ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>のお<ruby>渡<rt>わた</rt></ruby>しになります。<br>※カードが<ruby>不要<rt>ふよう</rt></ruby>になっても、お<ruby>金<rt>かね</rt></ruby>はお<ruby>返<rt>かえ</rt></ruby>しできません。<br>※カードの<ruby>作<rt>つく</rt></ruby>り<ruby>直<rt>なお</rt></ruby>し(<ruby>無<rt>な</rt></ruby>くした<ruby>場合<rt>ばあい</rt></ruby>など)には、もう<ruby>一度<rt>いちど</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>がかかります。</p>",
+  "fullTranslation": "Tại quầy bán vé của viện bảo tàng mỹ thuật có dán bảng thông báo này:\n\nBảo tàng Mỹ thuật thành phố Yamamori có phát hành 'Thẻ Passport' cho phép vào tham quan bảo tàng không giới hạn số lần trong 1 năm.\n- Giá vé: Người lớn: 5.000 yên | Học sinh cấp 3: 3.000 yên | Học sinh tiểu học & THCS: 1.000 yên\n- Thời hạn: 1 năm kể từ ngày đăng ký\n- Giấy tờ cần thiết: Ảnh chân dung, Đơn đăng ký\n* Vì quá trình làm thẻ mất một khoảng thời gian nhất định, nên thẻ sẽ được trao khi quý khách ra về. Trường hợp đăng ký sau 16 giờ, thẻ sẽ được trao từ ngày hôm sau trở đi.\n* Ngay cả khi không còn nhu cầu sử dụng thẻ nữa, tiền cũng không được hoàn trả lại.\n* Việc làm lại thẻ (trường hợp bị mất...) sẽ phải chịu phí thêm một lần nữa.",
+  "vocabulary": [
+    { "word": "入館", "hiragana": "にゅうかん", "meaning": "Vào viện bảo tàng / Tham quan" },
+    { "word": "期限", "hiragana": "きげん", "meaning": "Thời hạn" },
+    { "word": "多少", "hiragana": "たしょう", "meaning": "Một chút / Phần nào" },
+    { "word": "お渡しする", "hiragana": "おわたしする", "meaning": "Trao / Đưa cho (khiêm nhường ngữ)" },
+    { "word": "以降", "hiragana": "いこう", "meaning": "Kể từ sau đó trở đi" },
+    { "word": "翌日", "hiragana": "よくじつ", "meaning": "Ngày hôm sau" },
+    { "word": "作り直し", "hiragana": "つくりなおし", "meaning": "Làm lại / Cấp lại" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜何回でも (なんかいでも)", "meaning": "Bao nhiêu lần cũng được / Không giới hạn số lần" },
+    { "pattern": "〜当日から〜年間", "meaning": "Kể từ ngày... trong vòng... năm" },
+    { "pattern": "〜お返しできません", "meaning": "Không thể hoàn trả lại (kính ngữ)" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：この案内から、「パスポートカード」について、どんなことがわかるか。",
+      "options": [
+        "作った年の12月末までなら、何回でもカードを使うことができる。",
+        "16時までに申し込めば、その日にカードを受け取ることができる。",
+        "期限内にカードを返すと、残りの期間分のお金を返してもらえる。",
+        "カードをなくしても、1年以内であれば、無料で作り直してもらえる。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "作った年の12月末までなら、何回でもカードを使うことができる。",
+          "meaning": "Có thể sử dụng thẻ không giới hạn số lần cho đến cuối tháng 12 của năm làm thẻ.",
+          "analysis": "Sai: Hạn sử dụng là 1 năm tính từ ngày đăng ký ('お申し込み当日から1年間'), không phụ thuộc vào cuối tháng 12."
+        },
+        {
+          "option": "16時までに申し込めば、その日にカードを受け取ることができる。",
+          "meaning": "Nếu đăng ký trước 16 giờ, có thể nhận được thẻ ngay trong ngày hôm đó.",
+          "analysis": "ĐÚNG: Khớp chính xác với thông báo: 'カードはお帰りの時にお渡しします。16時以降に申し込まれた場合は、翌日以降のお渡しになります' -> Tức là nếu đăng ký trước 16h thì sẽ nhận thẻ lúc ra về trong ngày."
+        },
+        {
+          "option": "期限内にカードを返すと、残りの期間分のお金を返してもらえる。",
+          "meaning": "Nếu trả lại thẻ trong thời hạn thì được hoàn lại tiền của thời gian còn lại.",
+          "analysis": "Sai: Thông báo quy định rõ không hoàn trả tiền dù không dùng nữa ('カードが不要になっても、お金はお返しできません')."
+        },
+        {
+          "option": "カードをなくしても、1年以内であれば、無料で作り直してもらえる。",
+          "meaning": "Dù làm mất thẻ, nếu trong vòng 1 năm thì được làm lại miễn phí.",
+          "analysis": "Sai: Làm lại thẻ sẽ mất phí như ban đầu ('カードの作り直しには、もう一度料金がかかります')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「カードはお帰りの時にお渡しします。16時以降に申し込まれた場合は、翌日以降のお渡しになります。」",
+      "explanation": "Đáp án 2 đúng. Quy định ghi rõ nếu đăng ký sau 16 giờ mới phải nhận vào ngày hôm sau, do đó những ai đăng ký trước 16 giờ sẽ được nhận thẻ ngay lúc ra về trong ngày hôm đó."
+    }
+  ]
+}

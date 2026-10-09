@@ -1,0 +1,703 @@
+{
+    "name": "Bài 28",
+    "x": 930,
+    "y": 600,
+    "comparison": "<table class='grammar-comparison-table' style='width:100%;border-collapse:collapse;margin-bottom:1.5rem;background:#fdfaf6;color:#111;border-radius:8px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);border:2px solid #222;'><thead><tr><th colspan='3' style='border:1px solid #333;padding:1.2rem;font-size:1.4rem;font-weight:800;color:#ff4d4f;text-align:center;font-family:\"Noto Sans JP\",sans-serif;'>Bảng Phân Biệt Các Mẫu Biểu Thị Tính Chất, Khuynh Hướng & Trạng Thái (Bài 28)</th></tr><tr style='background:#f0eae1;font-weight:bold;'><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:28%;color:#b30000;'>Cấu trúc</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;width:34%;color:#b30000;'>Bản chất & Sắc thái sử dụng</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;color:#b30000;'>Ý nghĩa & Ví dụ tiêu biểu</td></tr></thead><tbody><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#2563eb;text-align:center;'>〜づらい</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Khó do tâm lý / sinh lý:</b> E ngại mở lời, khó nhờ vả hoặc đau đớn thể xác</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Khó khăn (chủ quan)...</b><br><em>VD: 頼みづらい (ngại nhờ).<br>VD: 歯が痛くて食べづらい。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#059669;text-align:center;'>〜がち</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Tần suất / Khuynh hướng xấu:</b> Thường hay, dễ bị rơi vào trạng thái tiêu cực</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Thường hay... ／ Dễ bị...</b><br><em>VD: 電車が遅れがちだ。<br>VD: 野菜が不足しがち。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#d97706;text-align:center;'>〜らしい</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Bản chất thật / Đậm chất:</b> Thể hiện đúng phẩm chất điển hình của danh từ đó</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Đậm chất... ／ Đúng nghĩa là...</b><br><em>VD: 男らしい (đậm chất nam nhi).<br>VD: 春らしい暖かい日。</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#7c3aed;text-align:center;'>〜っぽい</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Cảm giác bên ngoài / Hơi có tính chất:</b> Nhìn giống như (dù thực tế không phải), ngả màu, hay cáu</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Trông có vẻ... ／ Hay...</b><br><em>VD: 子どもっぽい (trẻ con).<br>VD: 忘れっぽい (hay quên).</em></td></tr><tr><td style='border:1px solid #333;padding:0.8rem;font-family:\"Noto Sans JP\",sans-serif;font-weight:800;color:#dc2626;text-align:center;'>〜だらけ</td><td style='border:1px solid #333;padding:0.8rem;text-align:center;font-weight:600;'><b>Phủ kín bề mặt tiêu cực:</b> Bám đầy rác, bùn đất, vết bẩn, nợ nần, lỗi sai</td><td style='border:1px solid #333;padding:0.8rem 1rem;'><b>Toàn là... ／ Đầy (dơ bẩn)...</b><br><em>VD: ゴミだらけ。<br>VD: 間違いだらけ。</em></td></tr></tbody></table><div style='background:#fdfaf6;border:2px solid #222;border-radius:12px;padding:1.5rem;margin-top:2rem;box-shadow:0 6px 20px rgba(0,0,0,0.15);color:#111;'><div style='text-align:center;margin-bottom:1.5rem;border-bottom:3px solid #ff4d4f;padding-bottom:0.8rem;'><h3 style='margin:0;font-size:1.6rem;color:#b30000;font-family:\"Noto Sans JP\",sans-serif;'>🎌 BẢNG SO SÁNH CẶP ĐẶC TRƯNG TIÊU BIỂU (BÀI 28) 🎌</h3><span style='font-size:1rem;color:#555;font-weight:600;display:block;margin-top:0.3rem;'>So sánh sự khác biệt then chốt giữa các mẫu dễ gây nhầm lẫn</span></div><div style='display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:1.2rem;'><div style='border:2px solid #2563eb;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#dbeafe;color:#1e40af;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #2563eb;'>〜づらい vs 〜にくい</div><div style='padding:0.8rem;background:#eff6ff;text-align:center;'><b style='color:#2563eb;'>Tâm lý e ngại, đau thể xác vs Trở ngại vật lý khách quan</b><br><span style='font-size:0.85rem;color:#64748b;'>言いにくい (khó nói vì chữ nhỏ/ngọng) vs 言いづらい (ngại, sợ đối phương buồn)</span></div></div><div style='border:2px solid #d97706;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#fef3c7;color:#92400e;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #d97706;'>〜らしい vs 〜っぽい</div><div style='padding:0.8rem;background:#fffbeb;text-align:center;'><b style='color:#d97706;'>Bản chất thật 100% vs Chỉ mang lại cảm giác bên ngoài</b><br><span style='font-size:0.85rem;color:#64748b;'>男らしい (đàn ông đích thực) vs 男っぽい (phụ nữ có phong cách tomboy)</span></div></div><div style='border:2px solid #dc2626;border-radius:10px;overflow:hidden;background:#fff;'><div style='background:#fee2e2;color:#991b1b;font-weight:800;font-size:1.1rem;padding:0.6rem 1rem;text-align:center;border-bottom:2px solid #dc2626;'>〜だらけ vs 〜ばかり</div><div style='padding:0.8rem;background:#fef2f2;text-align:center;'><b style='color:#dc2626;'>Bề mặt bám đầy thứ xấu bẩn vs Tập trung số lượng nhiều</b><br><span style='font-size:0.85rem;color:#64748b;'>泥だらけ (dính bùn bẩn) vs 女性ばかり (toàn là phụ nữ - trung lập)</span></div></div></div></div>",
+    "items": [
+        {
+            "structure": "〜づらい",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>〜づらい (Khó [về mặt tâm lý, cảm xúc hoặc sinh lý])</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>V-ます<br><span style='font-size:0.85rem;color:#fff;font-weight:normal;'>(bỏ ます)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.25rem;'>〜づらい</span><br><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Khó khăn do rào cản tâm lý e ngại, áp lực hoặc đau đớn thể chất</span></td></tr></tbody></table></div>",
+            "meaning": "Khó... (về mặt tâm lý, cảm xúc, hoặc sinh lý)",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả sự khó khăn khi thực hiện hành động, thường thiên về cảm giác e ngại, khó khăn trong tâm lý hoặc đau đớn về thể xác.<br>• <b>Đặc điểm:</b><br>&nbsp;&nbsp;+ Khác với <code>〜にくい</code> (khó khăn do đặc tính vật lý khách quan, ví dụ đường trơn khó đi, chữ nhỏ khó đọc), <code>〜づらい</code> mang đậm tính chủ quan, e ngại tâm lý (khó nhờ vả, khó mở lời) hoặc trở ngại sinh lý (đau răng khó nhai, đau họng khó nuốt).<br>• <b>Kết hợp:</b> <code>V-ます (bỏ ます) ＋ づらい</code> (Biến đổi như Tính từ đuôi い: 〜づらくない, 〜づらかった...).",
+            "explanation": "Nhấn mạnh rào cản tâm lý e ngại hoặc sự đau đớn khó chịu về thể chất khi thực hiện hành vi.",
+            "examples": [
+                {
+                    "jp": "<ruby>個人的<rt>こじんてき</rt></ruby>なことだから、<ruby>同僚<rt>どうりょう</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>みづらい。",
+                    "vi": "Vì là chuyện cá nhân nên rất khó để nhờ vả đồng nghiệp.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_123.1.png"
+                },
+                {
+                    "jp": "<ruby>歯<rt>は</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くて、<ruby>食<rt>た</rt></ruby>べづらい。",
+                    "vi": "Răng đau quá nên rất khó ăn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_123.2.png"
+                },
+                {
+                    "jp": "<ruby>日本語<rt>にほんご</rt></ruby>の「つ」の<ruby>発音<rt>はつおん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>にとって<ruby>発音<rt>はつおん</rt></ruby>しづらい。",
+                    "vi": "Phát âm chữ \"tsu\" trong tiếng Nhật rất khó phát âm đối với người nước ngoài.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_123.3.png"
+                },
+                {
+                    "jp": "このペンは<ruby>細<rt>ほそ</rt></ruby>すぎて、<ruby>少<rt>すこ</rt></ruby>し<ruby>書<rt>か</rt></ruby>きづらいですね。",
+                    "vi": "Chiếc bút này quá mảnh nên hơi khó viết nhỉ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_123.4.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>には<ruby>本当<rt>ほんとう</rt></ruby>のことを<ruby>言<rt>い</rt></ruby>いづらい。",
+                    "vi": "Thật khó để nói ra sự thật với anh ấy.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_123.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "先輩には頼み（　　）ことも、同期になら相談できる。",
+                        "options": ["づらい", "がち", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "のどが痛くて、水さえ飲み（　　）。",
+                        "options": ["づらい", "がち", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "靴のサイズが合わなくて歩き（　　）です。",
+                        "options": ["づらい", "がち", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この部屋は暗くて本が読み（　　）。",
+                        "options": ["づらい", "がち", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "本音は面と向かっては言い（　　）ものだ。",
+                        "options": ["づらい", "がち", "らしい", "っぽい"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "相手の気持ちを考えると（　　）づらい。",
+                        "options": ["<ruby>断<rt>ことわ</rt></ruby>り", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "空気が重くて息が（　　）づらい。",
+                        "options": ["し", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "人間関係が複雑で（　　）づらい職場だ。",
+                        "options": ["<ruby>働<rt>はたら</rt></ruby>き", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "人前では自分の意見を（　　）づらい。",
+                        "options": ["<ruby>言<rt>い</rt></ruby>い", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この薬は苦くて（　　）づらい。",
+                        "options": ["<ruby>飲<rt>の</rt></ruby>み", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "相手に（　　）づらいことを伝えなければならない。",
+                        "options": ["<ruby>言<rt>い</rt></ruby>い", "<ruby>言<rt>い</rt></ruby>う", "<ruby>言<rt>い</rt></ruby>って", "<ruby>言<rt>い</rt></ruby>おう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "昔の傷が痛んで（　　）づらい。",
+                        "options": ["<ruby>動<rt>うご</rt></ruby>き", "<ruby>動<rt>うご</rt></ruby>く", "<ruby>動<rt>うご</rt></ruby>いて", "<ruby>動<rt>うご</rt></ruby>こう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "この椅子は硬くて（　　）づらい。",
+                        "options": ["<ruby>座<rt>すわ</rt></ruby>り", "<ruby>座<rt>すわ</rt></ruby>る", "<ruby>座<rt>すわ</rt></ruby>って", "<ruby>座<rt>すわ</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）づらい質問ばかりされて困った。",
+                        "options": ["<ruby>答<rt>こた</rt></ruby>え", "<ruby>答<rt>こた</rt></ruby>える", "<ruby>答<rt>こた</rt></ruby>えて", "<ruby>答<rt>こた</rt></ruby>えよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "あの先生は厳しくて（　　）づらい。",
+                        "options": ["<ruby>話<rt>はな</rt></ruby>しかけ", "<ruby>話<rt>はな</rt></ruby>しかける", "<ruby>話<rt>はな</rt></ruby>しかけて", "<ruby>話<rt>はな</rt></ruby>しかけよう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Vì là sếp nên tôi cảm thấy rất khó để từ chối lời mời.",
+                        "jp": "<ruby>上司<rt>じょうし</rt></ruby>なので、お<ruby>誘<rt>さそ</rt></ruby>いを<ruby>断<rt>ことわ</rt></ruby>りづらいです。"
+                    },
+                    {
+                        "vi": "Hôm nay cổ họng bị sưng đau nên rất khó nuốt thức ăn.",
+                        "jp": "<ruby>今日<rt>きょう</rt></ruby>はのどが<ruby>痛<rt>いた</rt></ruby>くて、ご<ruby>飯<rt>はん</rt></ruby>が<ruby>飲<rt>の</rt></ruby>み<ruby>込<rt>こ</rt></ruby>みづらい。"
+                    },
+                    {
+                        "vi": "Bộ quần áo này chật quá nên rất khó cử động.",
+                        "jp": "この<ruby>服<rt>ふく</rt></ruby>はきつすぎて、とても<ruby>動<rt>うご</rt></ruby>きづらい。"
+                    },
+                    {
+                        "vi": "Thật khó để mở lời mượn tiền bạn bè.",
+                        "jp": "<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>借<rt>か</rt></ruby>りるのは<ruby>頼<rt>たの</rt></ruby>みづらい。"
+                    },
+                    {
+                        "vi": "Phần mềm này giao diện phức tạp nên người cao tuổi rất khó sử dụng.",
+                        "jp": "このソフトは<ruby>画面<rt>がめん</rt></ruby>が<ruby>複雑<rt>ふくざつ</rt></ruby>で、お<ruby>年寄<rt>としよ</rt></ruby>りには<ruby>使<rt>つか</rt></ruby>いづらい。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "〜がちだ / 〜がちの",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:580px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='3' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>〜がち (Thường hay... ／ Dễ...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.1);border-right:1px solid rgba(255,255,255,0.15);padding:1rem;font-size:1.05rem;color:#ffd700;font-weight:700;text-align:center;width:36%;vertical-align:middle;' rowspan='2'>（どうしても、<br>とかく、つい、<br>うっかり）</td><td style='background:rgba(255,255,255,0.05);border-right:1px solid rgba(255,255,255,0.15);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;font-size:1.2rem;color:#fff;font-weight:bold;text-align:center;width:28%;'>V <span style='text-decoration:line-through;color:#aaa;'>ます</span></td><td style='background:rgba(255,77,79,0.08);border-bottom:1px solid rgba(255,255,255,0.1);padding:0.75rem 1rem;font-size:1.25rem;color:#ff4d4f;font-weight:800;text-align:center;'>がちだ。</td></tr><tr><td style='background:rgba(255,255,255,0.03);border-right:1px solid rgba(255,255,255,0.15);padding:0.75rem 1rem;font-size:1.2rem;color:#fff;font-weight:bold;text-align:center;'>N</td><td style='background:rgba(255,77,79,0.06);padding:0.75rem 1rem;font-size:1.25rem;color:#ff4d4f;font-weight:800;text-align:center;'>がちの</td></tr></tbody></table></div>",
+            "meaning": "Thường hay... / Dễ...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả 1 sự việc dễ xảy ra, thường xảy ra (nhiều lần) hoặc một trạng thái có xu hướng xảy ra (thường theo chiều hướng không tốt, tiêu cực).<br>• <b>Đặc điểm:</b> Thường đi kèm với các phó từ: <code>どうしても</code> (dù thế nào cũng), <code>とかく</code> (có khuynh hướng), <code>つい</code> (bất giác), <code>うっかり</code> (vô ý, lơ đễnh).<br>• <b>Kết hợp:</b><br>&nbsp;&nbsp;+ <code>V-ます (bỏ ます) ＋ がちだ</code> (遅れがちだ, 忘れがちだ...)<br>&nbsp;&nbsp;+ <code>N ＋ がちの ＋ N</code> (病気がちの叔母, 曇りがちの日...)",
+            "explanation": "Diễn tả 1 sự việc dễ xảy ra, thường xảy ra (nhiều lần) theo thói quen hoặc xu hướng tiêu cực.",
+            "examples": [
+                {
+                    "jp": "<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ると、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れがちだ。",
+                    "vi": "Khi tuyết rơi, tàu điện thường hay bị trễ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_124.1.png"
+                },
+                {
+                    "jp": "<ruby>病気<rt>びょうき</rt></ruby>がちの<ruby>叔母<rt>おば</rt></ruby>を<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>った。",
+                    "vi": "Tôi đã đi thăm người cô thường hay bị đau ốm.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_124.2.png"
+                },
+                {
+                    "jp": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>曇<rt>くも</rt></ruby>りがちの<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですね。",
+                    "vi": "Gần đây có nhiều ngày thường hay âm u nhỉ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_124.3.png"
+                },
+                {
+                    "jp": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしの<ruby>生活<rt>せいかつ</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>が<ruby>不足<rt>ふそく</rt></ruby>しがちです。",
+                    "vi": "Cuộc sống tự lập thường dễ bị thiếu rau xanh.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_124.4.png"
+                },
+                {
+                    "jp": "<ruby>初心者<rt>しょしんしゃ</rt></ruby>はこのような<ruby>間違<rt>まちが</rt></ruby>いをしがちです。",
+                    "vi": "Người mới bắt đầu thường hay mắc phải những lỗi sai như thế này.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_124.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "冬は寒くて運動不足になり（　　）だ。",
+                        "options": ["がち", "づらい", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "最近忙しくて、朝食を抜き（　　）になっている。",
+                        "options": ["がち", "づらい", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "留守（　　）の家は泥棒に狙われやすい。",
+                        "options": ["がち", "づらい", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "若い頃は自分勝手な行動をし（　　）なものだ。",
+                        "options": ["がち", "づらい", "らしい", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "遠慮（　　）に話す彼女の態度が印象的だった。",
+                        "options": ["がち", "づらい", "らしい", "っぽい"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "忙しいと睡眠が（　　）しがちになる。",
+                        "options": ["<ruby>不足<rt>ふそく</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "年を取ると（　　）がちになる。",
+                        "options": ["<ruby>忘<rt>わす</rt></ruby>れ", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）がちな天気が一週間続いている。",
+                        "options": ["<ruby>雨<rt>あめ</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "失敗を恐れて消極的に（　　）がちだ。",
+                        "options": ["なり", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "子どもの頃は（　　）がちでよく学校を休んだ。",
+                        "options": ["<ruby>病気<rt>びょうき</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "人は自分に都合よく（　　）がちだ。",
+                        "options": ["<ruby>考<rt>かんが</rt></ruby>え", "<ruby>考<rt>かんが</rt></ruby>える", "<ruby>考<rt>かんが</rt></ruby>えて", "<ruby>考<rt>かんが</rt></ruby>えよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "スマートフォンばかり見て、周りへの注意を（　　）がちになる。",
+                        "options": ["<ruby>怠<rt>おこた</rt></ruby>り", "<ruby>怠<rt>おこた</rt></ruby>る", "<ruby>怠<rt>おこた</rt></ruby>って", "<ruby>怠<rt>おこた</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "つらいときは（　　）がちになるが、前を向こう。",
+                        "options": ["うつむき", "うつむく", "うつむいて", "うつむこう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "悪天候の日は配送が（　　）がちだ。",
+                        "options": ["<ruby>遅<rt>おく</rt></ruby>れ", "<ruby>遅<rt>おく</rt></ruby>れる", "<ruby>遅<rt>おく</rt></ruby>れて", "<ruby>遅<rt>おく</rt></ruby>れよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "一人で悩みを（　　）がちな性格を直したい。",
+                        "options": ["<ruby>抱<rt>かか</rt></ruby>え", "<ruby>抱<rt>かか</rt></ruby>える", "<ruby>抱<rt>かか</rt></ruby>えて", "<ruby>抱<rt>かか</rt></ruby>えよう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Dạo gần đây công việc bận rộn nên tôi thường hay thức khuya.",
+                        "jp": "<ruby>最近<rt>さいきん</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくて、<ruby>夜更<rt>よふ</rt></ruby>かししがちだ。"
+                    },
+                    {
+                        "vi": "Vào mùa mưa, quần áo thường rất khó khô và dễ bị ẩm mốc.",
+                        "jp": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>は<ruby>洗濯物<rt>せんたくもの</rt></ruby>が<ruby>湿<rt>しめ</rt></ruby>りがちになる。"
+                    },
+                    {
+                        "vi": "Con người ta thường hay có xu hướng quên đi lòng biết ơn khi mọi chuyện thuận lợi.",
+                        "jp": "<ruby>人<rt>ひと</rt></ruby>は<ruby>順調<rt>じゅんちょう</rt></ruby>なとき、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>忘<rt>わす</rt></ruby>れがちだ。"
+                    },
+                    {
+                        "vi": "Người cô thường hay đau ốm của tôi cuối cùng cũng đã khỏe lại.",
+                        "jp": "<ruby>病気<rt>びょうき</rt></ruby>がちだった<ruby>叔母<rt>おば</rt></ruby>が、ようやく<ruby>元気<rt>げんき</rt></ruby>になった。"
+                    },
+                    {
+                        "vi": "Trong kỳ nghỉ dài ngày, nhịp sinh hoạt thường rất dễ bị đảo lộn.",
+                        "jp": "<ruby>大型連休<rt>おおがたれんきゅう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は<ruby>生活<rt>せいかつ</rt></ruby>リズムが<ruby>乱<rt>みだ</rt></ruby>れがちです。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "〜らしい",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>〜らしい (Đậm chất... ／ Đúng nghĩa... ／ Nghe nói...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>Danh từ<br><span style='font-size:0.85rem;color:#fff;'>(Bản chất thật)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.25rem;'>N ＋ らしい</span><br><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>1. Đậm chất, ra dáng, đúng phong cách tiêu biểu của N</span><br><span style='color:#ccc;font-size:0.85rem;display:block;'>2. Nghe đồn, phỏng đoán gián tiếp (Hình như...)</span></td></tr></tbody></table></div>",
+            "meaning": "Đậm chất... / Đúng nghĩa... / Giống như là...",
+            "usage": "• <b>Ý nghĩa:</b><br>&nbsp;&nbsp;1. <b>Bản chất tiêu biểu (Đậm chất... / Đúng nghĩa là...):</b> Miêu tả người/sự vật thể hiện đúng bản chất cốt lõi, đặc trưng điển hình (NらしいN: 男らしい - đậm chất nam nhi, 学生らしい - đúng tác phong học sinh).<br>&nbsp;&nbsp;2. <b>Phỏng đoán / Nghe đồn (Hình như, nghe nói):</b> Diễn tả sự suy đoán dựa trên tin đồn, thông tin gián tiếp thu thập được.<br>• <b>Kết hợp:</b> <code>N ＋ らしい</code> / <code>Thể thường ＋ らしい</code>.",
+            "explanation": "Vừa biểu thị phẩm chất đúng chuẩn mực của một đối tượng, vừa dùng để truyền đạt tin tức phỏng đoán gián tiếp.",
+            "examples": [
+                {
+                    "jp": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>春<rt>はる</rt></ruby>らしい<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>だ。",
+                    "vi": "Hôm nay là một ngày ấm áp đúng nghĩa/đậm chất mùa xuân.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_125.1.png"
+                },
+                {
+                    "jp": "<ruby>火事<rt>かじ</rt></ruby>らしい。",
+                    "vi": "Hình như là có hỏa hoạn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_125.2.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>男<rt>おとこ</rt></ruby>らしい<ruby>人<rt>ひと</rt></ruby>ですね。",
+                    "vi": "Anh ấy đúng là một người đàn ông đích thực/đậm chất nam nhi nhỉ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_125.3.png"
+                },
+                {
+                    "jp": "<ruby>学生<rt>がくせい</rt></ruby>なら<ruby>学生<rt>がくせい</rt></ruby>らしい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>てください。",
+                    "vi": "Nếu là học sinh thì hãy mặc trang phục đúng nghĩa học sinh đi nhé.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_125.4.png"
+                },
+                {
+                    "jp": "うわさによると、<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>結婚<rt>けっこん</rt></ruby>するらしい。",
+                    "vi": "Theo tin đồn thì hình như cô ấy sắp kết hôn.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_125.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "男（　　）態度で堂々と発言した。",
+                        "options": ["らしい", "っぽい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "プロ（　　）素晴らしい演奏だった。",
+                        "options": ["らしい", "っぽい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "先生（　　）アドバイスをいただき感謝しています。",
+                        "options": ["らしい", "っぽい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "天気予報によると、明日は雪（　　）。",
+                        "options": ["らしい", "っぽい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "子どもなら子ども（　　）外で元気に遊びなさい。",
+                        "options": ["らしく", "っぽく", "がちに", "づらく"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "（　　）らしい爽やかな風が吹いている。",
+                        "options": ["<ruby>秋<rt>あき</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "自分（　　）生き方を大切にしたい。",
+                        "options": ["らしく", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）らしい振る舞いを心がけよう。",
+                        "options": ["<ruby>大人<rt>おとな</rt></ruby>", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "うわさでは彼が（　　）に選ばれたらしい。",
+                        "options": ["<ruby>社長<rt>しゃちょう</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）らしい温かい家庭を築きたい。",
+                        "options": ["<ruby>人間<rt>にんげん</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "彼は（　　）らしくない弱気な発言をした。",
+                        "options": ["<ruby>彼<rt>かれ</rt></ruby>", "<ruby>彼<rt>かれ</rt></ruby>の", "<ruby>彼<rt>かれ</rt></ruby>に", "<ruby>彼<rt>かれ</rt></ruby>で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "彼女はいつも（　　）らしい服装をしている。",
+                        "options": ["<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>", "<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の", "<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>に", "<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "新人（　　）フレッシュな挨拶をする。",
+                        "options": ["らしく", "らしい", "らしさ", "らしければ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "あの映画はとても（　　）らしい。",
+                        "options": ["<ruby>面白<rt>おもしろ</rt></ruby>い", "<ruby>面白<rt>おもしろ</rt></ruby>く", "<ruby>面白<rt>おもしろ</rt></ruby>さ", "<ruby>面白<rt>おもしろ</rt></ruby>かった"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "山田さんは明日会社を（　　）らしい。",
+                        "options": ["<ruby>休<rt>やす</rt></ruby>む", "<ruby>休<rt>やす</rt></ruby>み", "<ruby>休<rt>やす</rt></ruby>んで", "<ruby>休<rt>やす</rt></ruby>もう"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Hôm nay trời nắng ráo mát mẻ, đúng chất tiết trời mùa thu.",
+                        "jp": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しくて、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>秋<rt>あき</rt></ruby>らしい<ruby>天気<rt>てんき</rt></ruby>だ。"
+                    },
+                    {
+                        "vi": "Dù trong hoàn cảnh nào cũng hãy giữ lối sống chân thật đúng nghĩa là chính mình.",
+                        "jp": "どんなときでも、<ruby>自分<rt>じぶん</rt></ruby>らしい<ruby>生<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>貫<rt>つらぬ</rt></ruby>きたい。"
+                    },
+                    {
+                        "vi": "Anh ấy đã hành động dũng cảm rất đáng mặt nam nhi.",
+                        "jp": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>男<rt>おとこ</rt></ruby>らしく<ruby>勇敢<rt>ゆうかん</rt></ruby>に<ruby>行動<rt>こうどう</rt></ruby>した。"
+                    },
+                    {
+                        "vi": "Nghe nói quán ăn mới mở trước nhà ga ngon lắm đấy.",
+                        "jp": "<ruby>駅前<rt>えきまえ</rt></ruby>にできた<ruby>新<rt>あたら</rt></ruby>しいレストランはとてもおいしいらしい。"
+                    },
+                    {
+                        "vi": "Đã là người đi làm rồi thì hãy nói năng cho ra dáng người lớn.",
+                        "jp": "<ruby>社会人<rt>しゃかいじん</rt></ruby>になったのだから、<ruby>大人<rt>おとな</rt></ruby>らしい<ruby>言葉遣<rt>ことばづか</rt></ruby>いをしなさい。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "〜っぽい",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>〜っぽい (Trông có vẻ... ／ Hay... ／ Hơi có tính chất...)</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.15rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>Danh từ<br><span style='color:#fff;font-size:0.95rem;'>／</span> V-ます <span style='font-size:0.85rem;color:#fff;'>(bỏ ます)</span><br><span style='color:#fff;font-size:0.95rem;'>／</span> A-い <span style='font-size:0.85rem;color:#fff;'>(bỏ い)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.25rem;'>〜っぽい</span><br><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>1. Có cảm giác giống như... (dù bản chất không phải)</span><br><span style='color:#ccc;font-size:0.85rem;display:block;'>2. Hơi ngả về màu sắc/tính chất (hơi trắng, nhạt như nước)</span><br><span style='color:#ccc;font-size:0.85rem;display:block;'>3. Dễ/hay có tính khí (hay quên, dễ nổi giận)</span></td></tr></tbody></table></div>",
+            "meaning": "Trông có vẻ... / Hay... / Có tính chất...",
+            "usage": "• <b>Ý nghĩa:</b><br>&nbsp;&nbsp;1. Mang lại cảm giác, tính chất giống như... (dù thực tế bản chất không phải là đối tượng đó, ví dụ: <code>子どもっぽい</code> - người lớn mà tính tình như con nít, <code>男っぽい</code> - phụ nữ nhưng phong cách tomboy nam tính).<br>&nbsp;&nbsp;2. Thiên về một trạng thái/tính chất nào đó (màu sắc: <code>白っぽい</code> - hơi trăng trắng, <code>黒っぽい</code>; thể chất: <code>水っぽい</code> - nhạt toẹt như nước).<br>&nbsp;&nbsp;3. Có khuynh hướng hay làm gì (<code>忘れっぽい</code> - hay quên, <code>怒りっぽい</code> - hay cáu gắt).<br>• <b>Kết hợp:</b> <code>N / V-ます (bỏ ます) / A-い (bỏ い) ＋ っぽい</code> (Biến đổi như Tính từ đuôi い: 〜っぽくない, 〜っぽかった).",
+            "explanation": "Nhấn mạnh vẻ bề ngoài, cảm nhận bên ngoài hoặc xu hướng thiên về một tính chất nào đó.",
+            "examples": [
+                {
+                    "jp": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>大人<rt>おとな</rt></ruby>っぽい。",
+                    "vi": "Gần đây, các bạn học sinh nữ trông có vẻ người lớn/chững chạc.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_126.1.png"
+                },
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>忘<rt>わす</rt></ruby>れっぽい<ruby>人<rt>ひと</rt></ruby>だ。",
+                    "vi": "Anh ấy là một người hay quên.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_126.2.png"
+                },
+                {
+                    "jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>白<rt>しろ</rt></ruby>っぽい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ている。",
+                    "vi": "Tôi đang mặc một chiếc áo hơi trắng trắng/thiên về màu trắng.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_126.3.png"
+                },
+                {
+                    "jp": "この<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>は<ruby>水<rt>みず</rt></ruby>っぽくて、<ruby>美味<rt>おい</rt></ruby>しくない。",
+                    "vi": "Hộp sữa này nhạt như nước, chẳng ngon tí nào.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_126.4.png"
+                },
+                {
+                    "jp": "そんな<ruby>子<rt>こ</rt></ruby>どもっぽいことは<ruby>言<rt>い</rt></ruby>わないでください。",
+                    "vi": "Xin đừng nói những lời trẻ con như thế.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_126.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "彼は少し怒り（　　）ところがある。",
+                        "options": ["っぽい", "らしい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "このスープは油（　　）て全部飲めない。",
+                        "options": ["っぽく", "らしく", "がちに", "づらく"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "黒（　　）コートを着た男性を見かけました。",
+                        "options": ["っぽい", "らしい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "安（　　）服だけど、デザインは気に入っている。",
+                        "options": ["っぽい", "らしい", "がち", "づらい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "彼はすぐ諦める飽き（　　）性格だ。",
+                        "options": ["っぽい", "らしい", "がち", "づらい"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "（　　）っぽい嘘をついてはいけません。",
+                        "options": ["子ども", "切符", "財布", "黒板"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "このジュースは（　　）っぽくて薄い。",
+                        "options": ["<ruby>水<rt>みず</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "年を取って（　　）っぽくなってきた。",
+                        "options": ["<ruby>忘<rt>わす</rt></ruby>れ", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "彼女は（　　）っぽい話し方をする。",
+                        "options": ["<ruby>男<rt>おとこ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）っぽい料理は胃にもたれる。",
+                        "options": ["<ruby>油<rt>あぶら</rt></ruby>", "<ruby>季節<rt>きせつ</rt></ruby>", "<ruby>空気<rt>くうき</rt></ruby>", "<ruby>天気<rt>てんき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "彼は（　　）っぽくて、すぐにイライラする。",
+                        "options": ["<ruby>怒<rt>おこ</rt></ruby>り", "<ruby>怒<rt>おこ</rt></ruby>る", "<ruby>怒<rt>おこ</rt></ruby>って", "<ruby>怒<rt>おこ</rt></ruby>ろう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "そんな（　　）っぽい言い訳は通用しない。",
+                        "options": ["<ruby>嘘<rt>うそ</rt></ruby>", "<ruby>嘘<rt>うそ</rt></ruby>の", "<ruby>嘘<rt>うそ</rt></ruby>に", "<ruby>嘘<rt>うそ</rt></ruby>で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "彼女はいつも（　　）っぽい服装をしている。",
+                        "options": ["<ruby>白<rt>しろ</rt></ruby>", "<ruby>白<rt>しろ</rt></ruby>い", "<ruby>白<rt>しろ</rt></ruby>く", "<ruby>白<rt>しろ</rt></ruby>さ"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "熱っぽくて（　　）が出ない。",
+                        "options": ["<ruby>力<rt>ちから</rt></ruby>", "<ruby>力<rt>ちから</rt></ruby>の", "<ruby>力<rt>ちから</rt></ruby>に", "<ruby>力<rt>ちから</rt></ruby>で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）っぽく振る舞うのをやめなさい。",
+                        "options": ["<ruby>子<rt>こ</rt></ruby>ども", "<ruby>子<rt>こ</rt></ruby>どもの", "<ruby>子<rt>こ</rt></ruby>どもに", "<ruby>子<rt>こ</rt></ruby>どもで"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Đã là người lớn rồi mà tính tình cứ như trẻ con vậy.",
+                        "jp": "もう<ruby>大人<rt>おとな</rt></ruby>なのに、<ruby>性格<rt>せいかく</rt></ruby>がとても子どもっぽい。"
+                    },
+                    {
+                        "vi": "Hôm nay tôi thấy người hơi sốt sốt và uể oải.",
+                        "jp": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>が<ruby>熱<rt>ねつ</rt></ruby>っぽくて、だるいです。"
+                    },
+                    {
+                        "vi": "Anh ấy rất hay quên nên lúc nào cũng phải ghi chép lại vào sổ tay.",
+                        "jp": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>忘<rt>わす</rt></ruby>れっぽいので、いつもメモを<ruby>取<rt>と</rt></ruby>っている。"
+                    },
+                    {
+                        "vi": "Món ăn này nhiều dầu mỡ quá nên ăn nhanh ngấy.",
+                        "jp": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>油<rt>あぶら</rt></ruby>っぽくて、すぐに<ruby>食<rt>た</rt></ruby>べ<ruby>飽<rt>あ</rt></ruby>きてしまう。"
+                    },
+                    {
+                        "vi": "Chiếc váy hơi thiên về màu trắng này rất hợp với bạn đấy.",
+                        "jp": "その<ruby>白<rt>しろ</rt></ruby>っぽいワンピース、とてもよく<ruby>似合<rt>にあ</rt></ruby>っていますよ。"
+                    }
+                ]
+            }
+        },
+        {
+            "structure": "〜だらけ",
+            "detailedStructure": "<div style='display:flex;flex-direction:column;gap:1.2rem;align-items:center;width:100%;max-width:560px;margin:0 auto;'><table style='width:100%;border-collapse:separate;border-spacing:0;border-radius:14px;overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,0.4),0 0 0 1px rgba(255,255,255,0.1);text-align:left;font-family:\"Noto Sans JP\",sans-serif;'><thead><tr><th colspan='2' style='background:rgba(255,215,0,0.15);padding:0.5rem 1rem;font-size:0.95rem;color:#ffd700;text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);'>〜だらけ (Toàn là... ／ Đầy [tiêu cực, bề mặt bám dơ bẩn])</th></tr></thead><tbody><tr><td style='background:rgba(255,215,0,0.12);border-right:1px solid rgba(255,255,255,0.15);padding:1rem 1.2rem;font-size:1.25rem;color:#ffd700;font-weight:800;text-align:center;width:38%;vertical-align:middle;'>Danh từ<br><span style='font-size:0.85rem;color:#fff;'>(Tiêu cực / Rác / Vết bẩn)</span></td><td style='background:rgba(255,77,79,0.08);padding:1rem 1.2rem;line-height:1.8;'><span style='color:#ff4d4f;font-weight:800;font-size:1.25rem;'>〜だらけだ</span><br><span style='color:#ff4d4f;font-weight:800;font-size:1.25rem;'>〜だらけの ＋ Danh từ</span><br><span style='color:#ccc;font-size:0.85rem;display:block;margin-top:0.35rem;'>Chỉ dùng cho thứ tiêu cực, bề mặt bám dơ bẩn, sai sót, nợ nần</span></td></tr></tbody></table></div>",
+            "meaning": "Toàn là... / Đầy...",
+            "usage": "• <b>Ý nghĩa:</b> Diễn tả một trạng thái tiêu cực, không mong muốn khi một bề mặt hoặc không gian bị bao phủ, bám đầy bởi một thứ gì đó dơ bẩn, rác rưởi, không tốt (rác, nợ nần, bùn đất, lỗi sai, máu, mồ hôi...).<br>• <b>Đặc điểm & Phân biệt:</b><br>&nbsp;&nbsp;+ <code>〜だらけ</code>: <b>Chỉ dùng cho những thứ tiêu cực, bề mặt bẩn, lộn xộn hoặc trạng thái xấu</b> (ゴミだらけ, 泥だらけ, 間違いだらけ, 借金だらけ).<br>&nbsp;&nbsp;+ <code>〜ばかり</code>: Diễn tả sự tập trung nhiều về số lượng hoặc hành động lặp đi lặp lại (có thể mang sắc thái trung lập hoặc hơi tiêu cực, ví dụ: 女の人ばかり, 遊んでばかり).<br>• <b>Kết hợp:</b> <code>N ＋ だらけ (だ / のN)</code>.",
+            "explanation": "Diễn tả sự phủ kín, tràn ngập của những đối tượng xấu xí, bẩn thỉu hoặc lỗi sai trên bề mặt/không gian.",
+            "examples": [
+                {
+                    "jp": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>はゴミだらけだ。",
+                    "vi": "Phòng của anh ấy toàn là rác.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_127.1.png"
+                },
+                {
+                    "jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>借金<rt>しゃっきん</rt></ruby>だらけだ。",
+                    "vi": "Tôi đang ngập đầu trong nợ nần / Toàn là nợ.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_127.2.png"
+                },
+                {
+                    "jp": "<ruby>靴<rt>くつ</rt></ruby>が<ruby>泥<rt>どろ</rt></ruby>だらけになってしまいました。",
+                    "vi": "Đôi giày của tôi đã dính đầy bùn đất mất rồi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_127.3.png"
+                },
+                {
+                    "jp": "この<ruby>作文<rt>さくぶん</rt></ruby>は<ruby>間違<rt>まちが</rt></ruby>いだらけで、<ruby>直<rt>なお</rt></ruby>すところが<ruby>多<rt>おお</rt></ruby>い。",
+                    "vi": "Bài văn này toàn là lỗi sai, có rất nhiều chỗ cần phải sửa.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_127.4.png"
+                },
+                {
+                    "jp": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>走<rt>はし</rt></ruby>ったので、<ruby>服<rt>ふく</rt></ruby>が<ruby>汗<rt>あせ</rt></ruby>だらけです。",
+                    "vi": "Vì đã chạy hết sức mình nên quần áo ướt đẫm mồ hôi.",
+                    "img": "Ngữ pháp N3/N3_Ngữ pháp_127.5.png"
+                }
+            ],
+            "exercises": {
+                "particles": [
+                    {
+                        "question": "雨の中を走ったので、ズボンが泥（　　）になった。",
+                        "options": ["だらけ", "ばかり", "がち", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "このテストは間違い（　　）でやり直しになった。",
+                        "options": ["だらけ", "ばかり", "がち", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "猫と遊んでいたら服が毛（　　）になった。",
+                        "options": ["だらけ", "ばかり", "がち", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "怪我をして腕が血（　　）になってしまった。",
+                        "options": ["だらけ", "ばかり", "がち", "っぽい"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "ゴミ（　　）の部屋を大掃除した。",
+                        "options": ["だらけ", "ばかり", "がち", "っぽい"],
+                        "answer": 0
+                    }
+                ],
+                "vocab": [
+                    {
+                        "question": "事業に失敗して（　　）だらけの生活になった。",
+                        "options": ["<ruby>借金<rt>しゃっきん</rt></ruby>", "<ruby>案内<rt>あんない</rt></ruby>", "<ruby>約束<rt>やくそく</rt></ruby>", "<ruby>準備<rt>じゅんび</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "転んで膝が（　　）だらけになって痛い。",
+                        "options": ["<ruby>傷<rt>きず</rt></ruby>", "<ruby>切符<rt>きっぷ</rt></ruby>", "<ruby>財布<rt>さいふ</rt></ruby>", "<ruby>黒板<rt>こくばん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "激しい運動の後は全身が（　　）だらけだ。",
+                        "options": ["<ruby>汗<rt>あせ</rt></ruby>", "<ruby>看板<rt>かんばん</rt></ruby>", "<ruby>信号<rt>しんごう</rt></ruby>", "<ruby>交差点<rt>こうさてん</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "長年放置された部屋は（　　）だらけだった。",
+                        "options": ["ほこり", "<ruby>体重<rt>たいじゅう</rt></ruby>", "<ruby>体温<rt>たいおん</rt></ruby>", "<ruby>身長<rt>しんちょう</rt></ruby>"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "事件現場は（　　）だらけで手がかりがない。",
+                        "options": ["<ruby>謎<rt>なぞ</rt></ruby>", "<ruby>切手<rt>きって</rt></ruby>", "<ruby>踏切<rt>ふみきり</rt></ruby>", "<ruby>景色<rt>けしき</rt></ruby>"],
+                        "answer": 0
+                    }
+                ],
+                "conjugation": [
+                    {
+                        "question": "（　　）だらけの部屋を一日かけて片付けた。",
+                        "options": ["ゴミ", "ゴミの", "ゴミに", "ゴミで"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）だらけの答案用紙を見て落ち込んだ。",
+                        "options": ["<ruby>間違<rt>まちが</rt></ruby>い", "<ruby>間違<rt>まちが</rt></ruby>える", "<ruby>間違<rt>まちが</rt></ruby>えて", "<ruby>間違<rt>まちが</rt></ruby>えよう"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）だらけの手をきれいに洗った。",
+                        "options": ["<ruby>泥<rt>どろ</rt></ruby>", "<ruby>泥<rt>どろ</rt></ruby>の", "<ruby>泥<rt>どろ</rt></ruby>に", "<ruby>泥<rt>どろ</rt></ruby>で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）だらけになった車を洗車した。",
+                        "options": ["<ruby>砂<rt>すな</rt></ruby>", "<ruby>砂<rt>すな</rt></ruby>の", "<ruby>砂<rt>すな</rt></ruby>に", "<ruby>砂<rt>すな</rt></ruby>で"],
+                        "answer": 0
+                    },
+                    {
+                        "question": "（　　）だらけの人生だが、後悔はしていない。",
+                        "options": ["<ruby>苦労<rt>くろう</rt></ruby>", "<ruby>苦労<rt>くろう</rt></ruby>の", "<ruby>苦労<rt>くろう</rt></ruby>に", "<ruby>苦労<rt>くろう</rt></ruby>で"],
+                        "answer": 0
+                    }
+                ],
+                "translation": [
+                    {
+                        "vi": "Sau khi sửa xong xe ô tô, bàn tay tôi dính đầy dầu mỡ đen sì.",
+                        "jp": "<ruby>車<rt>くるま</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>した<ruby>後<rt>あと</rt></ruby>、<ruby>手<rt>て</rt></ruby>が<ruby>油<rt>あぶら</rt></ruby>だらけになった。"
+                    },
+                    {
+                        "vi": "Sau trận mưa rào, sân trường ngập đầy bùn đất.",
+                        "jp": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>校庭<rt>こうてい</rt></ruby>は<ruby>泥<rt>どろ</rt></ruby>だらけになっていた。"
+                    },
+                    {
+                        "vi": "Bài tập này toàn là lỗi ngữ pháp, bạn phải làm lại từ đầu.",
+                        "jp": "この<ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>文法<rt>ぶんぽう</rt></ruby>の<ruby>間違<rt>まちが</rt></ruby>いだらけなので、やり<ruby>直<rt>なお</rt></ruby>してください。"
+                    },
+                    {
+                        "vi": "Căn phòng cũ kỹ lâu ngày không ai dọn dẹp bám đầy bụi bẩn.",
+                        "jp": "<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>掃除<rt>そうじ</rt></ruby>していない<ruby>古<rt>ふる</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>はほこりだらけだった。"
+                    },
+                    {
+                        "vi": "Sau trận thi đấu bóng đá, tất cả cầu thủ đều ướt đẫm mồ hôi.",
+                        "jp": "サッカーの<ruby>試合<rt>しあい</rt></ruby>の<ruby>後<rt>あと</rt></ruby>、<ruby>選手<rt>せんしゅ</rt></ruby>たちはみんな<ruby>汗<rt>あせ</rt></ruby>だらけだった。"
+                    }
+                ]
+            }
+        }
+    ]
+}

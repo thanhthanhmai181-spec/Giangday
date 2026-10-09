@@ -1,0 +1,251 @@
+{
+  "id": "choukai-n3-nghe_traloi-05",
+  "level": "N3",
+  "category": "nghe_traloi",
+  "categoryName": "Nghe trả lời (課題理解)",
+  "lessonNumber": 5,
+  "title": "Bài 5: Luyện nghe hiểu trả lời (課題理解 第5回)",
+  "description": "Dạng bài nghe hiểu yêu cầu nắm bắt chi tiết, nguyên nhân, mục đích và phương thức thực hiện (課題理解): Lắng nghe câu hỏi, phân tích ngữ cảnh hội thoại và chọn đáp án chính xác nhất.",
+  "questions": [
+    {
+      "id": 25,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai5/25.mp3",
+      "question": "1番：<ruby>結婚式<rt>けっこんしき</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がスピーチをしています。<ruby>結婚<rt>けっこん</rt></ruby>した<ruby>二<rt>ふた</rt></ruby><ruby>人<rt>り</rt></ruby>はどうやって<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>ったと<ruby>言<rt>い</rt></ruby>っていますか。",
+      "questionVi": "Tại lễ cưới, một người đàn ông đang phát biểu chúc mừng. Hai người kết hôn quen biết nhau qua cách thức nào?",
+      "options": [
+        "<ruby>高校<rt>こうこう</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>からしょうかいしてもらった",
+        "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby><ruby>会<rt>かい</rt></ruby>で<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>った",
+        "インターネットのサイトで<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>った",
+        "スキー<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>った"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "高校の友人からしょうかいしてもらった",
+          "meaning": "Được bạn thân từ thời cấp 3 giới thiệu.",
+          "analysis": "Sai: Người phát biểu là bạn cấp 3 của chú rể Kimura chứ không phải người mai mối ('木村君は高校の時からの友人です')."
+        },
+        {
+          "option": "会社の食事会で知り合った",
+          "meaning": "Quen biết nhau tại bữa ăn của công ty.",
+          "analysis": "Sai: Đây là những lần chú rể đi ăn sau giờ làm và kể cho bạn mình nghe về cô dâu ('菜穂子さんのことは、会社帰りに食事に行った時によく聞いていました')."
+        },
+        {
+          "option": "インターネットのサイトで知り合った",
+          "meaning": "Quen biết nhau qua trang web trên mạng internet.",
+          "analysis": "ĐÚNG: Cả hai có chung sở thích trượt tuyết và đã làm quen với nhau qua trang web về trượt tuyết trên internet ('共通の趣味はスキーで、インターネットのスキーのサイトで知り合い')."
+        },
+        {
+          "option": "スキー教室で知り合った",
+          "meaning": "Quen biết nhau tại lớp dạy trượt tuyết.",
+          "analysis": "Sai: Lớp trượt tuyết là nơi hai người lần đầu gặp mặt trực tiếp ngoài đời sau khi đã quen qua mạng ('初めて会ったのはスキー場のスキー教室だったそうです')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「男：木村君と菜穂子さんの共通の趣味はスキーで、インターネットのスキーのサイトで知り合い、初めて会ったのはスキー場のスキー教室だったそうです。」",
+      "explanation": "Đáp án đúng là 3 (インターネットのサイトで知り合った).\n- Người phát biểu kể lại: Cô dâu và chú rể có chung sở thích trượt tuyết và đã quen biết nhau qua trang web về trượt tuyết trên internet (インターネットのスキーのサイトで知り合い).\n- Lần đầu tiên gặp nhau trực tiếp là tại lớp học trượt tuyết ở khu trượt tuyết.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>、<ruby>菜穂子<rt>なほこ</rt></ruby>さん、ご<ruby>結婚<rt>けっこん</rt></ruby>おめでとうございます。<ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>は<ruby>高校<rt>こうこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>からの<ruby>友人<rt>ゆうじん</rt></ruby>です。<ruby>菜穂子<rt>なほこ</rt></ruby>さんのことは、<ruby>会社<rt>かいしゃ</rt></ruby><ruby>帰<rt>がえ</rt></ruby>りに<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>時<rt>とき</rt></ruby>によく<ruby>聞<rt>き</rt></ruby>いていました。<ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>と<ruby>菜穂子<rt>なほこ</rt></ruby>さんの<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>はスキーで、<strong>インターネットのスキーのサイトで<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>い</strong>、<ruby>初<rt>はじ</rt></ruby>めて<ruby>会<rt>あ</rt></ruby>ったのはスキー<ruby>場<rt>じょう</rt></ruby>のスキー<ruby>教室<rt>きょうしつ</rt></ruby>だったそうです。<ruby>素敵<rt>すてき</rt></ruby>ですね。<ruby>木村<rt>きむら</rt></ruby><ruby>君<rt>くん</rt></ruby>、<ruby>菜穂子<rt>なほこ</rt></ruby>さん、どうぞお<ruby>幸<rt>しあわ</rt></ruby>せに。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>結婚<rt>けっこん</rt></ruby>した<ruby>二<rt>ふた</rt></ruby><ruby>人<rt>り</rt></ruby>はどうやって<ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>ったと<ruby>言<rt>い</rt></ruby>っていますか。</p>",
+      "scriptVi": "Người đàn ông: Chúc mừng hạnh phúc Kimura và Nahoko nhé. Kimura là bạn thân từ thời cấp ba của tôi. Về Nahoko thì tôi thường được nghe cậu ấy tâm sự mỗi khi hai đứa rủ nhau đi ăn sau giờ làm. Sở thích chung của Kimura và Nahoko là trượt tuyết, hai người đã quen biết nhau qua một trang web về trượt tuyết trên mạng, và lần đầu tiên gặp mặt trực tiếp là tại lớp học trượt tuyết ở khu trượt tuyết. Thật tuyệt vời đúng không quý vị. Chúc Kimura và Nahoko mãi mãi hạnh phúc nhé.\nCâu hỏi: Hai người kết hôn quen biết nhau qua cách thức nào?"
+    },
+    {
+      "id": 26,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai5/26.mp3",
+      "question": "2番：<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどうして<ruby>最近<rt>さいきん</rt></ruby>、<ruby>水泳<rt>すいえい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めましたか。",
+      "questionVi": "Một người đàn ông và một người phụ nữ đang nói chuyện. Tại sao dạo gần đây người phụ nữ bắt đầu đi học bơi?",
+      "options": [
+        "<ruby>水泳<rt>すいえい</rt></ruby>のきそを<ruby>習<rt>なら</rt></ruby>いたいから",
+        "<ruby>体力<rt>たいりょく</rt></ruby>をつけたいから",
+        "ながいきょりを<ruby>泳<rt>およ</rt></ruby>ぎたいから",
+        "<ruby>友<rt>とも</rt></ruby>だちを<ruby>作<rt>つく</rt></ruby>りたいから"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "水泳のきそを習いたいから",
+          "meaning": "Vì muốn học kỹ năng bơi cơ bản.",
+          "analysis": "Sai: Cô ấy nói từ nhỏ đã từng học bơi cơ bản rồi ('子供の頃、水泳の基礎は習ったことあるんだけど')."
+        },
+        {
+          "option": "体力をつけたいから",
+          "meaning": "Vì muốn nâng cao và rèn luyện thể lực.",
+          "analysis": "ĐÚNG: Sau khi đi làm thấy sức khỏe giảm sút nên cô đi bơi để rèn luyện thể lực, tăng sức đề kháng và đỡ mệt mỏi ('社会人になって体力がなくなったみたいで。泳ぐと風邪ひかなくなったり、疲れにくくなったりするかと思って')."
+        },
+        {
+          "option": "ながいきょりを泳ぎたいから",
+          "meaning": "Vì muốn bơi cự ly dài.",
+          "analysis": "Sai: Bơi được cự ly dài là kết quả đạt được sau một thời gian đi học chứ không phải lý do ban đầu ('最近は長い距離を楽に泳げるようになって、通ってよかったと思ってるんだ')."
+        },
+        {
+          "option": "友だちを作りたいから",
+          "meaning": "Vì muốn kết thêm bạn bè.",
+          "analysis": "Sai: Kết thêm bạn cũng là điều vui mừng có được thêm trong quá trình đi học ('会社員も多くて、友達もできたよ')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「女：子供の頃、水泳の基礎は習ったことあるんだけど、社会人になって体力がなくなったみたいで。泳ぐと風邪ひかなくなったり、疲れにくくなったりするかと思って。男：ああ、水泳は体が丈夫になるって言うからね。」",
+      "explanation": "Đáp án đúng là 2 (体力をつけたいから).\n- Người phụ nữ giải thích lý do đi học bơi: Từ khi đi làm thấy thể lực giảm sút (体力がなくなった), đi bơi sẽ giúp cơ thể khỏe khoắn hơn, tránh bị cảm cúm và bớt mệt mỏi.\n- Bơi cự ly dài và có thêm bạn bè là kết quả vui mừng sau quá trình luyện tập.",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>青木<rt>あおき</rt></ruby>さん、<ruby>最近<rt>さいきん</rt></ruby><ruby>水泳<rt>すいえい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>ってるんだって？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うん。<ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>、<ruby>水泳<rt>すいえい</rt></ruby>の<ruby>基礎<rt>きそ</rt></ruby>は<ruby>習<rt>なら</rt></ruby>ったことあるんだけど、<strong><ruby>社会<rt>しゃかい</rt></ruby><ruby>人<rt>じん</rt></ruby>になって<ruby>体力<rt>たいりょく</rt></ruby>がなくなったみたいで。<ruby>泳<rt>およ</rt></ruby>ぐと<ruby>風邪<rt>かぜ</rt></ruby>ひかなくなったり、<ruby>疲<rt>つか</rt></ruby>れにくくなったりするかと<ruby>思<rt>おも</rt></ruby>って。</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> ああ、<ruby>水泳<rt>すいえい</rt></ruby>は<ruby>体<rt>からだ</rt></ruby>が<ruby>丈夫<rt>じょうぶ</rt></ruby>になるって<ruby>言<rt>い</rt></ruby>うからね。<ruby>教室<rt>きょうしつ</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しい？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うん、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>距離<rt>きょり</rt></ruby>を<ruby>楽<rt>らく</rt></ruby>に<ruby>泳<rt>およ</rt></ruby>げるようになって、<ruby>通<rt>かよ</rt></ruby>ってよかったと<ruby>思<rt>おも</rt></ruby>ってるんだ。<br><strong><ruby>男<rt>おとco</rt></ruby>：</strong> いつ<ruby>通<rt>かよ</rt></ruby>ってるの？<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>平日<rt>へいじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>。<ruby>会社<rt>かいしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くて、<ruby>友達<rt>ともだち</rt></ruby>もできたよ。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> それはいいね。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどうして<ruby>最近<rt>さいきん</rt></ruby>、<ruby>水泳<rt>すいえい</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めましたか。</p>",
+      "scriptVi": "Nam: Aoki này, nghe nói dạo này cậu đang đi học bơi à?\nNữ: Ừ. Hồi nhỏ mình từng học bơi cơ bản rồi, nhưng từ khi đi làm thấy sức khỏe giảm sút quá. Mình nghĩ đi bơi sẽ giúp ít bị ốm vặt với đỡ mệt mỏi hơn.\nNam: À, người ta vẫn bảo bơi lội giúp cơ thể dẻo dai khỏe mạnh mà. Lớp học có vui không?\nNữ: Ừ, dạo này mình đã bơi cự ly dài một cách dễ dàng rồi, thấy đi học thật là đáng giá.\nNam: Cậu đi học vào lúc nào vậy?\nNữ: Các buổi tối ngày thường. Có nhiều dân văn phòng đi học lắm, mình cũng kết thêm được bạn nữa.\nNam: Thế thì tốt quá rồi.\nCâu hỏi: Tại sao dạo gần đây người phụ nữ bắt đầu đi học bơi?"
+    },
+    {
+      "id": 27,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai5/27.mp3",
+      "question": "3番：テレビでアナウンサーがアンケートの<ruby>結果<rt>けっか</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しています。アナウンサーは<ruby>今年<rt>ことし</rt></ruby>、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>将来<rt>しょうらい</rt></ruby>なりたいものの1<ruby>位<rt>い</rt></ruby>は<ruby>何<rt>なん</rt></ruby>だったと<ruby>言<rt>い</rt></ruby>っていますか。<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>です。",
+      "questionVi": "Trên truyền hình, phát thanh viên đang nói về kết quả khảo sát. Phát thanh viên nói nghề nghiệp tương lai xếp hạng 1 của các bé trai năm nay là gì?",
+      "options": [
+        "かがくしゃ",
+        "<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>",
+        "けいさつかん",
+        "<ruby>医者<rt>いしゃ</rt></ruby>"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "かがくしゃ",
+          "meaning": "Nhà khoa học.",
+          "analysis": "Sai: Số lượng bé trai muốn làm nhà khoa học tăng nhanh nhưng chưa phải vị trí số 1 ('男の子では、科学者になりたいという子が去年から急に増えました')."
+        },
+        {
+          "option": "小学校の先生",
+          "meaning": "Giáo viên tiểu học.",
+          "analysis": "Sai: Đây là vị trí số 1 của các bé gái năm nay ('女の子では去年に続き1位の「小学校の先生」')."
+        },
+        {
+          "option": "けいさつかん",
+          "meaning": "Cảnh sát (警察官).",
+          "analysis": "ĐÚNG: Nghề nghiệp xếp vị trí số 1 được các bé trai bình chọn nhiều nhất năm nay là Cảnh sát ('これに対し男の子は、「警察官」でした')."
+        },
+        {
+          "option": "医者",
+          "meaning": "Bác sĩ.",
+          "analysis": "Sai: Bác sĩ là vị trí số 1 của cả nam và nữ từ 10 năm trước ('このアンケート、10年前は男女とも「医者」が1位でしたが')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「アナウンサー：今回一番多かった答えは、女の子では去年に続き1位の「小学校の先生」。これに対し男の子は、「警察官」でした。」",
+      "explanation": "Đáp án đúng là 3 (けいさつかん - 警察官).\n- Khảo sát ước mơ tương lai của 1000 học sinh tiểu học:\n  - Bé gái: Hạng 1 là Giáo viên tiểu học (小学校の先生).\n  - Bé trai: Hạng 1 nhiều nhất là Cảnh sát (警察官).\n- Bác sĩ là vị trí số 1 của 10 năm trước.",
+      "scriptJp": "<p><strong>アナウンサー：</strong> <ruby>大人<rt>おとな</rt></ruby>になったら<ruby>何<rt>なに</rt></ruby>になりたいですか。<ruby>今年<rt>ことし</rt></ruby>も<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>男女<rt>だんじょ</rt></ruby><ruby>約<rt>やく</rt></ruby>1000<ruby>人<rt>にん</rt></ruby>にアンケートをした<ruby>結果<rt>けっか</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>されました。<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>ではケーキ<ruby>屋<rt>や</rt></ruby>が<ruby>人気<rt>にんき</rt></ruby>で、10<ruby>位<rt>い</rt></ruby>から2<ruby>位<rt>い</rt></ruby>になりました。<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>では、<ruby>科学<rt>かがく</rt></ruby><ruby>者<rt>しゃ</rt></ruby>になりたいという<ruby>子<rt>こ</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>から<ruby>急<rt>きゅう</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えました。<ruby>今回<rt>こんかい</rt></ruby><ruby>一番<rt>いちばん</rt></ruby><ruby>多<rt>おお</rt></ruby>かった<ruby>答<rt>こた</rt></ruby>えは、<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>では<ruby>去年<rt>きょねん</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>き1<ruby>位<rt>い</rt></ruby>の「<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>」。<strong>これに<ruby>対<rt>たい</rt></ruby>し<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は、「<ruby>警察<rt>けいさつ</rt></ruby><ruby>官<rt>かん</rt></ruby>」でした。</strong>このアンケート、10<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>は<ruby>男女<rt>だんじょ</rt></ruby>とも「<ruby>医者<rt>いしゃ</rt></ruby>」が1<ruby>位<rt>い</rt></ruby>でしたが、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>変<rt>か</rt></ruby>わってきているようです。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> アナウンサーは<ruby>今年<rt>ことし</rt></ruby>、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>将来<rt>しょうらい</rt></ruby>なりたいものの1<ruby>位<rt>い</rt></ruby>は<ruby>何<rt>なん</rt></ruby>だったと<ruby>言<rt>い</rt></ruby>っていますか。</p>",
+      "scriptVi": "Phát thanh viên: Lớn lên bạn muốn làm nghề gì? Năm nay kết quả khảo sát khoảng 1000 học sinh tiểu học cả nam lẫn nữ lại vừa được công bố. Ở các bé gái, nghề làm bánh kem rất được yêu thích, tăng từ hạng 10 lên hạng 2. Mặt khác ở các bé trai, số lượng bé muốn trở thành nhà khoa học tăng đột biến so với năm ngoái. Câu trả lời nhiều nhất lần này ở các bé gái tiếp tục là vị trí số 1 của năm ngoái: 'Giáo viên tiểu học'. Trái lại đối với các bé trai, vị trí số 1 là 'Cảnh sát'. Cuộc khảo sát này 10 năm trước cả nam lẫn nữ đều có vị trí số 1 là 'Bác sĩ', nhưng gần đây xu hướng dường như đã thay đổi.\nCâu hỏi: Phát thanh viên nói nghề nghiệp tương lai xếp hạng 1 của các bé trai năm nay là gì?"
+    },
+    {
+      "id": 28,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai5/28.mp3",
+      "question": "4番：<ruby>携帯<rt>けいたい</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>で<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>夫<rt>おっと</rt></ruby>はどうして<ruby>今日<rt>きょう</rt></ruby>、<ruby>帰<rt>かえ</rt></ruby>りが<ruby>遅<rt>おく</rt></ruby>くなると<ruby>言<rt>い</rt></ruby>っていますか。",
+      "questionVi": "Qua điện thoại di động, người chồng và người vợ đang nói chuyện. Tại sao người chồng nói hôm nay sẽ về muộn?",
+      "options": [
+        "<ruby>雨<rt>あめ</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まっているから",
+        "かいぎがあるから",
+        "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>夕飯<rt>ゆうはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>くから",
+        "<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をして<ruby>帰<rt>かえ</rt></ruby>るから"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "雨で電車が止まっているから",
+          "meaning": "Vì trời mưa lớn tàu điện bị dừng hoạt động.",
+          "analysis": "Sai: Người vợ hỏi thăm xem tàu có dừng không, nhưng người chồng bảo chưa rõ tình hình tàu điện ('電車のことはよくわからないけど')."
+        },
+        {
+          "option": "かいぎがあるから",
+          "meaning": "Vì sau đó có cuộc họp ở công ty.",
+          "analysis": "ĐÚNG: Người chồng nói hôm nay về muộn vì sau giờ này còn có cuộc họp ('今日は帰りが遅くなりそうなんだ。この後会議があるから')."
+        },
+        {
+          "option": "会社の人と夕飯を食べに行くから",
+          "meaning": "Vì đi ăn tối cùng đồng nghiệp trong công ty.",
+          "analysis": "Sai: Người chồng dặn vợ chuẩn bị phần cơm tối cho mình vì anh không ăn ngoài mà về nhà ăn ('僕の分も用意しておいて。食べないで帰るから')."
+        },
+        {
+          "option": "買い物をして帰るから",
+          "meaning": "Vì ghé mua sắm đồ trước khi về.",
+          "analysis": "Sai: Người vợ bảo hôm nay không cần mua gì ('今日は特に必要なものないよ')."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「夫：電車のことはよくわからないけど、今日は帰りが遅くなりそうなんだ。この後会議があるから。妻：そっか。大変だね。」",
+      "explanation": "Đáp án đúng là 2 (かいぎがあるから).\n- Người chồng gọi điện báo: Vẫn đang ở công ty và hôm nay sẽ về muộn vì lát nữa có cuộc họp (この後会議があるから).\n- Cơm tối anh không ăn ngoài mà về nhà ăn, mua sắm thì vợ bảo không cần mua gì.",
+      "scriptJp": "<p><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> はい、もしもし。<br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> <ruby>今<rt>いま</rt></ruby>どこ？すごい<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってるけど、<ruby>帰<rt>かえ</rt></ruby>りの<ruby>電車<rt>でんしゃ</rt></ruby>、<ruby>止<rt>と</rt></ruby>まってない？<br><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> ああ、<ruby>今<rt>いま</rt></ruby>まだ<ruby>会社<rt>かいしゃ</rt></ruby>。<ruby>電車<rt>でんしゃ</rt></ruby>のことはよくわからないけど、<strong><ruby>今日<rt>きょう</rt></ruby>は<ruby>帰<rt>かえ</rt></ruby>りが<ruby>遅<rt>おく</rt></ruby>くなりそうなんだ。この<ruby>後<rt>あと</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>があるから。</strong><br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> そっか。<ruby>大変<rt>たいへん</rt></ruby>だね。<ruby>夕飯<rt>ゆうはん</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>食<rt>た</rt></ruby>べてくる？<br><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> いや、<ruby>僕<rt>ぼく</rt></ruby>の<ruby>分<rt>ぶん</rt></ruby>もご<ruby>用意<rt>ようい</rt></ruby>しておいて。<ruby>食<rt>た</rt></ruby>べないで<ruby>帰<rt>かえ</rt></ruby>るから。<br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> わかった。<br><strong><ruby>夫<rt>おっと</rt></ruby>：</strong> なんか<ruby>買<rt>か</rt></ruby>うものがあれば、<ruby>帰<rt>かえ</rt></ruby>りにスーパーに<ruby>寄<rt>よ</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>るけど。<br><strong><ruby>妻<rt>つま</rt></ruby>：</strong> <ruby>今日<rt>きょう</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>なものないよ。ありがとう。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>夫<rt>おっと</rt></ruby>はどうして<ruby>今日<rt>きょう</rt></ruby>、<ruby>帰<rt>かえ</rt></ruby>りが<ruby>遅<rt>おく</rt></ruby>くなると<ruby>言<rt>い</rt></ruby>っていますか。</p>",
+      "scriptVi": "Chồng: Alo em à.\nVợ: Anh đang ở đâu đấy? Ngoài trời đang mưa to lắm, tàu điện về nhà có bị dừng không anh?\nChồng: À, anh vẫn đang ở công ty. Tàu bè thế nào anh cũng chưa rõ, nhưng hôm nay chắc anh về muộn đấy em. Vì sau giờ này anh còn có cuộc họp.\nVợ: Thế à anh. Vất vả quá nhỉ. Anh có đi ăn tối cùng mọi người ở công ty không?\nChồng: Không, em cứ chuẩn bị cơm phần anh nhé. Anh không ăn ở ngoài mà về nhà ăn.\nVợ: Em biết rồi.\nChồng: Có cần mua gì không để trên đường về anh ghé siêu thị mua cho?\nVợ: Hôm nay không cần mua gì đâu anh. Cảm ơn anh nhé.\nCâu hỏi: Tại sao người chồng nói hôm nay sẽ về muộn?"
+    },
+    {
+      "id": 29,
+      "subId": "5番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai5/29.mp3",
+      "question": "5番：ラジオで<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>時<rt>とき</rt></ruby>、<ruby>箱<rt>はこ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたと<ruby>言<rt>い</rt></ruby>っていますか。",
+      "questionVi": "Trên đài phát thanh, một người phụ nữ đang nói chuyện. Người phụ nữ nói khi tốt nghiệp tiểu học, cô đã bỏ món đồ gì vào chiếc hộp kỷ niệm?",
+      "options": [
+        "100<ruby>点<rt>てん</rt></ruby>まんてんのテスト",
+        "<ruby>友<rt>とも</rt></ruby>だちと<ruby>写<rt>うつ</rt></ruby>っている<ruby>写真<rt>しゃしん</rt></ruby>",
+        "<ruby>好<rt>す</rt></ruby>きな<ruby>歌手<rt>かしゅ</rt></ruby>のCD",
+        "<ruby>自分<rt>じぶん</rt></ruby>への<ruby>手紙<rt>てがみ</rt></ruby>"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "100点まんてんのテスト",
+          "meaning": "Bài kiểm tra đạt điểm 100 tuyệt đối.",
+          "analysis": "Sai: Đây là món đồ của những bạn học sinh khác bỏ vào ('100点満点のテストや... 入れていた人もいました')."
+        },
+        {
+          "option": "友だちと写っている写真",
+          "meaning": "Bức ảnh chụp kỷ niệm cùng bạn bè.",
+          "analysis": "Sai: Đây cũng là món đồ của những người khác."
+        },
+        {
+          "option": "好きな歌手のCD",
+          "meaning": "Đĩa CD của ca sĩ mình yêu thích.",
+          "analysis": "Sai: Món đồ của người khác bỏ vào."
+        },
+        {
+          "option": "自分への手紙",
+          "meaning": "Lá thư viết gửi cho chính bản thân mình trong tương lai.",
+          "analysis": "ĐÚNG: Người phụ nữ là một trong những người đã viết thư gửi cho chính mình, hỏi rằng 'Mày đã trở thành ca sĩ chưa?' ('自分自身への手紙を入れた人もいましたが、私もその一人で、そこには「歌手になっていますか」とありました')."
+        }
+      ],
+      "answer": 3,
+      "evidence": "「女：自分自身への手紙を入れた人もいましたが、私もその一人で、そこには「歌手になっていますか」とありました。その頃、歌手に憧れていたんです。」",
+      "explanation": "Đáp án đúng là 4 (自分への手紙).\n- Người phụ nữ kể lại sự kiện mở hộp kỷ niệm tốt nghiệp chôn 20 năm dưới sân trường.\n- Cô chia sẻ mình đã viết một lá thư gửi cho chính bản thân mình trong tương lai (自分自身への手紙), bên trong ghi câu hỏi 'Đã trở thành ca sĩ chưa?' vì lúc nhỏ rất hâm mộ nghề ca sĩ.",
+      "scriptJp": "<p><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>私<rt>わたし</rt></ruby>の<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>小学校<rt>しょうがっこう</rt></ruby>には、「<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>記念<rt>きねん</rt></ruby>の<ruby>箱<rt>はこ</rt></ruby>」というものがあり、<ruby>生徒<rt>せいと</rt></ruby>それぞれが<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>のものを<ruby>一<rt>ひと</rt></ruby>つずつ<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れ、20<ruby>年間<rt>ねんかん</rt></ruby><ruby>校庭<rt>こうてい</rt></ruby>に<ruby>埋<rt>う</rt></ruby>めておくんです。<ruby>先日<rt>せんじつ</rt></ruby>、<ruby>卒業<rt>そつぎょう</rt></ruby>して20<ruby>年<rt>ねん</rt></ruby>が<ruby>経<rt>た</rt></ruby>ち、<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>記念<rt>きねん</rt></ruby>の<ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けました。100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>のテストや、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>撮<rt>と</rt></ruby>った<ruby>写真<rt>しゃしん</rt></ruby>、<ruby>好<rt>す</rt></ruby>きな<ruby>歌手<rt>かしゅ</rt></ruby>のCDを<ruby>入<rt>い</rt></ruby>れていた<ruby>人<rt>ひと</rt></ruby>もいました。<strong><ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>への<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>もいましたが、<ruby>私<rt>わたし</rt></ruby>もその<ruby>一<rt>ひと</rt></ruby><ruby>人<rt>り</rt></ruby>で、そこには「<ruby>歌手<rt>かしゅ</rt></ruby>になっていますか」とありました。</strong>その<ruby>頃<rt>ころ</rt></ruby>、<ruby>歌手<rt>かしゅ</rt></ruby>に<ruby>憧<rt>あこが</rt></ruby>れていたんです。<ruby>結局<rt>けっきょく</rt></ruby>、<ruby>歌手<rt>かしゅ</rt></ruby>にはなりきれませんでしたが、<ruby>今<rt>いま</rt></ruby>、<ruby>曲<rt>きょく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るお<ruby>仕事<rt>しごと</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでいます。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>小学校<rt>しょうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>時<rt>とき</rt></ruby>、<ruby>箱<rt>はこ</rt></ruby>に<ruby>何<rt>なに</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたと<ruby>言<rt>い</rt></ruby>っていますか。</p>",
+      "scriptVi": "Người phụ nữ: Ở trường tiểu học tôi từng theo học có một chiếc 'Hộp kỷ niệm tốt nghiệp'. Mỗi học sinh sẽ bỏ một món đồ kỷ niệm vào hộp rồi chôn dưới sân trường trong 20 năm. Hôm trước, tròn 20 năm sau ngày tốt nghiệp, chúng tôi đã mở chiếc hộp kỷ niệm đó ra. Có bạn bỏ bài kiểm tra 100 điểm, có bạn bỏ ảnh chụp cùng bạn bè, hay đĩa CD của ca sĩ yêu thích. Cũng có người bỏ vào lá thư viết cho chính bản thân mình, và tôi cũng là một trong số đó. Trong thư tôi viết 'Cậu đã trở thành ca sĩ chưa?'. Hồi ấy tôi rất ngưỡng mộ và mơ ước làm ca sĩ. Rốt cuộc thì tôi không trở thành ca sĩ, nhưng hiện tại tôi đang rất vui với công việc sáng tác âm nhạc.\nCâu hỏi: Người phụ nữ nói khi tốt nghiệp tiểu học, cô đã bỏ món đồ gì vào chiếc hộp kỷ niệm?"
+    },
+    {
+      "id": 30,
+      "subId": "6番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_traloi/bai5/30.mp3",
+      "question": "6番：<ruby>市役所<rt>しやくしょ</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しています。<ruby>次<rt>つぎ</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をすることにしましたか。",
+      "questionVi": "Tại tòa thị chính, một người đàn ông và một người phụ nữ đang nói chuyện. Trong buổi giao lưu quốc tế sắp tới, hai người đã quyết định sẽ tổ chức hoạt động gì?",
+      "options": [
+        "スポーツをする",
+        "<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る",
+        "<ruby>国<rt>くに</rt></ruby>のことばを<ruby>教<rt>おし</rt></ruby>え<ruby>合<rt>あ</rt></ruby>う",
+        "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>う"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "スポーツをする",
+          "meaning": "Chơi thể thao / tổ chức ngày hội thể thao.",
+          "analysis": "ĐÚNG: Cả hai thống nhất chọn đại hội thể thao vì mọi người có thể cổ vũ, tương tác và trò chuyện tự nhiên với nhau ('じゃあ、スポーツ大会は？応援したり声を掛け合ったり、話す機会も自然にできるんじゃない？... 今回はそれにしよう')."
+        },
+        {
+          "option": "料理を作る",
+          "meaning": "Làm món ăn / mở lớp học nấu ăn.",
+          "analysis": "Sai: Lớp nấu ăn được thống nhất để dành ý tưởng cho một dịp khác sau này ('いつかの機会のためにアイデアをとっておいたら？')."
+        },
+        {
+          "option": "国のことばを教え合う",
+          "meaning": "Dạy tiếng của đất nước mình cho nhau (lớp hội thoại).",
+          "analysis": "Sai: Hoạt động này năm ngoái vừa tổ chức xong ('それは同じようなことを去年のやったばかりなんだ')."
+        },
+        {
+          "option": "日本語の歌を歌う",
+          "meaning": "Hát các ca khúc tiếng Nhật (hội thi hát karaoke).",
+          "analysis": "Sai: Hoạt động hát karaoke trước đây từng làm nhưng mọi người không có thời gian giao lưu trò chuyện nhiều ('留学生と街の人が話す時間がとれなくて、あまり交流にならなかった')."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「女：じゃあ、スポーツ大会は？応援したり声を掛け合ったり、話す機会も自然にできるんじゃない？男：そうだね。意外と交流できそうだよね。今回はそれにしよう。」",
+      "explanation": "Đáp án đúng là 1 (スポーツをする).\n- Hai người cùng bàn bạc ý tưởng cho buổi giao lưu quốc tế:\n  - Lớp học tiếng: năm ngoái vừa làm xong.\n  - Hát karaoke: ít cơ hội trò chuyện trực tiếp.\n  - Lớp nấu ăn: để dành cho dịp khác.\n  - Đại hội thể thao (スポーツ大会): vừa cổ vũ vừa giao lưu tự nhiên -> Cả hai quyết định chọn phương án này (今回はそれにしよう).",
+      "scriptJp": "<p><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <ruby>留学生<rt>りゅうがくせい</rt></ruby>と<ruby>街<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>する<ruby>国際<rt>こくさい</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby><ruby>何<rt>なに</rt></ruby>をするかそろそろ<ruby>決<rt>き</rt></ruby>めないといけないんだけど、<ruby>何<rt>なに</rt></ruby>かいいアイデアない？<ruby>僕<rt>ぼく</rt></ruby>はスポーツ<ruby>大会<rt>たいかい</rt></ruby>か<ruby>料理<rt>りょうり</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>が<ruby>面白<rt>おもしろ</rt></ruby>そうだなって<ruby>思<rt>おも</rt></ruby>ってるんだけど。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> うーん、<ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>ね。<ruby>例<rt>たと</rt></ruby>えば、<ruby>日本人<rt>にほんじん</rt></ruby>は<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を、<ruby>留学生<rt>りゅうがくせい</rt></ruby>は<ruby>日本人<rt>にほんじん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>教<rt>おし</rt></ruby>える「<ruby>会話<rt>かいわ</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>」とかはどう？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> あー、それは<ruby>同<rt>おな</rt></ruby>じようなことを<ruby>去年<rt>きょねん</rt></ruby>のやったばかりなんだ。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> そう……<ruby>確<rt>たし</rt></ruby>か<ruby>前<rt>まえ</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>う「カラオケ<ruby>大会<rt>たいかい</rt></ruby>」もやったことあるよね。<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うん、<ruby>楽<rt>たの</rt></ruby>しかったんだけど、<ruby>留学生<rt>りゅうがくせい</rt></ruby>と<ruby>街<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>す<ruby>時間<rt>じかん</rt></ruby>がとれなくて、あまり<ruby>交流<rt>こうりゅう</rt></ruby>にならなかったんだよね。<br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <strong>じゃあ、スポーツ<ruby>大会<rt>たいかい</rt></ruby>は？<ruby>応援<rt>おうえん</rt></ruby>したり<ruby>声<rt>こえ</rt></ruby>を<ruby>掛<rt>か</rt></ruby>け<ruby>合<rt>あ</rt></ruby>ったり、<ruby>話<rt>はな</rt></ruby>す<ruby>機会<rt>きかい</rt></ruby>も<ruby>自然<rt>しぜん</rt></ruby>にできるんじゃない？</strong><br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> <strong>そうだね。<ruby>意外<rt>いがい</rt></ruby>と<ruby>交流<rt>こうりゅう</rt></ruby>できそうだよね。<ruby>今回<rt>こんかい</rt></ruby>はそれにしよう。</strong><br><strong><ruby>女<rt>おんな</rt></ruby>：</strong> <ruby>料理<rt>りょうり</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>もたくさん<ruby>交流<rt>こうりゅう</rt></ruby>できそうだから、いつかの<ruby>機会<rt>きかい</rt></ruby>のためにアイデアをとっておいたら？<br><strong><ruby>男<rt>おとこ</rt></ruby>：</strong> うん、ありがとう。<br><strong><ruby>問<rt>と</rt></ruby>い：</strong> <ruby>次<rt>つぎ</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をすることにしましたか。</p>",
+      "scriptVi": "Nam: Buổi giao lưu quốc tế giữa lưu học sinh và người dân thị trấn sắp tới mình phải quyết định xem sẽ làm gì rồi, em có ý tưởng gì hay không? Anh thấy tổ chức ngày hội thể thao hoặc lớp học nấu ăn có vẻ thú vị đấy.\nNữ: Ưm, buổi giao lưu nhỉ. Ví dụ như mở 'Lớp học đàm thoại', người Nhật dạy tiếng Nhật cho du học sinh, còn du học sinh dạy tiếng nước mình cho người Nhật thì sao anh?\nNam: À, hoạt động tương tự thế năm ngoái mình vừa mới tổ chức xong em ạ.\nNữ: Thế ạ... Hình như trước đây mình cũng từng tổ chức 'Hội thi hát Karaoke' các bài hát tiếng Nhật rồi đúng không anh?\nNam: Ừ, vui thì có vui nhưng du học sinh với người dân không có nhiều thời gian trò chuyện với nhau nên tính giao lưu chưa cao lắm.\nNữ: Vậy tổ chức ngày hội thể thao thì sao ạ? Cùng nhau cổ vũ, hò reo tương tác thì cơ hội trò chuyện cũng được tạo ra một cách tự nhiên đấy anh?\nNam: Ừ đúng rồi. Thể thao hóa ra lại giao lưu tốt ấy chứ. Lần này mình chọn hoạt động đó nhé.\nNữ: Lớp học nấu ăn cũng có nhiều cơ hội giao lưu, anh cứ giữ ý tưởng đó cho một dịp khác nhé?\nNam: Ừ, cảm ơn em.\nCâu hỏi: Trong buổi giao lưu quốc tế sắp tới, hai người đã quyết định sẽ tổ chức hoạt động gì?"
+    }
+  ]
+}

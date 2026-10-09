@@ -1,0 +1,1 @@
+Get-ChildItem -Path . -Recurse | Where-Object { $_.Name -like "*7.mp3*" -or $_.Name -like "*8.mp3*" -or $_.Name -like "*ảnh*" -or $_.Name -like "*anh*" -or $_.Name -like "*Ảnh*" } | Select-Object FullName

@@ -1,0 +1,32 @@
+{
+  "id": "dokkai-n3-doanvan-01",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn",
+  "lessonNumber": 1,
+  "title": "Tiêu đề bài đọc",
+  "timeLimit": 180,
+  "passage": "<p><ruby>文章<rt>ぶんしょう</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>をここに<ruby>書<rt>か</rt></ruby>きます。</p>",
+  "fullTranslation": "Dịch toàn văn tiếng Việt của bài đọc...",
+  "vocabulary": [
+    { "word": "文章", "hiragana": "ぶんしょう", "meaning": "Đoạn văn / Bài văn" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜によって", "meaning": "Do / Tùy vào / Bởi..." }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Câu hỏi trắc nghiệm tiếng Nhật?",
+      "options": [
+        "Lựa chọn 1",
+        "Lựa chọn 2",
+        "Lựa chọn 3",
+        "Lựa chọn 4"
+      ],
+      "answer": 0,
+      "evidence": "Dẫn chứng trích từ câu nào trong bài đọc",
+      "explanation": "Giải thích chi tiết tại sao đáp án đúng và tại sao các đáp án khác sai."
+    }
+  ]
+}

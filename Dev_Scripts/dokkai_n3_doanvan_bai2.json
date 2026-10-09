@@ -1,0 +1,60 @@
+{
+  "id": "dokkai-n3-doanvan-02",
+  "level": "N3",
+  "category": "doanvan",
+  "categoryName": "Đoản văn (Đoạn văn ngắn)",
+  "lessonNumber": 2,
+  "title": "髪の役割 (Vai trò của tóc)",
+  "timeLimit": 180,
+  "passage": "<p><ruby>髪<rt>かみ</rt></ruby>がわたしたちの<ruby>頭<rt>あたま</rt></ruby>を<ruby>守<rt>まも</rt></ruby>っていることはよく<ruby>知<rt>し</rt></ruby>られている。しかし、<ruby>髪<rt>かみ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>（<ruby>注<rt>ちゅう</rt></ruby>１）はほかにもある。</p><p>わたしたちの<ruby>体<rt>からだ</rt></ruby>には、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などから<ruby>毒<rt>どく</rt></ruby>になるものが<ruby>入<rt>はい</rt></ruby>ってきてしまうことがある。それらは、<ruby>血液<rt>けつえき</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れに<ruby>乗<rt>の</rt></ruby>って<ruby>髪<rt>かみ</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれ、<ruby>髪<rt>かみ</rt></ruby>の<ruby>毛<rt>け</rt></ruby><ruby>一本<rt>いっぽん</rt></ruby><ruby>一本<rt>いっぽん</rt></ruby>にたまっていく。そして、<ruby>時間<rt>じかん</rt></ruby>がたって<ruby>髪<rt>かみ</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>抜<rt>ぬ</rt></ruby>ける（<ruby>注<rt>ちゅう</rt></ruby>２）とき、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>から<ruby>出<rt>で</rt></ruby>ていくのだ。<ruby>髪<rt>かみ</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>かにぶつかったときなどに<ruby>頭<rt>あたま</rt></ruby>を<ruby>守<rt>まも</rt></ruby>っているだけではないのである。</p><p class=\"dokkai-notes\">（<ruby>注<rt>ちゅう</rt></ruby>１）<ruby>役割<rt>やくわり</rt></ruby>：ここでは、<ruby>仕事<rt>しごと</rt></ruby><br>（<ruby>注<rt>ちゅう</rt></ruby>２）<ruby>抜<rt>ぬ</rt></ruby>ける：<ruby>取<rt>と</rt></ruby>れる</p>",
+  "fullTranslation": "Việc tóc bảo vệ đầu của chúng ta là điều được nhiều người biết đến. Tuy nhiên, vai trò (chú thích 1) của tóc vẫn còn có những điều khác nữa.\n\nTrong cơ thể chúng ta, đôi khi có những chất độc hại xâm nhập vào từ thức ăn... Những chất này sẽ đi theo dòng chảy của máu và được vận chuyển đến tóc, rồi tích tụ lại trong từng sợi tóc một. Và rồi, sau một thời gian, khi tóc rụng tự nhiên (chú thích 2), các chất độc đó cũng sẽ cùng theo tóc thoát ra ngoài cơ thể. Tóc không chỉ đơn thuần là bảo vệ đầu khi chúng ta va đập vào vật gì đó.\n\n(Chú thích 1) 役割 (Vai trò): Ở đây có nghĩa là chức năng/nhiệm vụ.\n(Chú thích 2) 抜ける (Rụng): Tóc rụng ra/rời ra.",
+  "vocabulary": [
+    { "word": "役割", "hiragana": "やくわり", "meaning": "Vai trò / Nhiệm vụ" },
+    { "word": "血液", "hiragana": "けつえき", "meaning": "Máu / Huyết dịch" },
+    { "word": "毒", "hiragana": "どく", "meaning": "Chất độc / Độc tố" },
+    { "word": "たまる", "hiragana": "たまる", "meaning": "Tích tụ / Dồn ứ lại" },
+    { "word": "抜ける", "hiragana": "ぬける", "meaning": "Rụng / Tuột ra" },
+    { "word": "ぶつかる", "hiragana": "ぶつかる", "meaning": "Va chạm / Đâm vào" }
+  ],
+  "grammarNotes": [
+    { "pattern": "〜だけでなく〜も / 〜だけではない", "meaning": "Không chỉ có... mà còn..." },
+    { "pattern": "〜に乗って", "meaning": "Nương theo dòng / Đi theo..." }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "問：ほかにもあるとあるが、それはどんなことか。",
+      "options": [
+        "体に悪いものが頭から入らないようにすること。",
+        "体にいいものを少しずつためておくこと。",
+        "体に毒になるものをためて体の外へ出すこと。",
+        "何かにぶつかったときなどに頭を守ること。"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "体に悪いものが頭から入らないようにすること。",
+          "meaning": "Ngăn chặn các chất có hại cho cơ thể không xâm nhập từ đầu vào.",
+          "analysis": "Sai: Bài đọc nêu chất độc đi vào từ đường ăn uống ('食べ物などから'), không phải từ đầu."
+        },
+        {
+          "option": "体にいいものを少しずつためておくこと。",
+          "meaning": "Tích trữ dần dần các chất tốt cho cơ thể.",
+          "analysis": "Sai: Tóc tích tụ các chất độc hại ('毒になるもの') chứ không phải chất tốt."
+        },
+        {
+          "option": "体に毒になるものをためて体の外へ出すこと。",
+          "meaning": "Tích tụ các chất độc hại đối với cơ thể và thải chúng ra bên ngoài.",
+          "analysis": "ĐÚNG: Khớp chính xác với quá trình '毒になるもの... 髪の毛一本一本にたまっていく。そして、時間がたって髪が自然に抜けるとき、一緒に体から出ていくのだ'."
+        },
+        {
+          "option": "何かにぶつかったときなどに頭を守ること。",
+          "meaning": "Bảo vệ đầu khi va chạm vào vật gì đó.",
+          "analysis": "Sai: Đây là vai trò cơ bản vốn đã được biết đến nhiều ('よく知られている'), không phải vai trò 'khác nữa' mà tác giả muốn làm rõ."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「毒になるものが入ってきてしまうことがある。それらは、血液の流れに乗って髪に運ばれ、髪の毛一本一本にたまっていく。そして、時間がたって髪が自然に抜けるとき、一緒に体から出ていくのだ。」",
+      "explanation": "Đáp án 3 đúng. Ngoài chức năng bảo vệ đầu khỏi va đập cơ học, tóc còn có vai trò gom các chất độc hại từ thức ăn qua đường máu tích tụ vào sợi tóc, rồi đào thải ra ngoài cơ thể theo chu kỳ rụng tóc tự nhiên."
+    }
+  ]
+}

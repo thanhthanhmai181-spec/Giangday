@@ -1,0 +1,317 @@
+{
+  "id": "choukai-n3-nghe_phanxa-04",
+  "level": "N3",
+  "category": "nghe_phanxa",
+  "categoryName": "Nghe phản xạ (即時応答)",
+  "lessonNumber": 4,
+  "title": "Bài 4: Luyện nghe phản xạ tình huống tức thì (即時応答 第4回)",
+  "description": "Dạng bài nghe phản xạ nhanh câu giao tiếp ngắn tức thì (即時応答): Lắng nghe câu nói và các phương án đối đáp trong file âm thanh. Bấm chọn câu phản hồi phù hợp nhất: 1, 2 hoặc 3.",
+  "questions": [
+    {
+      "id": 93,
+      "subId": "1番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/93.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. わあー、本当に冷たそう。",
+          "meaning": "Oa, trông lạnh thật đấy.",
+          "analysis": "Sai: Món ăn nấu nóng sốt chứ không phải món lạnh."
+        },
+        {
+          "option": "2. じゃあ、早速いただくね。",
+          "meaning": "Vậy thì tớ xin phép thưởng thức ngay nhé.",
+          "analysis": "ĐÚNG: Đáp lại lời mời ăn cơm khi còn nóng ('冷めないうちに食べて') bằng câu nhận lời bắt đầu dùng bữa ('早速いただくね')."
+        },
+        {
+          "option": "3. ええー、まだ食べちゃだめ？",
+          "meaning": "Hả, vẫn chưa được ăn cơ á?",
+          "analysis": "Sai: Đối phương vừa bảo ăn đi mà."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「はい、昼ご飯できたよ。冷めないうちに食べて。→ 2. じゃあ、早速いただくね。」",
+      "explanation": "Đáp án đúng là 2 (じゃあ、早速いただくね).\n- Lời thoại: Mời ăn cơm nóng: 「はい、昼ご飯できたよ。冷めないうちに食べて。」 (Cơm trưa nấu xong rồi nè, mau ăn lúc còn nóng nhé).\n- Đáp lại: 「じゃあ、早速いただくね。」 (Vậy thì tớ xin phép thưởng thức ngay đây).",
+      "scriptJp": "<p>はい、<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>できたよ。<ruby>冷<rt>さ</rt></ruby>めないうちに<ruby>食<rt>た</rt></ruby>べて。<br>1. わあー、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たそう。<br><strong>2. じゃあ、<ruby>早速<rt>さっそく</rt></ruby>いただくね。</strong><br>3. ええー、まだ<ruby>食<rt>た</rt></ruby>べちゃだめ？</p>",
+      "scriptVi": "Nam: Xong rồi nè, cơm trưa nấu xong rồi đây. Mau ăn trong lúc đồ ăn còn chưa bị nguội nhé.\n1. Oa, trông lạnh thật đấy.\n2. Vậy thì tớ xin phép thưởng thức ngay nhé.\n3. Hả, vẫn chưa được ăn cơ á?"
+    },
+    {
+      "id": 94,
+      "subId": "2番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/94.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. うん、そうしようか。",
+          "meaning": "Ừ, tụi mình làm vậy đi.",
+          "analysis": "ĐÚNG: Đồng ý với lời đề xuất gọi điện thoại cho bạn Yamada đang đến muộn ('うん、そうしようか')."
+        },
+        {
+          "option": "2. それは良くなかったね。",
+          "meaning": "Chuyện đó đã không tốt rồi nhỉ.",
+          "analysis": "Sai: Dùng để nhận xét một việc đã qua."
+        },
+        {
+          "option": "3. 早く来た方がいいよ。",
+          "meaning": "Nên đến sớm thì hơn đấy.",
+          "analysis": "Sai: Không dùng với người đang đợi cùng mình."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「山田君遅いね。電話した方がいいんじゃない？→ 1. うん、そうしようか。」",
+      "explanation": "Đáp án đúng là 1 (うん、そうしようか).\n- Lời thoại: Đề xuất gọi điện: 「山田君遅いね。電話した方がいいんじゃない？」 (Yamada đến muộn nhỉ, hay là tụi mình gọi điện xem sao?).\n- Đồng ý: 「うん、そうしようか。」 (Ừ, tụi mình gọi điện cho cậu ấy đi).",
+      "scriptJp": "<p><ruby>山田<rt>やまだ</rt></ruby><ruby>君<rt>くん</rt></ruby><ruby>遅<rt>おそ</rt></ruby>いね。<ruby>電話<rt>でんわ</rt></ruby>した<ruby>方<rt>ほう</rt></ruby>がいいんじゃない？<br><strong>1. うん、そうしようか。</strong><br>2. それは<ruby>良<rt>よ</rt></ruby>くなかったね。<br>3. <ruby>早<rt>はや</rt></ruby>く<ruby>来<rt>き</rt></ruby>た<ruby>方<rt>ほう</rt></ruby>がいいよ。</p>",
+      "scriptVi": "Nữ: Bạn Yamada đến muộn nhỉ. Chẳng phải là tụi mình nên gọi điện thoại cho cậu ấy xem sao à?\n1. Ừ, tụi mình làm vậy đi.\n2. Chuyện đó đã không tốt rồi nhỉ.\n3. Nên đến sớm thì hơn đấy."
+    },
+    {
+      "id": 95,
+      "subId": "3番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/95.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. もう戻ることにしました。",
+          "meaning": "Tôi đã quyết định quay lại rồi.",
+          "analysis": "Sai: Dùng cho việc di chuyển địa điểm."
+        },
+        {
+          "option": "2. 元気になるといいですね。",
+          "meaning": "Mong là anh sẽ khỏe lại thì tốt nhỉ.",
+          "analysis": "Sai: Đây là câu chúc người khác mau khỏi bệnh."
+        },
+        {
+          "option": "3. おかげさまで、もうすっかり。",
+          "meaning": "Nhờ có chị hỏi thăm, tôi đã khỏe hẳn rồi ạ.",
+          "analysis": "ĐÚNG: Mẫu câu lịch sự chuẩn mực để đáp lại lời hỏi thăm sức khỏe sau ốm ('おかげさまで、もうすっかり')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「森田さん、風邪はどうですか？調子は戻りましたか？→ 3. おかげさまで、もうすっかり。」",
+      "explanation": "Đáp án đúng là 3 (おかげさまで、もうすっかり).\n- Lời thoại: Được hỏi thăm bệnh tình: 「森田さん、風邪はどうですか？調子は戻りましたか？」 (Anh Morita, bệnh cảm thế nào rồi, sức khỏe đã hồi phục chưa?).\n- Đáp lại lịch sự: 「おかげさまで、もうすっかり。」 (Cảm ơn chị đã hỏi thăm, nhờ trời tôi đã khỏi hẳn rồi ạ).",
+      "scriptJp": "<p><ruby>森田<rt>もりた</rt></ruby>さん、<ruby>風邪<rt>かぜ</rt></ruby>はどうですか？<ruby>調子<rt>ちょうし</rt></ruby>は<ruby>戻<rt>もど</rt></ruby>りましたか？<br>1. もう<ruby>戻<rt>もど</rt></ruby>ることにしました。<br>2. <ruby>元気<rt>げんき</rt></ruby>になるといいですね。<br><strong>3. おかげさまで、もうすっかり。</strong></p>",
+      "scriptVi": "Nữ: Anh Morita ơi, bệnh cảm cúm của anh thế nào rồi ạ? Sức khỏe của anh đã hồi phục lại chưa ạ?\n1. Tôi đã quyết định quay trở lại rồi.\n2. Mong là sẽ khỏe lại thì tốt nhỉ.\n3. Nhờ có chị hỏi thăm, tôi đã khỏi hẳn rồi ạ."
+    },
+    {
+      "id": 96,
+      "subId": "4番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/96.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 今、あまり欲しくないな。",
+          "meaning": "Bây giờ tớ không muốn mua lắm.",
+          "analysis": "Sai: Đối phương rủ đi cùng chứ không bảo mình phải mua đồ."
+        },
+        {
+          "option": "2. 明日なら暇なんだけど。",
+          "meaning": "Nếu là ngày mai thì tớ rảnh đấy.",
+          "analysis": "ĐÚNG: Khéo léo từ chối hôm nay và gợi ý hẹn sang ngày mai vì ngày mai mình rảnh rỗi ('明日なら暇なんだけど')."
+        },
+        {
+          "option": "3. 一緒に行ってもらったらどう？",
+          "meaning": "Cậu thử nhờ ai đó đi cùng xem thế nào?",
+          "analysis": "Sai: Không tự nhiên khi bạn đang trực tiếp nhờ mình."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「服を買いに行きたいんだけど、今日一緒に行ってくれない？→ 2. 明日なら暇なんだけど。」",
+      "explanation": "Đáp án đúng là 2 (明日なら暇なんだけど).\n- Lời thoại: Rủ đi mua sắm: 「服を買いに行きたいんだけど、今日一緒に行ってくれない？」 (Tớ muốn đi mua quần áo, hôm nay cậu đi cùng tớ được không?).\n- Khéo hẹn sang mai: 「明日なら暇なんだけど。」 (Hôm nay thì bận, nhưng nếu là ngày mai thì tớ rảnh đấy).",
+      "scriptJp": "<p><ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きたいんだけど、<ruby>今日<rt>きょう</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってくれない？<br>1. <ruby>今<rt>いま</rt></ruby>、あまり<ruby>欲<rt>ほ</rt></ruby>しくないな。<br><strong>2. <ruby>明日<rt>あした</rt></ruby>なら<ruby>暇<rt>ひま</rt></ruby>なんだけど。</strong><br>3. <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってもらったらどう？</p>",
+      "scriptVi": "Nam: Tớ muốn đi mua quần áo, hôm nay cậu có thể đi cùng với tớ được không?\n1. Bây giờ tớ không muốn mua lắm.\n2. Nếu là ngày mai thì tớ rảnh đấy.\n3. Cậu thử nhờ ai đó đi cùng xem thế nào?"
+    },
+    {
+      "id": 97,
+      "subId": "5番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/97.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. 報告、やっと完成したんですか？",
+          "meaning": "Báo cáo cuối cùng cũng hoàn thành rồi ạ?",
+          "analysis": "Sai: Hỏi ngược lại người đi kiểm tra mình."
+        },
+        {
+          "option": "2. あ、できたので見ていただけますか？",
+          "meaning": "A, em viết xong rồi, anh có thể xem qua giúp em được không ạ?",
+          "analysis": "ĐÚNG: Xác nhận báo cáo đã hoàn thành và nhờ cấp trên/đồng nghiệp xem qua ('見ていただけますか')."
+        },
+        {
+          "option": "3. 会議ならもう終わったみたいですよ。",
+          "meaning": "Nếu là cuộc họp thì dường như đã kết thúc rồi đấy ạ.",
+          "analysis": "Sai: Người ta hỏi viết xong báo cáo chưa chứ không hỏi cuộc họp."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「佐藤さん、昨日の会議の報告、書き終わった？→ 2. あ、できたので見ていただけますか？」",
+      "explanation": "Đáp án đúng là 2 (あ、できたので見ていただけますか？).\n- Lời thoại: Được hỏi tiến độ: 「佐藤さん、昨日の会議の報告、書き終わった？」 (Satou ơi, báo cáo cuộc họp hôm qua viết xong chưa?).\n- Xác nhận và nhờ xem: 「あ、できたので見ていただけますか？」 (A, em làm xong rồi, anh xem qua giúp em được không ạ?).",
+      "scriptJp": "<p><ruby>佐藤<rt>さとう</rt></ruby>さん、<ruby>昨日<rt>きのう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>、<ruby>書<rt>か</rt></ruby>き<ruby>終<rt>お</rt></ruby>わった？<br>1. <ruby>報告<rt>ほうこく</rt></ruby>、やっと<ruby>完成<rt>かんせい</rt></ruby>したんですか？<br><strong>2. あ、できたので<ruby>見<rt>み</rt></ruby>ていただけますか？</strong><br>3. <ruby>会議<rt>かいぎ</rt></ruby>ならもう<ruby>終<rt>お</rt></ruby>わったみたいですよ。</p>",
+      "scriptVi": "Nam: Satou ơi, bản báo cáo cuộc họp hôm qua cậu đã viết xong chưa?\n1. Báo cáo cuối cùng cũng hoàn thành rồi ạ?\n2. A, em viết xong rồi, anh có thể xem qua giúp em được không ạ?\n3. Nếu là cuộc họp thì dường như đã kết thúc rồi đấy ạ."
+    },
+    {
+      "id": 98,
+      "subId": "6番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/98.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. いつ連絡取ったの？",
+          "meaning": "Em đã liên lạc khi nào thế?",
+          "analysis": "Sai: Hậu bối đang hỏi xin số để liên lạc chứ chưa liên lạc."
+        },
+        {
+          "option": "2. メールアドレスでいい？",
+          "meaning": "Địa chỉ email thì có được không em?",
+          "analysis": "ĐÚNG: Tiền bối hỏi lại xem cho địa chỉ email có được không để giúp hậu bối liên lạc ('メールアドレスでいい？')."
+        },
+        {
+          "option": "3. 会って聞いてみたら？",
+          "meaning": "Em gặp trực tiếp rồi hỏi xem sao?",
+          "analysis": "Sai: Đang muốn gặp mà không có thông tin liên lạc."
+        }
+      ],
+      "answer": 1,
+      "evidence": "「先輩、田中さんに会いたいんですが、連絡先をご存じですか？→ 2. メールアドレスでいい？」",
+      "explanation": "Đáp án đúng là 2 (メールアドレスでいい？).\n- Lời thoại: Hỏi xin thông tin liên lạc: 「先輩、田中さんに会いたいんですが、連絡先をご存じですか？」 (Tiền bối ơi, anh có biết thông tin liên lạc của anh Tanaka không ạ?).\n- Tiền bối hỗ trợ: 「メールアドレスでいい？」 (Cho địa chỉ email có được không em?).",
+      "scriptJp": "<p><ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby>さんに<ruby>会<rt>あ</rt></ruby>いたいんですが、<ruby>連絡先<rt>れんらくさき</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby>じですか？<br>1. いつ<ruby>連絡<rt>れんらく</rt></ruby><ruby>取<rt>と</rt></ruby>ったの？<br><strong>2. メールアドレスでいい？</strong><br>3. <ruby>会<rt>あ</rt></ruby>って<ruby>聞<rt>き</rt></ruby>いてみたら？</p>",
+      "scriptVi": "Nam: Tiền bối ơi, em muốn gặp anh Tanaka, anh có biết thông tin liên lạc của anh ấy không ạ?\n1. Em đã liên lạc lúc nào thế?\n2. Địa chỉ email thì có được không em?\n3. Em thử gặp trực tiếp rồi hỏi xem sao?"
+    },
+    {
+      "id": 99,
+      "subId": "7番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/99.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. いいえ、違いますけど。",
+          "meaning": "Dạ không, không phải tôi đâu ạ.",
+          "analysis": "ĐÚNG: Trả lời phủ nhận đúng mực khi bị người khác hiểu nhầm mình là nhân viên cửa hàng ('いいえ、違いますけど')."
+        },
+        {
+          "option": "2. それは分かりません。",
+          "meaning": "Chuyện đó thì tôi không biết.",
+          "analysis": "Sai: Mình có phải nhân viên không thì bản thân phải biết."
+        },
+        {
+          "option": "3. 私はよく来ています。",
+          "meaning": "Tôi rất hay đến đây.",
+          "analysis": "Sai: Không trả lời trực tiếp cho câu hỏi có phải nhân viên không."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「失礼ですが、こちらのお店の者でいらっしゃいますか？→ 1. いいえ、違いますけど。」",
+      "explanation": "Đáp án đúng là 1 (いいえ、違いますけど).\n- Lời thoại: Bị hỏi nhầm: 「失礼ですが、こちらのお店の者でいらっしゃいますか？」 (Xin lỗi, có phải anh là nhân viên của quán này không ạ?).\n- Phủ nhận: 「いいえ、違いますけど。」 (Dạ không, tôi không phải nhân viên ở đây đâu ạ).",
+      "scriptJp": "<p><ruby>失礼<rt>しつれい</rt></ruby>ですが、こちらのサロン（お<ruby>店<rt>みせ</rt></ruby>）の<ruby>者<rt>もの</rt></ruby>でいらっしゃいますか？<br><strong>1. いいえ、<ruby>違<rt>ちが</rt></ruby>いますけど。</strong><br>2. それは<ruby>分<rt>わ</rt></ruby>かりません。<br>3. <ruby>私<rt>わたし</rt></ruby>はよく<ruby>来<rt>き</rt></ruby>ています。</p>",
+      "scriptVi": "Nam: Xin thất lễ, có phải anh/chị là nhân viên/người của cửa hàng này không ạ?\n1. Dạ không, không phải tôi đâu ạ.\n2. Chuyện đó thì tôi không biết.\n3. Tôi rất hay đến đây."
+    },
+    {
+      "id": 100,
+      "subId": "8番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/100.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. つい…… これから気をつけます。",
+          "meaning": "Tớ lỡ miệng... Từ nay về sau tớ sẽ cẩn thận hơn.",
+          "analysis": "ĐÚNG: Nhận lỗi vì đã lỡ lời với cấp trên và hứa từ nay sẽ cẩn thận chú ý lời ăn tiếng nói ('これから気をつけます')."
+        },
+        {
+          "option": "2. 確かに私も意外でした。",
+          "meaning": "Đúng thật tôi cũng thấy bất ngờ.",
+          "analysis": "Sai: Tự mình nói lời xúc phạm mà lại bảo bất ngờ khi sếp giận."
+        },
+        {
+          "option": "3. 部長は怒ってないんですか？",
+          "meaning": "Trưởng phòng không nổi giận sao ạ?",
+          "analysis": "Sai: Người ta vừa khẳng định Trưởng phòng nổi giận là đương nhiên."
+        }
+      ],
+      "answer": 0,
+      "evidence": "「田中さん、部長にあんなこと言って、部長が怒るのも当たり前だよ。→ 1. つい…… これから気をつけます。」",
+      "explanation": "Đáp án đúng là 1 (つい…… これから気をつけます).\n- Lời thoại: Bị nhắc nhở: 「田中さん、部長にあんなこと言って、部長が怒るのも当たり前だよ。」 (Tanaka ơi, nói thế với sếp thì sếp giận là đương nhiên rồi).\n- Nhận lỗi: 「つい…… これから気をつけます。」 (Tớ lỡ miệng... Từ giờ tớ sẽ cẩn thận hơn).",
+      "scriptJp": "<p><ruby>田中<rt>たなか</rt></ruby>さん、<ruby>部長<rt>ぶちょう</rt></ruby>にあんなこと<ruby>言<rt>い</rt></ruby>って、<ruby>部長<rt>ぶちょう</rt></ruby>が<ruby>怒<rt>おこ</rt></ruby>るのも<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>だよ。<br><strong>1. つい…… これから<ruby>気<rt>き</rt></ruby>をつけます。</strong><br>2. <ruby>確<rt>たし</rt></ruby>かに<ruby>私<rt>わたし</rt></ruby>も<ruby>意外<rt>いがい</rt></ruby>でした。<br>3. <ruby>部長<rt>ぶちょう</rt></ruby>は<ruby>怒<rt>おこ</rt></ruby>ってないんですか？</p>",
+      "scriptVi": "Nam: Tanaka này, cậu nói những lời như thế với Trưởng phòng thì việc Trưởng phòng nổi giận là đương nhiên thôi.\n1. Tớ lỡ lời... Từ nay về sau tớ sẽ cẩn thận hơn.\n2. Đúng thật, tôi cũng thấy bất ngờ.\n3. Trưởng phòng không nổi giận sao ạ?"
+    },
+    {
+      "id": 101,
+      "subId": "9番",
+      "audioSrc": "assets/audio/choukai/n3/nghe_phanxa/bai4/101.mp3",
+      "question": "",
+      "questionVi": "",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "optionsAnalysis": [
+        {
+          "option": "1. え？もう並べてあるの？",
+          "meaning": "Hả? Đã bày sẵn ra rồi á?",
+          "analysis": "Sai: Đối phương mới đang đề xuất chuẩn bị bày thức ăn ra."
+        },
+        {
+          "option": "2. え？始まってからだと遅いよ。",
+          "meaning": "Hả? Bắt đầu rồi mới làm thì muộn đấy.",
+          "analysis": "Sai: Người nói cũng đang muốn bày trước."
+        },
+        {
+          "option": "3. え？ちょっと早くない？",
+          "meaning": "Hả? Bày trước 1 tiếng như thế có hơi sớm quá không?",
+          "analysis": "ĐÚNG: Băn khoăn khi bạn đề nghị bày sẵn thức ăn trước bữa tiệc tận 1 tiếng đồng hồ ('ちょっと早くない？')."
+        }
+      ],
+      "answer": 2,
+      "evidence": "「あと1時間でパーティー始まるから、もう料理並べとこうか。→ 3. え？ちょっと早くない？」",
+      "explanation": "Đáp án đúng là 3 (え？ちょっと早くない？).\n- Lời thoại: Đề xuất bày món: 「あと1時間でパーティー始まるから、もう料理並べとこうか。」 (Còn 1 tiếng nữa tiệc bắt đầu, bày thức ăn sẵn ra nhé?).\n- Băn khoăn: 「え？ちょっと早くない？」 (Hả? Bày trước cả tiếng như thế có hơi sớm quá không?).",
+      "scriptJp": "<p>あと1<ruby>時間<rt>じかん</rt></ruby>でパーティー<ruby>始<rt>はじ</rt></ruby>まるから、もう<ruby>料理<rt>りょうり</rt></ruby><ruby>並<rt>なら</rt></ruby>べとこうか。<br>1. え？もう<ruby>並<rt>なら</rt></ruby>べてあるの？<br>2. え？<ruby>始<rt>はじ</rt></ruby>まってからだと<ruby>遅<rt>おそ</rt></ruby>いよ。<br><strong>3. え？ちょっと<ruby>早<rt>はや</rt></ruby>くない？</strong></p>",
+      "scriptVi": "Nam: Còn 1 tiếng nữa là tiệc bắt đầu rồi, hay là tụi mình bày sẵn đồ ăn ra trước nhé.\n1. Hả? Đã bày sẵn ra rồi á?\n2. Hả? Đợi tiệc bắt đầu rồi mới bày thì muộn đấy.\n3. Hả? Có hơi sớm quá không?"
+    }
+  ]
+}
