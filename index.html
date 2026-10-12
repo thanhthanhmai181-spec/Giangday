@@ -15,7 +15,7 @@
     <!-- FontAwesome Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="styles.css?v=2133">
+    <link rel="stylesheet" href="styles.css?v=2134">
 </head>
 <body>
     <div class="bg-overlay" id="animated-bg"></div>
@@ -612,7 +612,20 @@
                         </div>
                     </div>
 
-                    <div class="dokkai-layout" id="dokkai-content-area">
+                    <!-- Mobile Dokkai View Switcher (Visible on Mobile <= 768px) -->
+                    <div class="dokkai-mobile-view-switcher" id="dokkai-mobile-view-switcher">
+                        <button type="button" class="dokkai-view-tab-btn active" data-view="passage" id="btn-dokkai-view-passage">
+                            <i class="fa-solid fa-book-open"></i> <span>Bài Đọc</span>
+                        </button>
+                        <button type="button" class="dokkai-view-tab-btn" data-view="questions" id="btn-dokkai-view-questions">
+                            <i class="fa-solid fa-clipboard-question"></i> <span>Câu Hỏi (<span id="dokkai-q-count">0</span>)</span>
+                        </button>
+                        <button type="button" class="dokkai-view-tab-btn" data-view="split" id="btn-dokkai-view-split">
+                            <i class="fa-solid fa-table-columns"></i> <span>Xem Cả Hai</span>
+                        </button>
+                    </div>
+
+                    <div class="dokkai-layout dokkai-mode-passage" id="dokkai-content-area">
                         <!-- Reading Passage Container -->
                         <div class="dokkai-passage glass-panel">
                 <h2 class="panel-title" id="dokkai-title">Bài Đọc Hiểu</h2>
@@ -630,6 +643,36 @@
                         <!-- Questions Container -->
                         <div class="dokkai-questions glass-panel" id="dokkai-questions-container">
                             <!-- Rendered via JS -->
+                        </div>
+                    </div>
+
+                    <!-- Floating Quick Passage Viewer Button (Visible on mobile in Questions mode) -->
+                    <button type="button" class="dokkai-floating-passage-btn" id="dokkai-floating-passage-btn" title="Xem nhanh nội dung bài đọc">
+                        <i class="fa-solid fa-book-open"></i>
+                        <span>Xem Bài Đọc</span>
+                    </button>
+
+                    <!-- Quick Passage Modal / Bottom Sheet -->
+                    <div id="dokkai-passage-modal" class="dokkai-passage-modal">
+                        <div class="dokkai-passage-modal-backdrop" id="dokkai-passage-modal-backdrop"></div>
+                        <div class="dokkai-passage-modal-container glass-panel">
+                            <div class="dokkai-passage-modal-header">
+                                <div class="modal-header-title">
+                                    <i class="fa-solid fa-book-open text-neon-cyan"></i>
+                                    <span id="dokkai-modal-passage-title">Nội Dung Bài Đọc</span>
+                                </div>
+                                <button type="button" class="dokkai-modal-close-btn" id="btn-close-passage-modal" title="Đóng bài đọc">
+                                    <i class="fa-solid fa-xmark"></i>
+                                </button>
+                            </div>
+                            <div class="dokkai-passage-modal-body furigana-enabled" id="dokkai-modal-passage-body">
+                                <!-- Rendered via JS -->
+                            </div>
+                            <div class="dokkai-passage-modal-footer">
+                                <button type="button" class="btn-primary" id="btn-modal-back-to-questions" style="width: 100%; justify-content: center; display: flex; align-items: center; gap: 0.5rem;">
+                                    <i class="fa-solid fa-check"></i> Đã hiểu, quay lại làm câu hỏi
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </section>
@@ -889,10 +932,10 @@
         <span class="fab-label">MENU</span>
     </button>
 
-    <script src="grammar_explanations.js?v=2133"></script>
-    <script src="script.js?v=2133"></script>
-    <script src="class_tracking.js?v=2133"></script>
-    <script src="dokkai.js?v=2133"></script>
-    <script src="choukai.js?v=2133"></script>
+    <script src="grammar_explanations.js?v=2134"></script>
+    <script src="script.js?v=2134"></script>
+    <script src="class_tracking.js?v=2134"></script>
+    <script src="dokkai.js?v=2134"></script>
+    <script src="choukai.js?v=2134"></script>
 </body>
 </html>

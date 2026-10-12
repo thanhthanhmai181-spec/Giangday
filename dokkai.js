@@ -7860,7 +7860,56 @@ function initDokkai() {
     let currentLessonIndex = 0;
     let currentFilter = 'all'; // 'all', 'done', 'undone'
     let timerInterval = null;
-    let timerSeconds = 0;
+    let currentMobileView = 'passage'; // 'passage', 'questions', 'split'
+
+    function setMobileView(mode) {
+        currentMobileView = mode;
+        const contentArea = document.getElementById('dokkai-content-area');
+        const switcherBtns = document.querySelectorAll('#dokkai-mobile-view-switcher .dokkai-view-tab-btn');
+        const floatingBtn = document.getElementById('dokkai-floating-passage-btn');
+
+        if (contentArea) {
+            contentArea.classList.remove('dokkai-mode-passage', 'dokkai-mode-questions', 'dokkai-mode-split');
+            contentArea.classList.add(`dokkai-mode-${mode}`);
+        }
+
+        switcherBtns.forEach(btn => {
+            if (btn.dataset.view === mode) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+
+        if (floatingBtn) {
+            if (mode === 'questions') {
+                floatingBtn.classList.add('visible');
+            } else {
+                floatingBtn.classList.remove('visible');
+            }
+        }
+    }
+
+    function openPassageModal() {
+        const modal = document.getElementById('dokkai-passage-modal');
+        const modalTitle = document.getElementById('dokkai-modal-passage-title');
+        const modalBody = document.getElementById('dokkai-modal-passage-body');
+        const lessons = getSortedLessons();
+        const lesson = lessons[currentLessonIndex];
+        if (!modal || !lesson) return;
+
+        if (modalTitle) modalTitle.textContent = `Bài ${lesson.lessonNumber || (currentLessonIndex + 1)}: ${lesson.title}`;
+        if (modalBody) modalBody.innerHTML = `<div class="dokkai-passage-body">${lesson.passage}</div>`;
+
+        modal.classList.add('active');
+        document.body.classList.add('dokkai-modal-open');
+    }
+
+    function closePassageModal() {
+        const modal = document.getElementById('dokkai-passage-modal');
+        if (modal) modal.classList.remove('active');
+        document.body.classList.remove('dokkai-modal-open');
+    }
 
     // Load completed lessons from localStorage
     const getCompletedList = () => {
@@ -8037,10 +8086,22 @@ function initDokkai() {
             }
         }
 
+        // Update question count badge in mobile switcher
+        const qCountEl = document.getElementById('dokkai-q-count');
+        if (qCountEl) qCountEl.textContent = (lesson.questions && lesson.questions.length) ? lesson.questions.length : 0;
+
         // Render Passage Content
         passageContainer.innerHTML = `
             <div class="dokkai-passage-body">
                 ${lesson.passage}
+            </div>
+
+            <!-- Mobile Action: Go to Questions -->
+            <div class="dokkai-passage-bottom-actions">
+                <button type="button" class="btn-primary dokkai-goto-questions-btn" id="btn-goto-questions">
+                    <i class="fa-solid fa-clipboard-question"></i>
+                    <span>Làm Câu Hỏi Ngay (${lesson.questions ? lesson.questions.length : 0} câu) ➔</span>
+                </button>
             </div>
 
             <!-- Extra Tools: Translation & Vocab -->
@@ -8066,6 +8127,18 @@ function initDokkai() {
                 </div>
             </div>
         `;
+
+        // Action button to jump to questions
+        const gotoQBtn = document.getElementById('btn-goto-questions');
+        if (gotoQBtn) {
+            gotoQBtn.onclick = () => {
+                setMobileView('questions');
+                const questionsEl = document.getElementById('dokkai-questions-container');
+                if (questionsEl) {
+                    questionsEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            };
+        }
 
         // Render Highlighter Tools
         highlightTools.innerHTML = `
@@ -8124,12 +8197,17 @@ function initDokkai() {
             blank.addEventListener('click', () => {
                 const qid = blank.dataset.qid;
                 if (!qid) return;
-                const targetCard = document.getElementById(`dokkai-qcard-${qid}`);
-                if (targetCard) {
-                    targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    targetCard.classList.add('highlight-focus');
-                    setTimeout(() => targetCard.classList.remove('highlight-focus'), 2500);
+                if (window.innerWidth <= 768) {
+                    setMobileView('questions');
                 }
+                setTimeout(() => {
+                    const targetCard = document.getElementById(`dokkai-qcard-${qid}`);
+                    if (targetCard) {
+                        targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        targetCard.classList.add('highlight-focus');
+                        setTimeout(() => targetCard.classList.remove('highlight-focus'), 2500);
+                    }
+                }, 120);
             });
         });
     }
@@ -8185,6 +8263,19 @@ function initDokkai() {
             <span class="dokkai-hint-badge"><i class="fa-solid fa-lightbulb"></i> Chọn đáp án để xem giải thích</span>
         `;
         questionsContainer.appendChild(headerEl);
+
+        // Quick Passage Sticky Bar for Mobile
+        const quickBar = document.createElement('div');
+        quickBar.className = 'dokkai-questions-quick-passage-bar';
+        quickBar.innerHTML = `
+            <div class="quick-bar-left">
+                <i class="fa-solid fa-book-open text-neon-cyan"></i>
+                <span>Xem nhanh nội dung bài đọc</span>
+            </div>
+            <i class="fa-solid fa-up-right-from-square quick-bar-icon"></i>
+        `;
+        quickBar.addEventListener('click', openPassageModal);
+        questionsContainer.appendChild(quickBar);
 
         lesson.questions.forEach((q, qIndex) => {
             const qCard = document.createElement('div');
@@ -8447,7 +8538,56 @@ function initDokkai() {
         });
     });
 
+    // ── Mobile View Switcher & Quick Passage Modal Event Listeners ──────────
+    const switcherBtns = document.querySelectorAll('#dokkai-mobile-view-switcher .dokkai-view-tab-btn');
+    switcherBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const viewMode = btn.dataset.view || 'passage';
+            setMobileView(viewMode);
+        });
+    });
+
+    const floatingPassageBtn = document.getElementById('dokkai-floating-passage-btn');
+    if (floatingPassageBtn) {
+        floatingPassageBtn.addEventListener('click', openPassageModal);
+    }
+
+    const closePassageModalBtn = document.getElementById('btn-close-passage-modal');
+    if (closePassageModalBtn) {
+        closePassageModalBtn.addEventListener('click', closePassageModal);
+    }
+
+    const backdropPassageModal = document.getElementById('dokkai-passage-modal-backdrop');
+    if (backdropPassageModal) {
+        backdropPassageModal.addEventListener('click', closePassageModal);
+    }
+
+    const backToQuestionsBtn = document.getElementById('btn-modal-back-to-questions');
+    if (backToQuestionsBtn) {
+        backToQuestionsBtn.addEventListener('click', closePassageModal);
+    }
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            closePassageModal();
+        }
+    });
+
+    window.addEventListener('resize', () => {
+        if (window.innerWidth > 768) {
+            const contentArea = document.getElementById('dokkai-content-area');
+            if (contentArea) contentArea.classList.remove('dokkai-mode-passage', 'dokkai-mode-questions', 'dokkai-mode-split');
+        } else {
+            setMobileView(currentMobileView || 'passage');
+        }
+    });
+
     // Initial render
     renderLessonTabs();
     renderDokkaiLesson();
+
+    // Default to 'passage' view on mobile
+    if (window.innerWidth <= 768) {
+        setMobileView('passage');
+    }
 }
