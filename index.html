@@ -2,7 +2,11 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+    <meta name="theme-color" content="#0a0a0f">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Nihongo Sensei - Nền Tảng Giảng Dạy Tiếng Nhật</title>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,13 +15,15 @@
     <!-- FontAwesome Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="styles.css?v=83">
+    <link rel="stylesheet" href="styles.css?v=2133">
 </head>
 <body>
     <div class="bg-overlay" id="animated-bg"></div>
     <div id="sakura-container"></div>
 
     <div class="app-container" id="app-container">
+        <!-- Sidebar Backdrop for Mobile/Tablet -->
+        <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
         <!-- Sidebar -->
         <aside class="sidebar" id="sidebar">
             <button class="sidebar-collapse-btn" id="sidebar-collapse-btn" title="Thu gon thanh dieu huong">
@@ -883,10 +889,10 @@
         <span class="fab-label">MENU</span>
     </button>
 
-    <script src="grammar_explanations.js?v=2131"></script>
-    <script src="script.js?v=2131"></script>
-    <script src="class_tracking.js?v=2131"></script>
-    <script src="dokkai.js?v=2131"></script>
-    <script src="choukai.js?v=2131"></script>
+    <script src="grammar_explanations.js?v=2133"></script>
+    <script src="script.js?v=2133"></script>
+    <script src="class_tracking.js?v=2133"></script>
+    <script src="dokkai.js?v=2133"></script>
+    <script src="choukai.js?v=2133"></script>
 </body>
 </html>

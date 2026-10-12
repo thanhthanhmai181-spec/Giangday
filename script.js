@@ -12466,6 +12466,32 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
+        // Touch Swipe gestures for Grammar Presentation Overlay on mobile/tablet
+        if (presentationOverlay) {
+            let touchStartX = 0;
+            let touchStartY = 0;
+            presentationOverlay.addEventListener('touchstart', (e) => {
+                if (e.touches && e.touches.length === 1) {
+                    touchStartX = e.touches[0].clientX;
+                    touchStartY = e.touches[0].clientY;
+                }
+            }, { passive: true });
+
+            presentationOverlay.addEventListener('touchend', (e) => {
+                if (e.changedTouches && e.changedTouches.length === 1) {
+                    const diffX = e.changedTouches[0].clientX - touchStartX;
+                    const diffY = e.changedTouches[0].clientY - touchStartY;
+                    if (Math.abs(diffX) > 40 && Math.abs(diffX) > Math.abs(diffY) * 1.4) {
+                        if (diffX < 0) {
+                            nextGrammarSlide();
+                        } else {
+                            prevGrammarSlide();
+                        }
+                    }
+                }
+            }, { passive: true });
+        }
+
         renderGrammarList('N5');
     }
 
@@ -12483,6 +12509,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 const targetEl = document.getElementById(target);
                 if(targetEl) targetEl.classList.add('active');
             }
+            // Auto close sidebar on mobile and tablet after selecting a view
+            if (window.innerWidth <= 1024) {
+                toggleSidebar(true);
+            }
         });
     });
 
@@ -12492,6 +12522,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const appContainer = document.getElementById('app-container');
         const openFab = document.getElementById('sidebar-open-fab');
         const collapseIcon = document.getElementById('sidebar-collapse-icon');
+        const backdrop = document.getElementById('sidebar-backdrop');
         if (!sidebar) return;
 
         const isCurrentlyCollapsed = sidebar.classList.contains('collapsed');
@@ -12505,6 +12536,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 collapseIcon.classList.remove('fa-chevron-left');
                 collapseIcon.classList.add('fa-chevron-right');
             }
+            if (backdrop) backdrop.classList.remove('active');
         } else {
             sidebar.classList.remove('collapsed');
             if (appContainer) appContainer.classList.remove('sidebar-collapsed');
@@ -12513,11 +12545,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 collapseIcon.classList.remove('fa-chevron-right');
                 collapseIcon.classList.add('fa-chevron-left');
             }
+            // Show backdrop on mobile/tablet (<= 1024px)
+            if (backdrop && window.innerWidth <= 1024) {
+                backdrop.classList.add('active');
+            }
         }
 
         try {
             localStorage.setItem('sidebar_collapsed_state', shouldCollapse ? 'true' : 'false');
         } catch(e) {}
+    }
+
+    // Backdrop click closes sidebar on mobile/tablet
+    const sidebarBackdrop = document.getElementById('sidebar-backdrop');
+    if (sidebarBackdrop) {
+        sidebarBackdrop.addEventListener('click', () => {
+            toggleSidebar(true);
+        });
     }
 
     const sidebarCollapseBtn = document.getElementById('sidebar-collapse-btn');
@@ -12551,8 +12595,18 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // Handle screen resize across tablet breakpoint
+    window.addEventListener('resize', () => {
+        if (window.innerWidth > 1024) {
+            const backdrop = document.getElementById('sidebar-backdrop');
+            if (backdrop) backdrop.classList.remove('active');
+        }
+    });
+
+    // On initial load: default to collapsed on mobile/tablet unless explicitly opened
     try {
-        if (localStorage.getItem('sidebar_collapsed_state') === 'true') {
+        const savedState = localStorage.getItem('sidebar_collapsed_state');
+        if (savedState === 'true' || (savedState === null && window.innerWidth <= 1024)) {
             toggleSidebar(true);
         }
     } catch(e) {}
