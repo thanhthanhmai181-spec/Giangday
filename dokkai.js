@@ -7866,7 +7866,6 @@ function initDokkai() {
         currentMobileView = mode;
         const contentArea = document.getElementById('dokkai-content-area');
         const switcherBtns = document.querySelectorAll('#dokkai-mobile-view-switcher .dokkai-view-tab-btn');
-        const floatingBtn = document.getElementById('dokkai-floating-passage-btn');
 
         if (contentArea) {
             contentArea.classList.remove('dokkai-mode-passage', 'dokkai-mode-questions', 'dokkai-mode-split');
@@ -7880,35 +7879,6 @@ function initDokkai() {
                 btn.classList.remove('active');
             }
         });
-
-        if (floatingBtn) {
-            if (mode === 'questions') {
-                floatingBtn.classList.add('visible');
-            } else {
-                floatingBtn.classList.remove('visible');
-            }
-        }
-    }
-
-    function openPassageModal() {
-        const modal = document.getElementById('dokkai-passage-modal');
-        const modalTitle = document.getElementById('dokkai-modal-passage-title');
-        const modalBody = document.getElementById('dokkai-modal-passage-body');
-        const lessons = getSortedLessons();
-        const lesson = lessons[currentLessonIndex];
-        if (!modal || !lesson) return;
-
-        if (modalTitle) modalTitle.textContent = `Bài ${lesson.lessonNumber || (currentLessonIndex + 1)}: ${lesson.title}`;
-        if (modalBody) modalBody.innerHTML = `<div class="dokkai-passage-body">${lesson.passage}</div>`;
-
-        modal.classList.add('active');
-        document.body.classList.add('dokkai-modal-open');
-    }
-
-    function closePassageModal() {
-        const modal = document.getElementById('dokkai-passage-modal');
-        if (modal) modal.classList.remove('active');
-        document.body.classList.remove('dokkai-modal-open');
     }
 
     // Load completed lessons from localStorage
@@ -8264,19 +8234,6 @@ function initDokkai() {
         `;
         questionsContainer.appendChild(headerEl);
 
-        // Quick Passage Sticky Bar for Mobile
-        const quickBar = document.createElement('div');
-        quickBar.className = 'dokkai-questions-quick-passage-bar';
-        quickBar.innerHTML = `
-            <div class="quick-bar-left">
-                <i class="fa-solid fa-book-open text-neon-cyan"></i>
-                <span>Xem nhanh nội dung bài đọc</span>
-            </div>
-            <i class="fa-solid fa-up-right-from-square quick-bar-icon"></i>
-        `;
-        quickBar.addEventListener('click', openPassageModal);
-        questionsContainer.appendChild(quickBar);
-
         lesson.questions.forEach((q, qIndex) => {
             const qCard = document.createElement('div');
             qCard.className = 'dokkai-qcard glass-panel';
@@ -8545,32 +8502,6 @@ function initDokkai() {
             const viewMode = btn.dataset.view || 'passage';
             setMobileView(viewMode);
         });
-    });
-
-    const floatingPassageBtn = document.getElementById('dokkai-floating-passage-btn');
-    if (floatingPassageBtn) {
-        floatingPassageBtn.addEventListener('click', openPassageModal);
-    }
-
-    const closePassageModalBtn = document.getElementById('btn-close-passage-modal');
-    if (closePassageModalBtn) {
-        closePassageModalBtn.addEventListener('click', closePassageModal);
-    }
-
-    const backdropPassageModal = document.getElementById('dokkai-passage-modal-backdrop');
-    if (backdropPassageModal) {
-        backdropPassageModal.addEventListener('click', closePassageModal);
-    }
-
-    const backToQuestionsBtn = document.getElementById('btn-modal-back-to-questions');
-    if (backToQuestionsBtn) {
-        backToQuestionsBtn.addEventListener('click', closePassageModal);
-    }
-
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-            closePassageModal();
-        }
     });
 
     window.addEventListener('resize', () => {
